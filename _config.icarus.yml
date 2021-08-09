@@ -161,7 +161,7 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: disqus
+    type: facebook
     # Disqus shortname
     shortname: ''
 # Donate plugin configurations

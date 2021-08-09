@@ -5,7 +5,7 @@ keywords: null
 author: Thiện Nguyễn
 language: vn
 timezone: ''
-# url: url
+url: https://thiennguyen-blog.netlify.app
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:

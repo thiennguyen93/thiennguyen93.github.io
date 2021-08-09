@@ -125,9 +125,9 @@ footer:
         Attribution 4.0 International:
             icon: fab fa-creative-commons-by
             url: 'https://creativecommons.org/licenses/by/4.0/'
-        Download on GitHub:
+        View Profile on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+            url: 'https://github.com/thiennguyen93'
 # Article related configurations
 article:
     # Code highlight settings
@@ -233,10 +233,7 @@ widgets:
                 url: 'https://facebook.com/thiennguyenpro'
             Twitter:
                 icon: fab fa-twitter
-                url: 'https://twitter.com'
-            Dribbble:
-                icon: fab fa-dribbble
-                url: 'https://dribbble.com'
+                url: 'https://twitter.com/thiennguyenpro'
             RSS:
                 icon: fas fa-rss
                 url: /
@@ -251,15 +248,20 @@ widgets:
         collapsed: true
         # Maximum level of headings to show (1-6)
         depth: 3
-    # Recommendation links widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: links
-        # Names and URLs of the sites
-        links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+
+
+    # # Recommendation links widget configurations
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: left
+    #     type: links
+    #     # Names and URLs of the sites
+    #     links:
+    #         Hexo: 'https://hexo.io'
+    #         Bulma: 'https://bulma.io'
+
+
+
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar

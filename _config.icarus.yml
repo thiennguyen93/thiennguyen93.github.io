@@ -304,15 +304,15 @@ widgets:
         description: 
         # Feedburner ID
         feedburner_id: ''
-    # Google AdSense unit configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: adsense
-        # AdSense client ID
-        client_id: ''
-        # AdSense AD unit ID
-        slot_id: ''
+    # # Google AdSense unit configurations
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: left
+    #     type: adsense
+    #     # AdSense client ID
+    #     client_id: ''
+    #     # AdSense AD unit ID
+    #     slot_id: ''
     # Follow.it email subscription widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -333,12 +333,12 @@ plugins:
     back_to_top: true
     # Baidu Analytics plugin settings
     # https://tongji.baidu.com
-    baidu_analytics:
+    baidu_analytics: false
         # Baidu Analytics tracking ID
         tracking_id: 
     # Bing Webmaster Tools plugin settings
     # https://www.bing.com/toolbox/webmaster/
-    bing_webmaster:
+    bing_webmaster: false
         # Bing Webmaster Tools tracking ID in the <meta> tag
         tracking_id: 
     # BuSuanZi site/page view counter
@@ -346,7 +346,7 @@ plugins:
     busuanzi: false
     # CNZZ statistics
     # https://www.umeng.com/web
-    cnzz:
+    cnzz: false
         # CNZZ tracker id
         id: 
         # CNZZ website id

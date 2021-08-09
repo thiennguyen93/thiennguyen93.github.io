@@ -105,11 +105,11 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
+        Trang chủ: /
+        Lưu trữ: /archives
+        Thể loại: /categories
+        Thẻ: /tags
+        Giới thiệu: /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:

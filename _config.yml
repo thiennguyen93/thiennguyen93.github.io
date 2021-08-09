@@ -5,7 +5,7 @@ keywords: null
 author: Thiện Nguyễn
 language: vn
 timezone: ''
-url: url
+# url: url
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:

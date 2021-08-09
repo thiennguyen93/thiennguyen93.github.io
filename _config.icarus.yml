@@ -345,14 +345,14 @@ plugins:
     gallery: true
     # Google Analytics plugin settings
     # https://analytics.google.com
-    google_analytics:
+    google_analytics: false
         # Google Analytics tracking ID
-        tracking_id: 
+        # tracking_id: 
     # Hotjar user feedback plugin
     # https://www.hotjar.com/
-    hotjar:
+    hotjar: false
         # Hotjar site id
-        site_id: 
+        # site_id: 
     # Enable the KaTeX math typesetting support
     # https://katex.org/
     katex: false
@@ -368,9 +368,9 @@ plugins:
     # https://statcounter.com/
     statcounter:
         # Statcounter project id
-        project: 
+        project: 12577343
         # Statcounter project security code
-        security: 
+        security: 027ff2d5
     # Twitter conversion tracking plugin settings
     # https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html
     twitter_conversion_tracking:

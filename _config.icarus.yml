@@ -225,27 +225,27 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Thiện Nguyễn
         # Author title
-        author_title: Your title
+        author_title: Kỹ sư phần mềm
         # Author's current location
-        location: Your location
+        location: Tp. Hồ Chí Minh, Việt Nam
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
-        gravatar: 
+        gravatar: phuocthien@outlook.com
         # URL or path for the follow button
-        follow_link: 'https://github.com/ppoffice'
+        follow_link: 'https://github.com/thiennguyen93'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/ppoffice'
+                url: 'https://github.com/thiennguyen93'
             Facebook:
                 icon: fab fa-facebook
-                url: 'https://facebook.com'
+                url: 'https://facebook.com/thiennguyenpro'
             Twitter:
                 icon: fab fa-twitter
                 url: 'https://twitter.com'

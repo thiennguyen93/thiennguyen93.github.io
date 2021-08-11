@@ -2,12 +2,13 @@
 title: Team building Vũng Tàu 2021
 date: 2021/4/25
 categories:
-- Nhật ký
+  - Nhật ký
 language: vi
 toc: false
 cover: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=800
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
 ---
+
 Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố biển Vũng Tàu nhé!!!
 
 <!-- more -->
@@ -16,7 +17,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
    <h4 class="tag is-primary">Khởi hành</h4>
    <div class="timeline">
       <article class="media">
-         <figure class="media-left image is-128x128">
+         <figure class="media-left image is-64x64">
               <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-000.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-000.jpg?w=64"></a>
           </figure>
          <div class="media-content">
@@ -29,19 +30,151 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <div class="media-content">
-            <p class="date"><time datetime="2021-04-22T08:00:00.000Z">08:00 22/04/2021</time></p>
-            <p class="title">44 Trương Công Định, TP. Vũng Tàu</p>
-            <p class="categories">
+            <p class="title"><time datetime="2021-04-22T12:30:00.000Z">12:30 22/04/2021</p>
+            <h4>44 Trương Công Định, TP. Vũng Tàu</h4>
+            <p>
               Sau nhiều tiếng đồng hồ ngồi xe, tôi và đồng bọn cũng đến nơi. Chúng tôi chọn Quán lẩu cá đuối Hoàng Minh để tập trung ăn trưa…
             </p>
          </div>
       </article>
+      <article class="media">
+         <figure class="media-left image is-64x64">
+              <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/DSC087581-min-768x512.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/DSC087581-min-768x512.jpg?w=64"></a>
+          </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-22T13:30:00.000Z">13:30 22/04/2021</time></p>
+            <h4>Villa C5 Nguyễn Cư Trinh</h4>
+            <p>
+              Đến nhận phòng tại Trần Duy Villa
+            </p>
+         </div>
+      </article>
+       <article class="media">
+         <figure class="media-left image is-64x64">
+              <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-Oc-Tu-Nhien-768x512.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-Oc-Tu-Nhien-768x512.jpg?w=64"></a>
+          </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-22T17:50:00.000Z">17:50 22/04/2021</time></p>
+            <h4>Ốc Tự nhiên, 30 đường Trần Phú</h4>
+            <p>
+              Ốc thì tôi cũng ăn vài lần rồi, nhưng món ốc ở đây có vị rất ngon. Nếu bạn có đến Vũng Tàu thì nhớ ghé quán ốc Tự nhiên này mà thử nhé.
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-Bai-Sau-768x512.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-Bai-Sau-768x512.jpg?w=64"></a>
+         </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-22T19:45:00.000Z">19:45 22/04/2020</time></p>
+            <h4>Ốc Tự nhiên, 30 đường Trần Phú</h4>
+            <p>
+            Ốc thì tôi cũng ăn vài lần rồi, nhưng món ốc ở đây có vị rất ngon. Nếu bạn có đến Vũng Tàu thì nhớ ghé quán ốc Tự nhiên này mà thử nhé.
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/team-building-vung-tau-2021-song-bai-villa-c5-min-768x511.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/team-building-vung-tau-2021-song-bai-villa-c5-min-768x511.jpg?w=64"></a>
+         </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-22T19:45:00.000Z">19:45 22/04/2020</time></p>
+            <h4>C5 Villa</h4>
+            <p>
+            Ăn chơi tự do và đi ngủ
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/team-building-vung-tau-2021-tro-choi-01-w800-768x512.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/team-building-vung-tau-2021-tro-choi-01-w800-768x512.jpg?w=64"></a>
+         </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-23T06:15:00.000Z">06:15 23/04/2021</time></p>
+            <h4>Bãi Thuỳ Vân – TP. Vũng Tàu</h4>
+            <p>
+            Ngắm bình minh trên biển và tham gia các hoạt động team building
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-23T08:45:00.000Z">08:45 23/04/2021</time></p>
+            <h4>Hủ tiếu mực Ông già Cali</h4>
+            <p>
+            Team đi ăn hủ tiếu mực 05 người, một phần 79k khá ngon
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/seaside-coffee-vung-tau-768x576.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/seaside-coffee-vung-tau-768x576.jpg?w=64"></a>
+         </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-23T09:20:00.000Z">09:20 23/04/2021</time></p>
+            <h4>Seaside Coffee – Đường Trần Phú</h4>
+            <p>
+            Quán cà phê nằm ngay trên đường Trần Phú, có view nhìn ra biển
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/Goc-cot-dien-TP-vung-tau-768x576.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/Goc-cot-dien-TP-vung-tau-768x576.jpg?w=64"></a>
+         </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-23T10:00:00.000Z">10:00 23/04/021</time></p>
+            <h4>Tiệm bánh bông lan trứng muối Gốc cột điện</h4>
+            <p>
+            Bánh ở đây mềm ngon mà hơi mắc
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/Goc-cot-dien-TP-vung-tau-768x576.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/Goc-cot-dien-TP-vung-tau-768x576.jpg?w=64"></a>
+         </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-23T12:30:00.000Z">12:30 23/04/2021</time></p>
+            <h4>Cơm Niêu Tập Tàng, 12-14 Trần Hưng Đạo</h4>
+            <p>
+            Nạp năng lượng cho lượt về
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/DSC09249-768x512.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/DSC09249-768x512.jpg?w=64"></a>
+         </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-23T13:10:00.000Z">13:10 23/04/2021</time></p>
+            <h4>Team xuất phát về Sài Gòn</h4>
+            <p>
+            Sau khi cơm trưa xong, mọi người lên xe về lại Sài Gòn
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/BVT-720x404.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/BVT-720x404.jpg?w=64"></a>
+         </figure>
+         <div class="media-content">
+            <p class="title"><time datetime="2021-04-23T17:00:00.000Z">17:00 23/04/2021</time></p>
+            <h4>TP. Thủ Đức, TP. HCM</h4>
+            <p>
+            Kết thúc chuyến đi, mọi người sẽ có hai ngày nghỉ cuối tuần. Cùng nhau xem lại show những hình ảnh đẹp của chuyến đi nhé.
+            </p>
+         </div>
+      </article>
+      <article class="media">
+         <h4 class="tag is-danger">Kết thúc chuyến đi</h4>
+      </article>
    </div>
    <br />
-   <h4 class="tag is-danger">Kết thúc</h4>
 </div>
 
 
+Cùng ngắm lại những khoảnh khắc tuyệt đẹp trong chuyến đi nhé
 <div class="justified-gallery">
 
 ![Full team nè](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09080-1.jpg?w=800)
@@ -71,6 +204,5 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
 ![Team Building Vũng Tàu 2021](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09208.jpg?w=800)
 ![Cơm niêu Tập Tàng](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09228.jpg?w=800)
 ![Tạm biệt Vũng Tàu](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09249.jpg?w=800)
-
 
 </div>

@@ -1,12 +1,14 @@
 ---
-title: Hello World
-date: 2021/6/19
+title: Ngày hội Vaccine
+date: 2021/6/25
 categories:
 - Nhật ký
 language: vi
 toc: false
 ---
 Hơn một tháng nay, mỗi ngày thành phố đều ghi nhận hàng chục, thâm chí gần trăm ca nhiễm, trong đó có rất nhiều ca là lây nhiễm cộng đồng, hoặc tệ hơn là không rõ nguồn lây. Đôi lúc thoáng nghĩ có khi nào thành phố mình sống trở thành một Ấn Độ thu nhỏ trong đại dịch COVID-19 này không? Thành phố nay phong tỏa chỗ này mai phong tỏa chỗ kia không biết khi nào tới khu vực mình sinh sống nữa.
+
+<!-- more -->
 
 Tính đến nay đã trải qua ba đợt dịch rồi, ta có nhiều kinh nghiệm chống dịch hơn các đợt trước. Vì vậy mình rất hoan nghênh công tác điều tra truy vết y tế của chính quyền thành phố, khoanh vùng để dập dịch không ảnh hưởng đến phát triển kinh tế xã hội. Đợt dịch lần này theo mình nhận định không phải lỗi ở chính quyền mà do ý thức của người dân còn quá kém, bên cạnh đó là sự lơ là của một bộ phận dân cư trong việc tuân thủ các quy định của ngành y tế trong phòng chống dịch bệnh. Dù sao, chúng ta đang làm rất tốt, hy vọng dịch bệnh nhanh chóng được kiểm soát, trả lại sự yên bình cho thành phố.
 

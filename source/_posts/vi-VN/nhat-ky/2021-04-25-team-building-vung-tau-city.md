@@ -2,26 +2,27 @@
 title: Team building Vũng Tàu 2021
 date: 2021/4/25
 categories:
-  - Nhật ký
+- Nhật ký
 language: vi
 toc: false
 cover: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=800
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
 ---
-
 Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố biển Vũng Tàu nhé!!!
 
 <!-- more -->
 
 <div class="card-content">
-   <h3 class="tag is-primary">Khởi hành</h3>
+   <h4 class="tag is-primary">Khởi hành</h4>
    <div class="timeline">
       <article class="media">
-         <figure class="media-left"><a class="image" href="/2021/06/25/vi-VN/nhat-ky/2021-06-25-ngay-hoi-vaccine/"><img src="/gallery/covers/covid-19-vaccine.jpg" alt="Khởi hành tại Khu Công công nghệ cao TP Thủ Đức"></a></figure>
+         <figure class="media-left image is-128x128">
+              <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-000.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-000.jpg?w=64"></a>
+          </figure>
          <div class="media-content">
-            <p class="date"><time datetime="2021-04-22T08:00:00.000Z">08:00 22/04/2021</time></p>
-            <p class="title">Khu Công nghệ cao, TP. Thủ Đức</p>
-            <p class="categories">
+            <p class="title"><time datetime="2021-04-22T08:00:00.000Z">08:00 22/04/2021</time></p>
+            <h4>Khu Công nghệ cao, TP. Thủ Đức</h4>
+            <p>
               Khoảng 8:10 sáng, mọi người đều đã có mặt đầy đủ trước công ty HPT nhưng không phải đến để làm việc mà chuẩn bị khởi hành cho chuyến đi team building đến thành phố biển Vũng Tàu. Khoảng 8:45, đoàn tách thành hai nhánh: một nhánh đi phà, một nhánh đi đường quốc lộ 51. Tôi đi phà vì trước giờ chưa đi phà bao giờ.
             </p>
          </div>
@@ -36,8 +37,10 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
          </div>
       </article>
    </div>
-   <h3 class="tag is-primary">Kết thúc</h3>
+   <br />
+   <h4 class="tag is-danger">Kết thúc</h4>
 </div>
+
 
 <div class="justified-gallery">
 
@@ -68,5 +71,6 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
 ![Team Building Vũng Tàu 2021](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09208.jpg?w=800)
 ![Cơm niêu Tập Tàng](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09228.jpg?w=800)
 ![Tạm biệt Vũng Tàu](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09249.jpg?w=800)
+
 
 </div>

@@ -5,8 +5,8 @@ categories:
 - Nhật ký
 language: vi
 toc: false
-cover: /gallery/covers/covid-19-vaccine.jpg
-thumbnail: /gallery/covers/covid-19-vaccine.jpg
+cover: https://thiennguyenpro.files.wordpress.com/2021/04/team-building-vung-tau-2021-tro-choi-01.jpg?w=800
+thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/team-building-vung-tau-2021-tro-choi-01.jpg?w=300
 ---
 Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố biển Vũng Tàu nhé!!!
 

@@ -132,7 +132,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <figure class="media-left image is-64x64">
-            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/Goc-cot-dien-TP-vung-tau-768x576.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/Goc-cot-dien-TP-vung-tau-768x576.jpg?w=64"></a>
+            <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/DSC09228-768x512.jpg"><img src="https://thiennguyen.icu/wp-content/uploads/2021/04/DSC09228-768x512.jpg?w=64"></a>
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-23T12:30:00.000Z">12:30 23/04/2021</time></p>

@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 2021/6/19
 categories:
 - Nhật ký
 language: vi

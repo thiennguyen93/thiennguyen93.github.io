@@ -5,12 +5,52 @@ categories:
 - Nhật ký
 language: vi
 toc: false
-cover: https://thiennguyenpro.files.wordpress.com/2021/04/team-building-vung-tau-2021-tro-choi-01.jpg?w=800
-thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/team-building-vung-tau-2021-tro-choi-01.jpg?w=300
+cover: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=800
+thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
 ---
 Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố biển Vũng Tàu nhé!!!
 
 <!-- more -->
+
+<div class="timeline">
+  <header class="timeline-header">
+    <span class="tag is-medium is-primary">Start</span>
+  </header>
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <p class="heading">January 2016</p>
+      <p>Timeline content - Can include any HTML element</p>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-marker is-image is-32x32">
+      <img src="https://bulma.io/images/placeholders/32x32.png">
+    </div>
+    <div class="timeline-content">
+      <p class="heading">February 2016</p>
+      <p>Timeline content - Can include any HTML element</p>
+    </div>
+  </div>
+  <header class="timeline-header">
+    <span class="tag is-primary">2017</span>
+  </header>
+  <div class="timeline-item">
+    <div class="timeline-marker is-icon">
+      <i class="fa fa-flag"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">March 2017</p>
+      <p>Timeline content - Can include any HTML element</p>
+    </div>
+  </div>
+  <div class="timeline-header">
+    <span class="tag is-medium is-primary">End</span>
+  </div>
+</div>
+
+
+
 
 <div class="justified-gallery">
 

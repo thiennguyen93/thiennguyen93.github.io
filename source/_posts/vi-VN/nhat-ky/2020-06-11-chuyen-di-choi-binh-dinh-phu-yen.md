@@ -1,6 +1,6 @@
 ---
 title: Company trip Bình Định - Phú Yên
-date: 2021/4/25
+date: 2020/6/11
 categories:
   - Nhật ký
 language: vi

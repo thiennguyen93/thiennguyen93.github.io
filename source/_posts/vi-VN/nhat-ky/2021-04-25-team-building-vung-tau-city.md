@@ -197,7 +197,7 @@ Cùng ngắm lại những khoảnh khắc tuyệt đẹp trong chuyến đi nh�
 ![Quang và Hạnh](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09221.jpg?w=800)
 ![Bang Giang hồ khét tiếng Sài Gòn](https://thiennguyenpro.files.wordpress.com/2021/04/dsc08982.jpg?w=800)
 ![Hằng và Hiệp](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09067-2.jpg?w=800)
-![Hiệp = Kiều nữa HAS](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09144.jpg?w=800)
+![Hiệp = Kiều nữ của HAS](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09144.jpg?w=800)
 ![Hiệp và Vương](https://thiennguyenpro.files.wordpress.com/2021/04/dsc08769.jpg?w=800)
 ![Yến và Viên](https://thiennguyenpro.files.wordpress.com/2021/04/dsc08809.jpg?w=800)
 ![Trần Duy Villa](https://thiennguyenpro.files.wordpress.com/2021/04/dsc08953.jpg?w=800)

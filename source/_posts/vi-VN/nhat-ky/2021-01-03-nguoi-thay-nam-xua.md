@@ -6,7 +6,7 @@ categories:
 language: vi
 toc: false
 cover: /gallery/covers/nguoi-thay-nam-xua.jpg
-thumbnail: /gallery/covers/nguoi-thay-nam-xua.jpg
+thumbnail: /gallery/thumbnails/nguoi-thay-nam-xua_thumbnail.jpg
 ---
 Sáng chủ nhật vừa rồi, tôi một mình phóng con xe máy từ quê lên thành phố. Xe chạy ngang nhà thầy. Thầy đứng bên kia đường, trước sân nhà. Chắc thầy đang đi dạo và ngắm cây cảnh. Vì có việc bận cần phải đi gấp tôi không thể nán lại để trò chuyện với thầy.
 

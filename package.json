@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "postinstall": "node post-install.js",
+    "postinstall": "node post-install.js || npm install git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY}",
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",

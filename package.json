@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "postinstall": "npm install git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY}",
-    "build": "hexo generate",
+    "build": "npm install git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY} && hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server"
@@ -15,6 +15,7 @@
   "dependencies": {
     "bulma-stylus": "^0.8.0",
     "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
     "hexo": "^5.0.0",
     "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",

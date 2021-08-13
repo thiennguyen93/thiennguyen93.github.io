@@ -29,7 +29,7 @@ Mình sinh ra và lớn lên ở Đồng Nai, đang sinh sống và làm việc 
 </div>
 
 <div id="about-site" class="tab-content is-hidden">
-    Đây là blog của tui
+    Đây là blog của tui 12
 </div>
 
 

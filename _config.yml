@@ -64,7 +64,6 @@ deploy:
     type: git
     repo: https://github.com/thiennguyen93/thiennguyen93.github.io
     branch: gh-pages
-    token: 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
 feed:
   enable: true
   type: atom

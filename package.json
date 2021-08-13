@@ -13,7 +13,7 @@
     "version": "5.4.0"
   },
   "dependencies": {
-    "bulma-stylus": "^0.8.0",
+    "bulma-stylus": "^0.9.1",
     "cross-env": "^7.0.3",
     "dotenv": "^10.0.0",
     "hexo": "^5.0.0",

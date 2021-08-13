@@ -9,12 +9,12 @@ exec(postInstallCustomTheme, function(err, stdout, stderr) {
       console.log("Da co loi xay ra!!!");
       console.log(stderr)
       console.log("Run alternative script");
-      exec("npm install git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY}", function(err1, stdout1, stderr1 ){
-          if (err1) {
-              console.log('Handle error on netlify');
-          }
-          console.log('success');
-      })
+    //   exec("npm install git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY}", function(err1, stdout1, stderr1 ){
+    //       if (err1) {
+    //           console.log('Handle error on netlify');
+    //       }
+    //       console.log('success');
+    //   })
     }
     console.log(stdout);
   });

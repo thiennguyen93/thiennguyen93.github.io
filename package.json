@@ -24,7 +24,7 @@
     "hexo-renderer-marked": "^4.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
-    "hexo-theme-icarus": "git+https://[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]:x-oauth-basic@github.com/thiennguyen93/hexo-theme-icarus-thiennguyen.git",
+    "hexo-theme-icarus": "git+https://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@github.com/thiennguyen93/hexo-theme-icarus-thiennguyen.git",
     "hexo-theme-landscape": "^0.0.3"
   }
 }

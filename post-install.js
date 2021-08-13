@@ -6,14 +6,15 @@ console.log("run this:" + postInstallCustomTheme);
 exec(postInstallCustomTheme, function(err, stdout, stderr) {
     if (err) {
       // handle error
-      console.log("Da co loi xay ra!!!")
+      console.log("Da co loi xay ra!!!");
       console.log(stderr)
-    //   exec("npm install git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY}", function(err1, stdout1, stderr1 ){
-    //       if (err1) {
-    //           console.log('Handle error on netlify');
-    //       }
-    //       console.log('success');
-    //   })
+      console.log("Run alternative script");
+      exec("npm install git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY}", function(err1, stdout1, stderr1 ){
+          if (err1) {
+              console.log('Handle error on netlify');
+          }
+          console.log('success');
+      })
     }
     console.log(stdout);
   });

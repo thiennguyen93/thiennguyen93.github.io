@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "postinstall": "npm install git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY}",
+    "postinstall": "node post-install.js",
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
@@ -28,6 +28,10 @@
     "hexo-renderer-marked": "^4.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
+    "hexo-theme-icarus": "git+https://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@github.com/thiennguyen93/hexo-theme-icarus-thiennguyen.git",
     "hexo-theme-landscape": "^0.0.3"
+  },
+  "devDependencies": {
+    "npm": "^7.20.6"
   }
 }

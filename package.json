@@ -28,7 +28,6 @@
     "hexo-renderer-marked": "^4.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
-    "hexo-theme-icarus": "git+https://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@github.com/thiennguyen93/hexo-theme-icarus-thiennguyen.git",
     "hexo-theme-landscape": "^0.0.3"
   },
   "devDependencies": {

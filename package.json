@@ -5,7 +5,7 @@
   "scripts": {
     "myinstall": "node myinstall.js",
     "mypostinstall": "node mypostinstall.js",
-    "build": "yarn add git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY} && hexo generate",
+    "build": "npm install git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY} --no-save && hexo generate",
     "build-gh-page": "hexo clean && hexo deploy",
     "clean": "hexo clean",
     "deploy": "hexo deploy",

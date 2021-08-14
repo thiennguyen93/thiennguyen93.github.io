@@ -119,7 +119,7 @@ sidebar:
     </figure> -->
     <div>
         <h4 class="date is-uppercase"><strong><span class="tag mr-2">Sep 2020</span>Certificate of Completion of PHP Programming Training Course</strong></h4>
-        <p>Accredit by APTECH Saigon</p>
+        <p>Accreditted by APTECH Saigon</p>
     </div>
     </article>
 </div>

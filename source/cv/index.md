@@ -23,7 +23,7 @@ widgets:
                 url: 'https://thiennguyen93.github.io/'
             LinkedIn:
                 icon: fab fa-linkedin-in
-                url: /
+                url: 'https://www.linkedin.com/in/thiennguyenpro/'
             Facebook:
                 icon: fas fa-phone
                 url: 'tel:+84395443490'

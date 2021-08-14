@@ -15,5 +15,8 @@
 - Done
 
 # Netlify:
+- Site settings > Build & deploy > Build settings;
+    - Build command: npm install --global yarn && yarn build
+    - Publish directory: public
 - Site settings > Build & deploy > Environment;
-- Set the environment variables same as .env file;
+    - Set the environment variables same as .env file;

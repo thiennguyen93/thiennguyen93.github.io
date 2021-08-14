@@ -6,4 +6,4 @@ widgets:
         type: profile
         position: right
 ---
-Đây sẽ là trang CV
+Đây sẽ là trang CV 12312

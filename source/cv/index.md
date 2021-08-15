@@ -24,11 +24,11 @@ widgets:
             LinkedIn:
                 icon: fab fa-linkedin-in
                 url: 'https://www.linkedin.com/in/thiennguyenpro/'
-            Điện thoại: 0395443490:
+            'Điện thoại: 0395443490':
                 icon: fas fa-phone
                 url: 'tel:+84395443490'
                 tooltip: 'Điện thoại: 039-544-3490'
-            Email:phuocthien@outlook.com:
+            'Email: phuocthien@outlook.com':
                 icon: fas fa-at
                 url: 'mailto:phuocthien@outlook.com?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A'   
                 tooltip: 'Email: phuocthien@outlook.com'

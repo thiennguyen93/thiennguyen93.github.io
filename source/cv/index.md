@@ -41,7 +41,7 @@ sidebar:
   right:
     sticky: true
 ---
-
+Hi, My name is Thien, and I'm a web developer based in Ho Chi Minh City, Vietnam.
 ### <span class="tag mr-2 is-primary is-size-6"><i class="fas fa-graduation-cap"></i></span> Education
 <div class="timeline">
     <article class="media">
@@ -87,8 +87,6 @@ sidebar:
             <p>Front-end Web Developer</p>
             <p  style="margin-bottom: 10px">• Cash Vault Management (Techcombank internal project) using IBM BPM platform, ReactJs, PHP, Oracle SQL. (Feb-May 2021 including three-week onsite in Hanoi City working at Techcombank headquarter for deployment).
             </p>
-            <p  style="margin-bottom: 20px">• HPT SALEEM (Smart Automatic & Analytic Lending Management): A complete solution for lending management in the banking industry, using leading technologies from IBM such as ECM, BPM, and ODM.(continuous development)
-            </p>
         </div>
     </article>
     <article class="media">
@@ -111,7 +109,7 @@ sidebar:
         <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-zendvn.png?w=64">
     </figure> -->
     <div>
-        <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Jan 2021</span> Certificate of Achievement in Completion of ReactJS Programming</strong></h4>
+        <h4 class="is-size-6"><strong><span class="tag mr-2">Jan 2021</span> Certificate of Achievement in Completion of ReactJS Programming</strong></h4>
         <p>Accreditted by Zend Vietnam</p>
     </div>
     </article>
@@ -120,9 +118,24 @@ sidebar:
         <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-aptech.png?w=64">
     </figure> -->
     <div>
-        <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2020</span>Certificate of Completion of PHP Programming Training Course</strong></h4>
+        <h4 class="is-size-6"><strong><span class="tag mr-2">Sep 2020</span>Certificate of Completion of PHP Programming Training Course</strong></h4>
         <p>Accreditted by APTECH Saigon</p>
     </div>
     </article>
 </div>
 
+
+<style>
+h1.title {
+    color: #c53030
+}
+/* h1.title::after {
+    color: black;
+    content: 'Web Developer';
+    font-size: 0.95rem;
+    margin-left: 10px;
+} */
+.timeline {
+    margin-left: 1.3rem;
+}
+</style>

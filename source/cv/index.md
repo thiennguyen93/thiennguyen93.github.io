@@ -27,9 +27,11 @@ widgets:
             Facebook:
                 icon: fas fa-phone
                 url: 'tel:+84395443490'
+                tooltip: 'Điện thoại: 039-544-3490'
             Twitter:
                 icon: fas fa-at
                 url: 'mailto:phuocthien@outlook.com?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A'   
+                tooltip: 'Email: phuocthien@outlook.com'
     - 
         type: toc
         position: right

@@ -49,7 +49,7 @@ sidebar:
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png?w=64">
         </figure>
         <div class="timeline-item">
-            <h4 class="date is-uppercase"><strong><span class="tag mr-2">Dec 2017 - Oct 2020</span> VNUHCM - University of Science</strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Dec 2017 - Oct 2020</span> VNUHCM - University of Science</strong></h4>
             <p>B.S in Information Technology</p>
             <p  style="margin-bottom: 20px">Cloud Computing for Business, Data Structure and Algorithms, Object-oriented Programming Methodology, Databases and Database Management Systems, HTML, CSS, , Node.js, Javascript, MySQL.</p>
         </div>
@@ -59,7 +59,7 @@ sidebar:
             <img src="https://thiennguyenpro.files.wordpress.com/2020/02/logo_spkt_thiennguyenicu.png?w=64">
         </figure>
         <div>
-            <h4 class="date is-uppercase"><strong><span class="tag mr-2">Sep 2011 - Dec 2015</span> HCMC University of Technology and Education</strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2011 - Dec 2015</span> HCMC University of Technology and Education</strong></h4>
             <p>B.A in English Language Teaching</p>
             <p  style="margin-bottom: 20px">English for Business, English for Computing, Learners' Psychology, Teaching Methodology</p>
         </div>
@@ -73,7 +73,7 @@ sidebar:
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo.png?w=64">
         </figure>
         <div>
-            <h4 class="date is-uppercase"><strong><span class="tag mr-2">July 2021 - (Aug 2021)</span> Welab</strong> (owned project)</h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">July 2021 - (Aug 2021)</span> Welab</strong> (owned project)</h4>
             <p>Full Stack Developer</p>
             <p  style="margin-bottom: 20px">A solution for business management applied for the small and medium-sized medical centers, using ReactJS, a well-known Javascript library, as the front-end  and Laravel framework served as a backend server for RESTful API written in PHP.</p>
         </div>
@@ -83,7 +83,7 @@ sidebar:
             <img src="https://thiennguyenpro.files.wordpress.com/2020/03/hpt_logo.png?w=64">
         </figure>
         <div>
-            <h4 class="date is-uppercase"><strong><span class="tag mr-2">Apr 2020 - Now</span> HPT Vietnam Corporation</strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Apr 2020 - Now</span> HPT Vietnam Corporation</strong></h4>
             <p>Front-end Web Developer</p>
             <p  style="margin-bottom: 10px">• Cash Vault Management (Techcombank internal project) using IBM BPM platform, ReactJs, PHP, Oracle SQL. (Feb-May 2021 including three-week onsite in Hanoi City working at Techcombank headquarter for deployment).
             </p>
@@ -96,7 +96,7 @@ sidebar:
             <img src="https://thiennguyenpro.files.wordpress.com/2020/03/phpgroupvn_logo-1.png?w=64">
         </figure>
         <div>
-            <h4 class="date is-uppercase"><strong><span class="tag mr-2">Nov 2015 - Mar 2020</span> PHP Group International Vietnam</strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Nov 2015 - Mar 2020</span> PHP Group International Vietnam</strong></h4>
             <p>Customer Service Representative</p>
             <p  style="margin-bottom: 20px">Processing claims, forms, applications and handling clients' requests using CRM software.
             </p>
@@ -111,7 +111,7 @@ sidebar:
         <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-zendvn.png?w=64">
     </figure> -->
     <div>
-        <h4 class="date is-uppercase"><strong><span class="tag mr-2">Jan 2021</span> Certificate of Achievement in Completion of ReactJS Programming</strong></h4>
+        <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Jan 2021</span> Certificate of Achievement in Completion of ReactJS Programming</strong></h4>
         <p>Accreditted by Zend Vietnam</p>
     </div>
     </article>
@@ -120,7 +120,7 @@ sidebar:
         <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-aptech.png?w=64">
     </figure> -->
     <div>
-        <h4 class="date is-uppercase"><strong><span class="tag mr-2">Sep 2020</span>Certificate of Completion of PHP Programming Training Course</strong></h4>
+        <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2020</span>Certificate of Completion of PHP Programming Training Course</strong></h4>
         <p>Accreditted by APTECH Saigon</p>
     </div>
     </article>

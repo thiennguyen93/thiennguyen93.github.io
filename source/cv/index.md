@@ -193,8 +193,9 @@ h1.title {
             evt.preventDefault();
             var options = {
             };
-            var pdf = new jsPDF('p', 'pt', 'a4');
-            pdf.addHTML($(".container")[0], 15, 15, options, function() {
+            var pdf = new jsPDF('portrait', 'mm', 'a4');
+            console.log($(".container")[1]);
+            pdf.addHTML($(".container")[1], 15, 15, options, function() {
                 pdf.save('pageContent.pdf');
             });
         });

@@ -13,13 +13,13 @@ cover:
     <li class="is-active">
       <a href="#about-me">
         <span class="icon is-small"><i class="fas fa-file-code" aria-hidden="true"></i></span>
-        <span>Tác giả</span>
+        <span>Về Thiện Nguyễn</span>
       </a>
     </li>
     <li>
       <a href="#about-site">
         <span class="icon is-small"><i class="fas fa-cubes" aria-hidden="true"></i></span>
-        <span>Tác phẩm</span>
+        <span>Về blog này</span>
       </a>
     </li>
   </ul>

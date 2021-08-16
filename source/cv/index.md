@@ -13,8 +13,8 @@ widgets:
         position: right
         author: Thien Nguyen
         author_title: Software Engineer
-        location: Thành phố Hồ Chí Minh, Việt Nam
-        gravatar: phuocthien@outlook.com
+        location: Ho Chi Minh City, Vietnam
+        gravatar: info@thiennguyenpro.com
         follow_link: 'https://www.linkedin.com/in/thiennguyenpro/'
         # Links to be shown on the bottom of the profile widget
         social_links:
@@ -40,9 +40,36 @@ widgets:
 sidebar:
   right:
     sticky: true
+thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
 ---
-Hi, My name is Thien, and I'm a web developer based in Ho Chi Minh City, Vietnam.
-### <span class="tag mr-2 is-primary is-size-6"><i class="fas fa-graduation-cap"></i></span> Education
+Hi! My name is Thien, and I'm a web developer based in Ho Chi Minh City, Vietnam.
+
+### <span class="tag mr-2 is-info is-size-6"><i class="fas fa-info-circle"></i></span> Basic information
+<div style="margin-left: 47px; margin-right: 60px; margin-bottom: 40px" >
+    <div class="columns is-gapless">
+        <div class="column is-one-fifth"><span class="has-text-weight-bold">Full name</span></div>
+        <div class="column">Nguyen Ngoc Phuoc Thien / Thien Nguyen</div>
+    </div>
+    <div class="columns is-gapless">
+        <div class="column is-one-fifth"><span class="has-text-weight-bold">Email</span></div>
+        <div class="column">phuocthien@outlook.com</div>
+    </div>
+    <div class="columns is-gapless">
+        <div class="column is-one-fifth"><span class="has-text-weight-bold">Phone</span></div>
+        <div class="column">(+84) 395 443 440</div>
+    </div>
+    <div class="columns is-gapless">
+        <div class="column is-one-fifth"><span class="has-text-weight-bold">Location</span></div>
+        <div class="column">Thu Duc City, Ho Chi Minh City, Vietnam</div>
+    </div>
+    <div class="columns is-gapless">
+        <div class="column is-one-fifth"><span class="has-text-weight-bold">Language</span></div>
+        <div class="column">English, Vietnamese</div>
+    </div>
+</div>
+
+
+### <span class="tag mr-2 is-success is-size-6"><i class="fas fa-graduation-cap"></i></span> Education
 <div class="timeline">
     <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
@@ -66,7 +93,7 @@ Hi, My name is Thien, and I'm a web developer based in Ho Chi Minh City, Vietnam
     </article>
 </div>
 
-### <span class="tag mr-2 is-success is-size-6"><i class="fas fa-briefcase"></i></span> Work Experience
+### <span class="tag mr-2 is-danger is-size-6"><i class="fas fa-briefcase"></i></span> Work Experience
 <div class="timeline">
     <!-- <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
@@ -102,25 +129,25 @@ Hi, My name is Thien, and I'm a web developer based in Ho Chi Minh City, Vietnam
     </article>
 </div>
 
-### <span class="tag mr-2 is-danger is-size-6"><i class="fas fa-certificate"></i></span> Certifications
+### <span class="tag mr-2 is-primary is-size-6"><i class="fas fa-certificate"></i></span> Certifications
 <div class="timeline">
     <article class="media">
-    <!-- <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-        <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-zendvn.png?w=64">
-    </figure> -->
-    <div>
-        <h4 class="is-size-6"><strong><span class="tag mr-2">Jan 2021</span> Certificate of Achievement in Completion of ReactJS Programming</strong></h4>
-        <p>Accreditted by Zend Vietnam</p>
-    </div>
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+            <img src="https://thiennguyenpro.files.wordpress.com/2021/08/14-react.png?w=64">
+        </figure>
+        <div>
+            <h4 class="is-size-6"><strong><span class="tag mr-2">Jan 2021</span> Certificate of Achievement in Completion of ReactJS Programming</strong></h4>
+            <p>Accreditted by Zend Vietnam</p>
+        </div>
     </article>
     <article class="media">
-    <!-- <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-        <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-aptech.png?w=64">
-    </figure> -->
-    <div>
-        <h4 class="is-size-6"><strong><span class="tag mr-2">Sep 2020</span>Certificate of Completion of PHP Programming Training Course</strong></h4>
-        <p>Accreditted by APTECH Saigon</p>
-    </div>
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+            <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-laravel-1-1.png?w=64">
+        </figure>
+        <div>
+            <h4 class="is-size-6"><strong><span class="tag mr-2">Sep 2020</span>Certificate of Completion of PHP Programming Training Course</strong></h4>
+            <p>Accreditted by APTECH Saigon</p>
+        </div>
     </article>
 </div>
 

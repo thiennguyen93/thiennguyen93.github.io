@@ -35,7 +35,7 @@ widgets:
                 tooltip: 'Email: phuocthien@outlook.com'
             'Download CV as PDF':
                 icon: fas fa-download
-                url: '#'   
+                url: 'https://www.sejda.com/html-to-pdf?save-link=https://thiennguyen93.github.io/cv&viewportWidth=720&pageSize=A4&pageMargin=20px&pageOrientation=portrait'   
                 tooltip: 'Email: phuocthien@outlook.com'
     - 
         type: toc
@@ -143,7 +143,7 @@ I love anything related to programming and web/app development. That is the reas
         </figure>
         <div>
             <h4 class="is-size-6"><strong><span class="tag mr-2">Jan 2021</span> <span class="has-text-grey-dark">Certificate of Achievement in Completion of ReactJS Programming</span></strong></h4>
-            <p>Accreditted by Zend Vietnam</p>
+            <p>Accredited by Zend Vietnam</p>
         </div>
     </article>
     <article class="media">
@@ -152,7 +152,7 @@ I love anything related to programming and web/app development. That is the reas
         </figure>
         <div>
             <h4 class="is-size-6"><strong><span class="tag mr-2">Sep 2020</span> <span class="has-text-grey-dark">Certificate of Completion of PHP Programming Training Course</span></strong></h4>
-            <p>Accreditted by APTECH Saigon</p>
+            <p>Accredited by APTECH Saigon</p>
         </div>
     </article>
 </div>
@@ -184,23 +184,29 @@ h1.title {
     loopCount: Infinity,
   });
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.min.js"></script>
+
+<!-- 
+<script src="//www.sejda.com/js/sejda-js-api.min.js"></script>
 <script>
     document.addEventListener('DOMContentLoaded', function(e) {
         // const downloadButton = document.querySelectorAll('[title="Download CV as PDF"]');
         // downloadButton[0].
         const downloadButton = $('[title="Download CV as PDF"]').click(function(evt){
             evt.preventDefault();
-            var options = {
-            };
-            var pdf = new jsPDF('portrait', 'mm', 'a4');
-            console.log($(".container")[1]);
-            pdf.addHTML($(".container")[1], 15, 15, options, function() {
-                pdf.save('pageContent.pdf');
+            SejdaJsApi.htmlToPdf({
+            filename: 'out.pdf',
+            /* leave blank for one long page */
+            pageSize: 'a4',
+            publishableKey: 'api_public_d036c2bc241f43babce21452685a8963',
+            htmlCode: document.querySelector('html').innerHTML,
+            /* url: window.location.href */
+            always: function(){
+            // PDF download should have started
+                }
             });
         });
         // console.log("test123",test);
     // ...
     });
 
-</script>
+</script> -->

@@ -67,9 +67,9 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-22T19:45:00.000Z">19:45 22/04/2020</time></p>
-            <h4>Ốc Tự nhiên, 30 đường Trần Phú</h4>
+            <h4>Bãi biển Thuỳ Vân (Bãi Sau) – TP. Vũng Tàu</h4>
             <p>
-            Ốc thì tôi cũng ăn vài lần rồi, nhưng món ốc ở đây có vị rất ngon. Nếu bạn có đến Vũng Tàu thì nhớ ghé quán ốc Tự nhiên này mà thử nhé.
+            Mọi người ra đây ngắm biển, sau đó đi ăn kem
             </p>
          </div>
       </article>

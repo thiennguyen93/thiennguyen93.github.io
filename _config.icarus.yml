@@ -113,6 +113,12 @@ navbar:
         Giới thiệu: /about
     # Links to be shown on the right of the navigation bar
     links:
+        View Profile on Facebook:
+            icon: fab fa-facebook
+            url: https://www.facebook.com/thiennguyenpro/
+        View Profile on LinkedIn:
+            icon: fab fa-linkedin
+            url: https://www.linkedin.com/in/thiennguyenpro/
         View Profile on GitHub:
             icon: fab fa-github
             url: 'https://thiennguyen93.github.io/'

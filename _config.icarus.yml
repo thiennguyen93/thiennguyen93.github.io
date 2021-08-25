@@ -108,7 +108,7 @@ navbar:
         Trang chủ: /
         Lưu trữ: /archives
         Thể loại: /categories
-        Thẻ: /tags
+        # Thẻ: /tags
         CV: /cv
         Giới thiệu: /about
     # Links to be shown on the right of the navigation bar

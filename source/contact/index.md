@@ -1,18 +1,25 @@
 ---
 title: Liên hệ
 date: 2021-08-12 13:05:03
+article:
+  licenses: false
+donates: false
+comment: false
+excerpt: Gửi ý kiến đóng góp của bạn cho blog
 ---
+Mình mong nhận được ý kiến đóng góp của các bạn để xây dựng blog ngày càng có nhiều nội dung hữu ích hơn
+<form>
 <div class="field">
   <label class="label">Họ tên</label>
   <div class="control">
-    <input class="input" type="text" placeholder="Vui lòng nhập họ tên">
+    <input required class="input" type="text" placeholder="Vui lòng nhập họ tên">
   </div>
 </div>
 
 <div class="field">
   <label class="label">Email</label>
   <div class="control has-icons-left has-icons-right">
-    <input class="input" type="email" placeholder="Vui lòng nhập địa chỉ email" value="">
+    <input required class="input" type="email" placeholder="Vui lòng nhập địa chỉ email" value="">
     <span class="icon is-small is-left">
       <i class="fas fa-envelope"></i>
     </span>
@@ -26,12 +33,13 @@ date: 2021-08-12 13:05:03
 <div class="field">
   <label class="label">Tin nhắn</label>
   <div class="control">
-    <textarea class="textarea" placeholder="Nội dung tin nhắn"></textarea>
+    <textarea required class="textarea" placeholder="Nội dung tin nhắn"></textarea>
   </div>
 </div>
 
 <div class="field is-grouped">
   <div class="control">
-    <button class="button is-link">Gửi</button>
+    <button type="sumit" class="button is-link">Gửi</button>
   </div>
 </div>
+</form>

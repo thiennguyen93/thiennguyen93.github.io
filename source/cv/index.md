@@ -101,22 +101,22 @@ I love anything related to programming and web/app development. That is the reas
 
 ### <span class="tag mr-2 is-danger is-size-6"><i class="fas fa-briefcase"></i></span> <span style="color: #4a4a4a;">Work Experience</span>
 <div class="timeline">
-    <!-- <article class="media">
+    <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo.png?w=64">
+            <img src="https://thiennguyenpro.files.wordpress.com/2021/08/cmc-global.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">July 2021 - (Aug 2021)</span> Welab</strong> (owned project)</h4>
-            <p>Full Stack Developer</p>
-            <p  style="margin-bottom: 20px">A solution for business management applied for the small and medium-sized medical centers, using ReactJS, a well-known Javascript library, as the front-end  and Laravel framework served as a backend server for RESTful API written in PHP.</p>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Now</span> CMC Global Company Limited</strong></h4>
+            <p>Software Engineer</p>
+            <!-- <p  style="margin-bottom: 20px">A solution for business management applied for the small and medium-sized medical centers, using ReactJS, a well-known Javascript library, as the front-end  and Laravel framework served as a backend server for RESTful API written in PHP.</p> -->
         </div>
-    </article> -->
+    </article>
     <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2020/03/hpt_logo.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Apr 2020 - Now</span> <span class="has-text-grey-dark">HPT Vietnam Corporation</span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Apr 2020 - Aug 2021</span> <span class="has-text-grey-dark">HPT Vietnam Corporation</span></strong></h4>
             <p>Front-end Web Developer</p>
             <p  style="margin-bottom: 10px">• Cash Vault Management (Techcombank internal project) using IBM BPM platform, ReactJs, PHP, Oracle SQL. (Feb-May 2021 including three-week onsite in Hanoi City working at Techcombank headquarter for deployment).
             </p>

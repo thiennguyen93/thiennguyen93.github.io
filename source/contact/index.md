@@ -8,18 +8,18 @@ comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
 ---
 Mình mong nhận được ý kiến đóng góp của các bạn để xây dựng blog ngày càng có nhiều nội dung hữu ích hơn
-<form>
+<form id="ajaxForm" action="https://getform.io/f/3b706801-81e4-46a2-be69-3bde70752114" method="POST">
 <div class="field">
   <label class="label">Họ tên</label>
   <div class="control">
-    <input required class="input" type="text" placeholder="Vui lòng nhập họ tên">
+    <input required class="input" type="text" placeholder="Vui lòng nhập họ tên" name="full-name">
   </div>
 </div>
 
 <div class="field">
   <label class="label">Email</label>
   <div class="control has-icons-left has-icons-right">
-    <input required class="input" type="email" placeholder="Vui lòng nhập địa chỉ email" value="">
+    <input required class="input" type="email" placeholder="Vui lòng nhập địa chỉ email" value="" name="email">
     <span class="icon is-small is-left">
       <i class="fas fa-envelope"></i>
     </span>
@@ -33,7 +33,7 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
 <div class="field">
   <label class="label">Tin nhắn</label>
   <div class="control">
-    <textarea required class="textarea" placeholder="Nội dung tin nhắn"></textarea>
+    <textarea required class="textarea" placeholder="Nội dung tin nhắn"  name="message"></textarea>
   </div>
 </div>
 

@@ -111,6 +111,7 @@ navbar:
         # Thẻ: /tags
         CV: /cv
         Giới thiệu: /about
+        Liên hệ: /contact
     # Links to be shown on the right of the navigation bar
     links:
         View Profile on Facebook:

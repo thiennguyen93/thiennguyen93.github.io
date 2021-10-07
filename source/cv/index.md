@@ -108,7 +108,7 @@ I love anything related to programming and web/app development. That is the reas
         <div>
             <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Now</span> CMC Global Company Limited</strong></h4>
             <p>Software Engineer</p>
-            <!-- <p  style="margin-bottom: 20px">A solution for business management applied for the small and medium-sized medical centers, using ReactJS, a well-known Javascript library, as the front-end  and Laravel framework served as a backend server for RESTful API written in PHP.</p> -->
+            <p  style="margin-bottom: 20px">• HACCP - reporting system: Responsibility in building RESTful API. Technical skills: Nodejs, PostgreSQL, Prisma ORM.</p>
         </div>
     </article>
     <article class="media">
@@ -117,7 +117,7 @@ I love anything related to programming and web/app development. That is the reas
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Apr 2020 - Aug 2021</span> <span class="has-text-grey-dark">HPT Vietnam Corporation</span></strong></h4>
-            <p>Front-end Web Developer</p>
+            <p>Software Engineer</p>
             <p  style="margin-bottom: 10px">• Cash Vault Management (Techcombank internal project) using IBM BPM platform, ReactJs, PHP, Oracle SQL. (Feb-May 2021 including three-week onsite in Hanoi City working at Techcombank headquarter for deployment).
             </p>
         </div>

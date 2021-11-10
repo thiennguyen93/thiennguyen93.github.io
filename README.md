@@ -2,8 +2,8 @@
 - This is my personal microblog.
 - Built with [Hexo](https://hexo.io/) - A fast, simple & powerful static site generator
 - Hosted on
-    - GitHub Pages: [https://thiennguyen93.github.io/](https://thiennguyen93.github.io/);
-    - Netlify: [https://thiennguyen-blog.netlify.app](https://thiennguyen-blog.netlify.app);
+    - GitHub Pages: [https://thiennguyen93.github.io/](https://thiennguyen93.github.io)
+    - Netlify: [https://thiennguyen-blog.netlify.app](https://thiennguyen-blog.netlify.app)
 # Configs:
 - Adding .env with the following environment variables:
     - GH_TOKEN: Github personal access token (scope: repo)

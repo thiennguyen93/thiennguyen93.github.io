@@ -62,7 +62,7 @@ I love anything related to programming and web/app development. That is the reas
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Phone</span></div>
-        <div class="column"><span class="has-text-grey">(+84) 395 443 440</span></div>
+        <div class="column"><span class="has-text-grey">(+84) 395 443 490</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Location</span></div>

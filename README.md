@@ -1,4 +1,5 @@
 # About Thien Nguyen's microblog
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b87fd3bc-c3eb-462c-ac91-79507e22feb7/deploy-status)](https://app.netlify.com/sites/thiennguyen-blog/deploys)
 - This is my personal microblog.
 - Built with [Hexo](https://hexo.io/) - A fast, simple & powerful static site generator
 - Hosted on

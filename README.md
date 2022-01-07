@@ -5,7 +5,6 @@
 - Hosted on
     - GitHub Pages: [https://thiennguyen93.github.io/](https://thiennguyen93.github.io)
     - Netlify: [https://thiennguyen-blog.netlify.app](https://thiennguyen-blog.netlify.app)
-    - Vercel: [https://thiennguyen.vercel.app/](https://thiennguyen.vercel.app/)
     - CloudFlare Page: [https://thiennguyen.pages.dev/](https://thiennguyen.pages.dev/)
 # Configs:
 - Adding .env with the following environment variables:

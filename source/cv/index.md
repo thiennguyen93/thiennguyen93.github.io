@@ -108,7 +108,28 @@ I love anything related to programming and web/app development. That is the reas
         <div>
             <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Now</span> CMC Global Company Limited</strong></h4>
             <p>Software Engineer</p>
-            <p  style="margin-bottom: 20px">• HACCP - reporting system: Responsibility in building RESTful API. Technical skills: Nodejs, PostgreSQL, Prisma ORM.</p>
+            <p  style="margin-bottom: 20px">
+                • HACCP Report Application
+                Backend developer
+                <br />
+                Responsible for building RESTful API using Nodejs/ExpressJs, PostgreSQL, Prisma ORM.
+                <br />
+                Firebase Authentication and Storage integrated.
+            </p>
+            <p  style="margin-bottom: 20px">
+                • THK Order System
+                <br />
+                Full Stack Developer.
+                <br />
+                Estimating the time required to complete the work.
+                <br />
+                Created accessible, user-friendly and responsive web application with ReactJS.
+                <br />
+                Developed RESTful API with Nodejs using NestJS framework, Microsoft SQL Server, Azure Storage.
+                <br />
+                Deployed containerized web app to Azure app service with Docker.
+                <br />
+            </p>
         </div>
     </article>
     <article class="media">

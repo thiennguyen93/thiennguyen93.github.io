@@ -78,10 +78,29 @@ I love anything related to programming and web/app development. That is the reas
 <div class="timeline">
     <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+            <img src="https://thiennguyenpro.files.wordpress.com/2022/09/logo-02-250-x-250-px-white-bg.png?w=64">
+        </figure>
+        <div>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2022 - Now</span><a href="#" target="_blank">Gamify Studios Company Limited</a></strong></h4>
+            <p>Software Engineer</p>
+            <p  style="margin-bottom: 20px">
+                • Web game products
+                <br />
+                Backend Developer
+                <br />
+                Developing and maintaining RESTful API with Nodejs using NestJS framework, MySQL, Azure Storage
+                <br />
+                Working with micro-service architecture, message broker, Redis
+                <br />
+            </p>
+        </div>
+    </article>
+    <article class="media">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/cmc-global.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Now</span><a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span><a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
             <p>Software Engineer</p>
             <p  style="margin-bottom: 20px">
                 • THK CMMS

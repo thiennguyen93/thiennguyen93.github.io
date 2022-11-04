@@ -1,6 +1,6 @@
 ---
 title: Đã hai năm nhưng covid vẫn còn bám lấy mình
-date: 2022/11/03 00:25:00+07:00
+date: 2022/11/3
 categories:
 - Nhật ký
 language: vi

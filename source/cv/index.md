@@ -81,7 +81,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2022/09/logo-02-250-x-250-px-white-bg.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2022 - Now</span><a href="#" target="_blank">Gamify Studios Company Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#" target="_blank">Gamify Studios Company Limited</a></strong></h4>
             <p>Software Engineer</p>
             <p  style="margin-bottom: 20px">
                 • Web game products
@@ -100,7 +100,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/cmc-global.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span><a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
             <p>Software Engineer</p>
             <p  style="margin-bottom: 20px">
                 • THK CMMS
@@ -146,7 +146,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2020/03/hpt_logo.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Apr 2020 - Aug 2021</span><span class="has-text-grey-dark"><a href="https://www.hpt.vn/" target="_blank">HPT Vietnam Corporation</a></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span class="has-text-grey-dark"><a href="https://www.hpt.vn/" target="_blank">HPT Vietnam Corporation</a></span></strong></h4>
             <p>Software Engineer</p>
             <p  style="margin-bottom: 10px">• Cash Vault Management (Techcombank internal project) using IBM BPM platform, ReactJs, PHP, Oracle SQL. (Feb-May 2021 including three-week onsite in Hanoi City working at Techcombank headquarter for deployment).
             </p>
@@ -157,7 +157,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2020/03/phpgroupvn_logo-1.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Nov 2015 - Mar 2020</span> <span class="has-text-grey-dark"><a href="https://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span class="has-text-grey-dark"><a href="https://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
             <p>Customer Service Representative</p>
             <p  style="margin-bottom: 20px">Processing claims, forms, applications and handling clients' requests using CRM software.
             </p>
@@ -172,7 +172,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo.png?w=48">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://welab-corporation.github.io/" target="_blank">Welab</a></span></strong><span class="tag mr-2">JUL 2021</span></h4>
+            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://welab-corporation.github.io/" target="_blank">Welab</a></span></strong> <span class="tag mr-2">JUL 2021</span></h4>
             <p>A solution for business management and administration applied for the small and medium-sized medical centers.</p>
         </div>
     </article>
@@ -181,7 +181,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2022/08/ripplify-app-icon.png?w=48">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://ripplify.netlify.app/" target="_blank">Ripplify</a></span></strong><span class="tag mr-2">JUN 2021</span></h4>
+            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://ripplify.netlify.app/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
             <p>A free, handy and delightful tool initially designed for presenters, trainers and teachers who want to highlight their mouse pointer.</p>
         </div>
     </article>
@@ -190,7 +190,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2022/08/fscup-app-icon.png?w=42">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong></span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
+            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
             <p>An input assistance software used together with FSC Rater.</p>
         </div>
     </article>
@@ -199,7 +199,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2022/08/vcapture-app-icon.png?w=42">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><a href="http://thiennguyenpro.com/vcapture/en/" target="_blank">vCapture</a><span class="has-text-grey-dark"></span></strong><span class="tag mr-2">AUG 2014 (EOL)</span></h4>
+            <h4 class="is-size-6"><strong><a href="http://thiennguyenpro.com/vcapture/en/" target="_blank">vCapture</a><span class="has-text-grey-dark"></span></strong> <span class="tag mr-2">AUG 2014 (EOL)</span></h4>
             <p>A user-friendly screenshot utility.</p>
         </div>
     </article>
@@ -208,7 +208,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2022/08/facebook-cover-artist-app-icon-1.png?w=42">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://echip.vietnamnet.vn/thiet-ke-anh-bia-facebook-doc-dao-ket-hop-giua-avatar-va-cover-a20130726231418113-c1079.html" target="_blank">Facebook Cover Artist</a></strong></span><span class="tag mr-2">2013 (EOL)</span></h4>
+            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://echip.vietnamnet.vn/thiet-ke-anh-bia-facebook-doc-dao-ket-hop-giua-avatar-va-cover-a20130726231418113-c1079.html" target="_blank">Facebook Cover Artist</a></strong> </span><span class="tag mr-2">2013 (EOL)</span></h4>
             <p>A free Facebook cover photos maker.</p>
         </div>
     </article>
@@ -217,7 +217,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2022/08/vnet-personal-firewall-app-icon.png?w=42">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg" target="_blank">vNet Personal Firewall</a></span></strong><span class="tag mr-2">2010 (EOL)</span></h4>
+            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg" target="_blank">vNet Personal Firewall</a></span></strong> <span class="tag mr-2">2010 (EOL)</span></h4>
             <p>A free personal firewall for Windows.</p>
         </div>
     </article>
@@ -230,7 +230,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png?w=64">
         </figure>
         <div class="timeline-item">
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Dec 2017 - Oct 2020</span> <span class="has-text-grey-dark">VNUHCM - University of Science</span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span class="has-text-grey-dark">VNUHCM - University of Science</span></strong></h4>
             <p>B.S in Information Technology</p>
             <p  style="margin-bottom: 20px">Cloud Computing for Business, Data Structure and Algorithms, Object-oriented Programming, Databases and Database Management Systems, HTML, CSS, , Node.js, Javascript, MySQL.</p>
         </div>
@@ -240,7 +240,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2020/02/logo_spkt_thiennguyenicu.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2011 - Dec 2015</span> <span class="has-text-grey-dark">HCMC University of Technology and Education</span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span class="has-text-grey-dark">HCMC University of Technology and Education</span></strong></h4>
             <p>B.A in English Language Teaching</p>
             <p  style="margin-bottom: 20px">English for Business, English for Computing, Learners' Psychology, Teaching Methodology.</p>
         </div>

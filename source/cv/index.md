@@ -29,14 +29,14 @@ widgets:
                 icon: fas fa-phone
                 url: 'tel:+84395443490'
                 tooltip: 'Điện thoại: 039-544-3490'
-            'Email: phuocthien@outlook.com':
+            'Email: contact@thiennguyen.dev':
                 icon: fas fa-at
-                url: 'mailto:phuocthien@outlook.com?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A'   
-                tooltip: 'Email: phuocthien@outlook.com'
+                url: 'mailto:contact@thiennguyen.dev?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A'   
+                tooltip: 'Email: contact@thiennguyen.dev'
             'Download CV as PDF':
                 icon: fas fa-download
                 url: 'https://www.sejda.com/html-to-pdf?save-link=https://thiennguyen93.github.io/cv&viewportWidth=720&pageSize=A4&pageMargin=20px&pageOrientation=portrait'   
-                tooltip: 'Email: phuocthien@outlook.com'
+                tooltip: 'Email: contact@thiennguyen.dev'
     - 
         type: toc
         position: right
@@ -58,7 +58,7 @@ I love anything related to programming and web/app development. That is the reas
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Email</span></div>
-        <div class="column"><span class="has-text-grey">phuocthien@outlook.com</span></div>
+        <div class="column"><span class="has-text-grey">contact@thiennguyen.dev</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Phone</span></div>

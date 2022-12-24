@@ -31,7 +31,7 @@ Mình sinh ra và lớn lên ở Đồng Nai, đang sinh sống và làm việc 
 </div>
 
 <div id="about-site" class="tab-content is-hidden">
-  Mình lập blog cá nhân này để ghi chép lại những bài học học được từ chuyện đời, chuyện nghề với mục đích rèn luyện kỹ năng viết lách, chia sẽ kinh nghiệm, tổng hợp lại kiến thức và thực hành công nghệ. Cũng qua kênh này có thể cùng chia sẽ và trao đổi kiến thức cùng các bạn. Trong quá trình tham khảo bài viết tại đây, nếu thấy những điểm thiếu sót hoặc chưa rõ ràng, các bạn có thể liên lạc qua địa chỉ contact@thiennguyen.dev.
+  Mình lập blog cá nhân này để ghi chép lại những bài học học được từ chuyện đời, chuyện nghề với mục đích rèn luyện kỹ năng viết lách, chia sẽ kinh nghiệm, tổng hợp lại kiến thức và thực hành công nghệ. Cũng qua kênh này có thể cùng chia sẽ và trao đổi kiến thức cùng các bạn. Trong quá trình tham khảo bài viết tại đây, nếu thấy những điểm thiếu sót hoặc chưa rõ ràng, các bạn có thể liên lạc qua địa chỉ me@thiennguyen.dev.
   <br>
   Thân ái.
 </div>

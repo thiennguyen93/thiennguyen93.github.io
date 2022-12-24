@@ -116,7 +116,7 @@ navbar:
     links:
         View Profile on Facebook:
             icon: fab fa-facebook
-            url: https://www.facebook.com/thiennguyenpro/
+            url: https://www.facebook.com/thiennguyen.dev/
         View Profile on LinkedIn:
             icon: fab fa-linkedin
             url: https://www.linkedin.com/in/thiennguyenpro/
@@ -238,7 +238,7 @@ widgets:
                 url: 'https://thiennguyen93.github.io/'
             Facebook:
                 icon: fab fa-facebook
-                url: 'https://facebook.com/thiennguyenpro'
+                url: 'https://facebook.com/thiennguyen.dev'
             Twitter:
                 icon: fab fa-twitter
                 url: 'https://twitter.com/thiennguyenpro'

@@ -29,14 +29,14 @@ widgets:
                 icon: fas fa-phone
                 url: 'tel:+84395443490'
                 tooltip: 'Điện thoại: 039-544-3490'
-            'Email: contact@thiennguyen.dev':
+            'Email: me@thiennguyen.dev':
                 icon: fas fa-at
-                url: 'mailto:contact@thiennguyen.dev?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A'   
-                tooltip: 'Email: contact@thiennguyen.dev'
+                url: 'mailto:me@thiennguyen.dev?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A'   
+                tooltip: 'Email: me@thiennguyen.dev'
             'Download CV as PDF':
                 icon: fas fa-download
                 url: 'https://www.sejda.com/html-to-pdf?save-link=https://thiennguyen93.github.io/cv&viewportWidth=720&pageSize=A4&pageMargin=20px&pageOrientation=portrait'   
-                tooltip: 'Email: contact@thiennguyen.dev'
+                tooltip: 'Email: me@thiennguyen.dev'
     - 
         type: toc
         position: right
@@ -58,7 +58,7 @@ I love anything related to programming and web/app development. That is the reas
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Email</span></div>
-        <div class="column"><span class="has-text-grey">contact@thiennguyen.dev</span></div>
+        <div class="column"><span class="has-text-grey">me@thiennguyen.dev</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Phone</span></div>
@@ -84,14 +84,11 @@ I love anything related to programming and web/app development. That is the reas
             <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#" target="_blank">Gamify Studios Company Limited</a></strong></h4>
             <p>Software Engineer</p>
             <p  style="margin-bottom: 20px">
-                • Web game products
+                • Back-office System
                 <br />
                 Backend Developer
                 <br />
-                Developing and maintaining RESTful API with Nodejs using NestJS framework, MySQL, Azure Storage
-                <br />
-                Working with micro-service architecture, message broker, Redis
-                <br />
+                Developing and maintaining RESTful API for a management system to manage users, games, game players, game events, missions and marketing campaigns. The system consists a variety of sub-systems utilizing microservice architecture, such as, report module, cron service, messaging, transaction logger, message queue and so on.<br />
             </p>
         </div>
     </article>

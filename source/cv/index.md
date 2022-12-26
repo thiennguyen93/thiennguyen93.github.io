@@ -178,7 +178,7 @@ I love anything related to programming and web/app development. That is the reas
             <img src="https://thiennguyenpro.files.wordpress.com/2022/08/ripplify-app-icon.png?w=48">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://ripplify.netlify.app/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
+            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://ripplify.thiennguyen.dev/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
             <p>A free, handy and delightful tool initially designed for presenters, trainers and teachers who want to highlight their mouse pointer.</p>
         </div>
     </article>

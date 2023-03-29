@@ -8,7 +8,7 @@ toc: false
 cover: /gallery/covers/le-tot-nghiep-hcmus-2020.png
 thumbnail: /gallery/thumbnails/le-tot-nghiep-hcmus-2020_thumbnail.jpg
 ---
-Đó là một ngày đẹp trời kiểm tra thử github action. 111
+Đó là một ngày đẹp trời kiểm tra thử github action. 2222
 <!-- more -->
 <div class="justified-gallery">
 

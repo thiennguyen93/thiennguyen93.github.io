@@ -1,28 +1,25 @@
-name: CI
+name: website
 
-on: [push]
+on: push
 
 jobs:
-  build:
-
+  publish:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v1
-    - name: Run a multi-line script
-      env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}
-      run: |
-        echo "artifactname=${GH_TOKEN}" >> $GITHUB_ENV
-        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        git config --global user.name "github-actions"
-        git config --global url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "git@github.com:"
-        npm run myinstall
-        npm run build-gh-page
-      
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: gh-pages
+      -
+        name: Checkout
+        uses: actions/checkout@v3
+      -
+        name: Build
+        run: |        
+          npm run myinstall
+          npm run build-gh-page
+      -
+        name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: gh-pages
+          build_dir: ./
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

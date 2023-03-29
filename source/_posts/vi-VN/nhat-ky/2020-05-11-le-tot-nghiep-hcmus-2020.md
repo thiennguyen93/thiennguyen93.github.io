@@ -18,6 +18,7 @@ thumbnail: /gallery/thumbnails/le-tot-nghiep-hcmus-2020_thumbnail.jpg
 08 23:31
 09 00:03
 10 00:32
+11 00:40
 <!-- more -->
 <div class="justified-gallery">
 

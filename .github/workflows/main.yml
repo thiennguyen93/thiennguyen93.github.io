@@ -10,6 +10,8 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Run a multi-line script
+      env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         echo "artifactname=${GH_TOKEN}" >> $GITHUB_ENV
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"

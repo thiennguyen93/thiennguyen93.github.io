@@ -62,7 +62,7 @@ ignore: null
 theme: icarus
 deploy:
     type: git
-    repo: https://github.com/thiennguyen93/thiennguyen93.github.io.git
+    repo: thiennguyen93@github.com:thiennguyen93/thiennguyen93.github.io.git
     token: $GH_TOKEN
     branch: gh-pages
 feed:

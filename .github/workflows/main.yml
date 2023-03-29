@@ -12,6 +12,6 @@ jobs:
     - name: Run a multi-line script
       run: |
         git config --global user.email "phuocthien@outlook.com"
-        git config --global user.name "Thien Nguyen"
+        git config --global user.name "thiennguyen93"
         npm run myinstall
         npm run build-gh-page

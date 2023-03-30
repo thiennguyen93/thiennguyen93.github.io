@@ -8,20 +8,7 @@ toc: false
 cover: /gallery/covers/le-tot-nghiep-hcmus-2020.png
 thumbnail: /gallery/thumbnails/le-tot-nghiep-hcmus-2020_thumbnail.jpg
 ---
-Đó là một ngày đẹp trời kiểm tra thử github action. lần 145 hôm nay đi chơi - thử token 01 22:03
-02 22:16
-03 22:18
-04 22:20
-05 22:27
-06 22:29
-07 22:31
-08 23:31
-09 00:03
-10 00:32
-11 00:40
-12 q
-15 thiênnguyen
-16 22:20
+Đó là một ngày đẹp trời...
 <!-- more -->
 <div class="justified-gallery">
 

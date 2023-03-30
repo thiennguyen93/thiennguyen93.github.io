@@ -20,6 +20,7 @@ thumbnail: /gallery/thumbnails/le-tot-nghiep-hcmus-2020_thumbnail.jpg
 10 00:32
 11 00:40
 12 q
+15 thiênnguyen
 <!-- more -->
 <div class="justified-gallery">
 

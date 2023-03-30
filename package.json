@@ -8,7 +8,7 @@
     "build": "yarn add git+https://${GH_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY} && hexo generate",
     "build-gh-page": "hexo clean && hexo deploy",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "deploy": "gh-pages -d build",
     "server": "hexo server"
   },
   "hexo": {
@@ -34,6 +34,7 @@
     "yarn": "^1.22.11"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "npm": "latest"
   }
 }

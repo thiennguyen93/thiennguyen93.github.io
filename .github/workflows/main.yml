@@ -20,6 +20,7 @@ jobs:
         git config --global url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "git@github.com:"
         npm run myinstall
         npm run build-gh-page
+        npm run deploy
       
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3

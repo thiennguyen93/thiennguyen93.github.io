@@ -12,8 +12,8 @@ jobs:
       with:
         ssh-private-key: ${{ secrets.REPO_DEPLOY_KEY }}
         
-    - uses: actions/checkout@v1
     - name: Run a multi-line script
+    - uses: actions/checkout@v1
       env:
           GH_TOKEN_ICARUS_CUSTOM_THEME: ${{ secrets.GH_TOKEN_ICARUS_CUSTOM_THEME }}
           GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}

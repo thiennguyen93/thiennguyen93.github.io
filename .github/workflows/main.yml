@@ -14,17 +14,12 @@ jobs:
         echo GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} >> .env
     - name: Run a multi-line script
       env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}
       run: |
-        echo "GITHUB_TOKEN=${GITHUB_TOKEN}" >> $GITHUB_ENV
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git config --global user.name "github-actions"
         git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "git@github.com:"
-        touch .env
-        echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> .env
-        echo "GH_PRIVATE_THEME_REPOSITORY=${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}" >> .env
-        echo ${{ env.GITHUB_TOKEN }}
         npm run myinstall
         npm run build-gh-page
       

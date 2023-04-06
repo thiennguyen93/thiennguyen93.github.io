@@ -23,7 +23,8 @@ jobs:
         git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "git@github.com:"
         touch .env
         echo GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} >> .env
-        npm run myinstall && npm run build-gh-page
+        npm run myinstall
+        npm run build-gh-page
       
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3

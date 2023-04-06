@@ -24,7 +24,7 @@ jobs:
         touch .env
         echo GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} >> .env
         echo GH_PRIVATE_THEME_REPOSITORY=${{ secrets.GH_PRIVATE_THEME_REPOSITORY }} >> .env
-        echo ${{ env.GITHUB_ACTION }}
+        echo ${{ env.GITHUB_TOKEN }}
         npm run myinstall
         npm run build-gh-page
       

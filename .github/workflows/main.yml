@@ -22,7 +22,7 @@ jobs:
         git config --global user.name "github-actions"
         git config --global url."https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/".insteadOf "git@github.com:"
         npm install
-        npm install git+ssh://git@github.com:thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY} --no-save
+        npm install git+ssh://git@github.com:thiennguyen94/${GH_PRIVATE_THEME_REPOSITORY} --no-save
         npm run build-gh-page
       
     - name: Deploy

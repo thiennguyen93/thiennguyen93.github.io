@@ -8,6 +8,10 @@ jobs:
     permissions: write-all
     steps:
     - uses: actions/checkout@v1
+    - name: Create env file
+      run: |
+        touch .env
+        echo GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} >> .env
     - name: Run a multi-line script
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

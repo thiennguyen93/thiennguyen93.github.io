@@ -8,9 +8,9 @@ jobs:
     permissions: write-all
     steps:
     - name: Give GitHub Actions access to Michael-F-Bryan/my-secret-repo
-      uses: webfactory/ssh-agent@v0.5.4
+      uses: webfactory/ssh-agent@v0.7.0
       with:
-        ssh-private-key: ${{ secrets.SECRET_REPO_DEPLOY_KEY }}
+        ssh-private-key: ${{ secrets.REPO_DEPLOY_KEY }}
         
     - uses: actions/checkout@v1
     - name: Run a multi-line script
@@ -22,7 +22,7 @@ jobs:
         git config --global user.name "github-actions"
         git config --global url."https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/".insteadOf "git@github.com:"
         npm install
-        npm install git+https://${GH_TOKEN_ICARUS_CUSTOM_THEME}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY} --no-save
+        npm install git+ssh://git@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY} --no-save
         npm run build-gh-page
       
     - name: Deploy

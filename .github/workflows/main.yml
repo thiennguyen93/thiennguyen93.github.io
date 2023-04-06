@@ -4,25 +4,21 @@ on: [push]
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
-    permissions: write-all
+
     steps:
-    - name: Give GitHub Actions access to Michael-F-Bryan/my-secret-repo
-      uses: webfactory/ssh-agent@v0.7.0
-      with:
-        ssh-private-key: ${{ secrets.REPO_DEPLOY_KEY }}
-        
     - uses: actions/checkout@v1
     - name: Run a multi-line script
       env:
-          GH_TOKEN_ICARUS_CUSTOM_THEME: ${{ secrets.GH_TOKEN_ICARUS_CUSTOM_THEME }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}
       run: |
+        echo "artifactname=${GH_TOKEN}" >> $GITHUB_ENV
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git config --global user.name "github-actions"
-        # git config --global url."https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/".insteadOf "git@github.com:"
-        npm install
-        npm install git+ssh://git@github.com:thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY} --no-save
+        git config --global url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "git@github.com:"
+        npm run myinstall
         npm run build-gh-page
       
     - name: Deploy

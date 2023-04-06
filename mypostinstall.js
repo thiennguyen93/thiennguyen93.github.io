@@ -5,6 +5,7 @@ exec(postInstallCustomTheme, function(err, stdout, stderr) {
     if (err) {
       console.log("Da co loi xay ra!!!");
     }
+    console.log("Custom theme installed successfully")
     console.log(stdout);
   });
   

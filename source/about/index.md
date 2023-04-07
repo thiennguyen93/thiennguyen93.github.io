@@ -11,11 +11,11 @@ cover:
 
 
 {% tabs %}
-<!-- tab id:tab_size_default_1 "title:Tab 1" active -->
+<!-- tab id:about-me "icon:fa-file-code" "title:Tab 1" active -->
 Chào cậu, mình là Thiện Nguyễn (Nguyễn Ngọc Phước Thiện) - tác giả blog.
 Mình sinh ra và lớn lên ở Đồng Nai, đang sinh sống và làm việc tại TP Hồ Chí Minh. Hiện mình đang làm kỹ sư phần mềm tại Gamify Studios. Mình chọn công việc này vì thích tính chất của nó: luôn đổi mới và sáng tạo. Nghề đã dạy cho mình sự khiêm tốn, sự kiên trì và tinh thần học hỏi không ngừng nghỉ. 
 <!-- endtab -->
-<!-- tab id:tab_size_default_2 "title:Tab 2" -->
+<!-- tab id:about-site "icon:fa-cubes" "title:Tab 2" -->
 Mình lập blog cá nhân này để ghi chép lại những bài học học được từ chuyện đời, chuyện nghề với mục đích rèn luyện kỹ năng viết lách, chia sẽ kinh nghiệm, tổng hợp lại kiến thức và thực hành công nghệ. Cũng qua kênh này có thể cùng chia sẽ và trao đổi kiến thức cùng các bạn. Trong quá trình tham khảo bài viết tại đây, nếu thấy những điểm thiếu sót hoặc chưa rõ ràng, các bạn có thể liên lạc qua địa chỉ me@thiennguyen.dev.
 <br>
 Thân ái.
@@ -23,7 +23,7 @@ Thân ái.
 {% endtabs %}
 
 
-
+<!-- 
 <div class="tabs is-boxed my-3">
   <ul class="mx-0 my-0">
     <li class="is-active">
@@ -47,7 +47,7 @@ Thân ái.
 
 <div id="about-site" class="tab-content is-hidden">
  
-</div>
+</div> -->
 
 
 

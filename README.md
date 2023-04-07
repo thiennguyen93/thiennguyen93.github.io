@@ -7,11 +7,17 @@
 - Adding .env with the following environment variables:
     - GH_TOKEN: Github personal access token (scope: repo)
     - GH_PRIVATE_THEME_REPOSITORY: the name of theme repository
-# Github Page:
+# Github Page: 
+## On local
 - Clone the source;
 - Run command "npm run myinstall" to install packages;
 - Run command "npm run build-gh-page" to generate Github Page;
 - Done
+## With Github Action
+- Personal access token is required.
+- Go to repository Settings → Secrets and Variables → Actions, add two secrets
+    - GH_PRIVATE_THEME_REPOSITORY: Custom theme private repository
+    - GH_TOKEN: Personnal access token to give access to the private theme repository
 
 # Netlify:
 - Site settings > Build & deploy > Build settings;

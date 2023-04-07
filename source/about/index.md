@@ -8,16 +8,12 @@ article:
 enableDate: false
 cover:
 ---
-<div class="example-tab-container">
-{% tabs %}
-<!-- tab id:tab_size_default_1 "title:Tab 1" active -->
-This is tab 1 of a tab container when `size` is not specified.
-<!-- endtab -->
-<!-- tab id:tab_size_default_2 "title:Tab 2" -->
-This is tab 2 of a tab container when `size` is not specified.
-<!-- endtab -->
-{% endtabs %}
-</div>
+
+{% message color:<color> size:<size> icon:<icon> title:<title> %}
+    <content>
+{% endmessage %}
+
+
 <div class="tabs is-boxed my-3">
   <ul class="mx-0 my-0">
     <li class="is-active">

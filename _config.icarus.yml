@@ -122,7 +122,7 @@ navbar:
             url: https://www.linkedin.com/in/thiennguyenpro/
         View Profile on GitHub:
             icon: fab fa-github
-            url: 'https://thiennguyen93.github.io/'
+            url: 'https://github.com/thiennguyen93'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -135,7 +135,7 @@ footer:
             url: 'https://creativecommons.org/licenses/by/4.0/'
         View Profile on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/thiennguyen93/thiennguyen93.github.io'
+            url: 'https://github.com/thiennguyen93'
 # Article related configurations
 article:
     # Code highlight settings
@@ -230,7 +230,7 @@ widgets:
         # Email address for the Gravatar
         gravatar: phuocthien@outlook.com
         # URL or path for the follow button
-        follow_link: 'https://thiennguyen93.github.io/'
+        follow_link: 'https://thiennguyen.dev/cv'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:

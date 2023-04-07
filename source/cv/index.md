@@ -191,33 +191,6 @@ I love anything related to programming and web/app development. That is the reas
             <p>An input assistance software used together with FSC Rater.</p>
         </div>
     </article>
-    <article class="media">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2022/08/vcapture-app-icon.png?w=42">
-        </figure>
-        <div>
-            <h4 class="is-size-6"><strong><a href="http://thiennguyenpro.com/vcapture/en/" target="_blank">vCapture</a><span class="has-text-grey-dark"></span></strong> <span class="tag mr-2">AUG 2014 (EOL)</span></h4>
-            <p>A user-friendly screenshot utility.</p>
-        </div>
-    </article>
-    <article class="media">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2022/08/facebook-cover-artist-app-icon-1.png?w=42">
-        </figure>
-        <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://echip.vietnamnet.vn/thiet-ke-anh-bia-facebook-doc-dao-ket-hop-giua-avatar-va-cover-a20130726231418113-c1079.html" target="_blank">Facebook Cover Artist</a></strong> </span><span class="tag mr-2">2013 (EOL)</span></h4>
-            <p>A free Facebook cover photos maker.</p>
-        </div>
-    </article>
-    <article class="media">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2022/08/vnet-personal-firewall-app-icon.png?w=42">
-        </figure>
-        <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg" target="_blank">vNet Personal Firewall</a></span></strong> <span class="tag mr-2">2010 (EOL)</span></h4>
-            <p>A free personal firewall for Windows.</p>
-        </div>
-    </article>
 </div>
 
 ### <span class="tag mr-2 is-success is-size-6"><i class="fas fa-graduation-cap"></i></span> <span style="color: #4a4a4a;">Education</span>

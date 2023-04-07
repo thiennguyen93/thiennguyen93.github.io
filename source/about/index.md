@@ -8,12 +8,6 @@ article:
 enableDate: false
 cover:
 ---
-
-{% message color:<color> size:<size> icon:<icon> title:<title> %}
-    <content>
-{% endmessage %}
-
-
 <div class="tabs is-boxed my-3">
   <ul class="mx-0 my-0">
     <li class="is-active">

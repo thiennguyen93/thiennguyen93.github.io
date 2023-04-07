@@ -166,15 +166,6 @@ I love anything related to programming and web/app development. That is the reas
 <div class="timeline">
     <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo.png?w=48">
-        </figure>
-        <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://welab-corporation.github.io/" target="_blank">Welab</a></span></strong> <span class="tag mr-2">JUL 2021</span></h4>
-            <p>A solution for business management and administration applied for the small and medium-sized medical centers.</p>
-        </div>
-    </article>
-    <article class="media">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2022/08/ripplify-app-icon.png?w=48">
         </figure>
         <div>

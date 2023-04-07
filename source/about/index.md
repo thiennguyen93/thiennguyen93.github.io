@@ -8,6 +8,17 @@ article:
 enableDate: false
 cover:
 ---
+
+{% tabs size:<size> align:<align> style:<style> %}
+<!-- tab id:<tab_id> icon:<icon> title:<tab_title> active -->
+<content>
+<!-- endtab -->
+<!-- tab id:<tab_id> icon:<icon> title:<tab_title> -->
+<content>
+<!-- endtab -->
+...
+{% endtabs %}
+
 <div class="tabs is-boxed my-3">
   <ul class="mx-0 my-0">
     <li class="is-active">

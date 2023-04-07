@@ -135,7 +135,7 @@ footer:
             url: 'https://creativecommons.org/licenses/by/4.0/'
         View Profile on GitHub:
             icon: fab fa-github
-            url: 'https://thiennguyen93.github.io/'
+            url: 'https://github.com/thiennguyen93/thiennguyen93.github.io'
 # Article related configurations
 article:
     # Code highlight settings

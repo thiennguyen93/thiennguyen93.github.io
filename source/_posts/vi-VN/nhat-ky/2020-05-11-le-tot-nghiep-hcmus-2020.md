@@ -10,6 +10,7 @@ thumbnail: /gallery/thumbnails/le-tot-nghiep-hcmus-2020_thumbnail.jpg
 ---
 Đó là một ngày đẹp trời...
 01.2023.04.06 11:00
+12313
 <!-- more -->
 <div class="justified-gallery">
 

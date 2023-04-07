@@ -3,7 +3,9 @@ subtitle: ''
 description: ''
 keywords: null
 author: Thiện Nguyễn
-language: vi
+language:
+  - vi
+  - en
 timezone: ''
 url: https://thiennguyen.dev
 permalink: ':year/:month/:day/:title/'

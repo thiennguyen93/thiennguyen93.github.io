@@ -222,12 +222,12 @@ max-width: 195px;
       <textarea required class="textarea" placeholder="Nội dung tin nhắn" name="message"></textarea>
     </div>
   </div>
-<article id="error-message" class="message is-danger">
+<article id="error-message" class="message is-danger is-hidden">
   <div class="message-body">
     Rất tiếc, đã có lỗi xảy ra. Vui lòng thử lại.
   </div>
 </article>
-  <div class="field is-grouped is-hidden">
+  <div class="field is-grouped">
     <div class="control">
       <button id="submitBtn" type="submit" class="button is-link">Gửi</button>
     </div>

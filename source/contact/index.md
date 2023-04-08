@@ -9,6 +9,7 @@ excerpt: Gửi ý kiến đóng góp của bạn cho blog
 ---
 Mình mong nhận được ý kiến đóng góp của các bạn để xây dựng blog ngày càng có nhiều nội dung hữu ích hơn
 
+<div>
 <style>
 .card {
 margin: 100px auto;
@@ -190,6 +191,7 @@ max-width: 195px;
 .path {stroke-dasharray: 0 !important;}
 </style>
 <![endif]-->
+</div>
 
 <div id="feedback-form">
 <form id="form" action="">

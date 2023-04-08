@@ -233,7 +233,7 @@ max-width: 195px;
 
 
 <!-- BOX THANK YOU -->
-<div id="thank-you-box" class="is-invisible">
+<div id="thank-you-box" class="is-hidden">
 <div class="card_contact_page">
 <svg width="70px" height="70px" class="success" viewBox="0 0 70 70" version="1.1"
 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -287,11 +287,11 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       .then(response => {
         // hide feedback form
         var feedBackForm = document.getElementById("feedback-form");
-        feedBackForm.classList.add("is-invisible");
+        feedBackForm.classList.add("is-hidden");
   
         // show thank box
         var thankBox = document.getElementById("thank-you-box");
-        feedBackForm.classList.remove("is-invisible");
+        feedBackForm.classList.remove("is-hidden");
   
       })
       .catch(error => console.log(error))

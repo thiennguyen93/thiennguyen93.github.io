@@ -231,8 +231,9 @@ max-width: 195px;
 </form>
 </div>
 
+
 <!-- BOX THANK YOU -->
-<div id="thank-you-box">
+<div id="thank-you-box" class="is-invisible">
 <div class="card_contact_page">
 <svg width="70px" height="70px" class="success" viewBox="0 0 70 70" version="1.1"
 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -250,7 +251,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <p class="card_contact_page-p">The form was submitted successfully.</p>
 </div>
 </div>
-
+<!-- END BOX THANNK-YOU -->
 
 <script>
   var form = document.getElementById("form");
@@ -283,7 +284,16 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         method: "POST",
         body: formData,
       })
-      .then(response => console.log(response))
+      .then(response => {
+        // hide feedback form
+        var feedBackForm = document.getElementById("feedback-form");
+        feedBackForm.classList.add("is-invisible");
+  
+        // show thank box
+        var thankBox = document.getElementById("thank-you-box");
+        feedBackForm.classList.remove("is-invisible");
+  
+      })
       .catch(error => console.log(error))
       .finally(() => {
         submitBtn.innerHTML = "Gửi"

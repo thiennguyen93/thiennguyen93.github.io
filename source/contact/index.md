@@ -66,7 +66,7 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
       'message',
       document.querySelector('textarea[name="message"]').value
     )
-  
+
     var submitBtn = document.getElementById("submitBtn");
     submitBtn.innerHTML = "Đang gửi..."
     submitBtn.setAttribute("disabled", "");

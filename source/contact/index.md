@@ -39,7 +39,7 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
 
   <div class="field is-grouped">
     <div class="control">
-      <button type="sumit" class="button is-link">Gửi</button>
+      <button id="submitBtn" type="submit" class="button is-link">Gửi</button>
     </div>
   </div>
 </form>
@@ -65,6 +65,9 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
       'message',
       document.querySelector('textarea[name="message"]').value
     )
+  
+    var submitBtn = document.getElementById("submitBtn");
+    submitBtn.innerHTML = "Đang gửi..."
 
     fetch(url,
       {

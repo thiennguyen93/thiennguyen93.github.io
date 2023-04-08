@@ -251,8 +251,8 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 </g>
 </g>
 </svg>
-<h1>Thank You!</h1>
-<p class="card_contact_page-p">The form was submitted successfully.</p>
+<h1>Cám ơn phản hồi của bạn!</h1>
+<p class="card_contact_page-p"><a>Bấm vào đây để quay lại</a></p>
 </div>
 </div>
 <!-- END BOX THANNK-YOU -->

@@ -14,6 +14,7 @@ widgets:
         position: right
         author: Thien Nguyen
         author_title: Software Engineer
+        avatar_rounded: true
         location: Ho Chi Minh City, Vietnam
         gravatar: info@thiennguyenpro.com
         follow_link: 'https://www.linkedin.com/in/thiennguyenpro/'

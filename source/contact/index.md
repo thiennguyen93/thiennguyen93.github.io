@@ -68,7 +68,7 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
   
     var submitBtn = document.getElementById("submitBtn");
     submitBtn.innerHTML = "Đang gửi..."
-    submitBtn.setAttribute("disabled");
+    submitBtn.setAttribute("disabled", "");
 
     fetch(url,
       {
@@ -77,6 +77,10 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
       })
       .then(response => console.log(response))
       .catch(error => console.log(error))
+      .finally(() => {
+        submitBtn.innerHTML = "Gửi"
+        submitBtn.removeAttribute("disabled");
+      })
   }
 
 </script>

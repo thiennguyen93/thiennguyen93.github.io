@@ -222,7 +222,11 @@ max-width: 195px;
       <textarea required class="textarea" placeholder="Nội dung tin nhắn" name="message"></textarea>
     </div>
   </div>
-
+<article id="error-message" class="message is-danger">
+  <div class="message-body">
+    Rất tiếc, đã có lỗi xảy ra. Vui lòng thử lại.
+  </div>
+</article>
   <div class="field is-grouped">
     <div class="control">
       <button id="submitBtn" type="submit" class="button is-link">Gửi</button>
@@ -278,7 +282,17 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     var submitBtn = document.getElementById("submitBtn");
     submitBtn.innerHTML = "Đang gửi..."
     submitBtn.setAttribute("disabled", "");
+  
+    var errMsg = document.getElementById("error-message")
+    errMsg.classList.add("is-hidden")
+  
+    // Get feedbackForm
+    var feedBackForm = document.getElementById("feedback-form");
 
+    // Get thankbox
+    var thankBox = document.getElementById("thank-you-box");
+  
+  
     fetch(url,
       {
         method: "POST",
@@ -286,15 +300,15 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       })
       .then(response => {
         // hide feedback form
-        var feedBackForm = document.getElementById("feedback-form");
         feedBackForm.classList.add("is-hidden");
   
         // show thank box
-        var thankBox = document.getElementById("thank-you-box");
         thankBox.classList.remove("is-hidden");
-  
       })
-      .catch(error => console.log(error))
+      .catch(error => {
+        console.log(error);
+        errMsg.classList.remove("is-hidden")
+      })
       .finally(() => {
         submitBtn.innerHTML = "Gửi"
         submitBtn.removeAttribute("disabled");

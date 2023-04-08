@@ -11,7 +11,7 @@ thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
 
 Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố biển Vũng Tàu nhé!!!
 
-{% aplayer "Caffeine" "Jeff Williams" "caffeine.mp3" "personal-avatar.png" %}
+{% aplayer "Caffeine" "Jeff Williams" "https://thiennguyenpro.files.wordpress.com/2021/04/tinhbandieuky-ameerickystarlangld.jpg" "personal-avatar.png" %}
 
 {% message %}
   Xem bài viết được trình bày đặc sắc hơn tại: [https://blog.thiennguyen.dev/2021/04/25/team-building-vung-tau-2021/](https://blog.thiennguyen.dev/2021/04/25/team-building-vung-tau-2021/)

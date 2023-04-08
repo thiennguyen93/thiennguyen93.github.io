@@ -49,7 +49,7 @@ Sau khi phỏng vấn kỹ thuật xong, các sếp sẽ hỏi mức lương mon
 
 Mình đôi lúc cũng gặp một số câu hỏi như: Em có ngại việc đi làm xa không?; Kế hoạch của mình trong tương lai là gì?
 
-> Một vài công ty có thể tách vòng này ra làm 02 vòng, có thể phỏng vấn cùng một buổi hoặc chia thành hai buổi riêng (có kế quả buổi đầu thì mới hẹn buổi sau).
+> Một vài công ty có thể tách vòng này ra làm 02 vòng, có thể phỏng vấn cùng một buổi hoặc chia thành hai buổi riêng (có kết quả buổi đầu thì mới hẹn buổi sau).
 > - Phỏng vấn với người quản lý trực tiếp chủ yếu là về kỹ thuật
 > - Phỏng vấn với người quản lý cấp cao hơn/sếp tổng/sếp người nước ngoài chủ yếu là thái độ làm việc, deal lương. Mình được phỏng vấn sếp người Việt nè, sếp người Nhật nè (có người phiên dịch do mình không biết tiếng Nhật), và người Úc, người Mỹ dĩ nhiên là nói tiếng Anh rồi. Phần này nếu phỏng vấn bằng tiếng Anh thì cũng nhằm đánh giá năng lực tiếng Anh của mình nữa.
 

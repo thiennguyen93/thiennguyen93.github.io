@@ -7,7 +7,7 @@ donates: false
 comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
 ---
-<span>
+<span id="form-caption">
 Mình mong nhận được ý kiến đóng góp của các bạn để xây dựng blog ngày càng có nhiều nội dung hữu ích hơn
 </span>
 
@@ -278,6 +278,9 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   var goBackBtn = document.getElementById("goBackBtn")
   goBackBtn.addEventListener("click", goBack);
   
+  // Get caption 
+  var formCaption = document.getElementById("form-caption")
+  
   function goBack() {
     // Hide
     thankBox.classList.add("is-hidden");
@@ -285,6 +288,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   
     // Show
     feedBackForm.classList.remove("is-hidden");
+    formCaption.classList.remove("is-hidden");
   
     // Clear all inputs/textarea
     const inputs = document.querySelectorAll('input[name="full-name"], input[name="email"], textarea[name="message"]');
@@ -329,6 +333,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       .then(response => {
         // hide feedback form
         feedBackForm.classList.add("is-hidden");
+        formCaption.classList.add("is-hidden");
   
         // show thank box
         thankBox.classList.remove("is-hidden");

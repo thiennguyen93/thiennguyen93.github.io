@@ -11,7 +11,7 @@ thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
 
 Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố biển Vũng Tàu nhé!!!
 
-{% aplayer "Tình bạn diệu kì" "Ricky Star x Lăng LD x Amee" "assets/music/tinhbandieuky-ameerickystarlangld.mp3" "album-tinh-ban-dieu-ky.webp" "lrc:tinh-ban-dieu-ky.lrc" %}
+{% aplayer "Tình bạn diệu kì" "Ricky Star x Lăng LD x Amee" "/assets/music/tinhbandieuky-ameerickystarlangld.mp3" "album-tinh-ban-dieu-ky.webp" "lrc:tinh-ban-dieu-ky.lrc" %}
 
 {% message %}
   Xem bài viết được trình bày đặc sắc hơn tại: [https://blog.thiennguyen.dev/2021/04/25/team-building-vung-tau-2021/](https://blog.thiennguyen.dev/2021/04/25/team-building-vung-tau-2021/)

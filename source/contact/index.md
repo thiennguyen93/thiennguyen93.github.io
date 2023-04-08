@@ -11,12 +11,12 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
 
 <div>
 <style>
-.card {
+.card_contact_page {
 margin: 100px auto;
 text-align: center;
 }
 
-.card p {
+.card_contact_page p {
 margin-bottom: 72px;
 font-size: 18px;
 color: #151515;
@@ -161,10 +161,10 @@ text-decoration: none;
 background: #E0E0E0;
 }
 @media (max-width: 576px) {
-.card {
+.card_contact_page {
 margin: 30px auto 110px;
 }
-.card-p {
+.card_contact_page-p {
 margin-bottom: 24px !important;
 }
 .file {
@@ -233,7 +233,7 @@ max-width: 195px;
 
 <!-- BOX THANK YOU -->
 <div id="thank-you-box">
-<div class="card">
+<div class="card_contact_page">
 <svg width="70px" height="70px" class="success" viewBox="0 0 70 70" version="1.1"
 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -247,7 +247,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 </g>
 </svg>
 <h1>Thank You!</h1>
-<p class="card-p">The form was submitted successfully.</p>
+<p class="card_contact_page-p">The form was submitted successfully.</p>
 </div>
 </div>
 

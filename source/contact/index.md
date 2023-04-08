@@ -8,7 +8,6 @@ comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
 ---
 Mình mong nhận được ý kiến đóng góp của các bạn để xây dựng blog ngày càng có nhiều nội dung hữu ích hơn
-
 <form id="form" action="">
   <div class="field">
     <label class="label">Họ tên</label>
@@ -48,8 +47,7 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
 <script>
   var form = document.getElementById("form");
   form.addEventListener("submit", formSubmit);
-  var url = https://getform.io/f/3b706801-81e4-46a2-be69-3bde70752114;
-  
+  var url = "https://getform.io/f/3b706801-81e4-46a2-be69-3bde70752114"
   function formSubmit(e) {
     e.preventDefault()
 

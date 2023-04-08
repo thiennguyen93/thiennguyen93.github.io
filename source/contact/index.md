@@ -7,9 +7,9 @@ donates: false
 comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
 ---
-<span id="form-caption">
+<p id="form-caption">
 Mình mong nhận được ý kiến đóng góp của các bạn để xây dựng blog ngày càng có nhiều nội dung hữu ích hơn
-</span>
+</p>
 
 <div>
 <style>

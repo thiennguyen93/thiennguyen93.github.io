@@ -227,7 +227,7 @@ max-width: 195px;
     Rất tiếc, đã có lỗi xảy ra. Vui lòng thử lại.
   </div>
 </article>
-  <div class="field is-grouped">
+  <div class="field is-grouped is-hidden">
     <div class="control">
       <button id="submitBtn" type="submit" class="button is-link">Gửi</button>
     </div>

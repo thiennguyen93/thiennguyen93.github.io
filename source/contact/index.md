@@ -291,7 +291,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   
         // show thank box
         var thankBox = document.getElementById("thank-you-box");
-        feedBackForm.classList.remove("is-hidden");
+        thankBox.classList.remove("is-hidden");
   
       })
       .catch(error => console.log(error))

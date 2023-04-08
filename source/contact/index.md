@@ -228,9 +228,28 @@ max-width: 195px;
   </div>
 </form>
 </div>
+
+<!-- BOX THANK YOU -->
 <div id="thank-you-box">
-  
+<div class="card">
+<svg width="70px" height="70px" class="success" viewBox="0 0 70 70" version="1.1"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g transform="translate(-1233.000000, -901.000000)" stroke="#34D183" stroke-width="4">
+<g transform="translate(1237.000000, 905.000000)" class="path circle">
+<circle class="path circle" cx="32" cy="32" r="32"></circle>
+<polyline class="path check" points="48 22.7096774 26.6484279 42.3225806 15.483871 31.5557034">
+</polyline>
+</g>
+</g>
+</g>
+</svg>
+<h1>Thank You!</h1>
+<p class="card-p">The form was submitted successfully.</p>
 </div>
+</div>
+
+
 <script>
   var form = document.getElementById("form");
   form.addEventListener("submit", formSubmit);

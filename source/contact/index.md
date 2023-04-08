@@ -252,15 +252,39 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 </g>
 </svg>
 <h1>Cám ơn phản hồi của bạn!</h1>
-<p class="card_contact_page-p"><a>Bấm vào đây để quay lại</a></p>
+<p class="card_contact_page-p"><button id="goBackBtn" class="button is-primary is-light">Bấm vào đây để quay lại</button></p>
 </div>
 </div>
 <!-- END BOX THANNK-YOU -->
 
 <script>
+  // Get feedbackForm
+  var feedBackForm = document.getElementById("feedback-form");
+
+  // Get thankbox
+  var thankBox = document.getElementById("thank-you-box");
+  
+  // Get error message
+  var errMsg = document.getElementById("error-message")
+  
+  // Get main form 
   var form = document.getElementById("form");
   form.addEventListener("submit", formSubmit);
   var url = "https://getform.io/f/3b706801-81e4-46a2-be69-3bde70752114"
+  
+  // Get button go backk
+  var goBackBtn = document.getElementById("goBackBtn")
+  goBackBtn.addEventListener("click", goBack);
+  
+  function goBack() {
+    // Hide
+    thankBox.classList.add("is-hidden");
+    errMsg.classList.add("is-hidden");
+  
+    // Show
+     feedBackForm.classList.remove("is-hidden");
+  }
+  
   function formSubmit(e) {
     e.preventDefault()
 
@@ -283,14 +307,9 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     submitBtn.innerHTML = "Đang gửi..."
     submitBtn.setAttribute("disabled", "");
   
-    var errMsg = document.getElementById("error-message")
     errMsg.classList.add("is-hidden")
   
-    // Get feedbackForm
-    var feedBackForm = document.getElementById("feedback-form");
 
-    // Get thankbox
-    var thankBox = document.getElementById("thank-you-box");
   
   
     fetch(url,

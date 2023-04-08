@@ -7,7 +7,9 @@ donates: false
 comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
 ---
+<span>
 Mình mong nhận được ý kiến đóng góp của các bạn để xây dựng blog ngày càng có nhiều nội dung hữu ích hơn
+</span>
 
 <div>
 <style>
@@ -282,7 +284,14 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     errMsg.classList.add("is-hidden");
   
     // Show
-     feedBackForm.classList.remove("is-hidden");
+    feedBackForm.classList.remove("is-hidden");
+  
+    // Clear all inputs/textarea
+    const inputs = document.querySelectorAll('input[name="full-name"], input[name="email"], textarea[name="message"]');
+    inputs.forEach(input => {
+      input.value = '';
+    });
+  
   }
   
   function formSubmit(e) {

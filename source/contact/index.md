@@ -48,7 +48,8 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
 <script>
   var form = document.getElementById("form");
   form.addEventListener("submit", formSubmit);
-  // https://getform.io/f/3b706801-81e4-46a2-be69-3bde70752114
+  var url = https://getform.io/f/3b706801-81e4-46a2-be69-3bde70752114;
+  
   function formSubmit(e) {
     e.preventDefault()
 
@@ -67,7 +68,7 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
       document.querySelector('textarea[name="message"]').value
     )
 
-    fetch("https://getform.io/f/{your-form-endpoint}",
+    fetch(url,
       {
         method: "POST",
         body: formData,

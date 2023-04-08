@@ -84,6 +84,9 @@ Mình mong nhận được ý kiến đóng góp của các bạn để xây d�
       })
       .then(response => console.log(response))
       .catch(error => console.log(error))
+      .finally(() => {
+          submitBtn.innerHTML = "Gửi"
+      })
   }
 
 </script>

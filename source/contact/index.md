@@ -8,6 +8,27 @@ comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
 ---
 Mình mong nhận được ý kiến đóng góp của các bạn để xây dựng blog ngày càng có nhiều nội dung hữu ích hơn
+
+<script>
+  $(function() {
+    $("#ajaxForm").on('submit', function(event) {
+      var $form = $(this);
+      console.log("Form submit");
+      $.ajax({
+        type: $form.attr('method'),
+        url: $form.attr('action'),
+        data: $form.serialize(),
+        success: function() {
+          $("#feedback-form").toggle("slide").find("textarea").val('');
+        }
+      });
+      event.preventDefault();
+	});
+});
+
+
+</script>
+
 <form id="ajaxForm" action="https://getform.io/f/3b706801-81e4-46a2-be69-3bde70752114" method="POST">
 <div class="field">
   <label class="label">Họ tên</label>

@@ -18,6 +18,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
     "showlrc": 3,
     "mutex": true,
     "mode": "order",
+    "loop":"none",
     "music": [
         {
             "title": "Tình bạn diệu kì",

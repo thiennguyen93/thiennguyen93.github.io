@@ -25,7 +25,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
             "author": "Ricky Star x Lăng LD x Amee",
             "url": "/assets/music/tinhbandieuky-ameerickystarlangld.mp3",
             "pic": "album-tinh-ban-dieu-ky.webp",
-            "lrc": "tinh-ban-dieu-ky.lrc"
+            "lrc": "/assets/lyrics/tinh-ban-dieu-ky.lrc"
         }
     ]
 }

@@ -23,9 +23,9 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
         {
             "title": "Tình bạn diệu kì",
             "author": "Ricky Star x Lăng LD x Amee",
-            "url": "/assets/music/tinhbandieuky-ameerickystarlangld.mp3",
-            "pic": "album-tinh-ban-dieu-ky.webp",
-            "lrc": "/assets/lyrics/tinh-ban-dieu-ky.lrc"
+            "url": "/assets/media/tinh-ban-dieu-ky/music.mp3",
+            "pic": "/assets/media/tinh-ban-dieu-ky/album.webp",
+            "lrc": "/assets/media/tinh-ban-dieu-ky/lyric.lrc"
         }
     ]
 }

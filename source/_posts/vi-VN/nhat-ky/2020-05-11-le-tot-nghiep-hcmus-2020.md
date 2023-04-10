@@ -7,6 +7,7 @@ language: vi
 toc: false
 cover: /gallery/covers/le-tot-nghiep-hcmus-2020.png
 thumbnail: /gallery/thumbnails/le-tot-nghiep-hcmus-2020_thumbnail.jpg
+hide: true
 ---
 Đó là một ngày đẹp trời...
 01.2023.04.06 11:00

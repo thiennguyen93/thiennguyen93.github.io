@@ -197,6 +197,7 @@ max-width: 195px;
 
 <div id="feedback-form">
 <form id="form" action="">
+<fieldset id="form-fieldset">
   <div class="field">
     <label class="label">Họ tên</label>
     <div class="control">
@@ -234,6 +235,7 @@ max-width: 195px;
       <button id="submitBtn" type="submit" class="button is-link">Gửi</button>
     </div>
   </div>
+</fieldset>
 </form>
 </div>
 
@@ -260,8 +262,12 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <!-- END BOX THANNK-YOU -->
 
 <script>
+  var classIsHidden = "is-hidden"
+  var attributeDisabled = "disabled"
+  
   // Get feedbackForm
   var feedBackForm = document.getElementById("feedback-form");
+  var formFieldset = document.getElementById("form-fieldset");
 
   // Get thankbox
   var thankBox = document.getElementById("thank-you-box");
@@ -283,12 +289,15 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   
   function goBack() {
     // Hide
-    thankBox.classList.add("is-hidden");
-    errMsg.classList.add("is-hidden");
+    thankBox.classList.add(classIsHidden);
+    errMsg.classList.add(classIsHidden);
   
     // Show
-    feedBackForm.classList.remove("is-hidden");
-    formCaption.classList.remove("is-hidden");
+    feedBackForm.classList.remove(classIsHidden);
+    formCaption.classList.remove(classIsHidden);
+
+    // Enable fieldset
+    formFieldset.removeAttribute(attributeDisabled);
   
     // Clear all inputs/textarea
     const inputs = document.querySelectorAll('input[name="full-name"], input[name="email"], textarea[name="message"]');
@@ -318,12 +327,12 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     var submitBtn = document.getElementById("submitBtn");
     submitBtn.innerHTML = "Đang gửi..."
-    submitBtn.setAttribute("disabled", "");
+    submitBtn.setAttribute(attributeDisabled, "");
   
-    errMsg.classList.add("is-hidden")
-  
+    errMsg.classList.add(classIsHidden)
 
-  
+    // Disabled 
+    formFieldset.setAttribute(attributeDisabled, "");
   
     fetch(url,
       {
@@ -332,19 +341,20 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       })
       .then(response => {
         // hide feedback form
-        feedBackForm.classList.add("is-hidden");
-        formCaption.classList.add("is-hidden");
+        feedBackForm.classList.add(classIsHidden);
+        formCaption.classList.add(classIsHidden);
   
         // show thank box
-        thankBox.classList.remove("is-hidden");
+        thankBox.classList.remove(classIsHidden);
       })
       .catch(error => {
         console.log(error);
-        errMsg.classList.remove("is-hidden")
+        errMsg.classList.remove(classIsHidden)
       })
       .finally(() => {
         submitBtn.innerHTML = "Gửi"
-        submitBtn.removeAttribute("disabled");
+        submitBtn.removeAttribute(attributeDisabled);
+        formFieldset.removeAttribute(attributeDisabled);
       })
   }
 

@@ -2,7 +2,7 @@
 title: Lễ tốt nghiệp
 date: 2020/11/5
 categories:
-- Nhật ký
+- Journal
 language: vi
 toc: false
 cover: /gallery/covers/le-tot-nghiep-hcmus-2020.png

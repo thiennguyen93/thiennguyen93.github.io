@@ -1,5 +1,5 @@
 ---
-title: Liên hệ
+title: Contact
 date: 2021-08-12 13:05:03
 article:
   licenses: false
@@ -8,7 +8,8 @@ comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
 ---
 <p id="form-caption">
-Mình mong nhận được ý kiến đóng góp của các bạn để xây dựng blog ngày càng có nhiều nội dung hữu ích hơn
+If you like this page, why don't you share it?
+<br /> Or if there is anything that needs to be improved, your feedback is always welcome
 </p>
 
 <div>
@@ -255,8 +256,8 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 </g>
 </g>
 </svg>
-<h1>Cám ơn phản hồi của bạn!</h1>
-<p class="card_contact_page-p"><button id="goBackBtn" class="button is-primary is-light">Bấm vào đây để quay lại</button></p>
+<h1>Thank you!</h1>
+<p class="card_contact_page-p"><button id="goBackBtn" class="button is-primary is-light">Click here to go back</button></p>
 </div>
 </div>
 <!-- END BOX THANNK-YOU -->

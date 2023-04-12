@@ -105,13 +105,13 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Trang chủ: /
-        Lưu trữ: /archives
-        Thể loại: /categories
+        Home: /
+        Archives: /archives
+        Categories: /categories
         # Thẻ: /tags
-        CV: /cv
-        Giới thiệu: /about
-        Liên hệ: /contact
+        Resume: /cv
+        About: /about
+        Contact: /contact
     # Links to be shown on the right of the navigation bar
     links:
         View Profile on Facebook:
@@ -222,7 +222,7 @@ widgets:
         # Author title
         author_title: Software Engineer
         # Author's current location
-        location: Thành phố Hồ Chí Minh, Việt Nam
+        location: Ho Chi Minh City, Vietnam
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image

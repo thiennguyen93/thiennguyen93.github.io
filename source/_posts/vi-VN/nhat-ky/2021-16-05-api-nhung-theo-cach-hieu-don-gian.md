@@ -2,7 +2,7 @@
 title: API nhưng theo cách hiểu đơn giản
 date: 2021/5/16
 categories:
-- Công nghệ
+- Technology
 language: vi
 toc: false
 cover: /gallery/covers/api-nhung-theo-cach-hieu-don-gian.jpg

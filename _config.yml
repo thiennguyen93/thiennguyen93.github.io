@@ -4,8 +4,8 @@ description: ''
 keywords: null
 author: Thiện Nguyễn
 language:
-  - vi
   - en
+  - vi
 timezone: ''
 url: https://thiennguyen.dev
 permalink: ':year/:month/:day/:title/'

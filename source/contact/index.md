@@ -200,16 +200,16 @@ max-width: 195px;
 <form id="form" action="">
 <fieldset id="form-fieldset">
   <div class="field">
-    <label class="label">Họ tên</label>
+    <label class="label">Name</label>
     <div class="control">
-      <input required class="input" type="text" placeholder="Vui lòng nhập họ tên" name="full-name" />
+      <input required class="input" type="text" placeholder="Enter your name" name="full-name" />
     </div>
   </div>
 
   <div class="field">
     <label class="label">Email</label>
     <div class="control has-icons-left has-icons-right">
-      <input required class="input" type="email" placeholder="Vui lòng nhập địa chỉ email" value="" name="email" />
+      <input required class="input" type="email" placeholder="Enter your email address" value="" name="email" />
       <span class="icon is-small is-left">
         <i class="fas fa-envelope"></i>
       </span>
@@ -221,19 +221,19 @@ max-width: 195px;
   </div>
 
   <div class="field">
-    <label class="label">Tin nhắn</label>
+    <label class="label">Message</label>
     <div class="control">
-      <textarea required class="textarea" placeholder="Nội dung tin nhắn" name="message"></textarea>
+      <textarea required class="textarea" placeholder="Enter your messsage" name="message"></textarea>
     </div>
   </div>
 <article id="error-message" class="message is-danger is-hidden">
   <div class="message-body">
-    Rất tiếc, đã có lỗi xảy ra. Vui lòng thử lại.
+    Oops, something went wwrong. Please try again.
   </div>
 </article>
   <div class="field is-grouped">
     <div class="control">
-      <button id="submitBtn" type="submit" class="button is-link">Gửi</button>
+      <button id="submitBtn" type="submit" class="button is-link">Send</button>
     </div>
   </div>
 </fieldset>
@@ -327,7 +327,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     )
 
     var submitBtn = document.getElementById("submitBtn");
-    submitBtn.innerHTML = "Đang gửi..."
+    submitBtn.innerHTML = "Sending..."
     submitBtn.setAttribute(attributeDisabled, "");
   
     errMsg.classList.add(classIsHidden)
@@ -353,7 +353,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         errMsg.classList.remove(classIsHidden)
       })
       .finally(() => {
-        submitBtn.innerHTML = "Gửi"
+        submitBtn.innerHTML = "Send"
         submitBtn.removeAttribute(attributeDisabled);
         formFieldset.removeAttribute(attributeDisabled);
       })

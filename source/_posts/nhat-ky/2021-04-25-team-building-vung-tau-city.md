@@ -3,7 +3,7 @@ title: Team building Vũng Tàu 2021
 date: 2021/4/25
 categories:
   - Journal
-language: vi
+language: en
 toc: false
 cover: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=800
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300

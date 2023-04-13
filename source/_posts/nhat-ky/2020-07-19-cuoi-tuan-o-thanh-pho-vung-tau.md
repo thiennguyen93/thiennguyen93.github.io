@@ -3,7 +3,7 @@ title: Cuối tuần ở Thành phố Vũng Tàu
 date: 2020/7/19
 categories:
 - Journal
-language: vi
+language: en
 toc: false
 cover: https://thiennguyenpro.files.wordpress.com/2020/08/img_20200719_104745.jpg?w=800
 thumbnail: https://thiennguyenpro.files.wordpress.com/2020/08/img_20200719_104745.jpg?w=300

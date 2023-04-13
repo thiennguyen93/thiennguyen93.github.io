@@ -1,7 +1,7 @@
 ---
 title: Giới thiệu
 date: 2021-08-09 10:46:34
-lang: vi
+lang: en
 toc: false
 article:
   licenses: false

@@ -1,3 +1,6 @@
+![Github Pages](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
+
 # About Thien Nguyen's microblog
 - This is my personal microblog.
 - Built with [Hexo](https://hexo.io/) - A fast, simple & powerful static site generator

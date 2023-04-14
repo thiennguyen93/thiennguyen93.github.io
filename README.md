@@ -1,4 +1,4 @@
-![Github Pages](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Github Pages](https://github.com/thiennguyen93/thiennguyen93.github.io/actions/workflows/main.yml/badge.svg)
 
 
 # About Thien Nguyen's microblog

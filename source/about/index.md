@@ -11,7 +11,7 @@ cover:
 
 
 {% tabs %}
-<!-- tab id:about-me "icon:fas fa-file-code" "title:Tác giả" active -->
+<!-- tab id:about-me "icon:fas fa-file-code" "title:Author" active -->
 Chào cậu, mình là Thiện Nguyễn (Nguyễn Ngọc Phước Thiện) - tác giả blog.
 Mình sinh ra và lớn lên ở Đồng Nai, đang sinh sống và làm việc tại TP Hồ Chí Minh. Hiện mình đang làm kỹ sư phần mềm tại Gamify Studios. Mình chọn công việc này vì thích tính chất của nó: luôn đổi mới và sáng tạo. Nghề đã dạy cho mình sự khiêm tốn, sự kiên trì và tinh thần học hỏi không ngừng nghỉ. 
 <!-- endtab -->

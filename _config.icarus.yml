@@ -104,13 +104,26 @@ head:
 navbar:
   # Navigation menu items
   menu:
-    Home: /
-    Archives: /archives
-    Categories: /categories
+    Home: 
+      path: /
+    Archives: 
+      path: /archives
+    Categories:
+      path: /categories
     # Thẻ: /tags
-    Resume: /cv
-    About: /about
-    Contact: /contact
+    Misc:
+      path: /misc
+      children:
+        Music:
+          path: /music
+        Note:
+          path: /note
+    Resume: 
+      path: /cv
+    About: 
+      path: /about
+    Contact: 
+      path: /contact
   # Links to be shown on the right of the navigation bar
   links:
     View Profile on Facebook:

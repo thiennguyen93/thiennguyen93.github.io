@@ -28,7 +28,7 @@ head:
     # Image files that can serve as application icons for different contexts
     icons:
     - # The path to the image file
-      src: ""
+      src: "/"
       # A string containing space-separated image dimensions
       sizes: ""
       # A hint as to the media type of the image
@@ -378,11 +378,11 @@ plugins:
   progressbar: true
   # Statcounter statistics
   # https://statcounter.com/
-  statcounter:
+  statcounter: false
     # Statcounter project id
-    project: 12577343
+    ## project: 12577343 <<<--uncomment this to use
     # Statcounter project security code
-    security: 027ff2d5
+    ## security: 027ff2d5 <<--uncomment this to use
   # Twitter conversion tracking plugin settings
   # https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html
   twitter_conversion_tracking:

@@ -118,6 +118,7 @@ navbar:
       children:
         Music:
           path: /music
+          # icon: fab fa-github
         Note:
           path: /note
     Resume: 

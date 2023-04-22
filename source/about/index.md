@@ -39,6 +39,11 @@ donates: false
   .custom-page-about-title {
     display: none;
   }
+  @media only screen and (max-width: 768px) {
+  .custom-page-about .about-avatar {
+    margin: -10rem auto 0rem;
+  }
+}
 </style>
 
 <div class="about-avatar">

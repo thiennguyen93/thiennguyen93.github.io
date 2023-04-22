@@ -28,11 +28,11 @@ head:
     # Image files that can serve as application icons for different contexts
     icons:
     - # The path to the image file
-      src: ""
+      src: "/img/favicon.svg"
       # A string containing space-separated image dimensions
-      sizes: ""
+      sizes: "32x32"
       # A hint as to the media type of the image
-      type:
+      type: "image/svg+xml"
   # Open Graph metadata
   # https://hexo.io/docs/helpers.html#open-graph
   open_graph:

@@ -241,6 +241,7 @@ widgets:
   gravatar: phuocthien@outlook.com
   # URL or path for the follow button
   follow_link: "https://thiennguyen.dev/cv"
+  follow_title: "View resume"
   # Links to be shown on the bottom of the profile widget
   social_links:
     Github:

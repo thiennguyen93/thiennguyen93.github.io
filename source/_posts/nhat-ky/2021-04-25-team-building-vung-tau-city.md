@@ -7,6 +7,7 @@ language: en
 toc: false
 cover: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=800
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
+excerpt: 'Chuyến team building cùng team HAS HPT tại TP Vũng Tàu (BR-VT)'
 ---
 
 Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố biển Vũng Tàu nhé!!!

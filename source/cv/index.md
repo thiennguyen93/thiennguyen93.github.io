@@ -18,6 +18,7 @@ widgets:
         location: Ho Chi Minh City, Vietnam
         gravatar: info@thiennguyenpro.com
         follow_link: 'https://www.linkedin.com/in/thiennguyenpro/'
+        follow_title: 'Follow me on LinkedIn'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:

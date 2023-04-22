@@ -97,7 +97,9 @@ head:
   meta:
   # Meta tag specified in <attribute>=<value> style
   # E.g., name=theme-color;content=#123456 => <meta name="theme-color" content="#123456">
-  - ""
+    - 'name=theme-color;content=#123456'
+    - 'name=generator;content=Hexo 4.2.0'
+    - 'name=description;content=Author: Thien Nguyen, Category: Blogs, Technology, Developer'
   # URL or path to the website's RSS atom.xml
   rss:
 # Page top navigation bar configurations

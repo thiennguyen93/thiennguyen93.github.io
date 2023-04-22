@@ -6,9 +6,48 @@ toc: false
 article:
   licenses: false
 enableDate: false
-cover:
+cover: images/page-about-cover.webp
+classNames: ['custom-page-about']
+coverClassnames: ['custom-page-about-cover']
+titleClassnames: ['custom-page-about-title']
+widgets: false
+donates: false
 ---
 
+<style>
+  .custom-page-about .custom-page-about-cover {
+    height: 251px
+  }
+  .custom-page-about .about-avatar {
+    position: relative;
+    margin: -7rem auto 0rem;
+    width: 10rem;
+    height: 10rem;
+    z-index: 3;
+  }
+  .custom-page-about .about-avatar img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: transparent;
+    object-fit: cover;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+  }
+  .custom-page-about .about-avatar p {
+    display: none;
+  }
+  .custom-page-about-title {
+    display: none;
+  }
+</style>
+
+<div class="about-avatar">
+  <img src="/images/thiennguyen-figure.webp" class="img-fluid" alt="Thiện Nguyễn">
+</div>
+<h1 class="title is-3 is-size-4-mobile has-text-centered">
+Thien Nguyen
+</h1>
+<h5 class="title is-3 is-size-8-mobile has-text-centered has-text-grey">Minimalism is not a lack of something.<br />It’s simply the perfect amount of something.</h5>
 
 {% tabs %}
 <!-- tab id:about-me "icon:fas fa-file-code" "title:Author" active -->

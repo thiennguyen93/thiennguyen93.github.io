@@ -54,15 +54,15 @@ Thien Nguyen
 </h1>
 <h5 class="title is-3 is-size-8-mobile has-text-centered has-text-grey">Minimalism is not a lack of something.<br />It’s simply the perfect amount of something.</h5>
 
-{% tabs align:centered %}
-<!-- tab id:about-me "icon:fas fa-file-code" "title:Author" active -->
-Chào cậu, mình là Thiện Nguyễn (Nguyễn Ngọc Phước Thiện) - tác giả blog.
-Mình sinh ra và lớn lên ở Đồng Nai, đang sinh sống và làm việc tại TP Hồ Chí Minh. Hiện mình đang làm kỹ sư phần mềm tại Gamify Studios. Mình chọn công việc này vì thích tính chất của nó: luôn đổi mới và sáng tạo. Nghề đã dạy cho mình sự khiêm tốn, sự kiên trì và tinh thần học hỏi không ngừng nghỉ. 
+{% tabs align:centered style:boxed %}
+<!-- tab id:about-me-en "icon:fas fa-file-code" "title:English" active -->
+Hi 👋, I am Thien Nguyen.
+
+I like to make interesting in my spare time.
 <!-- endtab -->
-<!-- tab id:about-site "icon:fas fa-cubes" "title:Website" -->
-Mình lập blog cá nhân này để ghi chép lại những bài học học được từ chuyện đời, chuyện nghề với mục đích rèn luyện kỹ năng viết lách, chia sẽ kinh nghiệm, tổng hợp lại kiến thức và thực hành công nghệ. Cũng qua kênh này có thể cùng chia sẽ và trao đổi kiến thức cùng các bạn. Trong quá trình tham khảo bài viết tại đây, nếu thấy những điểm thiếu sót hoặc chưa rõ ràng, các bạn có thể liên lạc qua địa chỉ me@thiennguyen.dev.
-<br>
-Thân ái.
+<!-- tab id:about-me-vi "icon:fas fa-cubes" "title:Tiếng Việt" -->
+Hi 👋, Tôi là Thiện Nguyễn.
+
 <!-- endtab -->
 {% endtabs %}
 

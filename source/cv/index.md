@@ -37,7 +37,7 @@ widgets:
                 tooltip: 'Email: me@thiennguyen.dev'
             'Download CV as PDF':
                 icon: fas fa-download
-                url: 'https://www.sejda.com/html-to-pdf?save-link=https://thiennguyen93.github.io/cv&viewportWidth=720&pageSize=A4&pageMargin=20px&pageOrientation=portrait'   
+                url: '/assets/documents/pdf/2023_04_27_THIEN_NGUYEN_CV.pdf'   
                 tooltip: 'Email: me@thiennguyen.dev'
     - 
         type: toc

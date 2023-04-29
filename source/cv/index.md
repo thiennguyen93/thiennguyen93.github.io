@@ -37,7 +37,7 @@ widgets:
                 tooltip: 'Email: me@thiennguyen.dev'
             'Download CV as PDF':
                 icon: fas fa-download
-                url: '/assets/documents/pdf/2023_04_27_THIEN_NGUYEN_CV.pdf'   
+                url: '/assets/documents/pdf/2023_04_29_THIEN_NGUYEN_CV.pdf'   
                 tooltip: 'Email: me@thiennguyen.dev'
     - 
         type: toc

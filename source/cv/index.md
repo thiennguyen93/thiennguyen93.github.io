@@ -9,50 +9,50 @@ article:
 donates: false
 comment: false
 widgets:
-    - 
-        type: profile
-        position: right
-        author: Thien Nguyen
-        author_title: Software Engineer
-        avatar_rounded: true
-        location: Ho Chi Minh City, Vietnam
-        gravatar: info@thiennguyenpro.com
-        follow_link: 'https://www.linkedin.com/in/thiennguyenpro/'
-        follow_title: 'Follow me on LinkedIn'
-        # Links to be shown on the bottom of the profile widget
-        social_links:
-            Github:
-                icon: fab fa-github
-                url: 'https://thiennguyen93.github.io/'
-            LinkedIn:
-                icon: fab fa-linkedin-in
-                url: 'https://www.linkedin.com/in/thiennguyenpro/'
-            'Điện thoại: 0395443490':
-                icon: fas fa-phone
-                url: 'tel:+84395443490'
-                tooltip: 'Điện thoại: 039-544-3490'
-            'Email: me@thiennguyen.dev':
-                icon: fas fa-at
-                url: 'mailto:me@thiennguyen.dev?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A'   
-                tooltip: 'Email: me@thiennguyen.dev'
-            'Download CV as PDF':
-                icon: fas fa-download
-                url: '/assets/documents/pdf/2023_04_29_THIEN_NGUYEN_CV.pdf'   
-                tooltip: 'Email: me@thiennguyen.dev'
-    - 
-        type: toc
-        position: right
-        collapsed: true
-        index: false
+  - type: profile
+    position: right
+    author: Thien Nguyen
+    author_title: Software Engineer
+    avatar_rounded: true
+    location: Ho Chi Minh City, Vietnam
+    gravatar: info@thiennguyenpro.com
+    follow_link: "https://www.linkedin.com/in/thiennguyenpro/"
+    follow_title: "Follow me on LinkedIn"
+    # Links to be shown on the bottom of the profile widget
+    social_links:
+      Github:
+        icon: fab fa-github
+        url: "https://thiennguyen93.github.io/"
+      LinkedIn:
+        icon: fab fa-linkedin-in
+        url: "https://www.linkedin.com/in/thiennguyenpro/"
+      "Điện thoại: 0395443490":
+        icon: fas fa-phone
+        url: "tel:+84395443490"
+        tooltip: "Điện thoại: 039-544-3490"
+      "Email: me@thiennguyen.dev":
+        icon: fas fa-at
+        url: "mailto:me@thiennguyen.dev?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A"
+        tooltip: "Email: me@thiennguyen.dev"
+      "Download CV as PDF":
+        icon: fas fa-download
+        url: "/assets/documents/pdf/2023_04_29_THIEN_NGUYEN_CV.pdf"
+        tooltip: "Email: me@thiennguyen.dev"
+  - type: toc
+    position: right
+    collapsed: true
+    index: false
 sidebar:
   right:
     sticky: true
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
 ---
+
 Hello, I’m Thien, a <span id="typed"></span> based in Ho Chi Minh City, Vietnam.
 With a passion for programming and web/app development, I aspire to become a full-stack developer. I thrive in collaborative environments and believe in continuous learning. I'm eager to join innovative teams where I can learn from others, contribute my skills, and enhance my abilities.
 
 ### <span class="tag mr-2 is-info is-size-6"><i class="fas fa-info-circle"></i></span> <span style="color: #4a4a4a;">Information</span>
+
 <div style="margin-left: 47px; margin-right: 40px; margin-bottom: 40px" >
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey has-text-grey">Full name</span></div>
@@ -71,12 +71,38 @@ With a passion for programming and web/app development, I aspire to become a ful
         <div class="column"><span class="has-text-grey">Thu Duc City, Ho Chi Minh City, Vietnam</span></div>
     </div>
     <div class="columns is-gapless mb-3">
-        <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Language</span></div>
-        <div class="column"><span class="has-text-grey">English, Vietnamese</span></div>
+        <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Languages</span></div>
+        <div class="column">
+            <!-- <span class="has-text-grey"> -->
+            <div class="field is-grouped is-grouped-multiline">
+                <div class="control">
+                    <div class="tags has-addons">
+                    <span class="tag">
+                        <figure class="image is-16x16 mr-0 ml-0">
+                            <img src="/assets/img/en-us-64x64.png">
+                        </figure>
+                    </span>
+                    <span class="tag">English</span>
+                    </div>
+                </div>
+                <div class="control">
+                    <div class="tags has-addons">
+                    <span class="tag">
+                        <figure class="image is-16x16 mr-0 ml-0">
+                            <img src="/assets/img/vi-vn-64x64.png">
+                        </figure>
+                    </span>
+                    <span class="tag">Vietnamese</span>
+                    </div>
+                </div>
+            </div>
+            <!-- </span> -->
+        </div>
     </div>
 </div>
 
 ### <span class="tag mr-2 is-danger is-size-6"><i class="fas fa-briefcase"></i></span> <span style="color: #4a4a4a;">Work Experience</span>
+
 <div class="timeline">
     <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
@@ -84,13 +110,30 @@ With a passion for programming and web/app development, I aspire to become a ful
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#" target="_blank">Gamify Studios Company Limited</a></strong></h4>
+            <span>Product: Back Office Gaming Management System</span>
             <p>Software Engineer</p>
+            <p>
+            • Developed and maintained a RESTful API for a comprehensive management system handling users, games, game players, game events, missions, and marketing campaigns.
+            </p>
+            <p>
+            • Utilized microservice architecture to build and integrate various sub-systems, including a report module, cron service, messaging, transaction logger, and message queue.
+            </p>
+            <p>
+            • Collaborated with frontend developers, database administrators, and project managers to deliver exceptional user experiences and meet project requirements.
+            </p>
+            <p>
+            • Contributed to documentation and knowledge sharing within the development team.
+            </p>
             <p  style="margin-bottom: 20px">
-                • Back-office System
-                <br />
-                Backend Developer
-                <br />
-                Developing and maintaining RESTful API for a management system to manage users, games, game players, game events, missions and marketing campaigns. The system consists a variety of sub-systems utilizing microservice architecture, such as, report module, cron service, messaging, transaction logger, message queue and so on.<br />
+                <span class="tag is-white">Keywords</span>
+                <span class="tag is-primary is-light">Go</span>
+                <span class="tag is-success is-light">NestJS</span>
+                <span class="tag is-warning is-light">TypeORM</span>
+                <span class="tag">RabbitMQ</span>
+                <span class="tag">Redis</span>
+                <span class="tag">ElasticSearch</span>
+                <span class="tag">MySQL</span>
+                <span class="tag">TypeScript</span>
             </p>
         </div>
     </article>
@@ -100,43 +143,29 @@ With a passion for programming and web/app development, I aspire to become a ful
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
+            <span>Projects: THK CMMS, THK Order System & HACCP Report Application</span>
             <p>Software Engineer</p>
-            <p  style="margin-bottom: 20px">
-                • THK CMMS
-                <br />
-                Backend Developer
-                <br />
-                Estimating the time required to complete the work.
-                <br />
-                Managed team of 4 teammates, review codes.
-                <br />
-                Developed RESTful API with Nodejs using NestJS framework, Microsoft SQL Server, Azure Storage & Google FCM
-                <br />
-                Deployed containerized web app to Azure app service with Docker.
-                <br />
+            <p>
+            • Accurately estimated project timelines and resources required for completion.
+            </p>
+            <p>
+            • Successfully managed and led a team of four teammates, providing guidance, conducting code reviews, and ensuring code quality.
+            </p>
+            <p>
+            • Developed robust RESTful APIs using Node.js and NestJS framework, leveraging Microsoft SQL Server for data storage, Azure Storage for file management, and Google FCM for push notifications.
+            </p>
+            <p>
+            • Utilized Docker to containerize web applications and deployed them to Azure app service, ensuring seamless deployment and scalability.
             </p>
             <p  style="margin-bottom: 20px">
-                • THK Order System
-                <br />
-                Full Stack Developer.
-                <br />
-                Estimating the time required to complete the work.
-                <br />
-                Created accessible, user-friendly and responsive web application with ReactJS.
-                <br />
-                Developed RESTful API with Nodejs using NestJS framework, Microsoft SQL Server, Azure Storage.
-                <br />
-                Deployed containerized web app to Azure app service with Docker.
-                <br />
-            </p>
-            <p  style="margin-bottom: 20px">
-                • HACCP Report Application
-                <br />
-                Backend developer
-                <br />
-                Responsible for building RESTful API using Nodejs/ExpressJs, PostgreSQL, Prisma ORM.
-                <br />
-                Firebase Authentication and Storage integrated.
+                <span class="tag is-white">Keywords</span>
+                <span class="tag is-info is-light">NestJS</span>
+                <span class="tag is-warning is-light">ExpressJs</span>
+                <span class="tag is-success is-light">Prisma ORM</span>
+                <span class="tag">Docker</span>
+                <span class="tag">Azure</span>
+                <span class="tag">Firebase</span>
+                <span class="tag">PostgreSQL</span>
             </p>
         </div>
     </article>
@@ -146,8 +175,22 @@ With a passion for programming and web/app development, I aspire to become a ful
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span class="has-text-grey-dark"><a href="https://www.hpt.vn/" target="_blank">HPT Vietnam Corporation</a></span></strong></h4>
+            <span>Projects: Cash Vault Management (Techcombank)</span>
             <p>Software Engineer</p>
-            <p  style="margin-bottom: 10px">• Cash Vault Management (Techcombank internal project) using IBM BPM platform, ReactJs, PHP, Oracle SQL. (Feb-May 2021 including three-week onsite in Hanoi City working at Techcombank headquarter for deployment).
+            <p style="margin-bottom: 20px">
+            • Utilized the IBM BPM platform to design and automate cash management processes, enhancing operational efficiency.
+            </p>
+            <p >
+            • Leveraged Oracle SQL for efficient and secure data storage and retrieval, ensuring the system's reliability and scalability.
+            </p>
+            <p  style="margin-bottom: 20px">
+                <span class="tag is-white">Keywords</span>
+                <span class="tag is-warning is-light">IBM BPM</span>
+                <span class="tag is-link is-light">IBM ECM</span>
+                <span class="tag is-info is-light">ReactJS</span>
+                <span class="tag">WebSphere</span>
+                <span class="tag">Oracle SQL</span>
+                <span class="tag">PHP</span>
             </p>
         </div>
     </article>
@@ -165,6 +208,7 @@ With a passion for programming and web/app development, I aspire to become a ful
 </div>
 
 ### <span class="tag mr-2 is-primary is-size-6"><i class="fa fa-star"></i></span> <span style="color: #4a4a4a;">Personal Projects</span>
+
 <div class="timeline">
     <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
@@ -187,6 +231,7 @@ With a passion for programming and web/app development, I aspire to become a ful
 </div>
 
 ### <span class="tag mr-2 is-success is-size-6"><i class="fas fa-graduation-cap"></i></span> <span style="color: #4a4a4a;">Education</span>
+
 <div class="timeline">
     <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
@@ -195,7 +240,7 @@ With a passion for programming and web/app development, I aspire to become a ful
         <div class="timeline-item">
             <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span class="has-text-grey-dark">VNUHCM - University of Science</span></strong></h4>
             <p>B.S in Information Technology</p>
-            <p  style="margin-bottom: 20px">Cloud Computing for Business, Data Structure and Algorithms, Object-oriented Programming, Databases and Database Management Systems, HTML, CSS, , Node.js, Javascript, MySQL.</p>
+            <p  style="margin-bottom: 20px">Cloud Computing for Business, Data Structure and Algorithms, Object-oriented Programming, Databases and Database Management Systems, HTML, CSS, Node.js, Javascript, MySQL.</p>
         </div>
     </article>
     <article class="media">
@@ -211,6 +256,7 @@ With a passion for programming and web/app development, I aspire to become a ful
 </div>
 
 ### <span class="tag mr-2 is-primary is-size-6"><i class="fas fa-certificate"></i></span> <span style="color: #4a4a4a;">Certifications</span>
+
 <div class="timeline">
     <article class="media">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
@@ -260,7 +306,7 @@ h1.title {
   });
 </script>
 
-<!-- 
+<!--
 <script src="//www.sejda.com/js/sejda-js-api.min.js"></script>
 <script>
     document.addEventListener('DOMContentLoaded', function(e) {

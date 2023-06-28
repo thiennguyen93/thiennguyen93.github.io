@@ -49,8 +49,8 @@ sidebar:
     sticky: true
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
 ---
-Hello, I'm Thien and I'm a <span id="typed"></span> based in Ho Chi Minh City, Vietnam.
-I love anything related to programming and web/app development. That is the reason why my career goal is to become a full-stack developer. I am a kind of person who is quick to pick up new skills and willing to learn from the others. Therefore, I am interested in joining innovative teams to learn, to contribute and to improve myself.
+Hello, I’m Thien, a <span id="typed"></span> based in Ho Chi Minh City, Vietnam.
+With a passion for programming and web/app development, I aspire to become a full-stack developer. I thrive in collaborative environments and believe in continuous learning. I'm eager to join innovative teams where I can learn from others, contribute my skills, and enhance my abilities.
 
 ### <span class="tag mr-2 is-info is-size-6"><i class="fas fa-info-circle"></i></span> <span style="color: #4a4a4a;">Information</span>
 <div style="margin-left: 47px; margin-right: 40px; margin-bottom: 40px" >

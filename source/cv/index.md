@@ -56,23 +56,23 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
 
 <div style="margin-left: 47px; margin-right: 40px; margin-bottom: 40px" >
     <div class="columns is-gapless mb-3">
-        <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey has-text-grey">Full name</span></div>
-        <div class="column"><span class="has-text-grey">Nguyen Ngoc Phuoc Thien / Thien Nguyen</span></div>
+        <div class="column is-one-fifth"><span class="has-text-grey">Full name</span></div>
+        <div class="column"><span class="has-text-grey-darker">Nguyen Ngoc Phuoc Thien / Thien Nguyen</span></div>
     </div>
     <div class="columns is-gapless mb-3">
-        <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Email</span></div>
-        <div class="column"><span class="has-text-grey">me@thiennguyen.dev</span></div>
+        <div class="column is-one-fifth"><span class="has-text-grey">Email</span></div>
+        <div class="column"><span class="has-text-grey-darker">me@thiennguyen.dev</span></div>
     </div>
     <div class="columns is-gapless mb-3">
-        <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Phone</span></div>
-        <div class="column"><span class="has-text-grey">(+84) 395 443 490</span></div>
+        <div class="column is-one-fifth"><span class="has-text-grey">Phone</span></div>
+        <div class="column"><span class="has-text-grey-darker">(+84) 395 443 490</span></div>
     </div>
     <div class="columns is-gapless mb-3">
-        <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Location</span></div>
-        <div class="column"><span class="has-text-grey">Thu Duc City, Ho Chi Minh City, Vietnam</span></div>
+        <div class="column is-one-fifth"><span class="has-text-grey">Location</span></div>
+        <div class="column"><span class="has-text-grey-darker">Thu Duc City, Ho Chi Minh City, Vietnam</span></div>
     </div>
     <div class="columns is-gapless mb-3">
-        <div class="column is-one-fifth"><span class="has-text-weight-bold has-text-grey">Languages</span></div>
+        <div class="column is-one-fifth"><span class="has-text-grey">Languages</span></div>
         <div class="column">
             <!-- <span class="has-text-grey"> -->
             <div class="field is-grouped is-grouped-multiline">

@@ -16,7 +16,7 @@ widgets:
     avatar_rounded: true
     location: Ho Chi Minh City, Vietnam
     gravatar: info@thiennguyenpro.com
-    follow_link: "https://www.linkedin.com/in/thiennguyenpro/"
+    follow_link: "https://www.linkedin.com/in/thiennguyendev/"
     follow_title: "Follow me on LinkedIn"
     # Links to be shown on the bottom of the profile widget
     social_links:
@@ -25,7 +25,7 @@ widgets:
         url: "https://thiennguyen93.github.io/"
       LinkedIn:
         icon: fab fa-linkedin-in
-        url: "https://www.linkedin.com/in/thiennguyenpro/"
+        url: "https://www.linkedin.com/in/thiennguyendev/"
       "Điện thoại: 0395443490":
         icon: fas fa-phone
         url: "tel:+84395443490"

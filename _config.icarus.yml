@@ -117,7 +117,7 @@ navbar:
       path: /misc
       children:
         Music:
-          path: /music
+          path: /categories/music
           # icon: fab fa-github
         Note:
           path: /note

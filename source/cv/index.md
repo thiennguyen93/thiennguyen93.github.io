@@ -8,6 +8,8 @@ article:
   licenses: false
 donates: false
 comment: false
+# Removed background from page
+background: false
 widgets:
   - type: profile
     position: right

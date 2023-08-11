@@ -6,6 +6,7 @@ article:
 donates: false
 comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
+widgets: false
 ---
 <p id="form-caption">
 If you like this page, why don't you share it?

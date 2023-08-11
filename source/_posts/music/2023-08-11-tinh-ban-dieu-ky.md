@@ -1,12 +1,12 @@
 ---
-title: Nhớ người hay nhớ
+title: Tình bạn diệu kỳ
 date: 2023/08/11
 categories:
 - Music
 language: en
 toc: false
 # cover: /gallery/covers/2022-year-in-review-cover.png
-# thumbnail: /gallery/thumbnails/2022-year-in-review-thumbnail.png
+thumbnail: /assets/media/tinh-ban-dieu-ky/album.webp
 hide: true
 post_type: "music"
 ---

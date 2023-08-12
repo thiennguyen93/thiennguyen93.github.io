@@ -5,15 +5,15 @@
   "scripts": {
     "myinstall": "node myinstall.js",
     "mypostinstall": "node mypostinstall.js",
-    "build": "yarn add git+https://${GITHUB_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY} && hexo generate",
-    "build-gh-page": "hexo clean && hexo deploy",
+    "build": "npm run myinstall && hexo generate",
+    "build-gh-page": "npm run myinstall && hexo clean && hexo deploy",
     "clean": "hexo clean",
     "deploy": "gh-pages -d build",
     "server": "hexo server",
-    "dev": "eval $(grep '^GH_' .env) && yarn add git+https://${GITHUB_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY}  && hexo server"
+    "dev": "eval $(grep '^GH_' .env) && npm run myinstall && hexo server"
   },
   "hexo": {
-    "version": "5.4.2"
+    "version": "5.4.0"
   },
   "dependencies": {
     "bulma-stylus": "^0.8.0",

@@ -28,3 +28,16 @@
     - Publish directory: public
 - Site settings > Build & deploy > Environment;
     - Set the environment variables same as .env file;
+
+# Dev mode
+Run this command 
+```
+npm run dev
+```
+Please update the .env
+```
+GH_PRIVATE_THEME_REPOSITORY=<theme_repo>#<branch>
+GH_TOKEN=<Token to get the theme repos>
+```
+
+

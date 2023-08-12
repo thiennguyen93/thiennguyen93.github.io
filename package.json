@@ -9,7 +9,8 @@
     "build-gh-page": "hexo clean && hexo deploy",
     "clean": "hexo clean",
     "deploy": "gh-pages -d build",
-    "server": "hexo server"
+    "server": "hexo server",
+    "dev": "eval $(grep '^GH_' .env) && yarn add git+https://${GITHUB_TOKEN}@github.com/thiennguyen93/${GH_PRIVATE_THEME_REPOSITORY}  && hexo server"
   },
   "hexo": {
     "version": "5.4.2"

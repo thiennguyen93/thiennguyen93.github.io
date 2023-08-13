@@ -24,6 +24,7 @@ metadata: false
     "mode": "order",
     "loop":"none",
     "fixed":false,
+    "autoplay": true,
     "music": [
         {
             "title": "Tình bạn diệu kì",

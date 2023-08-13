@@ -24,11 +24,7 @@ metadata: false
     "mode": "order",
     "loop":"none",
     "fixed":false,
-<<<<<<< HEAD
-    "autoplay": true,       
-=======
     "autoplay": true,
->>>>>>> f4d16e0faa15f713a76c3ff96283403ced1a6db6
     "music": [
         {
             "title": "Tình bạn diệu kì 123",

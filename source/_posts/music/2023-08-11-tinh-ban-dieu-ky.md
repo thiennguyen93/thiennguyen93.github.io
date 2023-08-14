@@ -27,7 +27,7 @@ metadata: false
     "autoplay": true,
     "music": [
         {
-            "title": "Tình bạn diệu kì 123",
+            "title": "Tình bạn diệu kì",
             "author": "Ricky Star x Lăng LD x Amee",
             "url": "/assets/media/tinh-ban-dieu-ky/music.mp3",
             "pic": "/assets/media/tinh-ban-dieu-ky/album.webp",
@@ -37,7 +37,7 @@ metadata: false
 }
 {% endaplayerlist %}
 <!-- more -->
-Ta đã ở bên nhau 12346789
+Ta đã ở bên nhau
 Những năm tháng nhọc nhằn
 You make me feel like...
 I got everything

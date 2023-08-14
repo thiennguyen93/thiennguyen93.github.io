@@ -16,7 +16,6 @@ metadata: false
 ---
 {% aplayerlist %}
 {
-    "id": "test",
     "showlrc": 3,
     "theme": "#e6d0b2",
     "showlrc": 3,
@@ -25,6 +24,7 @@ metadata: false
     "loop":"none",
     "fixed":false,
     "autoplay": true,
+    "preload": true,
     "music": [
         {
             "title": "Tình bạn diệu kì",
@@ -37,7 +37,7 @@ metadata: false
 }
 {% endaplayerlist %}
 <!-- more -->
-Ta đã ở bên nhau
+Ta đã ở bên nhau 123
 Những năm tháng nhọc nhằn
 You make me feel like...
 I got everything

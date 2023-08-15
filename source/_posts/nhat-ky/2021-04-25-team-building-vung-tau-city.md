@@ -24,7 +24,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
         {
             "title": "Tình bạn diệu kì",
             "author": "Ricky Star x Lăng LD x Amee",
-            "url": "/assets/media/tinh-ban-dieu-ky/music.mp3",
+            "url": "https://api.mp3.zing.vn/api/streaming/audio/ZOBD0W7Z/128",
             "pic": "/assets/media/tinh-ban-dieu-ky/album.webp",
             "lrc": "/assets/media/tinh-ban-dieu-ky/lyric.lrc"
         }
@@ -230,4 +230,18 @@ Cùng ngắm lại những khoảnh khắc tuyệt đẹp trong chuyến đi nh�
 ![Cơm niêu Tập Tàng](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09228.jpg?w=800)
 ![Tạm biệt Vũng Tàu](https://thiennguyenpro.files.wordpress.com/2021/04/dsc09249.jpg?w=800)
 
+</div>
+
+
+<!-- DISCLAIMER -->
+<div style="padding-top: 20px;">
+    <article class="message message-immersive is-warning is-small">
+        <div class="message-body is-size-7">
+        <p class="has-text-weight-semibold">
+            <span class="icon"><i class="fas fa-exclamation-triangle"></i></span> Disclaimer
+        </p>    
+        The media content is copyrighted by the author and provided by a third party.<br>
+        We do not store, redistribute, or monetize this multimedia content, thus disclaiming any responsibility.
+        </div>
+    </article>
 </div>

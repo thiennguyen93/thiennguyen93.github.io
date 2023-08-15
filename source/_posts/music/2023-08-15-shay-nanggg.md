@@ -83,3 +83,16 @@ Thước phim sẽ rất hay khi mình cùng lúc
 Em đã khác em ngày xưa một chút
 Khi yêu thương đong đầy em sẽ đến ngay
 Khi yêu thương đong đầy em sẽ đến bên anh
+
+<!-- DISCLAIMER -->
+<div style="padding-top: 20px;">
+    <article class="message message-immersive is-warning is-small" style="margin: 0 -1.5rem -1.5rem -1.5rem;">
+        <div class="message-body is-size-7">
+        <p class="has-text-weight-semibold">
+            <span class="icon"><i class="fas fa-exclamation-triangle"></i></span> Disclaimer
+        </p>    
+        The media content is copyrighted by the author and provided by a third party.<br>
+        We do not store, redistribute, or monetize this multimedia content, thus disclaiming any responsibility.
+        </div>
+    </article>
+</div>

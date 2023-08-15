@@ -120,3 +120,17 @@ Dù mai có ra sao
 Ta vẫn sẽ tự hào
 Vì đã luôn bên nhau
 We do everything
+
+
+<!-- DISCLAIMER -->
+<div style="padding-top: 20px;">
+    <article class="message message-immersive is-warning is-small" style="margin: 0 -1.5rem -1.5rem -1.5rem;">
+        <div class="message-body is-size-7">
+        <p class="has-text-weight-semibold">
+            <span class="icon"><i class="fas fa-exclamation-triangle"></i></span> Disclaimer
+        </p>    
+        The media content is copyrighted by the author and provided by a third party.<br>
+        We do not store, redistribute, or monetize this multimedia content, thus disclaiming any responsibility.
+        </div>
+    </article>
+</div>

@@ -93,3 +93,17 @@ Anh biết nơi để quay về, em biết nơi phải đi
 Anh biết chỗ trú chân dọc đường để tránh cơn mưa hạ đến mỗi chiều
 Ta biết trao nhau ân cần, biết mỗi khi vui buồn có nhau
 Thời gian để ta trưởng thành với nhau
+
+
+<!-- DISCLAIMER -->
+<div style="padding-top: 20px;">
+    <article class="message message-immersive is-warning is-small" style="margin: 0 -1.5rem -1.5rem -1.5rem;">
+        <div class="message-body is-size-7">
+        <p class="has-text-weight-semibold">
+            <span class="icon"><i class="fas fa-exclamation-triangle"></i></span> Disclaimer
+        </p>    
+        The media content is copyrighted by the author and provided by a third party.<br>
+        We do not store, redistribute, or monetize this multimedia content, thus disclaiming any responsibility.
+        </div>
+    </article>
+</div>

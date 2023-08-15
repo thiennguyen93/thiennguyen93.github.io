@@ -28,7 +28,7 @@ metadata: false
     "music": [
         {
             "title": "Shay Nắnggg",
-            "author": "ssAmee, Obito, Hứa Kim Tuyền",
+            "author": "Amee, Obito, Hứa Kim Tuyền",
             "url": "/assets/media/shay-nanggg/music.mp3",
             "pic": "/assets/media/shay-nanggg/album.jpeg",
             "lrc": "/assets/media/shay-nanggg/lyric.lrc"

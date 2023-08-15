@@ -29,7 +29,7 @@ metadata: false
         {
             "title": "Shay Nắnggg",
             "author": "Amee, Obito, Hứa Kim Tuyền",
-            "url": "/assets/media/shay-nanggg/music.mp3",
+            "url": "https://api.mp3.zing.vn/api/streaming/audio/ZZC7BEII/128",
             "pic": "/assets/media/shay-nanggg/album.jpeg",
             "lrc": "/assets/media/shay-nanggg/lyric.lrc"
         }

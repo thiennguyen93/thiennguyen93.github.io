@@ -33,8 +33,10 @@ donates: false
     object-fit: cover;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
   }
-  .custom-page-about-cover .is-7by3 img {
-    top: -90px;
+  .custom-page-about-cover img {
+    left: 45px !important;
+    transform: scale(1.25);
+    top: 15px !important;
   }
   .custom-page-about .about-avatar p {
     display: none;
@@ -50,7 +52,7 @@ donates: false
 </style>
 
 <div class="about-avatar">
-  <img src="/images/thiennguyen-figure.webp" class="img-fluid" alt="Thiện Nguyễn">
+  <img src="/images/thiennguyen-figure.jpeg" class="img-fluid" alt="Thiện Nguyễn">
 </div>
 <h1 class="title is-3 is-size-4-mobile has-text-centered">
 Thien Nguyen

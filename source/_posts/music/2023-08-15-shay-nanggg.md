@@ -9,7 +9,7 @@ toc: false
 thumbnail: /assets/media/shay-nanggg/album.jpeg
 hide: true
 post_type: "music"
-comment: false
+# comment: false
 donates: false
 licenses: false
 metadata: false

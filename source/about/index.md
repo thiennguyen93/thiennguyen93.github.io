@@ -6,7 +6,7 @@ toc: false
 article:
   licenses: false
 enableDate: false
-cover: images/page-about-cover.webp
+cover: images/page-about-cover.jpeg
 classNames: ['custom-page-about']
 coverClassnames: ['custom-page-about-cover']
 titleClassnames: ['custom-page-about-title']
@@ -32,6 +32,9 @@ donates: false
     background-color: transparent;
     object-fit: cover;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+  }
+  .custom-page-about-cover .is-7by3 img {
+    top: -90px;
   }
   .custom-page-about .about-avatar p {
     display: none;

@@ -9,7 +9,7 @@ toc: false
 thumbnail: /assets/media/tinh-ban-dieu-ky/album.webp
 hide: true
 post_type: "music"
-comment: false
+# comment: false
 donates: false
 licenses: false
 metadata: false

@@ -3,7 +3,9 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: 
+    light: /img/logo.svg
+    dark: /img/logo-dark.svg
 # Page metadata configurations
 head:
   # URL or path to the website's icon
@@ -113,14 +115,14 @@ navbar:
     Categories:
       path: /categories
     # Thẻ: /tags
-    Misc:
-      path: /misc
-      children:
-        Music:
-          path: /categories/music
-          # icon: fab fa-github
-        Note:
-          path: /note
+    # Misc:
+    #   path: /misc
+    #   children:
+    #     Music:
+    #       path: /categories/music
+    #       # icon: fab fa-github
+    #     Note:
+    #       path: /note
     Resume: 
       path: /cv
     About: 

@@ -214,8 +214,8 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
 
 <div class="timeline">
     <article class="media">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2022/08/ripplify-app-icon.png?w=48">
+        <figure class="media-left" style="width: 58px; height: 58px; margin-left: 0; margin-bottom: 0; margin-right: 20px">
+            <img src="/images/ripplify-app-icon.webp">
         </figure>
         <div>
             <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://ripplify.thiennguyen.dev/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
@@ -223,8 +223,8 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
         </div>
     </article>
     <article class="media">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2022/08/fscup-app-icon.png?w=42">
+        <figure class="media-left" style="width: 58px; height: 58px; margin-left: 0; margin-bottom: 0; margin-right: 20px">
+            <img src="/images/fscup-app-icon.webp">
         </figure>
         <div>
             <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>

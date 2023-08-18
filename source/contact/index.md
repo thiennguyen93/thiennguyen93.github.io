@@ -19,175 +19,8 @@ If you like this page, why don't you share it?
 margin: 100px auto;
 text-align: center;
 }
-
-.card_contact_page p {
-margin-bottom: 72px;
-font-size: 18px;
-color: #151515;
-margin-top: 0;
-}
-
-.success {
-width: 64px;
-}
-
-.path {
-stroke-dasharray: 1000;
-stroke-dashoffset: 0;
-}
-
-.path .circle {
--webkit-animation: dash 2s ease-in-out;
-animation: dash 2s ease-in-out;
-}
-
-.path .line {
-stroke-dashoffset: 1000;
--webkit-animation: dash 4.4s ease-in-out forwards;
-animation: dash 4.4s ease-in-out forwards;
-}
-
-.path .check {
-stroke-dasharray: 700;
-animation-delay: 0;
--webkit-animation: dash-check 1s ease-in-out forwards;
-animation: dash-check 1s ease-in-out forwards;
-}
-
-@-webkit-keyframes dash {
-0% {
-stroke-dashoffset: 1000;
-}
-
-100% {
-stroke-dashoffset: 0;
-}
-}
-
-@keyframes  dash {
-0% {
-stroke-dashoffset: 1000;
-}
-
-100% {
-stroke-dashoffset: 0;
-}
-}
-
-@-webkit-keyframes dash-check {
-from {
-stroke-dashoffset: 700;
-}
-
-to {
-stroke-dashoffset: 1400;
-}
-}
-
-@keyframes  dash-check {
-from {
-stroke-dashoffset: 700;
-}
-
-to {
-stroke-dashoffset: 1400;
-}
-}
-
-.file {
-max-width: 541px;
-margin: 75px auto;
-}
-.file span {
-text-align: left;
-font-size: 13px;
-font-weight: 600;
-color: #999999;
-margin-bottom: 5px;
-display: inline-block;
-width: 100%;
-}
-.file-content {
-border: 1px solid #E7E7E7;
-border-bottom: 0 !important;
-}
-.file p {
-margin-top: 0;
-margin-bottom: 0;
-}
-.file .file-box {
-padding: 7px 11px;
-border-bottom: 1px solid #E7E7E7;
-display: flex;
-align-items: center;
-justify-content: space-between;
-}
-
-.file-box-container {
-display: flex;
-align-items: center;
-}
-.file .file-tag {
-color: #999999;
-font-size: 10px;
-font-weight: 700;
-background: #E7E7E7;
-border-radius: 19px;
-padding: 4px 8px;
-}
-.file .file-name {
-font-size: 14px;
-font-weight: 500;
-color: #000;
-margin-left: 7px;
-margin-right: 8px;
-overflow: hidden;
-text-overflow: ellipsis;
-white-space: nowrap;
-max-width: 300px;
-text-align: left;
-}
-.file .file-size {
-font-size: 13px;
-color: #999999;
-}
-.file .file-btn {
-padding: 7px 12px;
-letter-spacing: -0.04px;
-font-weight: 600;
-font-size: 14px;
-color: #151515;
-background: #E7E7E7;
-border-radius: 6px;
-text-decoration: none;
-}
-.file .file-btn:hover {
-background: #E0E0E0;
-}
-@media (max-width: 576px) {
-.card_contact_page {
-margin: 30px auto 110px;
-}
-.card_contact_page-p {
-margin-bottom: 24px !important;
-}
-.file {
-max-width: 90%;
-margin: 45px auto;
-}
-.file-box {
-padding: 14px 11px !important;
-align-items: normal !important;
-flex-direction: column;
-}
-
-.file-box-container {
-margin-bottom: 9px;
-}
-
-.file .file-name {
-max-width: 195px;
-}
+body:not(.light) input::placeholder {
+  color: #c0c0c0;
 }
 </style>
 <!--[if lte IE 9]>
@@ -200,15 +33,16 @@ max-width: 195px;
 <div id="feedback-form">
 <form id="form" action="">
 <fieldset id="form-fieldset">
+  <!-- NAME  -->
   <div class="field">
-    <label class="label">Name</label>
+    <label class="label has-text-grey">Name</label>
     <div class="control">
       <input required class="input" type="text" placeholder="Enter your name" name="full-name" />
     </div>
   </div>
 
   <div class="field">
-    <label class="label">Email</label>
+    <label class="label has-text-grey">Email</label>
     <div class="control has-icons-left has-icons-right">
       <input required class="input" type="email" placeholder="Enter your email address" value="" name="email" />
       <span class="icon is-small is-left">
@@ -222,7 +56,7 @@ max-width: 195px;
   </div>
 
   <div class="field">
-    <label class="label">Message</label>
+    <label class="label has-text-grey">Message</label>
     <div class="control">
       <textarea required class="textarea" placeholder="Enter your messsage" name="message"></textarea>
     </div>

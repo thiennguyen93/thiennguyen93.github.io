@@ -54,24 +54,34 @@ Hello, I’m Thien, a <span id="typed"></span> based in Ho Chi Minh City, Vietna
 With a passion for programming and web/app development, I aspire to become a full-stack developer.<br />
 I thrive in collaborative environments and believe in continuous learning. I'm eager to join innovative teams where I can learn from others, contribute my skills, and enhance my abilities.
 
-### <span class="tag mr-2 is-info is-size-6"><i class="fas fa-info-circle"></i></span> <span style="color: #4a4a4a;">Information</span>
+<style>
+body:not(.light) .tag.is-light {
+    color: #c0c0c0 !important;
+    background-color: #373d48 !important;
+}
+body:not(.light) .tag.is-white {
+    color: #c0c0c0 !important;
+    background-color: transparent !important;
+}
+</style>
+### <span class="tag mr-2 is-info is-size-6"><i class="fas fa-info-circle"></i></span> <span>Information</span>
 
 <div style="margin-left: 47px; margin-right: 40px; margin-bottom: 40px" >
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Full name</span></div>
-        <div class="column"><span class="has-text-grey-darker">Nguyen Ngoc Phuoc Thien / Thien Nguyen</span></div>
+        <div class="column"><span>Nguyen Ngoc Phuoc Thien / Thien Nguyen</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Email</span></div>
-        <div class="column"><span class="has-text-grey-darker">me@thiennguyen.dev</span></div>
+        <div class="column"><span>me@thiennguyen.dev</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Phone</span></div>
-        <div class="column"><span class="has-text-grey-darker">(+84) 395 443 490</span></div>
+        <div class="column"><span>(+84) 395 443 490</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Location</span></div>
-        <div class="column"><span class="has-text-grey-darker">Thu Duc City, Ho Chi Minh City, Vietnam</span></div>
+        <div class="column"><span>Thu Duc City, Ho Chi Minh City, Vietnam</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Languages</span></div>
@@ -104,10 +114,10 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
     </div>
 </div>
 
-### <span class="tag mr-2 is-danger is-size-6"><i class="fas fa-briefcase"></i></span> <span style="color: #4a4a4a;">Work Experience</span>
+### <span class="tag mr-2 is-danger is-size-6"><i class="fas fa-briefcase"></i></span> <span>Work Experience</span>
 
 <div class="timeline">
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2022/09/logo-02-250-x-250-px-white-bg.png?w=64">
         </figure>
@@ -140,7 +150,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             </p>
         </div>
     </article>
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/cmc-global.png?w=64">
         </figure>
@@ -172,12 +182,12 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             </p>
         </div>
     </article>
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2020/03/hpt_logo.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span class="has-text-grey-dark"><a href="https://www.hpt.vn/" target="_blank">HPT Vietnam Corporation</a></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span><a href="https://www.hpt.vn/" target="_blank">HPT Vietnam Corporation</a></span></strong></h4>
             <span>Projects: Cash Vault Management (Techcombank)</span>
             <p>Software Engineer</p>
             <p style="margin-bottom: 20px">
@@ -197,12 +207,12 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             </p>
         </div>
     </article>
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2020/03/phpgroupvn_logo-1.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span class="has-text-grey-dark"><a href="https://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span><a href="https://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
             <p>Customer Service Representative</p>
             <p  style="margin-bottom: 20px">Processing claims, forms, applications and handling clients' requests using CRM software.
             </p>
@@ -210,72 +220,72 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
     </article>
 </div>
 
-### <span class="tag mr-2 is-primary is-size-6"><i class="fa fa-star"></i></span> <span style="color: #4a4a4a;">Personal Projects</span>
+### <span class="tag mr-2 is-primary is-size-6"><i class="fa fa-star"></i></span> <span>Personal Projects</span>
 
 <div class="timeline">
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="width: 58px; height: 58px; margin-left: 0; margin-bottom: 0; margin-right: 20px">
             <img src="/images/ripplify-app-icon.webp">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://ripplify.thiennguyen.dev/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
+            <h4 class="is-size-6"><strong><span><a href="https://ripplify.thiennguyen.dev/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
             <p>A free, handy and delightful tool initially designed for presenters, trainers and teachers who want to highlight their mouse pointer.</p>
         </div>
     </article>
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="width: 58px; height: 58px; margin-left: 0; margin-bottom: 0; margin-right: 20px">
             <img src="/images/fscup-app-icon.webp">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="has-text-grey-dark"><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
+            <h4 class="is-size-6"><strong><span><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
             <p>An input assistance software used together with FSC Rater.</p>
         </div>
     </article>
 </div>
 
-### <span class="tag mr-2 is-success is-size-6"><i class="fas fa-graduation-cap"></i></span> <span style="color: #4a4a4a;">Education</span>
+### <span class="tag mr-2 is-success is-size-6"><i class="fas fa-graduation-cap"></i></span> <span>Education</span>
 
 <div class="timeline">
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png?w=64">
         </figure>
         <div class="timeline-item">
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span class="has-text-grey-dark">VNUHCM - University of Science</span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span>VNUHCM - University of Science</span></strong></h4>
             <p>B.S in Information Technology</p>
             <p  style="margin-bottom: 20px">Cloud Computing for Business, Data Structure and Algorithms, Object-oriented Programming, Databases and Database Management Systems, HTML, CSS, Node.js, Javascript, MySQL.</p>
         </div>
     </article>
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2020/02/logo_spkt_thiennguyenicu.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span class="has-text-grey-dark">HCMC University of Technology and Education</span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span>HCMC University of Technology and Education</span></strong></h4>
             <p>B.A in English Language Teaching</p>
             <p  style="margin-bottom: 20px">English for Business, English for Computing, Learners' Psychology, Teaching Methodology.</p>
         </div>
     </article>
 </div>
 
-### <span class="tag mr-2 is-primary is-size-6"><i class="fas fa-certificate"></i></span> <span style="color: #4a4a4a;">Certifications</span>
+### <span class="tag mr-2 is-primary is-size-6"><i class="fas fa-certificate"></i></span> <span>Certifications</span>
 
 <div class="timeline">
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/14-react.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="tag mr-2">Jan 2021</span> <span class="has-text-grey-dark">Certificate of Achievement in Completion of ReactJS Programming</span></strong></h4>
+            <h4 class="is-size-6"><strong><span class="tag mr-2">Jan 2021</span> <span>Certificate of Achievement in Completion of ReactJS Programming</span></strong></h4>
             <p>Accredited by Zend Vietnam</p>
         </div>
     </article>
-    <article class="media">
+    <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-laravel-1-1.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="tag mr-2">Sep 2020</span> <span class="has-text-grey-dark">Certificate of Completion of PHP Programming Training Course</span></strong></h4>
+            <h4 class="is-size-6"><strong><span class="tag mr-2">Sep 2020</span> <span>Certificate of Completion of PHP Programming Training Course</span></strong></h4>
             <p>Accredited by APTECH Saigon</p>
         </div>
     </article>

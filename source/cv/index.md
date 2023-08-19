@@ -64,10 +64,10 @@ body:not(.light) .tag.is-white {
     background-color: transparent !important;
 }
 body:not(.light) .only-in-light-mode {
-    display: none
+    /* display: none */
 }
-body:not(.night) .only-in-night-mode {
-    display: none
+.only-in-night-mode {
+    display: none !important;
 }
 .cv.wh-64 {
     width: 64px;
@@ -132,7 +132,7 @@ body:not(.night) .only-in-night-mode {
             <img src="https://thiennguyenpro.files.wordpress.com/2022/09/logo-02-250-x-250-px-white-bg.png?w=64">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#" target="_blank">Gamify Studios Company Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#">Gamify Studios Company Limited</a></strong></h4>
             <span>Product: Back Office Gaming Management System</span>
             <p>Software Engineer</p>
             <p>
@@ -263,22 +263,24 @@ body:not(.night) .only-in-night-mode {
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img class="only-in-light-mode cv wh-64" src="img/logo-hcmus-light.png">
-            <img class="only-in-night-mode cv wh-64" src="img/logo-hcmus-dark.png">
+            <!-- <img class="only-in-light-mode cv wh-64" src="img/logo-hcmus-light.png"> -->
+            <!-- <img class="only-in-night-mode cv wh-64" src="img/logo-hcmus-dark.png"> -->
+            <img class="only-in-night-light cv wh-64" src="img/logo-hcmus.png">
         </figure>
         <div class="timeline-item">
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span>VNUHCM - University of Science</span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span><a href="https://www.hcmus.edu.vn" target="_blank">VNUHCM - University of Science</a></span></span></strong></h4>
             <p>B.S in Information Technology</p>
             <p  style="margin-bottom: 20px">Cloud Computing for Business, Data Structure and Algorithms, Object-oriented Programming, Databases and Database Management Systems, HTML, CSS, Node.js, Javascript, MySQL.</p>
         </div>
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img class="cv wh-64 only-in-light-mode" src="img/logo-hcmute-light.png">
-            <img class="cv wh-64 only-in-night-mode" src="img/logo-hcmute-dark.png">
+            <!-- <img class="cv wh-64 only-in-light-mode" src="img/logo-hcmute-light.png"> -->
+            <!-- <img class="cv wh-64 only-in-night-mode" src="img/logo-hcmute-dark.png"> -->
+            <img class="cv wh-64 only-in-light-mode" src="img/logo-hcmute.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span>HCMC University of Technology and Education</span></strong></h4>
+            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span><a href="https://hcmute.edu.vn" target="_blank">HCMC University of Technology and Education</a></span></strong></h4>
             <p>B.A in English Language Teaching</p>
             <p  style="margin-bottom: 20px">English for Business, English for Computing, Learners' Psychology, Teaching Methodology.</p>
         </div>

@@ -63,6 +63,16 @@ body:not(.light) .tag.is-white {
     color: #c0c0c0 !important;
     background-color: transparent !important;
 }
+body:not(.light) .only-in-light-mode {
+    display: none
+}
+body:not(.night) .only-in-night-mode {
+    display: none
+}
+.cv.wh-64 {
+    width: 64px;
+    height: 64px;
+}
 </style>
 ### <span class="tag mr-2 is-info is-size-6"><i class="fas fa-info-circle"></i></span> <span>Information</span>
 
@@ -152,7 +162,8 @@ body:not(.light) .tag.is-white {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2021/08/cmc-global.png?w=64">
+            <img class="cv wh-64 only-in-light-mode" src="img/logo-cmc-global-light.png">
+            <img class="cv wh-64 only-in-night-mode" src="img/logo-cmc-global-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
@@ -184,7 +195,8 @@ body:not(.light) .tag.is-white {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2020/03/hpt_logo.png?w=64">
+            <img class="cv wh-64 only-in-light-mode" src="img/logo-hpt-light.png">
+            <img class="cv wh-64 only-in-night-mode" src="img/logo-hpt-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span><a href="https://www.hpt.vn/" target="_blank">HPT Vietnam Corporation</a></span></strong></h4>
@@ -209,7 +221,8 @@ body:not(.light) .tag.is-white {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2020/03/phpgroupvn_logo-1.png?w=64">
+            <img class="cv wh-64 only-in-light-mode" src="img/logo-php-group-international-vietnam-light.png">
+            <img class="cv wh-64 only-in-night-mode" src="img/logo-php-group-international-vietnam-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span><a href="https://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
@@ -224,8 +237,9 @@ body:not(.light) .tag.is-white {
 
 <div class="timeline">
     <article class="media" style="color: unset;">
-        <figure class="media-left" style="width: 58px; height: 58px; margin-left: 0; margin-bottom: 0; margin-right: 20px">
-            <img src="/images/ripplify-app-icon.webp">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+            <img class="cv wh-64 only-in-light-mode" src="img/logo-ripplify-light.png">
+            <img class="cv wh-64 only-in-night-mode" src="img/logo-ripplify-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6"><strong><span><a href="https://ripplify.thiennguyen.dev/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
@@ -233,8 +247,9 @@ body:not(.light) .tag.is-white {
         </div>
     </article>
     <article class="media" style="color: unset;">
-        <figure class="media-left" style="width: 58px; height: 58px; margin-left: 0; margin-bottom: 0; margin-right: 20px">
-            <img src="/images/fscup-app-icon.webp">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+            <img class="cv wh-64 only-in-light-mode" src="img/logo-fscup-light.png">
+            <img class="cv wh-64 only-in-night-mode" src="img/logo-fscup-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6"><strong><span><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
@@ -248,7 +263,8 @@ body:not(.light) .tag.is-white {
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png?w=64">
+            <img class="only-in-light-mode cv wh-64" src="img/logo-hcmus-light.png">
+            <img class="only-in-night-mode cv wh-64" src="img/logo-hcmus-dark.png">
         </figure>
         <div class="timeline-item">
             <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span>VNUHCM - University of Science</span></strong></h4>
@@ -258,7 +274,8 @@ body:not(.light) .tag.is-white {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2020/02/logo_spkt_thiennguyenicu.png?w=64">
+            <img class="cv wh-64 only-in-light-mode" src="img/logo-hcmute-light.png">
+            <img class="cv wh-64 only-in-night-mode" src="img/logo-hcmute-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span>HCMC University of Technology and Education</span></strong></h4>
@@ -273,7 +290,8 @@ body:not(.light) .tag.is-white {
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2021/08/14-react.png?w=64">
+            <img class="cv wh-64 only-in-light-mode" src="img/logo-react-js-light.png">
+            <img class="cv wh-64 only-in-night-mode" src="img/logo-react-js-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6"><strong><span class="tag mr-2">Jan 2021</span> <span>Certificate of Achievement in Completion of ReactJS Programming</span></strong></h4>
@@ -282,7 +300,8 @@ body:not(.light) .tag.is-white {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img src="https://thiennguyenpro.files.wordpress.com/2021/08/logo-laravel-1-1.png?w=64">
+            <img class="cv wh-64 only-in-light-mode" src="img/logo-laravel-light.png">
+            <img class="cv wh-64 only-in-night-mode" src="img/logo-laravel-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6"><strong><span class="tag mr-2">Sep 2020</span> <span>Certificate of Completion of PHP Programming Training Course</span></strong></h4>

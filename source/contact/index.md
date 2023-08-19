@@ -19,7 +19,8 @@ If you like this page, why don't you share it?
 margin: 100px auto;
 text-align: center;
 }
-body:not(.light) input::placeholder {
+body:not(.light) input::placeholder, 
+body:not(.light) textarea::placeholder {
   color: #c0c0c0;
 }
 </style>

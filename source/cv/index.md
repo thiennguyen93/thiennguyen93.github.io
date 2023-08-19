@@ -38,7 +38,7 @@ widgets:
         tooltip: "Email: me@thiennguyen.dev"
       "Download CV as PDF":
         icon: fas fa-download
-        url: "/assets/documents/pdf/2023_04_29_THIEN_NGUYEN_CV.pdf"
+        url: "/assets/documents/pdf/2023_08_19_THIEN_NGUYEN_CV.pdf"
         tooltip: "Email: me@thiennguyen.dev"
   - type: toc
     position: right
@@ -318,29 +318,3 @@ h1.title {
     loopCount: Infinity,
   });
 </script>
-
-<!--
-<script src="//www.sejda.com/js/sejda-js-api.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function(e) {
-        // const downloadButton = document.querySelectorAll('[title="Download CV as PDF"]');
-        // downloadButton[0].
-        const downloadButton = $('[title="Download CV as PDF"]').click(function(evt){
-            evt.preventDefault();
-            SejdaJsApi.htmlToPdf({
-            filename: 'out.pdf',
-            /* leave blank for one long page */
-            pageSize: 'a4',
-            publishableKey: 'api_public_d036c2bc241f43babce21452685a8963',
-            htmlCode: document.querySelector('html').innerHTML,
-            /* url: window.location.href */
-            always: function(){
-            // PDF download should have started
-                }
-            });
-        });
-        // console.log("test123",test);
-    // ...
-    });
-
-</script> -->

@@ -123,6 +123,8 @@ navbar:
     #       # icon: fab fa-github
     #     Note:
     #       path: /note
+    Relax:
+      path: /categories/music
     CV: 
       path: /cv
     About: 

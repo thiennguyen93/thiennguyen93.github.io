@@ -37,7 +37,7 @@ metadata: false
 }
 {% endaplayerlist %}
 <!-- more -->
-Ta đã ở bên nhau 1
+Ta đã ở bên nhau
 Những năm tháng nhọc nhằn
 You make me feel like...
 I got everything

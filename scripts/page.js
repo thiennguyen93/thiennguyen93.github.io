@@ -13,3 +13,18 @@ hexo.extend.injector.register(
     },
     "page"
 );
+
+
+hexo.extend.injector.register(
+  "body_end",
+  () => {
+      return `
+      <script>
+      if (document.querySelector(".navbar-item.is-active[href='/categories/music']")) {
+        document.querySelector(".navbar-item.is-active[href='/categories']").classList.remove("is-active")
+      }
+      </script>
+      `;
+  },
+  "category"
+);

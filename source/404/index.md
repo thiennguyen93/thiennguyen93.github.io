@@ -35,5 +35,16 @@ titleClassnames: ['custom-page-404-title']
 
 <!-- LIGHT -->
 <div class="light">
-    
+    <div class="main-wrapper">
+      <picture class="scarecrow-img">
+        <img src="https://raw.githubusercontent.com/nat-oku/devchallenges/main/Scarecrow.png" alt="">
+      </picture>
+      <div class="error-text">
+        <h2>404 Page not found</h2>
+        <p>The page you are looking for might be removed or is temporarily unvailable.</p>
+        <span class="input-group-btn">
+          <button class="btn button is-primary" type="button">Back to homepage</button>
+        </span>
+      </div>
+    </div>
 </div>

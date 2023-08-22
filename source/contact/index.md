@@ -23,12 +23,10 @@ body:not(.light) input::placeholder,
 body:not(.light) textarea::placeholder {
   color: #c0c0c0;
 }
+body:not(.light) .control.has-icons-left .input:focus ~ .icon, .control.has-icons-right .input:focus ~ .icon, .control.has-icons-left .select:focus ~ .icon, .control.has-icons-right .select:focus ~ .icon {
+    color: unset;
+}
 </style>
-<!--[if lte IE 9]>
-<style>
-.path {stroke-dasharray: 0 !important;}
-</style>
-<![endif]-->
 </div>
 
 <div id="feedback-form">

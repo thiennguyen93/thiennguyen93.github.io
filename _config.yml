@@ -80,3 +80,6 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+# Need to inject manually by scripts/page.js
+aplayer:
+  asset_inject: false

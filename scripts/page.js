@@ -1,4 +1,6 @@
 // https://hexo.io/api/injector#content-inner
+const css = hexo.extend.helper.get('css').bind(hexo);
+const js = hexo.extend.helper.get('js').bind(hexo);
 
 const script = `
 <script>
@@ -28,3 +30,13 @@ hexo.extend.injector.register(
   },
   "category"
 );
+
+// Thien Nguyen Custom... Inject aplayer dependencies CSS, JS
+hexo.extend.injector.register('head_end', () => {
+  return css('/assets/css/APlayer.min.css');
+}, 'default');
+
+
+hexo.extend.injector.register('head_end', () => {
+  return js('/assets/js/APlayer.min.js');
+}, 'default');

@@ -80,7 +80,7 @@ Năm 2023, mình tròn 30 tuổi.
 
 Hiện tại mình là kỹ sư phần mềm tại một [công ty phát triển Game của Singapore](/cv/#Work-Experience).
 
-Mình luôn tìm thấy sự mâu thuẫn, ngay cả trong chính bản thân mình. Miệng thì luôn nói rằng thích sự tối giản nhưng lại muốn làm mọi thứ trở nên phức tạp. Thuận tay phải nhưng lại dùng đũa tay trái.
+Mình luôn tìm thấy sự mâu thuẫn, ngay cả ở chính bản thân. Chẳng hạn, đề cao chủ nghĩa tối giản nhưng lại thường suy nghĩ theo hướng phức tạp. Thuận tay phải nhưng khi ăn thì dùng đũa tay trái.
 
 Mình đã lập gia đình và đã có một con trai thường gọi là Cà rốt 🥕🥕 (tên cúng cơm do bà nội đặt)
 

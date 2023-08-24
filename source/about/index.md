@@ -101,7 +101,7 @@ Tương lai, mình dự định sẽ xây dựng thêm chuyên mục Podcast �
 
 Dù bạn là ai, đến từ đâu, làm công việc gì, cảm ơn bạn đã ghé thăm **Khu vườn trên mây** của mình.
 
-Mình chắc chắn không phải là người truyền cảm hứng (to tát quá), nhưng chắc chắn sẽ là người luôn sẵn sàng lắng nghe nếu bạn muốn chia sẻ câu chuyện của chính mình. Biết đâu chúng ta lại có điểm chung nào đó?
+Mình không phải là người truyền cảm hứng (eo ưi...to tát quá), nhưng chắc chắn là người luôn sẵn sàng lắng nghe nếu bạn muốn chia sẻ câu chuyện của chính mình. Biết đâu chúng ta lại có điểm chung nào đó?
 
 Hy vọng bạn tìm thấy điều gì đó thú vị khi đọc bài trên blog của mình.
 

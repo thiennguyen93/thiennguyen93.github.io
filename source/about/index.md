@@ -23,9 +23,7 @@ Thien Nguyen
 </h1>
 <h5 class="title is-3 is-size-8-mobile has-text-centered has-text-grey">Minimalism is not a lack of something.<br />It’s simply the perfect amount of something.</h5>
 
-{% tabs align:centered style:boxed %}
-
-<!-- tab id:about-me-vi "icon:fas fa-cubes" "title:Tiếng Việt" active -->
+<hr />
 
 Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
 
@@ -75,16 +73,3 @@ Chúc bạn một ngày tốt lành!
 <strong>Thiện Nguyễn</strong>
 tại <em>Khu vườn trên mây</em>
 </p>
-<!-- endtab -->
-
-<!-- tab id:about-me-en "icon:fas fa-file-code" "title:English" -->
-
-## About me
-
-Hi 👋, I am Thien Nguyen, aka William Nguyen.
-I am a backend developer as well as a father of one child.
-I work for Gamify Studios, a game development company located in Ho Chi Minh City, Vietnam.
-
-<!-- endtab -->
-
-{% endtabs %}

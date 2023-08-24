@@ -53,7 +53,7 @@ Mình đã lập gia đình và đã có một con trai thường gọi là Cà 
 
 ## Về blog này 🍻
 
-Mình bắt đầu viết blog từ đầu những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ  hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân mình.
+Mình bắt đầu viết blog từ những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ  hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân mình.
 
 Mình viết những gì mình muốn nên không có những đề tài cụ thể, chỉ đơn giản là đặt bút xuống và viết.
 

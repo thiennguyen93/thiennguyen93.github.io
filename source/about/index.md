@@ -124,7 +124,7 @@ I work for Gamify Studios, a game development company located in Ho Chi Minh Cit
     openTab(location.hash)
     liEn.classList.remove("is-active");
     liVi.classList.remove("is-active");
-    document.querySelector(`a[data-href='${location.hash}']`)?.parentElement?.classList.add("is-active");
+    (document.querySelector(`a[data-href='${location.hash}']`) || tabVi )?.parentElement?.classList.add("is-active");
 
   }
 
@@ -134,8 +134,10 @@ I work for Gamify Studios, a game development company located in Ho Chi Minh Cit
     for (i = 0; i < x.length; i++) {
       x[i].classList.add("is-hidden");
     }
-    var tab = document.querySelector(tabName);
-    tab.classList.remove("is-hidden");
+    var tab = document.querySelector(tabName) || document.querySelector(tabContentVi);
+    if (tab) {
+      tab.classList.remove("is-hidden");
+    } 
     if(history.pushState) {
     history.pushState(null, null, tabName);
     }

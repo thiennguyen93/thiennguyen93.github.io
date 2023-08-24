@@ -23,7 +23,9 @@ Thien Nguyen
 </h1>
 <h5 class="title is-3 is-size-8-mobile has-text-centered has-text-grey">Minimalism is not a lack of something.<br />It’s simply the perfect amount of something.</h5>
 
-<hr />
+{% tabs align:centered style:boxed %}
+
+<!-- tab id:about-me-vi "icon:fas fa-cubes" "title:Tiếng Việt" active -->
 
 Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
 
@@ -73,3 +75,58 @@ Chúc bạn một ngày tốt lành!
 <strong>Thiện Nguyễn</strong>
 tại <em>Khu vườn trên mây</em>
 </p>
+<!-- endtab -->
+
+<!-- tab id:about-me-en "icon:fas fa-file-code" "title:English" -->
+
+## About me
+
+Hi 👋, I am Thien Nguyen, aka William Nguyen.
+I am a backend developer as well as a father of one child.
+I work for Gamify Studios, a game development company located in Ho Chi Minh City, Vietnam.
+
+<!-- endtab -->
+
+{% endtabs %}
+
+<script>
+  var tabVi = document.querySelector("a[href='#about-me-vi']");
+  if (tabVi) {
+    tabVi.dataset.href = tabVi.getAttribute("href");
+    tabVi.href = "javascript:;";
+  }
+
+  var tabEn = document.querySelector("a[href='#about-me-en']");
+  if (tabEn) {
+    tabEn.dataset.href = tabEn.getAttribute("href");
+    tabEn.href = "javascript:;";
+  }
+
+  var liEn = document.querySelector("a[data-href='#about-me-en']").parentElement;
+  var liVi = document.querySelector("a[data-href='#about-me-vi']").parentElement;
+
+  tabVi.addEventListener("click", function (e) {
+    liEn.classList.remove("is-active");
+    liVi.classList.add("is-active");
+    var tab = tabVi.dataset.href;
+    openTab(tab);
+  });
+
+  tabEn.addEventListener("click", function (e) {
+    liEn.classList.add("is-active");
+    liVi.classList.remove("is-active");
+    var tab = tabEn.dataset.href;
+    openTab(tab);
+  });
+
+  function openTab(tabName) {
+    var i;
+    var x = document.getElementsByClassName("tab-content");
+    for (i = 0; i < x.length; i++) {
+      x[i].classList.add("is-hidden");
+    }
+    var tab = document.querySelector(tabName);
+    tab.classList.remove("is-hidden");
+  }
+
+</script>

@@ -10,48 +10,10 @@ cover: images/page-about-cover.jpeg
 classNames: ['custom-page-about']
 coverClassnames: ['custom-page-about-cover']
 titleClassnames: ['custom-page-about-title']
-useStyles: ['/assets/styles/img-tilt-effect.css']
+useStyles: ['/assets/styles/img-tilt-effect.css','css/styles.css']
 widgets: false
 donates: false
 ---
-<style>
-  .custom-page-about .custom-page-about-cover {
-    height: 251px
-  }
-  .custom-page-about .about-avatar {
-    position: relative;
-    margin: -7rem auto 0rem;
-    width: 10rem;
-    height: 10rem;
-    z-index: 3;
-  }
-  .custom-page-about .about-avatar img {
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
-    background-color: transparent;
-    object-fit: cover;
-    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
-  }
-  .custom-page-about-cover img {
-    left: 45px !important;
-    transform: scale(1.25);
-    top: 15px !important;
-  }
-  .custom-page-about .about-avatar p {
-    display: none;
-  }
-  .custom-page-about-title {
-    display: none;
-  }
-  @media only screen and (max-width: 768px) {
-  .custom-page-about .about-avatar {
-    margin: -10rem auto 0rem;
-  }
-}
-</style>
-
-
 
 <div class="about-avatar">
   <img src="/images/thiennguyen-figure.jpeg" class="img-fluid" alt="Thiện Nguyễn">

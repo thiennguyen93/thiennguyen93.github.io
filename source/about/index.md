@@ -29,22 +29,22 @@ Thien Nguyen
 
 Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
 
-Chào mừng bạn đến **"khu vườn trên mây 🌥️"** của mình. Mình gọi thế vì đây là nơi để mình nghỉ ngơi, suy ngẫm và sẻ chia những câu chuyện về cuộc sống và công việc.
+Chào mừng bạn đến **"khu vườn trên mây 🌥️"** của tôi. Tôi gọi thế vì đây là nơi để tôi nghỉ ngơi, suy ngẫm và sẻ chia những câu chuyện về cuộc sống và công việc.
 
-😆 *Vì code bao năm vẫn chưa thoát nghèo nên mình chỉ đủ tiền mua "sổ đỏ" trên internet và xây nên khu vườn này
+😆 *Vì code bao năm vẫn chưa thoát nghèo nên tôi chỉ đủ tiền mua "sổ đỏ" trên internet và xây nên khu vườn này
 (so-called, **The garden in the clouds**)*.
 
-## Về mình 👉 👈
+## Về tôi 👉 👈
 
-Mình tên đầy đủ là Nguyễn Ngọc Phước Thiện.
+Tôi tên đầy đủ là Nguyễn Ngọc Phước Thiện.
 
-Năm 2023, mình tròn 30 tuổi.
+Năm 2023, tôi tròn 30 tuổi.
 
-Hiện tại mình là kỹ sư phần mềm tại một [công ty phát triển Game của Singapore](/cv/#Work-Experience).
+Hiện tại tôi là kỹ sư phần mềm tại một [công ty phát triển Game của Singapore](/cv/#Work-Experience).
 
-Mình luôn tìm thấy sự mâu thuẫn, ngay cả ở chính bản thân. Chẳng hạn, đề cao chủ nghĩa tối giản nhưng lại thường suy nghĩ theo hướng phức tạp. Thuận tay phải nhưng khi ăn thì dùng đũa tay trái.
+Tôi luôn tìm thấy sự mâu thuẫn, ngay cả ở chính bản thân. Chẳng hạn, đề cao chủ nghĩa tối giản nhưng lại thường suy nghĩ theo hướng phức tạp. Thuận tay phải nhưng khi ăn thì dùng đũa tay trái.
 
-Mình đã lập gia đình và đã có một con trai thường gọi là Cà rốt 🥕🥕 (tên cúng cơm do bà nội đặt)
+Tôi đã lập gia đình và đã có một con trai thường gọi là Cà rốt 🥕🥕 (tên cúng cơm do bà nội đặt)
 
 <p style="text-align: center;">
     <img class="frame tilt-right" src="img/carrot-01.jpeg" alt="Cà rốt 🥕" title="Cà rốt" width="60%">
@@ -53,19 +53,19 @@ Mình đã lập gia đình và đã có một con trai thường gọi là Cà 
 
 ## Về blog này 🍻
 
-Mình bắt đầu viết blog từ những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ  hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân mình.
+Tôi bắt đầu viết blog từ những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ  hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân tôi.
 
-Mình viết những gì mình muốn nên không có những đề tài cụ thể, chỉ đơn giản là đặt bút xuống và viết.
+Tôi viết những gì tôi muốn nên không có những đề tài cụ thể, chỉ đơn giản là đặt bút xuống và viết.
 
-Tương lai, mình dự định sẽ xây dựng thêm chuyên mục Podcast 🎤, thay vì dùng chữ viết thì mình sẽ lời nói để chia sẻ.
+Tương lai, tôi dự định sẽ xây dựng thêm chuyên mục Podcast 🎤, thay vì dùng chữ viết thì tôi sẽ lời nói để chia sẻ.
 
 ## Lời kết
 
-Dù bạn là ai, đến từ đâu, làm công việc gì, cảm ơn bạn đã ghé thăm **Khu vườn trên mây** của mình.
+Dù bạn là ai, đến từ đâu, làm công việc gì, cảm ơn bạn đã ghé thăm **Khu vườn trên mây** của tôi.
 
-Mình không phải là người truyền cảm hứng (eo ưi...to tát quá), nhưng chắc chắn là người luôn sẵn sàng lắng nghe nếu bạn muốn chia sẻ câu chuyện của chính mình. Biết đâu chúng ta lại có điểm chung nào đó?
+Tôi không phải là người truyền cảm hứng (eo ưi...to tát quá), nhưng chắc chắn là người luôn sẵn sàng lắng nghe nếu bạn muốn chia sẻ câu chuyện của chính mình. Biết đâu chúng ta lại có điểm chung nào đó?
 
-Hy vọng bạn tìm thấy điều gì đó thú vị khi đọc bài trên blog của mình.
+Hy vọng bạn tìm thấy điều gì đó thú vị khi đọc bài trên blog này.
 
 <br />
 <p  style="text-align: right;">

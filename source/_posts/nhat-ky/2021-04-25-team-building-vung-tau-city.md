@@ -43,7 +43,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
    <div class="timeline">
       <article class="media">
          <figure class="media-left image is-64x64">
-              <a class="gallery-item" href="https://thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-000.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-000.jpg?w=128"></a>
+              <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-000.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-000.jpg?w=128"></a>
           </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-22T08:00:00.000Z">08:00 22/04/2021</time></p>
@@ -64,7 +64,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <figure class="media-left image is-64x64">
-              <a class="gallery-item" href="https://blog.thiennguyen.icu/wp-content/uploads/2021/04/DSC087581-min-768x512.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/dsc087581-min-768x512-1.jpg?w=128"></a>
+              <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/08/dsc087581-min-768x512-1.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/dsc087581-min-768x512-1.jpg?w=128"></a>
           </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-22T13:30:00.000Z">13:30 22/04/2021</time></p>
@@ -76,7 +76,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
        <article class="media">
          <figure class="media-left image is-64x64">
-              <a class="gallery-item" href="https://blog.thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-Oc-Tu-Nhien-768x512.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-oc-tu-nhien-768x512-1.jpg?w=128"></a>
+              <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-oc-tu-nhien-768x512-1.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-oc-tu-nhien-768x512-1.jpg?w=128"></a>
           </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-22T17:50:00.000Z">17:50 22/04/2021</time></p>
@@ -88,7 +88,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <figure class="media-left image is-64x64">
-            <a class="gallery-item" href="https://blog.thiennguyen.icu/wp-content/uploads/2021/04/Team-building-Vung-Tau-2021-Bai-Sau-768x512.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-bai-sau-768x512-1.jpg?w=128"></a>
+            <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-bai-sau-768x512-1.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-bai-sau-768x512-1.jpg?w=128"></a>
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-22T19:45:00.000Z">19:45 22/04/2020</time></p>
@@ -100,7 +100,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <figure class="media-left image is-64x64">
-            <a class="gallery-item" href="https://blog.thiennguyen.icu/wp-content/uploads/2021/04/team-building-vung-tau-2021-song-bai-villa-c5-min-768x511.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-song-bai-villa-c5-min-768x511-1.jpg?w=128"></a>
+            <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-song-bai-villa-c5-min-768x511-1.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-song-bai-villa-c5-min-768x511-1.jpg?w=128"></a>
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-22T19:45:00.000Z">19:45 22/04/2020</time></p>
@@ -112,7 +112,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <figure class="media-left image is-64x64">
-            <a class="gallery-item" href="https://blog.thiennguyen.icu/wp-content/uploads/2021/04/team-building-vung-tau-2021-tro-choi-01-w800-768x512.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-tro-choi-01-w800-768x512-1.jpg?w=128"></a>
+            <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-tro-choi-01-w800-768x512-1.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/team-building-vung-tau-2021-tro-choi-01-w800-768x512-1.jpg?w=128"></a>
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-23T06:15:00.000Z">06:15 23/04/2021</time></p>
@@ -133,7 +133,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <figure class="media-left image is-64x64">
-            <a class="gallery-item" href="https://blog.thiennguyen.dev/wp-content/uploads/2021/04/seaside-coffee-vung-tau-768x576.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/seaside-coffee-vung-tau-768x576-1.jpg?w=128"></a>
+            <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/08/seaside-coffee-vung-tau-768x576-1.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/seaside-coffee-vung-tau-768x576-1.jpg?w=128"></a>
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-23T09:20:00.000Z">09:20 23/04/2021</time></p>
@@ -145,7 +145,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <figure class="media-left image is-64x64">
-            <a class="gallery-item" href="https://blog.thiennguyen.dev/wp-content/uploads/2021/04/Goc-cot-dien-TP-vung-tau-768x576.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/goc-cot-dien-tp-vung-tau-768x576-1.jpg?w=128"></a>
+            <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/08/goc-cot-dien-tp-vung-tau-768x576-1.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/goc-cot-dien-tp-vung-tau-768x576-1.jpg?w=128"></a>
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-23T10:00:00.000Z">10:00 23/04/021</time></p>
@@ -157,7 +157,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <figure class="media-left image is-64x64">
-            <a class="gallery-item" href="https://blog.thiennguyen.dev/wp-content/uploads/2021/04/DSC09228-768x512.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/dsc09228-768x512-1.jpg?w=128"></a>
+            <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/08/dsc09228-768x512-1.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/08/dsc09228-768x512-1.jpg?w=128"></a>
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-23T12:30:00.000Z">12:30 23/04/2021</time></p>
@@ -169,7 +169,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
       </article>
       <article class="media">
          <figure class="media-left image is-64x64">
-            <a class="gallery-item" href="https://blog.thiennguyen.dev/wp-content/uploads/2021/04/DSC09249-768x512.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/04/dsc09249.jpg?w=128"></a>
+            <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/04/dsc09249.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/04/dsc09249.jpg?w=128"></a>
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-23T13:10:00.000Z">13:10 23/04/2021</time></p>

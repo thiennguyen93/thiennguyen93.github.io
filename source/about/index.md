@@ -12,7 +12,6 @@ coverClassnames: ['custom-page-about-cover']
 titleClassnames: ['custom-page-about-title']
 useStyles: ['/assets/styles/img-tilt-effect.css','css/styles.css']
 widgets: false
-donates: false
 ---
 
 <div class="about-avatar">

@@ -45,7 +45,7 @@ Hiện tại tôi là kỹ sư phần mềm tại một [công ty phát triển 
 
 Tôi luôn tìm thấy sự mâu thuẫn, ngay cả ở chính bản thân. Chẳng hạn, đề cao chủ nghĩa tối giản nhưng lại thường suy nghĩ theo hướng phức tạp. Thuận tay phải nhưng khi ăn thì dùng đũa tay trái.
 
-Tôi đã lập gia đình và đã có một con trai thường gọi là Cà rốt 🥕🥕 (tên cúng cơm do bà nội đặt)
+Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt 🥕🥕 (tên cúng cơm do bà nội đặt)
 
 <p style="text-align: center;">
     <img class="frame tilt-right" src="img/carrot-01.jpeg" alt="Cà rốt 🥕" title="Cà rốt" width="60%">

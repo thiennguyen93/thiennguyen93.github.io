@@ -7,6 +7,7 @@ language: en
 toc: false
 cover: /gallery/covers/nguoi-thay-nam-xua.jpg
 thumbnail: /gallery/thumbnails/nguoi-thay-nam-xua_thumbnail.jpg
+useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
 Sáng chủ nhật vừa rồi, tôi một mình phóng con xe máy từ quê lên thành phố. Xe chạy ngang nhà thầy. Thầy đứng bên kia đường, trước sân nhà. Chắc thầy đang đi dạo và ngắm cây cảnh. Vì có việc bận cần phải đi gấp tôi không thể nán lại để trò chuyện với thầy.
 
@@ -15,7 +16,7 @@ Sáng chủ nhật vừa rồi, tôi một mình phóng con xe máy từ quê l�
 Tôi theo học tiếng Anh của thầy cả thời phổ thông. Thầy dạy hay, nứt tiếng khắp vùng về mảng thi lấy chứng chỉ A, B tiếng Anh Quốc gia. Học trò của thầy đông lắm. Ngày ấy học thầy nếu là trong năm học thì sẽ học buổi tối. Lớp sẽ chuyển sang ban ngày vào mùa hè vì học sinh được nghỉ học ở trường. Nhà thầy khá xa, xuống học phải mất hơn 15 phút cong đít đạp xe. Thầy không dạy ở trường mà chỉ mở lớp dạy ở nhà. Phòng học gồm 4 dãy hơn hai chục bàn mà lúc nào cũng kín chỗ. Có khi còn phải ngồi chen chút 5,6 bạn một bàn. Nói là cơ sở ngoại ngữ chứ thật ra có một mình thầy dạy.
 
 <div style="text-align:center">
-    <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/01/img_8120.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2021/01/img_8120.jpg?h=300"></a>
+    <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2021/01/img_8120.jpg"><img class="frame tilt-right" src="https://thiennguyenpro.files.wordpress.com/2021/01/img_8120.jpg?h=300"></a>
 </div>
 
 Thầy là người vui tính và cởi mở. Cách thầy truyền đạt kiến thức cũng rất nhẹ nhàng và thoải mái. Lớp của thầy lúc nào cũng ngập tràn tiếng cười. Học với thầy phải chăm học từ vựng. Cuối giờ học, thầy kiểm tra bằng cách đọc 10 từ tiếng Việt và cho học sinh viết vào vở bài tập bằng tiếng Anh rồi nộp lại trước khi ra về. Nhờ cách dạy siêu kinh điển này mà trong ngần ấy năm học tôi tích góp được lượng từ vựng tiếng Anh kha khá.

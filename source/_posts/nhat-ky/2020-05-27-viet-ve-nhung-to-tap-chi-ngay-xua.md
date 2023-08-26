@@ -7,12 +7,13 @@ language: en
 toc: false
 cover: /gallery/covers/lbvmvt-1.jpg
 thumbnail: /gallery/thumbnails/lbvmvt-1.jpg
+useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
 Tôi lại nhớ cái thời mà mình phải xếp hàng chờ đến lượt vì mấy cửa hàng cung cấp dịch vụ Internet (người ta vẫn quen gọi là “tiệm nét“) luôn đông nghẹt, việc tiếp xúc với thông tin rất khó khăn và còn tốn kém nữa. Những cuốn tạp chí về công nghệ như thế này chính là nguồn thông tin rất giá trị. Chỗ tôi sống thuộc vùng sâu, vùng xa nên nhưng tờ báo về đề tài CNTT không dễ để tìm mua được. Tôi cũng may mắn là được đọc hai tờ Làm bạn với máy vi tính và tạp chí eCHIP phát hành mỗi thứ ba hàng tuần nhờ bố tôi mang ở văn phòng công ty về. 
 <!-- more -->
 
 <div style="text-align:center; margin-bottom: 20px;">
-    <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg"><img src="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg?w=300" alt="Tạp chí eCHIP số 259 ra ngày 29 tháng 10 năm 2010"></a>
+    <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg"><img class="frame tilt-right" src="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg?w=300" alt="Tạp chí eCHIP số 259 ra ngày 29 tháng 10 năm 2010"></a>
     <p>Tạp chí eCHIP số 259 ra ngày 29 tháng 10 năm 2010</p>
 </div>
 

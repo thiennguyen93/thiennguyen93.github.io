@@ -2,7 +2,7 @@
 title: Người thầy năm xưa
 date: 2021/1/3
 categories:
-- Journal
+- Nhật ký
 language: en
 toc: false
 cover: /gallery/covers/nguoi-thay-nam-xua.jpg

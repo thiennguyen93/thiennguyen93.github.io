@@ -22,7 +22,7 @@ hexo.extend.injector.register(
   () => {
       return `
       <script>
-      if (document.querySelector(".navbar-item.is-active[href='/categories/music']")) {
+      if (document.querySelector(".navbar-item.is-active[href='/categories/music']") || document.querySelector(".navbar-item.is-active[href='/categories/nhac']")) {
         document.querySelector(".navbar-item.is-active[href='/categories']").classList.remove("is-active")
       }
       </script>

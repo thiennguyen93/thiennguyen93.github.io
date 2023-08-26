@@ -2,7 +2,7 @@
 title: Kinh nghiệm để tự tin khi phỏng vấn
 date: 2021/8/25 13:17
 categories:
-- Journal
+- Nhật ký
 language: en
 toc: true
 cover: /gallery/photos/interview-experience.png

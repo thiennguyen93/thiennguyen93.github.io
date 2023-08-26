@@ -181,7 +181,7 @@ theme_config:
         path: /categories
         translation: "Chuyên mục"
       Relax:
-        path: /categories/music
+        path: /categories/nhac
         translation: "Thư giãn"
       CV: 
         path: /cv
@@ -295,9 +295,9 @@ theme_config:
     # Author name
     author: Thiện Nguyễn
     # Author title
-    author_title: Software Engineer
+    author_title: Kỹ sư Phần mềm
     # Author's current location
-    location: Ho Chi Minh City, Vietnam
+    location: Hồ Chí Minh, Việt Nam
     # URL or path to the avatar image
     avatar:
     # Whether show the rounded avatar image
@@ -306,7 +306,7 @@ theme_config:
     gravatar: phuocthien@outlook.com
     # URL or path for the follow button
     follow_link: "https://vi.thiennguyen.dev/cv"
-    follow_title: "View resume"
+    follow_title: "Xem CV"
     # Links to be shown on the bottom of the profile widget
     social_links:
         Github:

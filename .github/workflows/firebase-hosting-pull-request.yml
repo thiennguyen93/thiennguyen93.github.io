@@ -3,6 +3,9 @@
 
 name: Deploy to Firebase Hosting on PR
 'on': pull_request
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}
 jobs:
   build_and_preview:
     if: '${{ github.event.pull_request.head.repo.full_name == github.repository }}'
@@ -15,5 +18,3 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_THIENNGUYEN_BLOG }}'
           projectId: thiennguyen-blog
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}

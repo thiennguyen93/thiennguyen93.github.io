@@ -12,7 +12,8 @@
     "server": "hexo server",
     "dev": "eval $(grep '^GH_' .env) && npm run myinstall && hexo server",
     "dev-vi": "eval $(grep '^GH_' .env) && npm run myinstall && hexo server --config i18n/_config.vi.yml",
-    "server-vi": "hexo server --config i18n/_config.vi.yml"
+    "server-vi": "hexo server --config i18n/_config.vi.yml",
+    "build-vi": "npm run myinstall && hexo generate --config i18n/_config.vi.yml"
   },
   "hexo": {
     "version": "5.4.0"

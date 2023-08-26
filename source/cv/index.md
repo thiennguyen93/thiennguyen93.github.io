@@ -31,15 +31,18 @@ widgets:
       "Điện thoại: 0395443490":
         icon: fas fa-phone
         url: "tel:+84395443490"
-        tooltip: "Điện thoại: 039-544-3490"
-      "Email: me@thiennguyen.dev":
+        tooltip: "Give me a phone call"
+        classNames: [has-tooltip-arrow, has-tooltip-bottom]
+      Email:
         icon: fas fa-at
         url: "mailto:me@thiennguyen.dev?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A"
-        tooltip: "Email: me@thiennguyen.dev"
-      "Download CV as PDF":
+        tooltip: "Send me an email"
+        classNames: [has-tooltip-arrow, has-tooltip-bottom]
+      CV:
         icon: fas fa-download
         url: "/assets/documents/pdf/2023_08_25_THIEN_NGUYEN_CV.pdf"
-        tooltip: "Email: me@thiennguyen.dev"
+        tooltip: "Download CV as PDF"
+        classNames: [has-tooltip-arrow, has-tooltip-bottom]
   - type: toc
     position: right
     collapsed: true

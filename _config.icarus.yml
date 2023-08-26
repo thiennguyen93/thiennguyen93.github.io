@@ -252,14 +252,19 @@ widgets:
       Github:
         icon: fab fa-github
         url: "https://thiennguyen93.github.io/"
+        tooltip: "View my Github Page"
+        classNames: [has-tooltip-arrow, has-tooltip-bottom]
       LinkedIn:
         icon: fab fa-linkedin-in
         url: "https://www.linkedin.com/in/thiennguyendev/"
+        tooltip: "Go to my profile on Linkedin"
+        classNames: [has-tooltip-arrow, has-tooltip-bottom]
       Contact:
         icon: fas fa-at
         url: "http://localhost:4000/contact"
         tooltip: "Contact me"
         target:  "_self"
+        classNames: [has-tooltip-arrow, has-tooltip-bottom]
 # Table of contents widget configurations
 - # Where should the widget be placed, left sidebar or right sidebar
   position: left

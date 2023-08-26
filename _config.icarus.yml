@@ -249,18 +249,17 @@ widgets:
   follow_title: "View resume"
   # Links to be shown on the bottom of the profile widget
   social_links:
-    Github:
-      icon: fab fa-github
-      url: "https://thiennguyen93.github.io/"
-    Facebook:
-      icon: fab fa-facebook
-      url: "https://facebook.com/thiennguyen.dev"
-    Twitter:
-      icon: fab fa-twitter
-      url: "https://twitter.com/thiennguyenpro"
-    RSS:
-      icon: fas fa-rss
-      url: /
+      Github:
+        icon: fab fa-github
+        url: "https://thiennguyen93.github.io/"
+      LinkedIn:
+        icon: fab fa-linkedin-in
+        url: "https://www.linkedin.com/in/thiennguyendev/"
+      Contact:
+        icon: fas fa-at
+        url: "http://localhost:4000/contact"
+        tooltip: "Contact me"
+        target:  "_self"
 # Table of contents widget configurations
 - # Where should the widget be placed, left sidebar or right sidebar
   position: left

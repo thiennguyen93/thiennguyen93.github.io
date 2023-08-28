@@ -131,6 +131,17 @@ navbar:
       path: /about
     Contact: 
       path: /contact
+  langauge_menu_selected: 1 # index of selected menu lanauage 
+  language_menu_title: "Select site language"
+  language_menu: 
+    - # Vietnamese
+      name: "Tiếng Việt"
+      path: "vi.thiennguyen.dev"
+      flag: "https://thiennguyen.dev/assets/img/vi-vn-64x64.png"
+    - # English
+      name: "English"
+      path: "thiennguyen.dev"
+      flag: "https://thiennguyen.dev/assets/img/en-us-64x64.png"
   # Links to be shown on the right of the navigation bar
   links:
     View Profile on Facebook:

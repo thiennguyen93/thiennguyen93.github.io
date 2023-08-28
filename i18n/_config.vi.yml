@@ -182,7 +182,15 @@ theme_config:
         translation: "Chuyên mục"
       Relax:
         path: /categories/nhac
-        translation: "Thư giãn"
+        translation: "Thư giãn"  
+      Misc:
+        path: /misc
+        children:
+          Music:
+            path: /categories/music
+            # icon: fab fa-github
+          Note:
+            path: /note
       CV: 
         path: /cv
       About: 
@@ -191,6 +199,15 @@ theme_config:
       Contact: 
         path: /contact
         translation: "Liên hệ"
+    langauge_menu_selected: 0 # index of selected menu lanauage 
+    language_menu_title: "Chọn ngôn ngữ"
+    language_menu: 
+      - # Vietnamese
+        path: "https://vi.thiennguyen.dev"
+        icon: "fas fa-cube"
+      - # English
+        path: "https://thiennguyen.dev"
+        icon: "fas fa-cube"
     # Links to be shown on the right of the navigation bar
     links:
       View Profile on Facebook:

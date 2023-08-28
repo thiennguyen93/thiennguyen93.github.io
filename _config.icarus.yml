@@ -136,11 +136,11 @@ navbar:
   language_menu: 
     - # Vietnamese
       name: "Tiếng Việt"
-      path: "vi.thiennguyen.dev"
+      path: "https://vi.thiennguyen.dev"
       flag: "https://thiennguyen.dev/assets/img/vi-vn-64x64.png"
     - # English
       name: "English"
-      path: "thiennguyen.dev"
+      path: "https://thiennguyen.dev"
       flag: "https://thiennguyen.dev/assets/img/en-us-64x64.png"
   # Links to be shown on the right of the navigation bar
   links:

@@ -183,14 +183,14 @@ theme_config:
       Relax:
         path: /categories/nhac
         translation: "Thư giãn"  
-      Misc:
-        path: /misc
-        children:
-          Music:
-            path: /categories/music
-            # icon: fab fa-github
-          Note:
-            path: /note
+      # Misc:
+      #   path: /misc
+      #   children:
+      #     Music:
+      #       path: /categories/music
+      #       # icon: fab fa-github
+      #     Note:
+      #       path: /note
       CV: 
         path: /cv
       About: 

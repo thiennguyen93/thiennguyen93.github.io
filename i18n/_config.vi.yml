@@ -328,18 +328,18 @@ theme_config:
     social_links:
         Github:
           icon: fab fa-github
-          url: "https://thiennguyen93.github.io/"
-          tooltip: "View my Github Page"
+          url: "https://github.com/thiennguyen93"
+          tooltip: "Github"
           classNames: [has-tooltip-arrow, has-tooltip-bottom]
         LinkedIn:
           icon: fab fa-linkedin-in
           url: "https://www.linkedin.com/in/thiennguyendev/"
-          tooltip: "Go to my profile on Linkedin"
+          tooltip: "Linkedin"
           classNames: [has-tooltip-arrow, has-tooltip-bottom]
         Contact:
           icon: fas fa-at
           url: "/contact"
-          tooltip: "Contact me"
+          tooltip: "Gửi tin nhắn cho tôi"
           target:  "_self"
           classNames: [has-tooltip-arrow, has-tooltip-bottom]
   # Table of contents widget configurations

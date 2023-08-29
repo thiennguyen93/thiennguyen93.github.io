@@ -262,13 +262,13 @@ widgets:
   social_links:
       Github:
         icon: fab fa-github
-        url: "https://thiennguyen93.github.io/"
-        tooltip: "View my Github Page"
+        url: "https://github.com/thiennguyen93"
+        tooltip: "Github Profile"
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
       LinkedIn:
         icon: fab fa-linkedin-in
         url: "https://www.linkedin.com/in/thiennguyendev/"
-        tooltip: "Go to my profile on Linkedin"
+        tooltip: "LinkedIn Profile"
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
       Contact:
         icon: fas fa-at

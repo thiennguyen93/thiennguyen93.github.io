@@ -24,11 +24,15 @@ widgets:
     social_links:
       Github:
         icon: fab fa-github
-        url: "https://thiennguyen93.github.io/"
+        url: "https://github.com/thiennguyen93"
+        tooltip: "Github Profile"
+        classNames: [has-tooltip-arrow, has-tooltip-bottom]
       LinkedIn:
         icon: fab fa-linkedin-in
         url: "https://www.linkedin.com/in/thiennguyendev/"
-      "Điện thoại: 0395443490":
+        tooltip: "LinkedIn Profile"
+        classNames: [has-tooltip-arrow, has-tooltip-bottom]
+      MobilePhone:
         icon: fas fa-phone
         url: "tel:+84395443490"
         tooltip: "Give me a phone call"

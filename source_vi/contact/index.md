@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Liên hệ
 date: 2021-08-12 13:05:03
 article:
   licenses: false
@@ -7,10 +7,11 @@ donates: false
 comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
 widgets: false
+permalink: /contact
 ---
 <p id="form-caption">
-Hãy chia sẽ nếu bạn thấy trang này bổ ích?
-<br /> Or if there is anything that needs to be improved, your feedback is always welcome
+Hoan nghênh mọi ý kiến đóng góp các bạn để xây dựng blog ngày một chất lượng hơn
+<br /> Cảm ơn bạn đã ủng hộ <strong>Khu vườn trên mây 🌥️</strong>
 </p>
 
 <div>
@@ -34,16 +35,16 @@ body:not(.light) .control.has-icons-left .input:focus ~ .icon, .control.has-icon
 <fieldset id="form-fieldset">
   <!-- NAME  -->
   <div class="field">
-    <label class="label has-text-grey">Name</label>
+    <label class="label has-text-grey">Tên</label>
     <div class="control">
-      <input required class="input" type="text" placeholder="Enter your name" name="full-name" />
+      <input required class="input" type="text" placeholder="Nhập tên của bạn" name="full-name" />
     </div>
   </div>
 
   <div class="field">
     <label class="label has-text-grey">Email</label>
     <div class="control has-icons-left has-icons-right">
-      <input required class="input" type="email" placeholder="Enter your email address" value="" name="email" />
+      <input required class="input" type="email" placeholder="Nhập địa chỉ email của bạn" value="" name="email" />
       <span class="icon is-small is-left">
         <i class="fas fa-envelope"></i>
       </span>
@@ -55,19 +56,19 @@ body:not(.light) .control.has-icons-left .input:focus ~ .icon, .control.has-icon
   </div>
 
   <div class="field">
-    <label class="label has-text-grey">Message</label>
+    <label class="label has-text-grey">Lời nhắn</label>
     <div class="control">
-      <textarea required class="textarea" placeholder="Enter your messsage" name="message"></textarea>
+      <textarea required class="textarea" placeholder="Hãy viết điều gì đó cho tôi..." name="message"></textarea>
     </div>
   </div>
 <article id="error-message" class="message is-danger is-hidden">
   <div class="message-body">
-    Oops, something went wwrong. Please try again.
+    Oops, đã có lỗi xảy ra. Xin vui lòng thử lại.
   </div>
 </article>
   <div class="field is-grouped">
     <div class="control">
-      <button id="submitBtn" type="submit" class="button is-link">Send</button>
+      <button id="submitBtn" type="submit" class="button is-link">Gửi</button>
     </div>
   </div>
 </fieldset>
@@ -90,7 +91,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 </g>
 </g>
 </svg>
-<h1>Thank you!</h1>
+<h1>Cám ơn bạn!</h1>
 <p class="card_contact_page-p"><button id="goBackBtn" class="button is-primary is-light">Click here to go back</button></p>
 </div>
 </div>

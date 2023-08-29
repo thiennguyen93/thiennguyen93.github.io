@@ -35,8 +35,8 @@ widgets:
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
       Email:
         icon: fas fa-at
-        url: "mailto:me@thiennguyen.dev?body=Dear%20Mr.%20Thien%20Nguyen%2C%0D%0A"
-        tooltip: "Send me an email"
+        url: "/contact"
+        tooltip: "Send me a message"
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
       CV:
         icon: fas fa-download

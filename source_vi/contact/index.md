@@ -7,7 +7,6 @@ donates: false
 comment: false
 excerpt: Gửi ý kiến đóng góp của bạn cho blog
 widgets: false
-permalink: /contact.html
 ---
 <p id="form-caption">
 Hoan nghênh mọi ý kiến đóng góp các bạn để xây dựng blog ngày một chất lượng hơn

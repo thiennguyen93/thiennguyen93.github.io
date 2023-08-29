@@ -13,22 +13,22 @@ comment: false
 classNames: ['custom-page-404']
 titleClassnames: ['custom-page-404-title']
 ---
-<link rel="stylesheet" href="404/asset/css/style.css">
+<link rel="stylesheet" href="/404/asset/css/style.css">
 
 <!-- DARK -->
 <div class="dark">
     <div class="central-body">
-        <img class="image-404" src="404/asset/img/dark/404.svg" width="300px">
+        <img class="image-404" src="/404/asset/img/dark/404.svg" width="300px">
         <a href="/" class="btn-go-home">GO BACK HOME</a>
     </div>
     <div class="objects">
-        <img class="object_rocket" src="404/asset/img/dark/rocket.svg" width="40px">
+        <img class="object_rocket" src="/404/asset/img/dark/rocket.svg" width="40px">
         <div class="earth-moon">
-            <img class="object_earth" src="404/asset/img/dark/earth.svg" width="100px">
-            <img class="object_moon" src="404/asset/img/dark/moon.svg" width="80px">
+            <img class="object_earth" src="/404/asset/img/dark/earth.svg" width="100px">
+            <img class="object_moon" src="/404/asset/img/dark/moon.svg" width="80px">
         </div>
         <div class="box_astronaut">
-            <img class="object_astronaut" src="404/asset/img/dark/astronaut.svg" width="140px">
+            <img class="object_astronaut" src="/404/asset/img/dark/astronaut.svg" width="140px">
         </div>
     </div>
 </div>
@@ -37,7 +37,7 @@ titleClassnames: ['custom-page-404-title']
 <div class="light">
     <div class="main-wrapper">
       <picture class="scarecrow-img">
-        <img src="404/asset/img/light/scarecrow.png" alt="">
+        <img src="/404/asset/img/light/scarecrow.png" alt="">
       </picture>
       <div class="error-text">
         <h2>404 Page not found</h2>

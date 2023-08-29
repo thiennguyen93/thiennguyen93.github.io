@@ -3,7 +3,7 @@ title: Người thầy năm xưa
 date: 2021/1/3
 categories:
 - Nhật ký
-language: en
+language: vi
 toc: false
 cover: /gallery/covers/nguoi-thay-nam-xua.jpg
 thumbnail: /gallery/thumbnails/nguoi-thay-nam-xua_thumbnail.jpg

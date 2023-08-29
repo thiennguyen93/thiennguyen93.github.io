@@ -3,7 +3,7 @@ title: Đã hai năm nhưng covid vẫn còn bám lấy mình
 date: 2022/11/03 00:25:00+07:00
 categories:
 - Nhật ký
-language: en
+language: vi
 toc: false
 cover: /gallery/covers/api-nhung-theo-cach-hieu-don-gian.jpg
 thumbnail: /gallery/thumbnails/api-nhung-theo-cach-hieu-don-gian_thumbnail.jpg

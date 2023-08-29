@@ -3,7 +3,7 @@ title: Shay Nắnggg
 date: 2023/08/11
 categories:
 - Nhạc
-language: en
+language: vi
 toc: false
 # cover: /gallery/covers/2022-year-in-review-cover.png
 thumbnail: /assets/media/shay-nanggg/album.jpeg

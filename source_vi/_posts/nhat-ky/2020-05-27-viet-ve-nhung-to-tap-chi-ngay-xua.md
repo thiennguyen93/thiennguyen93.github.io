@@ -3,7 +3,7 @@ title: Viết về những tờ tạp chí ngày xưa…
 date: 2020/5/27
 categories:
 - Nhật ký
-language: en
+language: vi
 toc: false
 cover: /gallery/covers/lbvmvt-1.jpg
 thumbnail: /gallery/thumbnails/lbvmvt-1.jpg

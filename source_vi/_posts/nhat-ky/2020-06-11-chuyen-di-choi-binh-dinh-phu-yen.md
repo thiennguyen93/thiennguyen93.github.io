@@ -3,7 +3,7 @@ title: Company trip Bình Định - Phú Yên
 date: 2020/6/11
 categories:
   - Nhật ký
-language: en
+language: vi
 toc: false
 cover: https://thiennguyenpro.files.wordpress.com/2020/06/img_20200612_142637.jpg?w=800
 thumbnail: https://thiennguyenpro.files.wordpress.com/2020/06/img_20200612_142637.jpg?w=300

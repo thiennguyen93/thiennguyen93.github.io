@@ -3,7 +3,7 @@ title: Tình bạn diệu kỳ
 date: 2023/08/11
 categories:
 - Nhạc
-language: en
+language: vi
 toc: false
 # cover: /gallery/covers/2022-year-in-review-cover.png
 thumbnail: /assets/media/tinh-ban-dieu-ky/album.webp

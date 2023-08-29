@@ -3,7 +3,7 @@ title: Ngày hội Vaccine
 date: 2021/6/25
 categories:
 - Nhật ký
-language: en
+language: vi
 toc: false
 cover: /gallery/covers/covid-19-vaccine.jpg
 thumbnail: /gallery/thumbnails/covid-19-vaccine_thumbnail.jpg

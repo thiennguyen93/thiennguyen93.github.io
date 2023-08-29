@@ -9,8 +9,8 @@ excerpt: Gửi ý kiến đóng góp của bạn cho blog
 widgets: false
 ---
 <p id="form-caption">
-Hoan nghênh mọi ý kiến đóng góp các bạn để xây dựng blog ngày một chất lượng hơn
-<br /> Cảm ơn bạn đã ủng hộ <strong>Khu vườn trên mây 🌥️</strong>
+Hoan nghênh mọi ý kiến đóng góp các bạn để xây dựng blog ngày một chất lượng hơn.
+<br /> Cảm ơn bạn đã ủng hộ <strong>Khu vườn trên mây 🌥️</strong>!
 </p>
 
 <div>

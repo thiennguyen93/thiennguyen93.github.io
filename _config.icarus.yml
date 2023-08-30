@@ -199,9 +199,12 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-  type: facebook
-  # Disqus shortname
-  shortname: ""
+    type: utterances
+    repo: thiennguyen93/thiennguyen93.github.io
+    issue_term: pathname        # Required if issue_number is not set
+    # issue_number: 100           # Required if issue_term is not set. Every post can be mapped to a separate, manually-created GitHub issue.
+    label: comment              # Optional
+    # theme: github-dark         # Optional
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:

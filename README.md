@@ -41,3 +41,5 @@ GH_TOKEN=<Token to get the theme repos>
 ```
 
 
+# COMMON ASSETS
+Because the two different source folders shares the same assets folder. Need to copy `assets`  folder to each source folder when running blog.

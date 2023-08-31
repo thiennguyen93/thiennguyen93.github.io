@@ -5,15 +5,18 @@
   "scripts": {
     "myinstall": "node myinstall.js",
     "mypostinstall": "node mypostinstall.js",
-    "build": "npm run myinstall && hexo generate",
-    "build-gh-page": "npm run myinstall && hexo clean && hexo deploy",
-    "clean": "hexo clean",
+    "build": "npm run prepare-asset && npm run myinstall && hexo generate",
+    "build-gh-page": "npm run prepare-asset && npm run myinstall && hexo clean && hexo deploy",
+    "clean": "rm -rf source/assets && rm -rf source_vi/assets && hexo clean",
     "deploy": "gh-pages -d build",
-    "server": "hexo server",
-    "dev": "eval $(grep '^GH_' .env) && npm run myinstall && hexo server",
-    "dev-vi": "eval $(grep '^GH_' .env) && npm run myinstall && hexo server --config i18n/_config.vi.yml",
-    "server-vi": "hexo server --config i18n/_config.vi.yml",
-    "build-vi": "npm run myinstall && hexo generate --config i18n/_config.vi.yml"
+    "clean-asset": "rm -rf source/assets && rm -rf source_vi/assets",
+    "prepare-asset": "rm -rf source/assets && cp -r  assets source",
+    "prepare-asset-vi": "rm -rf source_vi/assets && cp -r  assets source_vi",
+    "server": "npm run prepare-asset && hexo server",
+    "dev": "eval $(grep '^GH_' .env) && npm run prepare-asset && npm run myinstall && hexo server",
+    "dev-vi": "eval $(grep '^GH_' .env) && npm run prepare-asset-vi && npm run myinstall && hexo server --config i18n/_config.vi.yml",
+    "server-vi": "npm run prepare-asset-vi && hexo server --config i18n/_config.vi.yml",
+    "build-vi": "npm run prepare-asset-vi && npm run myinstall && hexo generate --config i18n/_config.vi.yml"
   },
   "hexo": {
     "version": "5.4.0"

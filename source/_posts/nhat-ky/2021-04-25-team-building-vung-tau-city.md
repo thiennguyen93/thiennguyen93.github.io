@@ -54,6 +54,9 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
          </div>
       </article>
       <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="/assets/img/no-image-available.png"><img src="/assets/img/no-image-available.png" alt="Quên chụp hình =))" title="Quên chụp hình =))"></a>
+         </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-22T12:30:00.000Z">12:30 22/04/2021</p>
             <h4>44 Trương Công Định, TP. Vũng Tàu</h4>
@@ -123,6 +126,9 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
          </div>
       </article>
       <article class="media">
+         <figure class="media-left image is-64x64">
+            <a class="gallery-item" href="/assets/img/no-image-available.png"><img src="/assets/img/no-image-available.png" alt="Quên chụp hình =))" title="Quên chụp hình =))"></a>
+         </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-23T08:45:00.000Z">08:45 23/04/2021</time></p>
             <h4>Hủ tiếu mực Ông già Cali</h4>

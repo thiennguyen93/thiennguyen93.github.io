@@ -11,7 +11,7 @@ thumbnail: https://thiennguyenpro.files.wordpress.com/2020/08/img_20200719_10474
 Kế hoạch được lên trước một tuần, tối hôm Thứ sáu mọi người tập trung lại để chuẩn bị cho chuyến đi. Chúng tôi cùng nhau đi chợ, rửa rau, ướp sẵn gia vị và đóng gói lại. Vì lý do công việc của một số thành viên trong đoàn nên chúng tôi quyết định khởi hành vào buổi chiều thay vì sáng thứ 7. 
 
 <!-- more -->
-<div class="justified-gallery">
+<div class="justified-gallery mt-3 mb-3">
 
 ![Ăn sáng 19/07](https://thiennguyenpro.files.wordpress.com/2020/08/img_20200719_093459.jpg?w=724)
 ![Ngọn Hải đăng Núi Nhỏ TP Vũng Tàu 19/7](https://thiennguyenpro.files.wordpress.com/2020/08/20200719_104204.jpg?w=351)

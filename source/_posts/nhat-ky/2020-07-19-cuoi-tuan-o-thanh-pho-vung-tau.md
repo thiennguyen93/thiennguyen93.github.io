@@ -11,7 +11,7 @@ thumbnail: https://thiennguyenpro.files.wordpress.com/2020/08/img_20200719_10474
 Kế hoạch được lên trước một tuần, tối hôm Thứ sáu mọi người tập trung lại để chuẩn bị cho chuyến đi. Chúng tôi cùng nhau đi chợ, rửa rau, ướp sẵn gia vị và đóng gói lại. Vì lý do công việc của một số thành viên trong đoàn nên chúng tôi quyết định khởi hành vào buổi chiều thay vì sáng thứ 7. 
 
 <!-- more -->
-<div class="justified-gallery">
+<div class="justified-gallery mb-3 mt-3">
 
 ![Ăn sáng 19/07](https://thiennguyenpro.files.wordpress.com/2020/08/img_20200719_093459.jpg?w=724)
 ![Ngọn Hải đăng Núi Nhỏ TP Vũng Tàu 19/7](https://thiennguyenpro.files.wordpress.com/2020/08/20200719_104204.jpg?w=351)
@@ -26,7 +26,7 @@ Kế hoạch được lên trước một tuần, tối hôm Thứ sáu mọi ng
 
 </div>
 
-Thứ 7 ngày 18/07. xuất phát từ đường Hoàng Diệu 2, quận Thủ Đức chúng tôi đi theo quốc lộ 51 hướng về Thành phố biển Vũng Tàu. Tôi được chở vì vừa bị tai nạn xe hồi đầu tuần nên không tự tin cầm lái. Nhờ được chở tôi có dịp ngắm nhìn đường phố hai bên. Trời lại thêm độ khó cho game khi đổ một cơn mưa lớn và dài suốt cả quảng đường đi, chúng tôi không ít lần cởi áo mưa xong mặc lại vì mưa tiếp. Mưa có đoạn lớn lắm, nước mưa như tát vào mặt người.
+Thứ 7 ngày 18/07. xuất phát từ đường Hoàng Diệu 2, quận Thủ Đức chúng tôi đi theo quốc lộ 51 hướng về Thành phố biển Vũng Tàu. Tôi được chở vì <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="Click vào đây để xem bài đăng chi tiết">[vừa bị tai nạn xe hồi đầu tuần](/2020/07/13/nhat-ky/2020-07-13-vua-di-vua-ngay/)</span> nên không tự tin cầm lái. Nhờ được chở tôi có dịp ngắm nhìn đường phố hai bên. Trời lại thêm độ khó cho game khi đổ một cơn mưa lớn và dài suốt cả quảng đường đi, chúng tôi không ít lần cởi áo mưa xong mặc lại vì mưa tiếp. Mưa có đoạn lớn lắm, nước mưa như tát vào mặt người.
 
 Những chiếc xe vừa đến thành phố, trời nắng như chưa từng có “cơn mưa ngang qua” nào cả. Vừa lúc đến homestay cũng đã hơn 5 giờ chiều, chúng tôi sắp xếp hành lý và nghỉ chân sau quãng đường đi khá xa và mệt cùng với những cơn mưa. Sau đó tôi cùng bốn anh chị em nữa đi tắm biển, các thành viên còn lại thì đi chợ mua hải sản và chuẩn bị BBQ cho buổi tối.
 

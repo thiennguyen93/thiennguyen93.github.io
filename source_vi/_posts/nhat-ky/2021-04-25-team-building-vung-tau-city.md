@@ -179,7 +179,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
          </figure>
          <div class="media-content">
             <p class="title"><time datetime="2021-04-23T13:10:00.000Z">13:10 23/04/2021</time></p>
-            <h4>Team xuất phát về Sài Gòn</h4>
+            <h4>Team trên đường trở về Sài Gòn</h4>
             <p>
             Sau khi cơm trưa xong, mọi người lên xe về lại Sài Gòn
             </p>

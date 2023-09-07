@@ -2,9 +2,10 @@
 const css = hexo.extend.helper.get('css').bind(hexo);
 const js = hexo.extend.helper.get('js').bind(hexo);
 
+const ghSHA = process.env.github.GH_SHA
 const script = `
 <script>
-  console.log("Copyright © 2023 Thien Nguyen")
+  console.log("Copyright © 2023 Thien Nguyen${ghSHA?`-${sha}`:""}")
 </script>
 `
 

@@ -13,6 +13,7 @@ post_type: "music"
 donates: false
 licenses: false
 metadata: false
+description: "Amee, Obito, Hứa Kim Tuyền"
 ---
 {% aplayerlist %}
 {

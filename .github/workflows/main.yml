@@ -17,6 +17,7 @@ jobs:
           GH_REPO_URL: ${{ github.repositoryUrl }}
           GH_SERVER_URL: ${{ github.server_url }}
           GH_REPOSITORY: ${{ github.repository }}
+          GH_EVENT_HEAD_COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
       run: |
         echo "artifactname=${GH_TOKEN}" >> $GITHUB_ENV
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"

@@ -247,7 +247,8 @@ widgets:
   position: left
   type: profile
   # Author name
-  author: Thiện Nguyễn
+  author: Thien Nguyen
+  author_tooltip: "Thiện Nguyễn \nIPA /tiːɛn ˈwɪn/"
   # Author title
   author_title: Software Engineer
   # Author's current location

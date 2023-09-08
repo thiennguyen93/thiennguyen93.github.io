@@ -14,6 +14,7 @@ widgets:
   - type: profile
     position: right
     author: Thien Nguyen
+    author_tooltip: "Thiện Nguyễn \nIPA /tiːɛn ˈwɪn/"
     author_title: Software Engineer
     avatar_rounded: true
     location: Ho Chi Minh City, Vietnam

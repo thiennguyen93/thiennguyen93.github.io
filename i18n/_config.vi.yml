@@ -311,6 +311,7 @@ theme_config:
     type: profile
     # Author name
     author: Thiện Nguyễn
+    author_tooltip: "Nguyễn Ngọc Phước Thiện" # leave it empty to disable
     # Author title
     author_title: Kỹ sư Phần mềm
     # Author's current location

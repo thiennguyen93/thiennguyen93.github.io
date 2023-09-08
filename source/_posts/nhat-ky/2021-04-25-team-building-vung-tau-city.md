@@ -197,10 +197,8 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
             </p>
          </div>
       </article>
-      <article class="media">
-         <h4 class="tag is-danger">Kết thúc chuyến đi</h4>
-      </article>
    </div>
+   <h4 class="tag is-primary mt-2">Kết thúc chuyến đi</h4>
    <br />
 </div>
 

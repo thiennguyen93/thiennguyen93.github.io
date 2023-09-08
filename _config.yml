@@ -65,6 +65,7 @@ deploy:
     repo: git@github.com:thiennguyen93/thiennguyen93.github.io.git
     token: ${{ secrets.GH_TOKEN }}
     branch: gh-pages
+    message: "Site updated/Cập nhật lúc: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 feed:
   enable: true
   type: atom

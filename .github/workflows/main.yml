@@ -14,6 +14,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}
           GH_SHA: ${{ github.sha }}
+          GH_REPO_URL: ${{ github.repositoryUrl }}
       run: |
         echo "artifactname=${GH_TOKEN}" >> $GITHUB_ENV
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"

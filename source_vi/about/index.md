@@ -31,9 +31,6 @@ Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
 
 Chào mừng bạn đến **"khu vườn trên mây 🌥️"** của tôi. Tôi gọi thế vì đây là nơi để tôi nghỉ ngơi, suy ngẫm và sẻ chia những câu chuyện về cuộc sống và công việc.
 
-😆 *Vì code bao năm vẫn chưa thoát nghèo nên tôi chỉ đủ tiền mua "sổ đỏ" trên internet và xây nên khu vườn này
-(so-called, **The garden in the clouds**)*.
-
 ## Về tôi 👉 👈
 
 Tôi tên đầy đủ là Nguyễn Ngọc Phước Thiện.

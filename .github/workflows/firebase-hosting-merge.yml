@@ -1,4 +1,4 @@
-name: Deploy website vi.thiennguyen.dev (Firebase)
+name: Deploy website vi.thiennguyen.dev (Firebase Hosting)
 
 on: [push]
 

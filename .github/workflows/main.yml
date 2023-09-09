@@ -1,4 +1,4 @@
-name: Deploy website thiennguyen.dev
+name: Deploy website thiennguyen.dev (Github Pages)
 
 on: [push]
 

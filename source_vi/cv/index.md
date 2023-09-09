@@ -142,8 +142,8 @@ body:not(.night) .only-in-night-mode {
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#">Gamify Studios Company Limited</a></strong></h4>
-            <span>Product: Back Office Gaming Management System</span>
-            <p>Software Engineer</p>
+            <span>Software Engineer</span>
+            <p>Product: Back Office Gaming Management System</p>
             <p>
             • Developed and maintained a RESTful API for a comprehensive management system handling users, games, game players, game events, missions, and marketing campaigns.
             </p>
@@ -176,8 +176,8 @@ body:not(.night) .only-in-night-mode {
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
-            <span>Projects: THK CMMS, THK Order System & HACCP Report Application</span>
-            <p>Software Engineer</p>
+            <span>Software Engineer</span>
+            <p>Projects: THK CMMS, THK Order System & HACCP Report Application</p>
             <p>
             • Accurately estimated project timelines and resources required for completion.
             </p>
@@ -209,8 +209,8 @@ body:not(.night) .only-in-night-mode {
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span><a href="https://www.hpt.vn/" target="_blank">HPT Vietnam Corporation</a></span></strong></h4>
-            <span>Projects: Cash Vault Management (Techcombank)</span>
-            <p>Software Engineer</p>
+            <span>Software Engineer</span>
+            <p>Projects: Cash Vault Management (Techcombank)</p>
             <p style="margin-bottom: 20px">
             • Utilized the IBM BPM platform to design and automate cash management processes, enhancing operational efficiency.
             </p>

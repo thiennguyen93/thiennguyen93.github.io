@@ -43,3 +43,8 @@ GH_TOKEN=<Token to get the theme repos>
 
 # SHARED COMMON ASSETS
 Because the two different source folders shares the same assets folder. Need to copy `assets`  folder to each source folder when running blog.
+
+## STYLES
+### Classes
+#### `in-view-effect`
+If class is added to an img element. If the image is in the user's view, an additional class `in-view` is added automatically to the img element.

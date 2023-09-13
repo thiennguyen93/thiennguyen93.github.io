@@ -79,8 +79,8 @@ tại <em>Khu vườn trên mây</em>
 ## About me
 
 Hi 👋, I am Thien Nguyen, aka William Nguyen.
-I am a backend developer as well as a father of one child.
-I work for Gamify Studios, a game development company located in Ho Chi Minh City, Vietnam.
+I am a dedicated backend developer and a proud father to a wonderful child.
+Currently, I work for Gamify Studios, a game development company located in Ho Chi Minh City, Vietnam.
 
 <!-- endtab -->
 

@@ -52,6 +52,7 @@ widgets:
     position: right
     collapsed: true
     index: false
+    depth: 1
 sidebar:
   right:
     sticky: true
@@ -141,7 +142,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64 only-in-night-mode" src="img/logo-gamify-studios-dark.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#">Gamify Studios Company Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#">Gamify Studios Company Limited</a></strong></h4>
             <span>Software Engineer</span>
             <p>Product: Back Office Gaming Management System</p>
             <p>
@@ -175,7 +176,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64 only-in-night-mode" src="img/logo-cmc-global-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-cmc-global"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
             <span>Software Engineer</span>
             <p>Projects: THK CMMS, THK Order System & HACCP Report Application</p>
             <p>
@@ -208,7 +209,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64 only-in-night-mode" src="img/logo-hpt-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span><a href="https://www.hpt.vn/" target="_blank">HPT Vietnam Corporation</a></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-hpt-vietnam-corp"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span><a href="https://www.hpt.vn/" target="_blank"> HPT Vietnam Corporation</a></span></strong></h4>
             <span>Software Engineer</span>
             <p>Projects: Cash Vault Management (Techcombank)</p>
             <p style="margin-bottom: 20px">
@@ -234,7 +235,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64 only-in-night-mode" src="img/logo-php-group-international-vietnam-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span><a href="https://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-php-group"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span><a href="https://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
             <p>Customer Service Representative</p>
             <p  style="margin-bottom: 20px">Processing claims, forms, applications and handling clients' requests using CRM software.
             </p>
@@ -251,7 +252,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64 only-in-night-mode" src="img/logo-ripplify-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span><a href="https://ripplify.thiennguyen.dev/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
+            <h4 class="is-size-6" id="project-ripplify"><strong><span><a href="https://ripplify.thiennguyen.dev/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
             <p>A free, handy and delightful tool initially designed for presenters, trainers and teachers who want to highlight their mouse pointer.</p>
         </div>
     </article>
@@ -261,7 +262,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64 only-in-night-mode" src="img/logo-fscup-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
+            <h4 class="is-size-6" id="project-fscup"><strong><span><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
             <p>An input assistance software used together with FSC Rater.</p>
         </div>
     </article>
@@ -277,7 +278,7 @@ body:not(.night) .only-in-night-mode {
             <img class="only-in-night-light cv wh-64" src="img/logo-hcmus.png">
         </figure>
         <div class="timeline-item">
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span><a href="https://www.hcmus.edu.vn" target="_blank">VNUHCM - University of Science</a></span></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="education-hcmus"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span><a href="https://www.hcmus.edu.vn" target="_blank">VNUHCM - University of Science</a></span></span></strong></h4>
             <p>B.S in Information Technology</p>
             <p  style="margin-bottom: 20px">Cloud Computing for Business, Data Structure and Algorithms, Object-oriented Programming, Databases and Database Management Systems, HTML, CSS, Node.js, Javascript, MySQL.</p>
         </div>
@@ -289,7 +290,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64" src="img/logo-hcmute.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span><a href="https://hcmute.edu.vn" target="_blank">HCMC University of Technology and Education</a></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="education-hcmute"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span><a href="https://hcmute.edu.vn" target="_blank">HCMC University of Technology and Education</a></span></strong></h4>
             <p>B.A in English Language Teaching</p>
             <p  style="margin-bottom: 20px">English for Business, English for Computing, Learners' Psychology, Teaching Methodology.</p>
         </div>
@@ -305,7 +306,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64 only-in-night-mode" src="img/logo-react-js-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="tag mr-2">Jan 2021</span> <span>Certificate of Achievement in Completion of ReactJS Programming</span></strong></h4>
+            <h4 class="is-size-6" id="certification-reactjs"><strong><span class="tag mr-2">Jan 2021</span> <span>Certificate of Achievement in Completion of ReactJS Programming</span></strong></h4>
             <p>Accredited by Zend Vietnam</p>
         </div>
     </article>
@@ -315,7 +316,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64 only-in-night-mode" src="img/logo-laravel-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6"><strong><span class="tag mr-2">Sep 2020</span> <span>Certificate of Completion of PHP Programming Training Course</span></strong></h4>
+            <h4 class="is-size-6" id="certification-php"><strong><span class="tag mr-2">Sep 2020</span> <span>Certificate of Completion of PHP Programming Training Course</span></strong></h4>
             <p>Accredited by APTECH Saigon</p>
         </div>
     </article>

@@ -13,7 +13,7 @@ Tôi lại nhớ cái thời mà mình phải xếp hàng chờ đến lượt v
 <!-- more -->
 
 <div style="text-align:center; margin-bottom: 20px;">
-    <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg"><img class="frame tilt-right" src="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg?w=300" alt="Tạp chí eCHIP số 259 ra ngày 29 tháng 10 năm 2010"></a>
+    <a class="gallery-item" href="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg"><img class="in-view-effect frame tilt-right" src="https://thiennguyenpro.files.wordpress.com/2020/05/vnet-personal-firewall-echip-259.jpg?w=300" alt="Tạp chí eCHIP số 259 ra ngày 29 tháng 10 năm 2010"></a>
     <p>Tạp chí eCHIP số 259 ra ngày 29 tháng 10 năm 2010</p>
 </div>
 

@@ -25,7 +25,7 @@ Có ba lý do.
 
 Công việc hằng ngày của tôi xoay quanh chiếc bàn phím ⌨️ và màn hình máy tính 💻 với hy vọng viết ra những dòng code có thể thay đổi cả thế giới, tất nhiên là trở nên tốt đẹp hơn 💡. 
 
-Vì thế nên tôi liên tưởng đến bộ phim <a class="has-tooltip-arrow has-tooltip-top" data-tooltip="https://www.imdb.com/title/tt2872732/" href="https://www.imdb.com/title/tt2872732/">Lucy (2014)</a>. Nữ chính vì vô tình dùng phải loại thuốc có chưa chất `CPH4` từ đó có thể sử dụng 100% công suất bộ não, trở thành người có tri thức siêu phàm và khả năng kiểm soát không - thời gian thậm chí thay đổi cả thế giới. 
+Tôi liên tưởng đến bộ phim <a class="has-tooltip-arrow has-tooltip-top" data-tooltip="https://www.imdb.com/title/tt2872732/" href="https://www.imdb.com/title/tt2872732/">Lucy (2014)</a>. Nữ chính vì vô tình dùng phải loại thuốc có chưa chất `CPH4` từ đó có thể sử dụng 100% công suất bộ não, trở thành người có tri thức siêu phàm và khả năng kiểm soát không - thời gian thậm chí thay đổi cả thế giới. 
 Có lẽ bác biên kịch biết tiếng Việt nên mới dùng lối chơi chữ `CàPHê` thành chất `CPH4` như trong kịch bản phim. 😂
 
 <p style="text-align: center;">
@@ -36,16 +36,28 @@ Có lẽ bác biên kịch biết tiếng Việt nên mới dùng lối chơi ch
     Bonus thêm bộ <a class="has-tooltip-arrow has-tooltip-top" data-tooltip="Tựa tiếng Việt: Không giới hạn" href="https://www.imdb.com/title/tt1219289/">Limitless (2011)</a> cũng nói về đề tài khai phá 100% sức mạnh của bộ não con người
 {% endmessage %}
 
+Cà phê là chất giúp đánh thức mọi giác quan của tôi, giúp tôi tỉnh táo và tập trung cao độ khi làm việc với mục tiêu cuối cùng là làm thế giới trở nên tốt đẹp hơn. 🌈💡🚀
+
+<p style="text-align: center;">
+    <img style="filter: brightness(1); -webkit-filter: brightness(1);" src="meme-be-smart.gif" width="150px">
+</p>
 
 ### Hai là...
 
 Hồi cách đây mấy năm, vợ thấy tôi ngày nào cũng dùng cà phê thì cằn nhằn là cà phê không tốt cho sức khỏe lại còn tốn tiền. Thật ra thì cái gì dùng quá nhiều cũng không tốt cho sức khỏe cả kể cả thuốc bổ, còn tôi mỗi ngày đều nhâm nhi một tách cà phê thì lại được rất nhiều lợi ích. Lát nữa tôi sẽ liệt kê một vài công dụng của cà phê có lợi cho sức khỏe mà tôi lượm lặt được từ trên mạng. Còn việc uống cà phê tốn tiền, tôi không phủ nhận. Nhưng nhờ cà phê tôi mà tôi tỉnh táo hơn, làm việc với năng suất cao hơn, tôi lại kiếm được nhiều tiền hơn. Ngược lại nếu thiếu cà phê, công việc trì trệ, sai sót lung tung thì chẳng phải đã thất nghiệp từ lâu rồi hay sao?
 
-Vợ tôi lại còn bảo bác sĩ X nào đó nói rằng những người nghiện rượu, trà, cà phê, thuốc lá thường bị vô sinh do tác động tiêu cực của những chất gây nghiện này lên sức khỏe sinh sản. Tôi tuyệt nhiên không phải là kẻ nghiện rượu, trà, càng không hút thuốc lá. Tôi chỉ thích dùng cà phê mỗi sáng kể từ lúc chưa lấy vợ đến thời điểm bây giờ. Tháng 10/2021 tôi đón bé trai đầu lòng. Dù chưa xét nghiệm ADN, nhưng bằng trực giác cho thấy thằng bé mang một nửa là bộ gen của tôi. Vậy thì cũng đã có thể kết luận khoảng >80% cà phê không liên quan đến khả năng sinh sản của nam giới.
+Vợ tôi lại còn bảo **bác sĩ X** nào đó nói rằng những người nghiện ***rượu, trà, cà phê, thuốc lá*** thường bị vô sinh do tác động tiêu cực của những chất gây nghiện này lên sức khỏe sinh sản. Tôi không biết **bác sĩ X** là ai, có phải chính là vợ tôi hay không; nhưng tôi sẵn sàng hy sinh bản thân để chứng minh rằng cà phê đã bị đổ oan trong trường hợp này. Đầu tiên, tôi tuyệt nhiên không phải là kẻ nghiện rượu, trà, càng không hút thuốc lá. Tiếp theo đó, tôi dùng cà phê mỗi sáng kể từ lúc chưa lấy vợ đến thời điểm bây giờ. Cuối cùng, tháng 10/2021 tôi đón bé trai đầu lòng nặng 2kg8. Dù chưa xét nghiệm ADN, nhưng bằng trực giác cho thấy thằng bé mang một nửa là bộ gen của tôi. Vậy thì cũng đã có thể kết luận khoảng >90% cà phê không liên quan đến khả năng sinh sản của nam giới.
 
 ### Ba là...
 
-Việt Nam ta là một nước xuất khẩu cà phê nhất nhì thế giới. Tôi uống cà phê để ủng hộ người nông dẫn trồng cà phê, tạo đà phát triển kinh tế cho đất nước. 😅
+Việt Nam 🇻🇳 ta là một nước xuất khẩu cà phê nhất nhì thế giới. Vì thế tôi uống cà phê để ủng hộ người nông dẫn trồng cà phê, tạo đà phát triển kinh tế cho đất nước. 😅
+
+<p style="text-align: center;">
+    <img class="in-view-effect bright-on-hover transition-all" src="anh-3-xuat-khau-ca-phe-viet-nam.png" width="100%" alt="Top 5 quốc gia xuất khẩu cà phê Robusta lớn nhất thế giới.">
+    <a href="https://baochinhphu.vn/xuat-khau-ca-phe-diem-sang-trong-nhieu-thach-thuc-102230216105807171.htm"><span>Nguồn: Xuất khẩu cà phê: Điểm sáng trong nhiều thách thức</span></a>
+    <br />(baochinhphu.vn)
+</p>
+
 
 ## Công dụng của cà phê theo chuyên gia (trên mạng)
 

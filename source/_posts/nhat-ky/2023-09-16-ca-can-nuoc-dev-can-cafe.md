@@ -25,7 +25,7 @@ Có ba lý do.
 
 Công việc hằng ngày của tôi xoay quanh chiếc bàn phím ⌨️ và màn hình máy tính 💻 với hy vọng viết ra những dòng code có thể thay đổi cả thế giới, tất nhiên là trở nên tốt đẹp hơn 💡. 
 
-Tôi liên tưởng đến bộ phim <a class="has-tooltip-arrow has-tooltip-top" data-tooltip="https://www.imdb.com/title/tt2872732/" href="https://www.imdb.com/title/tt2872732/">Lucy (2014)</a>. Nữ chính vì vô tình dùng phải loại thuốc có chưa chất `CPH4` từ đó có thể sử dụng 100% công suất bộ não, trở thành người có tri thức siêu phàm và khả năng kiểm soát không - thời gian thậm chí thay đổi cả thế giới. 
+Việc này khiến tôi liên tưởng đến bộ phim <a class="has-tooltip-arrow has-tooltip-top" data-tooltip="https://www.imdb.com/title/tt2872732/" href="https://www.imdb.com/title/tt2872732/">Lucy (2014)</a>. Nữ chính vì vô tình dùng phải loại thuốc có chưa chất `CPH4` từ đó có thể sử dụng 100% công suất bộ não, trở thành người có tri thức siêu phàm và khả năng kiểm soát không - thời gian thậm chí thay đổi cả thế giới. 
 Có lẽ bác biên kịch biết tiếng Việt nên mới dùng lối chơi chữ `CàPHê` thành chất `CPH4` như trong kịch bản phim. 😂
 
 <p style="text-align: center;">
@@ -71,4 +71,4 @@ Và còn nhiều nữa...
 
 ## Tổng kết
 
-Ngắn gọn như đề bài viết "Cá cần nước, dev cần cà phê". Với tôi, Cà phê là nguồn cảm hứng sáng tạo. Vừa giúp tôi có thể tập trung làm việc, vừa có nhiều lợi ích cho sức khỏe. Nếu bạn chưa bao giờ dùng cà phê, ngại gì mà không thử?! 👋🏻
+Ngắn gọn như đề bài viết "Cá cần nước, dev cần cà phê". Với tôi, Cà phê là nguồn cảm hứng sáng tạo. Vừa giúp tôi có thể tập trung làm việc, vừa có nhiều lợi ích cho sức khỏe. Nếu bạn chưa bao giờ dùng cà phê, thì ngại gì mà không thử?! 👋🏻

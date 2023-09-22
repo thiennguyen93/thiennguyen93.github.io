@@ -44,7 +44,7 @@ Tôi không dùng giấy bút để viết ghi chú vì chúng mất thời gian
     <img class="in-view-effect bright-on-hover transition-all" src="SCR-20230921-unmh.jpeg" alt="Giao diện Notion thân thiện, dễ sử dụng và hỗ darkmode cho anh em dev chúng mình" width="70%">
 </p>
 
-Trước đây tôi dùng Evernote để viết ghi chú được một khoảng thời gian dài. Trải nghiệm với Evernote khá tốt, đủ đáp ứng mọi nhu cầu ghi chú cơ bản. Nhưng từ lúc biết đến Notion, tôi thấy việc ghi chép còn đơn giản hơn nữa. Nhìn chung, giao diện của Notion hiện đại hơn, nhiều tính năng quản lý hơn. Notion có gói miễn phí cho người dùng cá nhân nữa... quá đã!!! 🥰
+Trước đây tôi dùng Evernote để viết ghi chú được khoảng thời gian dài. Trải nghiệm với Evernote khá tốt, đủ đáp ứng mọi nhu cầu ghi chú cơ bản. Nhưng từ lúc biết đến Notion, tôi thấy việc ghi chép còn đơn giản hơn nữa. Nhìn chung, giao diện của Notion hiện đại hơn, nhiều tính năng quản lý hơn. Notion có gói miễn phí cho người dùng cá nhân nữa... quá đã!!! 🥰
 
 Ứng dụng Notion có trên mọi nền tảng, thiết bị từ máy tính cá nhân tới điện thoại (iOS/Android). Notion còn có phiên bản web để tôi có thể truy cập mọi lúc mọi nơi.
 

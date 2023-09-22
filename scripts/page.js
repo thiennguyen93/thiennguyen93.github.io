@@ -34,10 +34,12 @@ hexo.extend.injector.register(
 
 // Thien Nguyen Custom... Inject aplayer dependencies CSS, JS
 hexo.extend.injector.register('head_end', () => {
-  return css('/assets/css/APlayer.min.css');
+  // return css('/assets/css/APlayer.min.css'); // without CDN
+  return css('https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css'); // CDN
 }, 'default');
 
-
-hexo.extend.injector.register('head_end', () => {
-  return js('/assets/js/APlayer.min.js');
-}, 'default');
+// Inject APlayerJS (CDN/non-CDN)
+hexo.extend.injector.register('head_end', '<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" />\n');
+// hexo.extend.injector.register('head_end', () => {
+//   return js('/assets/js/APlayer.min.js');
+// }, 'default');

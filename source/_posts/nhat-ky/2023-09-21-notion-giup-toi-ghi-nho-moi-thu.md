@@ -15,34 +15,38 @@ Lúc trước tôi không có thói quen viết ghi chú (note-taking) nên hay 
 Thế là tôi tập viết ghi chú...
 
 <!-- more -->
-## Ghi chú để ghi nhớ
+## Ghi chú là để ghi nhớ
 
-Tôi là người hay quên nên việc giúp tôi ghi nhớ khá nhiều thứ quan trọng công cuộc sống lẫn công việc hằng ngày. Ngoài ra tôi còn cố gắng phân loại ghi chú ra để dễ dàng xem lại hoặc tìm kiếm khi cần. 
+Việc ghi chú giúp tôi ghi nhớ những thứ quan trọng, nhưng điểm cần lưu ý trong công công việc lẫn cuộc sống hằng ngày. Ngoài ra tôi còn cố gắng phân loại ghi chú để dễ dàng xem lại hoặc tìm kiếm khi cần. 
 
-Trong công việc, khi làm feature mới tôi tự note lại những requirements quan trọng, những  bước cần chuẩn bị, chia task và ước lượng thời gian để hoàn thành. Ghi chú có thể là một checklist hoặc đôi lúc đơn giản chỉ cần dăm ba cái gạch đầu dòng.
+Đối với công việc, đặc biệt là khi làm một feature mới, tôi `take note`📝 lại requirements từ <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="Business analyst - Người giữ vai trò phân tích nghiệp vụ">BA</span>, những bước cần chuẩn bị, chia nhỏ task và ước lượng thời gian để hoàn thành. Ghi chú có thể là một checklist hoặc đôi khi chỉ cần vài cái gạch đầu dòng cho <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="những ý chính">main points</span> hoặc <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="những từ khóa">keywords</span> quan trọng.
 
 <p style="text-align: center">
     <img class="in-view-effect bright-on-hover transition-all" src="SCR-20230921-txqg.jpeg" alt="Notion - ứng dụng ghi chú yêu thích của tôi" width="70%">
 </p>
 
-Trong cuộc sống, không ít lần tôi nghe đâu đâu đó một đoạn nhạc hay nhưng lại không biết tựa ca khúc. Tôi ghi chú lại một câu lyric mà tôi nghe được để về nhà tra lại bằng Google. Cũng  có lúc chưa kịp nghe ra câu hát gì mà người ta đã chuyển sang bản nhạc khác thì cũng đành chịu >.=
+Trong cuộc sống, những khi tình cờ nghe được một đoạn nhạc hay nhưng lại không biết tựa ca khúc, tôi cố gắng nhẩm nhớ một câu lyric mà tôi nghe được. Về đến nhà tôi tra lại bằng Google, sau đó take note vào mục `Những bài hát hay ngẫu nhiên`. List nhạc của tôi bây giờ cũng được mấy chục bài ngẫu nhiên như thế.
 
-Tưởng tượng một ngày nào đó tôi tỉnh giấc với một ký ức trống rỗng hoặc trí nhớ chỉ dừng lại ở ngày nào đó trong quá khứ, điều tôi làm đâu tiên chính là đọc lại những ghi chú của mình. Ý nghĩ khùng điên này khiến tôi liên tưởng đến bộ phim Memento của đạo diễn Christopher Nolan. Nam chính bị mất trí nhớ ngắn hạn sau một vụ tai nạn. Những tấm ảnh, hình xăm trên cở thể, ghi chú và bản đồ là manh mối trong quá trình anh ta truy tìm hung thủ gây ra vụ tai nạn và giết vợ của mình.
+Tưởng tượng buổi sáng nào đó tôi tỉnh giấc với một ký ức trống rỗng hoặc trí nhớ chỉ dừng lại ở một thời khắc xác định trong quá khứ, điều đầu tiên tôi làm là đọc lại những ghi chú của mình. Ý nghĩ khùng điên này là từ bộ phim <a href="https://www.imdb.com/title/tt0209144/"><span data-tooltip="https://www.imdb.com/title/tt0209144/">Memento 2000</span></a> của đạo diễn Christopher Nolan. Phim có nội dung rất sáng tạo, tôi nghĩ bạn nên xem thử ít nhất một lần (>.=).
 
 <p style="text-align: center;">
     <img class="in-view-effect frame tilt-right" src="memento-2000.jpg" alt="Memento 2000 - Đạo diễn: Christopher Nolan" title="Memento 2000 - Đạo diễn: Christopher Nolan" width="200px">
 </p>
 
+**⚠️ Phần cho biết trước nội dung**
+Nam chính Leonard Shelby bị mất trí nhớ ngắn hạn sau một vụ tai nạn khiến anh ta không thể ghi nhớ trong thời gian dài. Để truy lùng kẻ đã sát hại vợ của mình, Leonard sử dụng một máy ảnh Polaroid để chụp lại những người mới gặp và ghi chú lên ảnh các thông tin về mối liên hệ với người trong ảnh. Anh ta còn tự xăm lên cơ thể những thông tin quan trọng cần phải ghi nhớ. Những việc làm trên giúp Leonard duy trì thông tin điều tra về vụ án khi không thể ghi nhớ bằng cách thông thường. 
+
 ## Notion - Công cụ tuyệt vời giúp tôi viết và quản lý ghi chú
-Tôi không dùng giấy bút để viết ghi chú vì chúng mất thời gian, thường có không gian lưu trữ giới hạn. Việc tìm lại ghi chú cũ cũng không hề dễ dàng. Nên tôi thường viết ghi chú bằng các công cụ trực tuyến chẳng hạn như Notion.
+
+Tôi không dùng giấy bút để viết ghi chú vì chúng mất thời gian, thường có không gian lưu trữ giới hạn, việc tìm lại ghi chú cũ cũng không hề dễ dàng. Thay vào đó, tôi viết ghi chú bằng các công cụ trực tuyến, chẳng hạn như Notion hay Evernote.
 
 <p style="text-align: center">
     <img class="in-view-effect bright-on-hover transition-all" src="SCR-20230921-unmh.jpeg" alt="Giao diện Notion thân thiện, dễ sử dụng và hỗ darkmode cho anh em dev chúng mình" width="70%">
 </p>
 
-Trước khi đến với Notion, tôi dùng Evernote một thời gian dài. Trải nghiệm với Evernote cũng khá tốt, đáp ứng được mọi nhu cầu ghi chú cơ bản. Nhưng từ lúc chuyển qua Notion, tôi thấy việc ghi chép còn đơn giản hơn nữa. Giao diện của Notion hiện đại hơn, nhiều tính năng quản lý hơn và lại có gói miễn phí cho người dùng cá nhân nữa... quá đã!!! 🥰
+Trước đây tôi dùng Evernote để viết ghi chú được một khoảng thời gian dài. Trải nghiệm với Evernote khá tốt, đủ đáp ứng mọi nhu cầu ghi chú cơ bản. Nhưng từ lúc biết đến Notion, tôi thấy việc ghi chép còn đơn giản hơn nữa. Nhìn chung, giao diện của Notion hiện đại hơn, nhiều tính năng quản lý hơn. Notion có gói miễn phí cho người dùng cá nhân nữa... quá đã!!! 🥰
 
-Ứng dụng Notion có trên mọi nền tảng, thiết bị từ máy tính cá nhân tới điện thoại (iOS/Android). Notion còn có phiên bản web để tôi có thể truy cập mọi lúc mọi nơi
+Ứng dụng Notion có trên mọi nền tảng, thiết bị từ máy tính cá nhân tới điện thoại (iOS/Android). Notion còn có phiên bản web để tôi có thể truy cập mọi lúc mọi nơi.
 
 <p style="text-align: center">
     <img class="in-view-effect bright-on-hover transition-all" src="SCR-20230922-blde.jpeg" width="70%" alt="Trang chủ Notion">
@@ -63,4 +67,4 @@ Trong thời gian tới tôi sẽ cố gắng tìm một phương pháp hiệu q
 
 Cuối cùng, không quên nhắc bạn dùng thử Notion - một công cụ ghi chú tuyệt vời 😉.
 
-*P/S: Nhớ rảnh xem thử bộ phim Memento bạn nhé!*
+*P/S: Nhớ rảnh thì xem thử bộ phim Memento bạn nhé!*

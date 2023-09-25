@@ -6,7 +6,7 @@ categories:
 language: en
 toc: false
 cover: /assets/img/2020-07-13-vua-di-vua-ngay-cover.jpg
-cover_lqip: /assets/img/2020-07-13-vua-di-vua-ngay-cover.webp
+cover_lqip: /assets/img/lqip/2020-07-13-vua-di-vua-ngay-cover.webp
 thumbnail: /assets/img/2020-07-13-vua-di-vua-ngay-cover.jpg
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---

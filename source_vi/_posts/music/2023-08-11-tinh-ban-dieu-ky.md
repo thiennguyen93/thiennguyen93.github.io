@@ -5,7 +5,7 @@ categories:
 - Nhạc
 language: vi
 toc: false
-# cover: /assets/img/2022-year-in-review-cover.png
+# cover: 
 thumbnail: /assets/media/tinh-ban-dieu-ky/album-90x90.webp
 hide: true
 post_type: "music"

@@ -9,9 +9,10 @@
     "build-gh-page": "npm run prepare-asset && npm run myinstall && hexo clean && hexo deploy",
     "clean": "rm -rf source/assets && rm -rf source_vi/assets && hexo clean",
     "deploy": "gh-pages -d build",
+    "generate-lqip": "node process-lqip.js",
     "clean-asset": "rm -rf source/assets && rm -rf source_vi/assets",
-    "prepare-asset": "rm -rf source/assets && cp -r  assets source",
-    "prepare-asset-vi": "rm -rf source_vi/assets && cp -r  assets source_vi",
+    "prepare-asset": "npm run generate-lqip && rm -rf source/assets && cp -r  assets source",
+    "prepare-asset-vi": "npm run generate-lqip && rm -rf source_vi/assets && cp -r  assets source_vi",
     "server": "npm run prepare-asset && hexo server",
     "dev": "eval $(grep '^GH_' .env) && npm run prepare-asset && npm run myinstall && hexo server",
     "dev-vi": "eval $(grep '^GH_' .env) && npm run prepare-asset-vi && npm run myinstall && hexo server --config i18n/_config.vi.yml",
@@ -40,6 +41,7 @@
     "hexo-server": "^2.0.0",
     "hexo-tag-aplayer": "github:thiennguyen93/thiennguyen-hexo-tag-aplayer",
     "hexo-theme-landscape": "^0.0.3",
+    "lqip-modern": "^2.0.0",
     "yarn": "^1.22.11"
   },
   "devDependencies": {

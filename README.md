@@ -48,3 +48,8 @@ Because the two different source folders shares the same assets folder. Need to 
 ### Classes
 #### `in-view-effect`
 If class is added to an img element. If the image is in the user's view, an additional class `in-view` is added automatically to the img element.
+
+# LOW QUALITY IMAGE PLACEHOLDER
+- Package  https://www.npmjs.com/package/lqip-modern
+
+This package helps the low quality version of each images stored in the `root/assets/img` directory. The LQIP is saved under path `source[_<<{language_code}>>]/assets/img/lqip/<<file_name>>.webp`

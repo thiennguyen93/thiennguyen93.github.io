@@ -39,7 +39,7 @@ hexo.extend.injector.register('head_end', () => {
 }, 'default');
 
 // Inject APlayerJS (CDN/non-CDN)
-hexo.extend.injector.register('head_end', '<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>\n');
+hexo.extend.injector.register('body_begin', '<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>\n');
 // hexo.extend.injector.register('head_end', () => {
 //   return js('/assets/js/APlayer.min.js');
 // }, 'default');

@@ -23,7 +23,7 @@ async function processLQIP() {
     })
 
     // remove current lqip  sdir
-    await fs.rmdir(dir + lqipDir, { force: true, recursive: true });
+    await fs.rm(dir + lqipDir, { force: true, recursive: true });
     await fs.mkdir(dir + lqipDir);
     
     for await (fileItem of imgFiles) {

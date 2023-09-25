@@ -6,7 +6,7 @@ categories:
 language: en
 toc: false
 # cover: /assets/img/2022-year-in-review-cover.png
-thumbnail: /assets/media/tinh-ban-dieu-ky/album.webp
+thumbnail: /assets/media/tinh-ban-dieu-ky/album-90x90.webp
 hide: true
 post_type: "music"
 # comment: false

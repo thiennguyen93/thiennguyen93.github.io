@@ -5,9 +5,9 @@ categories:
 - Journal
 language: en
 toc: false
-cover: /assets/img/eduardo-gorghetto-vJ3KldG86Eo-unsplash.jpeg
+cover: /assets/img/eduardo-gorghetto-vJ3KldG86Eo-unsplash.webp
 cover_lqip: /assets/img/lqip/eduardo-gorghetto-vJ3KldG86Eo-unsplash.webp
-thumbnail: /assets/img/eduardo-gorghetto-vJ3KldG86Eo-unsplash.jpeg
+thumbnail: /assets/img/eduardo-gorghetto-vJ3KldG86Eo-unsplash.webp
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
 Cà phê đối với tôi được nâng lên một tầm cao mới. Nó là một thứ tôn giáo chứ không đơn thuần là một loại đồ uống. Mỗi sáng không "làm" một ly cà phê sữa đá, thì tâm hồn tôi cứ bay bổng trên mây, nửa mê nửa tỉnh. Là một tín đồ của cà phê, hôm nay tôi chia sẽ trải nghiệm bản thân về loại đồ uống này. 

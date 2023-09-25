@@ -6,6 +6,7 @@ categories:
 language: en
 toc: false
 cover: /assets/img/api-nhung-theo-cach-hieu-don-gian.jpg
+cover_lqip: /assets/img/lqip/api-nhung-theo-cach-hieu-don-gian.webp
 thumbnail: /gallery/thumbnails/api-nhung-theo-cach-hieu-don-gian_thumbnail.jpg
 ---
 Hắt xì....

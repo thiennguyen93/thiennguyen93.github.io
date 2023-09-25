@@ -5,6 +5,7 @@ categories:
 - Journal
 toc: false
 cover: /assets/img/le-tot-nghiep-hcmus-2020.png
+cover_lqip: /assets/img/lqip/le-tot-nghiep-hcmus-2020.webp
 thumbnail: /gallery/thumbnails/le-tot-nghiep-hcmus-2020_thumbnail.jpg
 hide: true
 ---

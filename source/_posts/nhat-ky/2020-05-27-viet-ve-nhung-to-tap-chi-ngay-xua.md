@@ -6,6 +6,7 @@ categories:
 language: en
 toc: false
 cover: /assets/img/lbvmvt-1.jpg
+cover_lqip: /assets/img/lqip/lbvmvt-1.webp
 thumbnail: /gallery/thumbnails/lbvmvt-1.jpg
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---

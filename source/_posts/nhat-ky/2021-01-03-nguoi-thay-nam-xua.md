@@ -6,6 +6,7 @@ categories:
 language: en
 toc: false
 cover: /assets/img/nguoi-thay-nam-xua.jpg
+cover_lqip: /assets/img/nguoi-thay-nam-xua.webp
 thumbnail: /gallery/thumbnails/nguoi-thay-nam-xua_thumbnail.jpg
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---

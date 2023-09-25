@@ -7,6 +7,7 @@ categories:
 language: en
 toc: false
 cover: /assets/img/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg
+cover_lqip: /assets/img/lqip/glenn-carstens-peters-RLw-UC03Gwc-unsplash.webp
 thumbnail: /assets/img/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---

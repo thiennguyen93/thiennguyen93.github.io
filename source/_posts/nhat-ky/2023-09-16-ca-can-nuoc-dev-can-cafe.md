@@ -6,6 +6,7 @@ categories:
 language: en
 toc: false
 cover: /assets/img/eduardo-gorghetto-vJ3KldG86Eo-unsplash.jpeg
+cover_lqip: /assets/img/lqip/eduardo-gorghetto-vJ3KldG86Eo-unsplash.webp
 thumbnail: /assets/img/eduardo-gorghetto-vJ3KldG86Eo-unsplash.jpeg
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---

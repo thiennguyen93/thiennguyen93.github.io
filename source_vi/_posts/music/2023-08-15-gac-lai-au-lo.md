@@ -31,7 +31,7 @@ description: "Da LAB ft. Miu  Lê"
             "title": "Gác Lại Âu Lo",
             "author": "Da LAB ft. Miu  Lê",
             "url": "https://api.mp3.zing.vn/api/streaming/audio/ZZ90EA6F/128",
-            "pic": "/assets/media/gac-lai-au-lo/album-90x90.jpeg",
+            "pic": "/assets/media/gac-lai-au-lo/album.jpeg",
             "lrc": "/assets/media/gac-lai-au-lo/lyric.lrc"
         }
     ]

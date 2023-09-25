@@ -6,7 +6,7 @@ categories:
 language: vi
 toc: false
 # cover: /assets/img/2022-year-in-review-cover.png
-thumbnail: /assets/media/gac-lai-au-lo/album.jpeg
+thumbnail: /assets/media/gac-lai-au-lo/album-90x90.jpeg
 hide: true
 post_type: "music"
 # comment: false
@@ -31,7 +31,7 @@ description: "Da LAB ft. Miu  Lê"
             "title": "Gác Lại Âu Lo",
             "author": "Da LAB ft. Miu  Lê",
             "url": "https://api.mp3.zing.vn/api/streaming/audio/ZZ90EA6F/128",
-            "pic": "/assets/media/gac-lai-au-lo/album.jpeg",
+            "pic": "/assets/media/gac-lai-au-lo/album-90x90.jpeg",
             "lrc": "/assets/media/gac-lai-au-lo/lyric.lrc"
         }
     ]

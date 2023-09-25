@@ -6,7 +6,7 @@ categories:
 language: vi
 toc: false
 # cover: /assets/img/2022-year-in-review-cover.png
-thumbnail: /assets/media/shay-nanggg/album.jpeg
+thumbnail: /assets/media/shay-nanggg/album-90x90.jpeg
 hide: true
 post_type: "music"
 # comment: false
@@ -31,7 +31,7 @@ description: "Amee, Obito, Hứa Kim Tuyền"
             "title": "Shay Nắnggg",
             "author": "Amee, Obito, Hứa Kim Tuyền",
             "url": "https://api.mp3.zing.vn/api/streaming/audio/ZZC7BEII/128",
-            "pic": "/assets/media/shay-nanggg/album.jpeg",
+            "pic": "/assets/media/shay-nanggg/album-90x90.jpeg",
             "lrc": "/assets/media/shay-nanggg/lyric.lrc"
         }
     ]

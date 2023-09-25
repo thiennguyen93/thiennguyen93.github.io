@@ -19,7 +19,7 @@ async function processLQIP() {
         }
     })
     .filter(({ext})  =>  {
-        return [".png",".jpg",".jpeg"].includes(ext)
+        return [".png",".jpg",".jpeg",".webp"].includes(ext)
     })
 
     // remove current lqip  sdir

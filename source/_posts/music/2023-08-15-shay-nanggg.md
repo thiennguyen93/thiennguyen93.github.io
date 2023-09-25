@@ -5,7 +5,7 @@ categories:
 - Music
 language: en
 toc: false
-# cover: /gallery/covers/2022-year-in-review-cover.png
+# cover: /assets/img/2022-year-in-review-cover.png
 thumbnail: /assets/media/shay-nanggg/album.jpeg
 hide: true
 post_type: "music"

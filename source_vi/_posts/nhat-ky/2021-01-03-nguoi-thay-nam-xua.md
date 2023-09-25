@@ -5,7 +5,7 @@ categories:
 - Nhật ký
 language: vi
 toc: false
-cover: /gallery/covers/nguoi-thay-nam-xua.jpg
+cover: /assets/img/nguoi-thay-nam-xua.jpg
 thumbnail: /gallery/thumbnails/nguoi-thay-nam-xua_thumbnail.jpg
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---

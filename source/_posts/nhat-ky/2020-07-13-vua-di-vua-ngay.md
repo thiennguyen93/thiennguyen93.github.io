@@ -5,8 +5,8 @@ categories:
 - Journal
 language: en
 toc: false
-cover: /gallery/covers/2020-07-13-vua-di-vua-ngay-cover.jpg
-thumbnail: /gallery/covers/2020-07-13-vua-di-vua-ngay-cover.jpg
+cover: /assets/img/2020-07-13-vua-di-vua-ngay-cover.jpg
+thumbnail: /assets/img/2020-07-13-vua-di-vua-ngay-cover.jpg
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
 Rầm… Một cú trời giáng. Tôi ngã văng ra đường. Cảm giác đau ở lưng khiến tôi không thể gượng dậy được và người ta xúm xính lại đưa tôi vào lề đường. 

@@ -5,7 +5,7 @@ categories:
 - Journal
 language: en
 toc: false
-cover: /gallery/covers/api-nhung-theo-cach-hieu-don-gian.jpg
+cover: /assets/img/api-nhung-theo-cach-hieu-don-gian.jpg
 thumbnail: /gallery/thumbnails/api-nhung-theo-cach-hieu-don-gian_thumbnail.jpg
 ---
 Hắt xì....

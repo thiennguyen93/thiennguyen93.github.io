@@ -5,7 +5,7 @@ categories:
 - Journal
 language: en
 toc: false
-cover: /gallery/covers/covid-19-vaccine.jpg
+cover: /assets/img/covid-19-vaccine.jpg
 thumbnail: /gallery/thumbnails/covid-19-vaccine_thumbnail.jpg
 ---
 Hơn một tháng nay, mỗi ngày thành phố đều ghi nhận hàng chục, thâm chí gần trăm ca nhiễm, trong đó có rất nhiều ca là lây nhiễm cộng đồng, hoặc tệ hơn là không rõ nguồn lây. Đôi lúc thoáng nghĩ có khi nào thành phố mình sống trở thành một Ấn Độ thu nhỏ trong đại dịch COVID-19 này không? Thành phố nay phong tỏa chỗ này mai phong tỏa chỗ kia không biết khi nào tới khu vực mình sinh sống nữa.

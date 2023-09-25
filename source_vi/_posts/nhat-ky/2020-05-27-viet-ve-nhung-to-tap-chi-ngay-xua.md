@@ -5,7 +5,7 @@ categories:
 - Nhật ký
 language: vi
 toc: false
-cover: /gallery/covers/lbvmvt-1.jpg
+cover: /assets/img/lbvmvt-1.jpg
 thumbnail: /gallery/thumbnails/lbvmvt-1.jpg
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---

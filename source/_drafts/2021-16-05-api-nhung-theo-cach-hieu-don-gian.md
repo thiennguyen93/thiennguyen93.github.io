@@ -5,7 +5,7 @@ categories:
 - Technology
 language: en
 toc: false
-cover: /gallery/covers/api-nhung-theo-cach-hieu-don-gian.jpg
+cover: /assets/img/api-nhung-theo-cach-hieu-don-gian.jpg
 thumbnail: /gallery/thumbnails/api-nhung-theo-cach-hieu-don-gian_thumbnail.jpg
 ---
 Hôm nọ có một bạn Tester hỏi mình API là gì, dùng để làm gì. Thiệt sự lúc đó không biết trả lời sao cho dễ hiểu. Mình về “ngâm cứu” tìm cách vận dụng chút xíu năng khiếu có hạn về văn học nghệ thuật để viết bài này, giải thích về khái niệm API theo cách hiểu vu vơ của mình. Nếu bạn đọc thấy chỗ nào chưa ưng thì “bình loạn” góp ý nhé. Trân trọng cám ơn!

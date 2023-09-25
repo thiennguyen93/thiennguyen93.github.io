@@ -6,6 +6,7 @@ categories:
 language: en
 toc: false
 cover: https://thiennguyenpro.files.wordpress.com/2020/06/img_20200612_142637.jpg?w=800
+cover_lqip: https://thiennguyenpro.files.wordpress.com/2020/06/img_20200612_142637.jpg?w=300
 thumbnail: https://thiennguyenpro.files.wordpress.com/2020/06/img_20200612_142637.jpg?w=300
 ---
 

@@ -6,6 +6,7 @@ categories:
 language: vi
 toc: false
 cover: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=800
+cover_lqip: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
 excerpt: 'Chuyến team building cùng team HAS HPT tại TP Vũng Tàu (BR-VT)'
 ---

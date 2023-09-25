@@ -6,6 +6,7 @@ categories:
 language: en
 toc: false
 cover: https://thiennguyenpro.files.wordpress.com/2020/08/img_20200719_104745.jpg?w=800
+cover_lqip: https://thiennguyenpro.files.wordpress.com/2020/08/img_20200719_104745.jpg?w=300
 thumbnail: https://thiennguyenpro.files.wordpress.com/2020/08/img_20200719_104745.jpg?w=300
 ---
 Kế hoạch được lên trước một tuần, tối hôm Thứ sáu mọi người tập trung lại để chuẩn bị cho chuyến đi. Chúng tôi cùng nhau đi chợ, rửa rau, ướp sẵn gia vị và đóng gói lại. Vì lý do công việc của một số thành viên trong đoàn nên chúng tôi quyết định khởi hành vào buổi chiều thay vì sáng thứ 7. 

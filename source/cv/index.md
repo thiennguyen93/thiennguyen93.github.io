@@ -45,7 +45,7 @@ widgets:
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
       CV:
         icon: fas fa-download
-        url: "/assets/documents/pdf/2023_08_25_THIEN_NGUYEN_CV.pdf"
+        url: "/assets/documents/pdf/2023_09_27_THIEN_NGUYEN_CV.pdf"
         tooltip: "Download CV as PDF"
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
   - type: toc
@@ -146,16 +146,16 @@ body:not(.night) .only-in-night-mode {
             <span>Software Engineer</span>
             <p>Product: Back Office Gaming Management System</p>
             <p>
-            • Developed and maintained a RESTful API for a comprehensive management system handling users, games, game players, game events, missions, and marketing campaigns.
+            • Develop and maintain a RESTful API for a comprehensive management system handling users, games, game players, game events, missions, and marketing campaigns.
             </p>
             <p>
-            • Utilized microservice architecture to build and integrate various sub-systems, including a report module, cron service, messaging, transaction logger, and message queue.
+            • Utilize microservice architecture to build and integrate various sub-systems, including a report module, cron service, messaging, transaction logger, and message queue.
             </p>
             <p>
-            • Collaborated with frontend developers, database administrators, and project managers to deliver exceptional user experiences and meet project requirements.
+            • Collaborate with frontend developers, database administrators, and project managers to deliver exceptional user experiences and meet project requirements.
             </p>
             <p>
-            • Contributed to documentation and knowledge sharing within the development team.
+            • Contribute to documentation and knowledge sharing within the development team.
             </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>
@@ -180,16 +180,16 @@ body:not(.night) .only-in-night-mode {
             <span>Software Engineer</span>
             <p>Projects: THK CMMS, THK Order System & HACCP Report Application</p>
             <p>
-            • Accurately estimated project timelines and resources required for completion.
+            • Estimate project timelines and resources required for completion.
             </p>
             <p>
-            • Successfully managed and led a team of four teammates, providing guidance, conducting code reviews, and ensuring code quality.
+            • Provide guidance, conduct code reviews, and ensure code quality.
             </p>
             <p>
-            • Developed robust RESTful APIs using Node.js and NestJS framework, leveraging Microsoft SQL Server for data storage, Azure Storage for file management, and Google FCM for push notifications.
+            • Develop robust RESTful APIs using Node.js and NestJS framework, leveraging Microsoft SQL Server for data storage, Azure Storage for file management, and Google FCM for push notifications.
             </p>
             <p>
-            • Utilized Docker to containerize web applications and deployed them to Azure app service, ensuring seamless deployment and scalability.
+            • Utilize Docker to containerize web applications and deploy them to Azure app service, ensuring seamless deployment and scalability.
             </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>
@@ -213,10 +213,10 @@ body:not(.night) .only-in-night-mode {
             <span>Software Engineer</span>
             <p>Projects: Cash Vault Management (Techcombank)</p>
             <p style="margin-bottom: 20px">
-            • Utilized the IBM BPM platform to design and automate cash management processes, enhancing operational efficiency.
+            • Utilize the IBM BPM platform to design and automate cash management processes, enhancing operational efficiency.
             </p>
             <p >
-            • Leveraged Oracle SQL for efficient and secure data storage and retrieval, ensuring the system's reliability and scalability.
+            • Leverage Oracle SQL for efficient and secure data storage and retrieval, ensuring the system's reliability and scalability.
             </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>
@@ -237,7 +237,7 @@ body:not(.night) .only-in-night-mode {
         <div>
             <h4 class="is-size-6 is-uppercase" id="work-experience-php-group"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span><a href="http://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
             <p>Customer Service Representative</p>
-            <p  style="margin-bottom: 20px">Processing claims, forms, applications and handling clients' requests using CRM software.
+            <p  style="margin-bottom: 20px">Proccess claims, forms, applications and handle clients' requests using CRM software.
             </p>
         </div>
     </article>
@@ -263,7 +263,7 @@ body:not(.night) .only-in-night-mode {
         </figure>
         <div>
             <h4 class="is-size-6" id="project-fscup"><strong><span><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
-            <p>An input assistance software used together with FSC Rater.</p>
+            <p>A data input assistance software that enhances work productivity while ensuring precision and reliability</p>
         </div>
     </article>
 </div>

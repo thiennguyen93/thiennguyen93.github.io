@@ -45,9 +45,8 @@ Tôi luôn tìm thấy sự mâu thuẫn, ngay cả ở chính bản thân. Ch�
 Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt 🥕🥕 (tên cúng cơm do bà nội đặt)
 
 <p style="text-align: center;">
-    <img class="in-view-effect frame tilt-right" src="img/carrot-01.jpeg" alt="Cà rốt 🥕" title="Cà rốt" width="60%">
+    <img class="in-view-effect frame tilt-right lazy" src="/assets/pages/about/carrot-01_LQIP.webp" data-src="/assets/pages/about/carrot-01.jpeg" alt="Cà rốt 🥕" title="Cà rốt" width="60%">
 </p>
-
 
 ## Về blog này 🍻
 

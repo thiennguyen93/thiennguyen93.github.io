@@ -6,9 +6,9 @@ categories:
 - Journal
 language: en
 toc: false
-cover: /assets/img/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg
+cover: /assets/img/glenn-carstens-peters-RLw-UC03Gwc-unsplash.webp
 cover_lqip: /assets/img/lqip/glenn-carstens-peters-RLw-UC03Gwc-unsplash.webp
-thumbnail: /assets/img/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg
+thumbnail: /assets/img/glenn-carstens-peters-RLw-UC03Gwc-unsplash.webp
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
 Tôi từng không có thói quen viết ghi chú (note-taking). Không ít lần một ý tưởng 💡 rất hay thoáng qua đầu nhưng tôi lại không ghi chép lại rồi quên béng lúc nào không hay. Biết đâu được cái ý tưởng vu vơ đó có thể giúp tôi trở thành triệu phú thì sao? 

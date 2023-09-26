@@ -23,7 +23,7 @@ Việc ghi chú giúp tôi ghi nhớ những thứ quan trọng, nhưng điểm 
 Đối với công việc, đặc biệt là khi làm một feature mới, tôi `take note`📝 lại requirements từ <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="Business analyst - Người giữ vai trò phân tích nghiệp vụ">BA</span>, những bước cần chuẩn bị, chia nhỏ task và ước lượng thời gian để hoàn thành. Ghi chú có thể là một checklist hoặc đôi khi chỉ cần vài cái gạch đầu dòng cho <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="những ý chính">main points</span> hoặc <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="những từ khóa">keywords</span> quan trọng.
 
 <p style="text-align: center">
-    <img class="in-view-effect bright-on-hover transition-all lazy" src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230921-txqg_rqyv19.jpg" data-src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/t_LQIP/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230921-txqg_rqyv19.jpg" alt="Notion - ứng dụng ghi chú yêu thích của tôi" width="70%">
+    <img class="in-view-effect bright-on-hover transition-all lazy" src="SCR-20230921-txqg-lqip.webp" data-src="SCR-20230921-txqg.jpeg" alt="Notion - ứng dụng ghi chú yêu thích của tôi" width="70%">
 </p>
 
 Trong cuộc sống, những khi tình cờ nghe được một đoạn nhạc hay nhưng lại không biết tựa ca khúc, tôi cố gắng nhẩm nhớ một câu lyric mà tôi nghe được. Về đến nhà tôi tra lại bằng Google, sau đó take note vào mục `Những bài hát hay ngẫu nhiên`. List nhạc của tôi bây giờ cũng được mấy chục bài ngẫu nhiên như thế.
@@ -31,7 +31,7 @@ Trong cuộc sống, những khi tình cờ nghe được một đoạn nhạc h
 Tưởng tượng buổi sáng nào đó tôi tỉnh giấc với một ký ức trống rỗng hoặc trí nhớ chỉ dừng lại ở một thời khắc xác định trong quá khứ, điều đầu tiên tôi làm là đọc lại những ghi chú của mình. Ý nghĩ khùng điên này là từ bộ phim <a href="https://www.imdb.com/title/tt0209144/"><span data-tooltip="https://www.imdb.com/title/tt0209144/">Memento 2000</span></a> của đạo diễn Christopher Nolan. Phim có nội dung rất sáng tạo, tôi nghĩ bạn nên xem thử ít nhất một lần (>.=).
 
 <p style="text-align: center;">
-    <img class="in-view-effect frame tilt-right lazy" data-src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/v1695711756/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/memento-2000_mb9c6n.jpg" src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/t_LQIP/v1695711756/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/memento-2000_mb9c6n.jpg" alt="Memento 2000 - Đạo diễn: Christopher Nolan" title="Memento 2000 - Đạo diễn: Christopher Nolan" width="200px">
+    <img class="in-view-effect frame tilt-right lazy" data-src="memento-2000_mb9c6n.jpg" src="SCR-20230921-txqg-lqip.webp" alt="Memento 2000 - Đạo diễn: Christopher Nolan" title="Memento 2000 - Đạo diễn: Christopher Nolan" width="200px">
 </p>
 
 **⚠️ Phần cho biết trước nội dung**
@@ -42,7 +42,7 @@ Nam chính Leonard Shelby bị mất trí nhớ ngắn hạn sau một vụ tai 
 Tôi không dùng giấy bút để viết ghi chú vì chúng mất thời gian, thường có không gian lưu trữ giới hạn, việc tìm lại ghi chú cũ cũng không hề dễ dàng. Thay vào đó, tôi viết ghi chú bằng các công cụ trực tuyến, chẳng hạn như Notion hay Evernote.
 
 <p style="text-align: center">
-    <img class="in-view-effect bright-on-hover transition-all lazy" src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/t_LQIP/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230921-unmh_eo8rcs.jpg" data-src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230921-unmh_eo8rcs.jpg" alt="Giao diện Notion thân thiện, dễ sử dụng và hỗ darkmode cho anh em dev chúng mình" width="70%">
+    <img class="in-view-effect bright-on-hover transition-all lazy" src="SCR-20230921-unmh-liqp.jpeg" data-src="SCR-20230921-unmh_eo8rcs.jpg" alt="Giao diện Notion thân thiện, dễ sử dụng và hỗ darkmode cho anh em dev chúng mình" width="70%">
 </p>
 
 Trước đây tôi dùng Evernote để viết ghi chú được khoảng thời gian dài. Trải nghiệm với Evernote khá tốt, đủ đáp ứng mọi nhu cầu ghi chú cơ bản. Nhưng từ lúc biết đến Notion, tôi thấy việc ghi chép còn đơn giản hơn nữa. Nhìn chung, giao diện của Notion hiện đại hơn, nhiều tính năng quản lý hơn. Notion có gói miễn phí cho người dùng cá nhân nữa... quá đã!!! 🥰
@@ -50,7 +50,7 @@ Trước đây tôi dùng Evernote để viết ghi chú được khoảng thờ
 Ứng dụng Notion có trên mọi nền tảng, thiết bị từ máy tính cá nhân tới điện thoại (iOS/Android). Notion còn có phiên bản web để tôi có thể truy cập mọi lúc mọi nơi.
 
 <p style="text-align: center">
-    <img class="in-view-effect bright-on-hover transition-all lazy" data-src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230922-blde_o6vpeu.jpg" src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/t_LQIP/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230922-blde_o6vpeu.webp" width="70%" alt="Trang chủ Notion">
+    <img class="in-view-effect bright-on-hover transition-all lazy" data-src="SCR-20230922-blde_o6vpeu.jpg" src="SCR-20230922-blde_o6vpeu_lqip.webp" width="70%" alt="Trang chủ Notion">
 </p>
 
 {% message color:info  %}

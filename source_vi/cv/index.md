@@ -235,7 +235,7 @@ body:not(.night) .only-in-night-mode {
             <img class="cv wh-64 only-in-night-mode" src="img/logo-php-group-international-vietnam-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-php-group"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span><a href="https://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-php-group"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span><a href="http://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
             <p>Customer Service Representative</p>
             <p  style="margin-bottom: 20px">Processing claims, forms, applications and handling clients' requests using CRM software.
             </p>

@@ -50,7 +50,7 @@ Trước đây tôi dùng Evernote để viết ghi chú được khoảng thờ
 Ứng dụng Notion có trên mọi nền tảng, thiết bị từ máy tính cá nhân tới điện thoại (iOS/Android). Notion còn có phiên bản web để tôi có thể truy cập mọi lúc mọi nơi.
 
 <p style="text-align: center">
-    <img class="in-view-effect bright-on-hover transition-all lazy" src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230922-blde_o6vpeu.jpg" src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/t_LQIP/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230922-blde_o6vpeu.webp" width="70%" alt="Trang chủ Notion">
+    <img class="in-view-effect bright-on-hover transition-all lazy" data-src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230922-blde_o6vpeu.jpg" src="https://res.cloudinary.com/blog-thien-nguyen/image/upload/t_LQIP/v1695711758/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/SCR-20230922-blde_o6vpeu.webp" width="70%" alt="Trang chủ Notion">
 </p>
 
 {% message color:info  %}

@@ -6,7 +6,8 @@ toc: false
 article:
   licenses: false
 enableDate: false
-cover: images/page-about-cover.jpeg
+cover: https://res.cloudinary.com/blog-thien-nguyen/image/upload/c_scale,f_avif,w_1081/v1695717169/pages/about/page-about-cover_ypzjy4.webp
+cover_lqip: https://res.cloudinary.com/blog-thien-nguyen/image/upload/c_scale,w_1081/t_LQIP/v1695717169/pages/about/page-about-cover_ypzjy4.webp
 classNames: ['custom-page-about']
 coverClassnames: ['custom-page-about-cover']
 titleClassnames: ['custom-page-about-title']

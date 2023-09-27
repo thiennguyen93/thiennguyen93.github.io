@@ -149,16 +149,16 @@ body:not(.night) .only-in-night-mode {
             <span>Software Engineer</span>
             <p>Product: Back Office Gaming Management System</p>
             <p>
-            • Develop and maintain a RESTful API for a comprehensive management system handling users, games, game players, game events, missions, and marketing campaigns.
+            • Developed and maintained RESTful APIs for a comprehensive management system handling users, games, players, events, missions, and marketing campaigns.
             </p>
             <p>
-            • Utilize microservice architecture to build and integrate various sub-systems, including a report module, cron service, messaging, transaction logger, and message queue.
+            • Utilized microservice architecture to build and integrate various sub-systems, including a report module, cron service, and inbox message.
             </p>
             <p>
-            • Collaborate with frontend developers, database administrators, and project managers to deliver exceptional user experiences and meet project requirements.
+            • Collaborated with frontend developers, database administrators, and project managers to deliver exceptional user experiences and met project requirements.
             </p>
             <p>
-            • Contribute to documentation and knowledge sharing within the development team.
+            • Contributed to documentation and knowledge sharing within the technical team.
             </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>
@@ -183,16 +183,16 @@ body:not(.night) .only-in-night-mode {
             <span>Software Engineer</span>
             <p>Projects: THK CMMS, THK Order System & HACCP Report Application</p>
             <p>
-            • Estimate project timelines and resources required for completion.
+            • Estimated project timelines and resources required for completion.
             </p>
             <p>
-            • Provide guidance, conduct code reviews, and ensure code quality.
+            • Provided guidance, conducted code reviews, and ensured code quality.
             </p>
             <p>
-            • Develop robust RESTful APIs using Node.js and NestJS framework, leveraging Microsoft SQL Server for data storage, Azure Storage for file management, and Google FCM for push notifications.
+            • Developed robust RESTful APIs using Node.js and NestJS framework, Microsoft SQL Server, Azure Blob Storage, and Google Firebase.
             </p>
             <p>
-            • Utilize Docker to containerize web applications and deploy them to Azure app service, ensuring seamless deployment and scalability.
+            • Utilized Docker to containerize web applications and deployed them to Azure app service, ensuring seamless deployment and scalability.
             </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>
@@ -216,31 +216,19 @@ body:not(.night) .only-in-night-mode {
             <span>Software Engineer</span>
             <p>Projects: Cash Vault Management (Techcombank)</p>
             <p style="margin-bottom: 20px">
-            • Utilize the IBM BPM platform to design and automate cash management processes, enhancing operational efficiency.
+            • Developed an automated cash vault management system on top of the IBM BPM platform, significantly augmenting operational efficiency.
             </p>
             <p >
-            • Leverage Oracle SQL for efficient and secure data storage and retrieval, ensuring the system's reliability and scalability.
+            • Designed and implemented Oracle SQL stored procedures to optimize data retrieval and processing for application functionality.
             </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>
                 <span class="tag is-warning is-light">IBM BPM</span>
                 <span class="tag is-link is-light">IBM ECM</span>
-                <span class="tag is-info is-light">ReactJS</span>
-                <span class="tag">WebSphere</span>
+                <span class="tag is-info is-light">Javascript</span>
+                <span class="tag">ReactJS</span>
                 <span class="tag">Oracle SQL</span>
-                <span class="tag">PHP</span>
-            </p>
-        </div>
-    </article>
-    <article class="media" style="color: unset;">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="PHP Group international Vietnam logo" class="cv wh-64 only-in-light-mode" src="img/logo-php-group-international-vietnam-light.png">
-            <img alt="PHP Group international Vietnam logo" class="cv wh-64 only-in-night-mode" src="img/logo-php-group-international-vietnam-light.png">
-        </figure>
-        <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-php-group"><strong> <span class="tag mr-2">Nov 2015 - Mar 2020</span> <span><a href="http://www.phpgroupvn.com/" target="_blank">PHP Group International Vietnam</a></span></strong></h4>
-            <p>Customer Service Representative</p>
-            <p  style="margin-bottom: 20px">Proccess claims, forms, applications and handle clients' requests using CRM software.
+                <span class="tag">WebSphere</span>
             </p>
         </div>
     </article>
@@ -266,7 +254,7 @@ body:not(.night) .only-in-night-mode {
         </figure>
         <div>
             <h4 class="is-size-6" id="project-fscup"><strong><span><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
-            <p>A data input assistance software that enhances work productivity while ensuring precision and reliability</p>
+            <p>A data input assistance software that enhances work productivity while ensuring precision and reliability.</p>
         </div>
     </article>
 </div>
@@ -295,7 +283,7 @@ body:not(.night) .only-in-night-mode {
         <div>
             <h4 class="is-size-6 is-uppercase" id="education-hcmute"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span><a href="https://hcmute.edu.vn" target="_blank">HCMC University of Technology and Education</a></span></strong></h4>
             <p>B.A in English Language Teaching</p>
-            <p  style="margin-bottom: 20px">English for Business, English for Computing, Learners' Psychology, Teaching Methodology.</p>
+            <p  style="margin-bottom: 20px">English for Business, English for Computing, English for Electrical and Electronic Enigneering, Learners' Psychology, and Teaching Methodology.</p>
         </div>
     </article>
 </div>

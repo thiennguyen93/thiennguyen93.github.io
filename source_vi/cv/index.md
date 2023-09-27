@@ -82,6 +82,9 @@ body:not(.night) .only-in-night-mode {
     width: 64px;
     height: 64px;
 }
+.caption {
+    display: none;
+}
 </style>
 ### <span class="tag mr-2 is-info is-size-6"><i class="fas fa-info-circle"></i></span> <span>Information</span>
 

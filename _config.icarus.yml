@@ -371,7 +371,7 @@ plugins:
     # The compliance type. Can be "info", "opt-in", or "opt-out"
     type: info
     # Theme of the popup. Can be "block", "edgeless", or "classic"
-    theme: edgeless
+    theme: block
     # Whether the popup should stay static regardless of the page scrolls
     static: false
     # Where on the screen the consent popup should display

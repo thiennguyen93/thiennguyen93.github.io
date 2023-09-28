@@ -155,7 +155,7 @@ body:not(.night) .only-in-night-mode {
             • Utilized microservice architecture to build and integrate various sub-systems, including a report module, cron service, and inbox message.
             </p>
             <p>
-            • Collaborated with frontend developers, database administrators, and project managers to deliver exceptional user experiences and met project requirements.
+            • Collaborated with front-end developers, database administrators, and project managers to ensure exceptional user experiences and meet project requirements.
             </p>
             <p>
             • Contributed to documentation and knowledge sharing within the technical team.

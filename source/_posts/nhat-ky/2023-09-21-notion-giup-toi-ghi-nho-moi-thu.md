@@ -31,7 +31,7 @@ Trong cuộc sống, những khi tình cờ nghe được một đoạn nhạc h
 Tưởng tượng buổi sáng nào đó tôi tỉnh giấc với một ký ức trống rỗng hoặc trí nhớ chỉ dừng lại ở một thời khắc xác định trong quá khứ, điều đầu tiên tôi làm là đọc lại những ghi chú của mình. Ý nghĩ khùng điên này là từ bộ phim <a href="https://www.imdb.com/title/tt0209144/"><span data-tooltip="https://www.imdb.com/title/tt0209144/">Memento 2000</span></a> của đạo diễn Christopher Nolan. Phim có nội dung rất sáng tạo, tôi nghĩ bạn nên xem thử ít nhất một lần (>.=).
 
 <p style="text-align: center;">
-    <img class="in-view-effect frame tilt-right lazy" data-src="memento-2000_mb9c6n.jpg" src="SCR-20230921-txqg-lqip.webp" alt="Memento 2000 - Đạo diễn: Christopher Nolan" title="Memento 2000 - Đạo diễn: Christopher Nolan" width="200px">
+    <img class="in-view-effect frame tilt-right lazy" data-src="memento-2000_mb9c6n.jpg" src="memento-2000_mb9c6n-lqip.jpeg" alt="Memento 2000 - Đạo diễn: Christopher Nolan" title="Memento 2000 - Đạo diễn: Christopher Nolan" width="200px">
 </p>
 
 **⚠️ Phần cho biết trước nội dung**

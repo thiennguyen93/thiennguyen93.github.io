@@ -192,7 +192,7 @@ body:not(.night) .only-in-night-mode {
             • Developed robust RESTful APIs using Node.js and NestJS framework, Microsoft SQL Server, Azure Blob Storage, and Google Firebase.
             </p>
             <p>
-            • Utilized Docker to containerize web applications and deployed them to Azure app service, ensuring seamless deployment and scalability.
+            • Utilized Docker to containerize web applications and deploy them to Azure app service, ensuring seamless deployment and scalability.
             </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>

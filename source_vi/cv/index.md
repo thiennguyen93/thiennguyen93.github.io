@@ -91,7 +91,7 @@ body:not(.night) .only-in-night-mode {
 <div style="margin-left: 47px; margin-right: 40px; margin-bottom: 40px" >
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Full name</span></div>
-        <div class="column"><span>Nguyen Ngoc Phuoc Thien / Thien Nguyen</span></div>
+        <div class="column"><span>Thien Nguyen</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Email</span></div>
@@ -249,8 +249,8 @@ body:not(.night) .only-in-night-mode {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="FSC Utilities Plugiin app icon" class="cv wh-64 only-in-light-mode" src="img/logo-fscup-light.png">
-            <img alt="FSC Utilities Plugiin app icon" class="cv wh-64 only-in-night-mode" src="img/logo-fscup-light.png">
+            <img alt="FSC Utilities Plugin app icon" class="cv wh-64 only-in-light-mode" src="img/logo-fscup-light.png">
+            <img alt="FSC Utilities Plugin app icon" class="cv wh-64 only-in-night-mode" src="img/logo-fscup-light.png">
         </figure>
         <div>
             <h4 class="is-size-6" id="project-fscup"><strong><span><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
@@ -283,7 +283,7 @@ body:not(.night) .only-in-night-mode {
         <div>
             <h4 class="is-size-6 is-uppercase" id="education-hcmute"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span><a href="https://hcmute.edu.vn" target="_blank">HCMC University of Technology and Education</a></span></strong></h4>
             <p>B.A in English Language Teaching</p>
-            <p  style="margin-bottom: 20px">English for Business, English for Computing, English for Electrical and Electronic Enigneering, Learners' Psychology, and Teaching Methodology.</p>
+            <p  style="margin-bottom: 20px">English for Business, English for Computing, English for Electrical and Electronic Engineering, Learners' Psychology, and Teaching Methodology.</p>
         </div>
     </article>
 </div>

@@ -112,7 +112,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   
   // Get main form 
   var form = document.getElementById("form");
-  form.addEventListener("submit", formSubmit);
+  form.addEventListener("submit", submitGoogleForm);
   var url = "https://getform.io/f/db17b720-df55-49fb-b084-81981ce3b03f"
   
   // Get button go backk
@@ -140,6 +140,64 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       input.value = '';
     });
   
+  }
+
+  function submitGoogleForm(e) {
+    e.preventDefault()
+
+    const googleFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLScp3Y7X1XN7iaCtbZuoFaXv9JP-ArwKYfhdMp3b7EcL5AI3cA/formResponse?&submit=Submit"
+
+    const fullname = document.querySelector('input[name="full-name"]').value;
+    const email = document.querySelector('input[name="email"]').value;
+    const message = document.querySelector('textarea[name="message"]').value
+    // Build form headers
+    const myHeaders = new Headers();
+    myHeaders.append("Content-Type", "application/x-www-form-urlencoded");
+    myHeaders.append("Access-Control-Allow-Origin","*")
+
+    // Build form data
+    var urlencoded = new URLSearchParams();
+    urlencoded.append("entry.1716012579", message);
+    urlencoded.append("entry.869462205", fullname);
+    urlencoded.append("entry.87127782", email);
+
+    // Request options
+    var requestOptions = {
+      method: 'POST',
+      headers: myHeaders,
+      body: urlencoded,
+      redirect: 'follow',
+      mode: "no-cors"
+    };
+
+    var submitBtn = document.getElementById("submitBtn");
+    submitBtn.innerHTML = "Sending..."
+    submitBtn.setAttribute(attributeDisabled, "");
+  
+    errMsg.classList.add(classIsHidden)
+
+    // Disabled 
+    formFieldset.setAttribute(attributeDisabled, "");
+  
+    fetch(googleFormUrl,
+      requestOptions)
+      .then(response => {
+        // hide feedback form
+        feedBackForm.classList.add(classIsHidden);
+        formCaption.classList.add(classIsHidden);
+  
+        // show thank box
+        thankBox.classList.remove(classIsHidden);
+      })
+      .catch(error => {
+        console.log(error);
+        errMsg.classList.remove(classIsHidden)
+      })
+      .finally(() => {
+        submitBtn.innerHTML = "Send"
+        submitBtn.removeAttribute(attributeDisabled);
+        formFieldset.removeAttribute(attributeDisabled);
+      })
   }
   
   function formSubmit(e) {

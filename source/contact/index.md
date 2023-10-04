@@ -62,7 +62,7 @@ body:not(.light) .control.has-icons-left .input:focus ~ .icon, .control.has-icon
   </div>
 <article id="error-message" class="message is-danger is-hidden">
   <div class="message-body">
-    Oops, something went wwrong. Please try again.
+    Oops, something went wrong. Please try again.
   </div>
 </article>
   <div class="field is-grouped">

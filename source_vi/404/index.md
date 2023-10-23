@@ -1,7 +1,7 @@
 ---
 title: 404
 date: 2021-08-09 10:46:34
-lang: en
+lang: vi
 toc: false
 article:
   licenses: false
@@ -19,7 +19,7 @@ titleClassnames: ['custom-page-404-title']
 <div class="dark">
     <div class="central-body">
         <img class="image-404" src="/404/asset/img/dark/404.svg" width="300px">
-        <a href="/" class="btn-go-home">GO BACK HOME</a>
+        <a href="/" class="btn-go-home">TRỞ VỀ TRANG CHỦ</a>
     </div>
     <div class="objects">
         <img class="object_rocket" src="/404/asset/img/dark/rocket.svg" width="40px">
@@ -40,11 +40,11 @@ titleClassnames: ['custom-page-404-title']
         <img src="/404/asset/img/light/scarecrow.png" alt="">
       </picture>
       <div class="error-text">
-        <h2>404 Page not found</h2>
-        <p>The page you are looking for might be removed or is temporarily unvailable.</p>
+        <h2>404 Không tìm thấy</h2>
+        <p>Nội dung bạn đang muốn xem không tồn tại hoặc đã bị xoá.</p>
         <span class="input-group-btn">
           <a href="/">
-            <button class="btn button is-primary" type="button">Back to homepage</button>
+            <button class="btn button is-primary" type="button">Trở về Trang chủ</button>
           </a>
         </span>
       </div>

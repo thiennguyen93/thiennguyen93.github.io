@@ -45,7 +45,7 @@ widgets:
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
       CV:
         icon: fas fa-download
-        url: "/assets/documents/pdf/2023_09_29_THIEN_NGUYEN_CV.pdf"
+        url: "/assets/documents/pdf/THIEN_NGUYEN_CV.pdf"
         tooltip: "Download CV as PDF"
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
   - type: toc

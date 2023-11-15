@@ -95,7 +95,7 @@ body:not(.night) .only-in-night-mode {
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Email</span></div>
-        <div class="column"><span>me@thiennguyen.dev</span></div>
+        <div class="column"><span>hi@thiennguyen.dev</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Phone</span></div>

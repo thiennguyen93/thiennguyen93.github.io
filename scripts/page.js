@@ -32,6 +32,21 @@ hexo.extend.injector.register(
   "category"
 );
 
+// Fixed issue not active home when under route /page/2  or /page/3, ...
+hexo.extend.injector.register(
+  "body_end",
+  () => {
+      return `
+      <script>
+      if (/^\\/page\\/\\d/.test(window.location.pathname)) {
+        document.querySelector(".navbar-start>.navbar-item[href='/']").classList.add('is-active')
+      }
+      </script>
+      `;
+  },
+  "home"
+);
+
 // Thien Nguyen Custom... Inject aplayer dependencies CSS, JS
 hexo.extend.injector.register('head_end', () => {
   // return css('/assets/css/APlayer.min.css'); // without CDN

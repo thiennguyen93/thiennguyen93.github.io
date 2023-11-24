@@ -224,7 +224,7 @@ donates:
   currency_code: USD
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
-share: null
+# share: null
 #     type: sharethis
 #     # URL to the ShareThis share plugin script          //addthis.com phuocthien@outlook.com
 #     install_url: '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-61108dd8f8025362'
@@ -355,16 +355,16 @@ plugins:
   back_to_top: true
   # Baidu Analytics plugin settings
   # https://tongji.baidu.com
-  baidu_analytics: false
+  # baidu_analytics: false
   # Bing Webmaster Tools plugin settings
   # https://www.bing.com/toolbox/webmaster/
-  bing_webmaster: false
+  # bing_webmaster: false
   # BuSuanZi site/page view counter
   # https://busuanzi.ibruce.info
-  busuanzi: false
+  # busuanzi: false
   # CNZZ statistics
   # https://www.umeng.com/web
-  cnzz: false
+  # cnzz: false
   # Alerting users about the use of cookies
   # https://www.osano.com/cookieconsent/
   cookie_consent:
@@ -382,28 +382,28 @@ plugins:
   gallery: true
   # Google Analytics plugin settings
   # https://analytics.google.com
-  google_analytics: false
+  # google_analytics: false
   # Google Analytics tracking ID
   # tracking_id:
   # Hotjar user feedback plugin
   # https://www.hotjar.com/
-  hotjar: false
+  # hotjar: false
   # Hotjar site id
   # site_id:
   # Enable the KaTeX math typesetting support
   # https://katex.org/
-  katex: false
+  # katex: false
   # Enable the MathJax math typesetting support
   # https://www.mathjax.org/
-  mathjax: false
+  # mathjax: false
   # Enable the Outdated Browser plugin
   # http://outdatedbrowser.com/
-  outdated_browser: false
+  # outdated_browser: false
   # Show a progress bar at top of the page on page loading
   progressbar: true
   # Statcounter statistics
   # https://statcounter.com/
-  statcounter: false
+  # statcounter: false
     # Statcounter project id
     ## project: 12577343 <<<--uncomment this to use
     # Statcounter project security code

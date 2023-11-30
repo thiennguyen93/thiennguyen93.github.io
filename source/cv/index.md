@@ -114,20 +114,20 @@ body:not(.night) .only-in-night-mode {
                     <div class="tags has-addons">
                     <span class="tag">
                         <figure class="image is-16x16 mr-0 ml-0">
-                            <img alt="US flag" width="16" height="16" src="/assets/img/en-us-64x64.png">
+                            <img alt="Vietnam flag" width="16" height="16" src="/assets/img/vi-vn-64x64.png">
                         </figure>
                     </span>
-                    <span class="tag">English</span>
+                    <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="native">Vietnamese</span>
                     </div>
                 </div>
                 <div class="control">
                     <div class="tags has-addons">
                     <span class="tag">
                         <figure class="image is-16x16 mr-0 ml-0">
-                            <img alt="Vietnam flag" width="16" height="16" src="/assets/img/vi-vn-64x64.png">
+                            <img alt="US flag" width="16" height="16" src="/assets/img/en-us-64x64.png">
                         </figure>
                     </span>
-                    <span class="tag">Vietnamese</span>
+                    <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="conversational">English</span>
                     </div>
                 </div>
             </div>

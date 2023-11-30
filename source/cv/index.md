@@ -304,7 +304,7 @@ body:not(.night) .only-in-night-mode {
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img alt="Laravel logo" class="cv wh-64 only-in-light-mode" src="img/logo-laravel-light.png">
-            <img alt="Laravel logo" class="cv wh-64 only-in-night-mode" src="img/logo-laravel-light.png">
+            <img alt="Laravel logo" class="cv wh-64 only-in-night-mode" src="img/logo-laravel-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6" id="certification-php"><strong><span class="tag mr-2">Sep 2020</span> <span>Certificate of Completion of PHP Programming Training Course</span></strong></h4>

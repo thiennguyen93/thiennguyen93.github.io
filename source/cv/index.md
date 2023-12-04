@@ -117,7 +117,7 @@ body:not(.night) .only-in-night-mode {
                             <img alt="Vietnam flag" width="16" height="16" src="/assets/img/vi-vn-64x64.png">
                         </figure>
                     </span>
-                    <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="native">Vietnamese</span>
+                    <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="Native proficiency">Vietnamese</span>
                     </div>
                 </div>
                 <div class="control">
@@ -127,7 +127,7 @@ body:not(.night) .only-in-night-mode {
                             <img alt="US flag" width="16" height="16" src="/assets/img/en-us-64x64.png">
                         </figure>
                     </span>
-                    <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="conversational">English</span>
+                    <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="Professional working proficiency">English</span>
                     </div>
                 </div>
             </div>

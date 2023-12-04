@@ -26,7 +26,7 @@ Thien Nguyen
 
 {% tabs align:centered style:boxed %}
 
-<!-- tab id:about-me-vi "icon:fas fa-cubes" "title:Tiếng Việt" active -->
+<!-- tab id:about-me-vi "icon:fas fa-cubes" "title:About" active -->
 
 Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
 
@@ -74,13 +74,36 @@ tại <em>Khu vườn trên mây</em>
 </p>
 <!-- endtab -->
 
-<!-- tab id:about-me-en "icon:fas fa-file-code" "title:English" -->
+<!-- tab id:qr-collections "icon:fa-solid fa-qrcode" "title:QR" -->
 
-## About me
+## E-Wallets
 
-Hi 👋, I am Thien Nguyen, aka William Nguyen.
-I am a dedicated backend developer and a proud father to a wonderful child.
-Currently, I work for Gamify Studios, a game development company located in Ho Chi Minh City, Vietnam.
+Click the QR code to enlarge the photo for scanning
+
+<div class="has-text-centered columns is-multiline is-centered">
+  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet">
+    <div class="box has-ribbon-bottom" style="background: unset; box-shadow: unset">
+      <a class="gallery-item" href="/assets/img/qr-codes/viettel-money.png">
+          <img alt="Viettel Money" class="in-view-effect" src="/assets/img/qr-codes/viettel-money.png" width="200px">
+      </a>
+    </div>
+  </div>  
+  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet">
+    <div class="box has-ribbon">
+      <div class="ribbon is-danger"><i class="fa-solid fa-star"></i> Preferrable</div>
+      <a class="gallery-item" href="/assets/img/qr-codes/vpbank.png">
+        <img alt="VPBank" style="filter: brightness(1); -webkit-filter: brightness(1)"  class="in-view-effect" src="/assets/img/qr-codes/vpbank.png" width="200px">
+      </a>
+    </div>
+  </div>
+  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet">
+    <div class="box" style="background: unset; box-shadow: unset">
+      <a class="gallery-item" href="/assets/img/qr-codes/bidv.png">
+          <img alt="BIDV" class="in-view-effect" src="/assets/img/qr-codes/bidv.png" width="200px">
+      </a>
+    </div>
+  </div> 
+</div>
 
 <!-- endtab -->
 
@@ -93,13 +116,13 @@ Currently, I work for Gamify Studios, a game development company located in Ho C
     tabVi.href = "javascript:;";
   }
 
-  var tabEn = document.querySelector("a[href='#about-me-en']");
+  var tabEn = document.querySelector("a[href='#qr-collections']");
   if (tabEn) {
     tabEn.dataset.href = tabEn.getAttribute("href");
     tabEn.href = "javascript:;";
   }
 
-  var liEn = document.querySelector("a[data-href='#about-me-en']").parentElement;
+  var liEn = document.querySelector("a[data-href='#qr-collections']").parentElement;
   var liVi = document.querySelector("a[data-href='#about-me-vi']").parentElement;
 
   var tabContentVi = tabVi.dataset.href;

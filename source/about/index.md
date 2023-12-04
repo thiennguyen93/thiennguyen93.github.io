@@ -79,6 +79,7 @@ tại <em>Khu vườn trên mây</em>
 ## E-Wallets
 
 Click the QR code to enlarge the photo for scanning
+Click <i class="fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard
 
 <div class="has-text-centered columns is-multiline is-centered">
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet">
@@ -86,6 +87,18 @@ Click the QR code to enlarge the photo for scanning
       <a class="gallery-item" href="/assets/img/qr-codes/viettel-money.png">
           <img alt="Viettel Money" class="in-view-effect" src="/assets/img/qr-codes/viettel-money.png" width="200px">
       </a>
+      <nav class="level-right is-mobile">
+        <div class="level-left">
+          <span class="mr-1 copied is-hidden">Copied</span>
+          <button onclick="(function(){navigator.clipboard.writeText('0395443490'); showCopied(0);})()" class="level-item button is-white">
+            <a class="level-item" aria-label="reply">
+              <span class="icon">
+                <i class="fa-regular fa-copy" aria-hidden="true"></i>
+              </span>
+            </a>
+          </button>
+        </div>
+      </nav>
     </div>
   </div>  
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet">
@@ -94,6 +107,18 @@ Click the QR code to enlarge the photo for scanning
       <a class="gallery-item" href="/assets/img/qr-codes/vpbank.png">
         <img alt="VPBank" style="filter: brightness(1); -webkit-filter: brightness(1)"  class="in-view-effect" src="/assets/img/qr-codes/vpbank.png" width="200px">
       </a>
+      <nav class="level-right is-mobile">
+        <div class="level-left">
+          <span class="mr-1 copied is-hidden">Copied</span>
+          <button id="vpbank" onclick="(function(e){navigator.clipboard.writeText('thiennguyen'); showCopied(1);})()" class="level-item button is-white">
+            <a class="level-item" aria-label="reply">
+              <span class="icon">
+                <i class="fa-regular fa-copy" aria-hidden="true"></i>
+              </span>
+            </a>
+          </button>
+        </div>
+      </nav>
     </div>
   </div>
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet">
@@ -101,6 +126,18 @@ Click the QR code to enlarge the photo for scanning
       <a class="gallery-item" href="/assets/img/qr-codes/bidv.png">
           <img alt="BIDV" class="in-view-effect" src="/assets/img/qr-codes/bidv.png" width="200px">
       </a>
+      <nav class="level-right is-mobile">
+        <div class="level-left">
+          <span class="mr-1 copied is-hidden">Copied</span>
+          <button onclick="(function(){navigator.clipboard.writeText('1361767671'); showCopied(2);})()" class="level-item button is-white">
+            <a class="level-item" aria-label="reply">
+              <span class="icon">
+                <i class="fa-regular fa-copy" aria-hidden="true"></i>
+              </span>
+            </a>
+          </button>
+        </div>
+      </nav>
     </div>
   </div> 
 </div>
@@ -108,6 +145,18 @@ Click the QR code to enlarge the photo for scanning
 <!-- endtab -->
 
 {% endtabs %}
+
+<script>
+  function showCopied(index){
+    const elements = document.getElementsByClassName("copied");
+    for (let i = 0; i < elements.length; i++) {
+      if (i !== index) {
+        elements[i].classList.add('is-hidden');
+      } 
+    }
+    elements[index].classList.remove('is-hidden')
+  }
+</script>
 
 <script>
   var tabVi = document.querySelector("a[href='#about-me-vi']");

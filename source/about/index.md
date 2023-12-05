@@ -26,7 +26,7 @@ Thien Nguyen
 
 {% tabs align:centered style:boxed %}
 
-<!-- tab id:about-me "icon:fas fa-cubes" "title:About" active -->
+<!-- tab id:about-me "icon:fa-solid fa-user" "title:About" active -->
 
 Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
 

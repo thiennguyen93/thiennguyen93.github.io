@@ -150,7 +150,7 @@ Account no: 1361767671">
 {% endtabs %}
 
 <style>
-  [data-tooltip]:not(.is-disabled).has-tooltip-align-left {
+  [data-tooltip]:not(.is-disabled).has-tooltip-align-left::before {
     text-align: left !important; 
   }
 </style>

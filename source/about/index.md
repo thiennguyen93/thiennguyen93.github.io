@@ -82,15 +82,16 @@ Click the QR code to enlarge the photo for scanning
 Click <i class="fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard
 
 <div class="has-text-centered columns is-multiline is-centered">
-  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet">
+  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank
+Account no: 0395443490">
     <div class="box has-ribbon-bottom" style="background: unset; box-shadow: unset">
       <a class="gallery-item" href="/assets/img/qr-codes/viettel-money.png">
           <img alt="Viettel Money" class="in-view-effect" src="/assets/img/qr-codes/viettel-money.png" width="200px">
       </a>
       <nav class="level-right is-mobile">
         <div class="level-left">
-          <span class="mr-1 copied is-hidden">Copied</span>
-          <button onclick="(function(){navigator.clipboard.writeText('0395443490'); showCopied(0);})()" class="level-item button is-white">
+          <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+          <button onclick="(function(){navigator.clipboard.writeText('0395443490'); showCopiedLabel(0);})()" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
@@ -101,7 +102,8 @@ Click <i class="fa-regular fa-copy" aria-hidden="true"></i> to copy account numb
       </nav>
     </div>
   </div>  
-  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet">
+  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-success" data-tooltip="Bank name: VPBank
+Account no: thiennguyen">
     <div class="box has-ribbon">
       <div class="ribbon is-danger"><i class="fa-solid fa-star"></i> Preferrable</div>
       <a class="gallery-item" href="/assets/img/qr-codes/vpbank.png">
@@ -109,8 +111,8 @@ Click <i class="fa-regular fa-copy" aria-hidden="true"></i> to copy account numb
       </a>
       <nav class="level-right is-mobile">
         <div class="level-left">
-          <span class="mr-1 copied is-hidden">Copied</span>
-          <button id="vpbank" onclick="(function(e){navigator.clipboard.writeText('thiennguyen'); showCopied(1);})()" class="level-item button is-white">
+          <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+          <button id="vpbank" onclick="(function(e){navigator.clipboard.writeText('thiennguyen'); showCopiedLabel(1);})()" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
@@ -121,15 +123,16 @@ Click <i class="fa-regular fa-copy" aria-hidden="true"></i> to copy account numb
       </nav>
     </div>
   </div>
-  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet">
+  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-warning" data-tooltip="Bank name: BIDV
+Account no: 1361767671">
     <div class="box" style="background: unset; box-shadow: unset">
       <a class="gallery-item" href="/assets/img/qr-codes/bidv.png">
           <img alt="BIDV" class="in-view-effect" src="/assets/img/qr-codes/bidv.png" width="200px">
       </a>
       <nav class="level-right is-mobile">
         <div class="level-left">
-          <span class="mr-1 copied is-hidden">Copied</span>
-          <button onclick="(function(){navigator.clipboard.writeText('1361767671'); showCopied(2);})()" class="level-item button is-white">
+          <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+          <button onclick="(function(){navigator.clipboard.writeText('1361767671'); showCopiedLabel(2);})()" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
@@ -146,15 +149,22 @@ Click <i class="fa-regular fa-copy" aria-hidden="true"></i> to copy account numb
 
 {% endtabs %}
 
+<style>
+  [data-tooltip]:not(.is-disabled).has-tooltip-align-left {
+    text-align: left !important; 
+  }
+</style>
+
 <script>
-  function showCopied(index){
-    const elements = document.getElementsByClassName("copied");
+  function showCopiedLabel(index){
+    const hiddenElementClassname = "is-invisible"
+    const elements = document.getElementsByClassName("copied-label");
     for (let i = 0; i < elements.length; i++) {
       if (i !== index) {
-        elements[i].classList.add('is-hidden');
+        elements[i].classList.add(hiddenElementClassname);
       } 
     }
-    elements[index].classList.remove('is-hidden')
+    elements[index].classList.remove(hiddenElementClassname)
   }
 </script>
 

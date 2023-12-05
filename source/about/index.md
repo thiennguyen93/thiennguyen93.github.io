@@ -94,7 +94,7 @@ Account no: 0395443490">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
         </div>
         <div class="level-item has-text-centered">
-          <button onclick="(function(){navigator.clipboard.writeText('0395443490'); showCopiedLabel(0);})()" class="level-item button is-white">
+          <button onclick="copyBankAccountNumber(0,'0395443490')" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
@@ -120,7 +120,7 @@ Account no: thiennguyen">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
         </div>
         <div class="level-item has-text-centered">
-          <button id="vpbank" onclick="(function(e){navigator.clipboard.writeText('thiennguyen'); showCopiedLabel(1);})()" class="level-item button is-white">
+          <button id="vpbank" onclick="copyBankAccountNumber(1,'thiennguyen')" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon has-text-info">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
@@ -145,7 +145,7 @@ Account no: 1361767671">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
         </div>
         <div class="level-item has-text-centered">
-          <button onclick="(function(){navigator.clipboard.writeText('1361767671'); showCopiedLabel(2);})()" class="level-item button is-white">
+          <button onclick="copyBankAccountNumber(2,'1361767671')" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
@@ -170,7 +170,8 @@ Account no: 1361767671">
 </style>
 
 <script>
-  function showCopiedLabel(index){
+  function copyBankAccountNumber(index, text){
+    navigator.clipboard.writeText(text)
     const hiddenElementClassname = "is-invisible"
     const elements = document.getElementsByClassName("copied-label");
     for (let i = 0; i < elements.length; i++) {

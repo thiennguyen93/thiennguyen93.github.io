@@ -86,8 +86,8 @@ Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidd
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank
 Account no: 0395443490">
     <div class="box has-ribbon-bottom" style="background: unset; box-shadow: unset">
-      <a class="gallery-item" href="/assets/img/qr-codes/viettel-money.png">
-          <img alt="Viettel Money" class="in-view-effect" src="/assets/img/qr-codes/viettel-money.png" width="200px">
+      <a class="gallery-item" href="/assets/img/qr-codes/mbbank.png">
+          <img alt="Viettel Money" class="in-view-effect" src="/assets/img/qr-codes/mbbank.png" width="200px">
       </a>
       <nav class="level-right is-mobile">
         <div class="level-item has-text-centered">

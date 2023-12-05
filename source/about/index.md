@@ -81,16 +81,19 @@ tại <em>Khu vườn trên mây</em>
 Click the QR code to enlarge the photo for scanning
 Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard
 
-<div class="has-text-centered columns is-multiline is-centered">
-  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank
+<div class="has-text-centered columns is-multiline is-centered mb-3">
+  <!-- START VIETTEL MONEY BADGE  -->
+  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank
 Account no: 0395443490">
     <div class="box has-ribbon-bottom" style="background: unset; box-shadow: unset">
       <a class="gallery-item" href="/assets/img/qr-codes/viettel-money.png">
           <img alt="Viettel Money" class="in-view-effect" src="/assets/img/qr-codes/viettel-money.png" width="200px">
       </a>
       <nav class="level-right is-mobile">
-        <div class="level-left">
+        <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+        </div>
+        <div class="level-item has-text-centered">
           <button onclick="(function(){navigator.clipboard.writeText('0395443490'); showCopiedLabel(0);})()" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
@@ -102,7 +105,10 @@ Account no: 0395443490">
       </nav>
     </div>
   </div>  
-  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-success" data-tooltip="Bank name: VPBank
+  <!-- END VIETTEL MONEY BADGE  -->
+
+  <!-- START VPBANK BADGE  -->
+  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-success" data-tooltip="Bank name: VPBank
 Account no: thiennguyen">
     <div class="box has-ribbon">
       <div class="ribbon is-danger"><i class="fa-solid fa-star"></i> Preferrable</div>
@@ -110,8 +116,10 @@ Account no: thiennguyen">
         <img alt="VPBank" style="filter: brightness(1); -webkit-filter: brightness(1)"  class="in-view-effect" src="/assets/img/qr-codes/vpbank.png" width="200px">
       </a>
       <nav class="level-right is-mobile">
-        <div class="level-left">
+        <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+        </div>
+        <div class="level-item has-text-centered">
           <button id="vpbank" onclick="(function(e){navigator.clipboard.writeText('thiennguyen'); showCopiedLabel(1);})()" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
@@ -123,15 +131,21 @@ Account no: thiennguyen">
       </nav>
     </div>
   </div>
-  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-warning" data-tooltip="Bank name: BIDV
+  <!-- END VPBANK BADGE  -->
+
+
+  <!-- START BIDV BADGE  -->
+  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-warning" data-tooltip="Bank name: BIDV
 Account no: 1361767671">
     <div class="box" style="background: unset; box-shadow: unset">
       <a class="gallery-item" href="/assets/img/qr-codes/bidv.png">
           <img alt="BIDV" class="in-view-effect" src="/assets/img/qr-codes/bidv.png" width="200px">
       </a>
       <nav class="level-right is-mobile">
-        <div class="level-left">
+        <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+        </div>
+        <div class="level-item has-text-centered">
           <button onclick="(function(){navigator.clipboard.writeText('1361767671'); showCopiedLabel(2);})()" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
@@ -143,6 +157,7 @@ Account no: 1361767671">
       </nav>
     </div>
   </div> 
+  <!-- END BIDV BADGE  -->
 </div>
 
 <!-- endtab -->

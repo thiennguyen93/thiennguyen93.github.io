@@ -6,7 +6,7 @@ toc: false
 article:
   licenses: false
 enableDate: false
-cover: assets/pages/about/page-about-cover.avif
+cover: assets/pages/about/page-about-cover.webp
 cover_lqip: assets/pages/about/page-about-cover-lqip.webp
 classNames: ['custom-page-about']
 coverClassnames: ['custom-page-about-cover']

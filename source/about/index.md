@@ -26,7 +26,7 @@ Thien Nguyen
 
 {% tabs align:centered style:boxed %}
 
-<!-- tab id:about-me-vi "icon:fas fa-cubes" "title:About" active -->
+<!-- tab id:about-me "icon:fas fa-cubes" "title:About" active -->
 
 Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
 
@@ -184,7 +184,7 @@ Account no: 1361767671">
 </script>
 
 <script>
-  var tabVi = document.querySelector("a[href='#about-me-vi']");
+  var tabVi = document.querySelector("a[href='#about-me']");
   if (tabVi) {
     tabVi.dataset.href = tabVi.getAttribute("href");
     tabVi.href = "javascript:;";
@@ -197,7 +197,7 @@ Account no: 1361767671">
   }
 
   var liEn = document.querySelector("a[data-href='#qr-collections']").parentElement;
-  var liVi = document.querySelector("a[data-href='#about-me-vi']").parentElement;
+  var liVi = document.querySelector("a[data-href='#about-me']").parentElement;
 
   var tabContentVi = tabVi.dataset.href;
   tabVi.addEventListener("click", function (e) {

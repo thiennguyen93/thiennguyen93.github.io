@@ -122,7 +122,7 @@ Account no: thiennguyen">
         <div class="level-item has-text-centered">
           <button id="vpbank" onclick="(function(e){navigator.clipboard.writeText('thiennguyen'); showCopiedLabel(1);})()" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
-              <span class="icon">
+              <span class="icon has-text-info">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
               </span>
             </a>

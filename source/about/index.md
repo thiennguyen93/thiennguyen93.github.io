@@ -79,7 +79,7 @@ tại <em>Khu vườn trên mây</em>
 ## E-Wallets
 
 Click the QR code to enlarge the photo for scanning
-Click <i class="fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard
+Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard
 
 <div class="has-text-centered columns is-multiline is-centered">
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank

@@ -8,10 +8,10 @@ article:
 enableDate: false
 cover: assets/pages/about/page-about-cover.webp
 cover_lqip: assets/pages/about/page-about-cover-lqip.webp
-classNames: ['custom-page-about']
-coverClassnames: ['custom-page-about-cover']
-titleClassnames: ['custom-page-about-title']
-useStyles: ['/assets/styles/img-tilt-effect.css','css/styles.css']
+classNames: ["custom-page-about"]
+coverClassnames: ["custom-page-about-cover"]
+titleClassnames: ["custom-page-about-title"]
+useStyles: ["/assets/styles/img-tilt-effect.css", "css/styles.css"]
 widgets: false
 ---
 
@@ -50,7 +50,7 @@ Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt 
 
 ## Về blog này 🍻
 
-Tôi bắt đầu viết blog từ những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ  hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân tôi.
+Tôi bắt đầu viết blog từ những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân tôi.
 
 Tôi viết những gì tôi muốn nên không có những đề tài cụ thể, chỉ đơn giản là đặt bút xuống và viết.
 
@@ -74,7 +74,7 @@ tại <em>Khu vườn trên mây</em>
 </p>
 <!-- endtab -->
 
-<!-- tab id:qr-collections "icon:fa-solid fa-qrcode" "title:QR" -->
+<!-- tab id:qr-collection "icon:fa-solid fa-qrcode" "title:QR" -->
 
 ## E-Wallets
 
@@ -133,7 +133,6 @@ Account no: thiennguyen">
   </div>
   <!-- END VPBANK BADGE  -->
 
-
   <!-- START BIDV BADGE  -->
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-warning" data-tooltip="Bank name: BIDV
 Account no: 1361767671">
@@ -190,13 +189,13 @@ Account no: 1361767671">
     tabVi.href = "javascript:;";
   }
 
-  var tabEn = document.querySelector("a[href='#qr-collections']");
+  var tabEn = document.querySelector("a[href='#qr-collection']");
   if (tabEn) {
     tabEn.dataset.href = tabEn.getAttribute("href");
     tabEn.href = "javascript:;";
   }
 
-  var liEn = document.querySelector("a[data-href='#qr-collections']").parentElement;
+  var liEn = document.querySelector("a[data-href='#qr-collection']").parentElement;
   var liVi = document.querySelector("a[data-href='#about-me']").parentElement;
 
   var tabContentVi = tabVi.dataset.href;

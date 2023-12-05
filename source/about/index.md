@@ -110,7 +110,7 @@ Account no: 0395443490">
   <!-- START VPBANK BADGE  -->
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-success" data-tooltip="Bank name: VPBank
 Account no: thiennguyen">
-    <div class="box has-ribbon">
+    <div class="has-ribbon">
       <div class="ribbon is-danger"><i class="fa-solid fa-star"></i> Preferrable</div>
       <a class="gallery-item" href="/assets/img/qr-codes/vpbank.png">
         <img alt="VPBank" style="filter: brightness(1); -webkit-filter: brightness(1)"  class="in-view-effect" src="/assets/img/qr-codes/vpbank.png" width="200px">
@@ -122,7 +122,7 @@ Account no: thiennguyen">
         <div class="level-item has-text-centered">
           <button id="vpbank" onclick="copyBankAccountNumber(1,'thiennguyen')" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
-              <span class="icon has-text-info">
+              <span class="icon">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
               </span>
             </a>

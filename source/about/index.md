@@ -114,7 +114,7 @@ Account no: 0395443490">
               </div>
               <div class="back">
                 <a class="gallery-item" href="/assets/img/qr-codes/mbbank.png">
-                  <img class="img-reset-brightness in-view-effect" src="/assets/img/qr-codes/mbbank.png" width="200px">
+                  <img class="img-reset-brightness" src="/assets/img/qr-codes/mbbank.png" width="200px">
                 </a>
               </div>
             </div>
@@ -169,7 +169,7 @@ Account no: thiennguyen">
               </div>
               <div class="back">
                 <a class="gallery-item" href="/assets/img/qr-codes/vpbank.png">
-                  <img class="img-reset-brightness in-view-effect" src="/assets/img/qr-codes/vpbank.png" width="200px">
+                  <img class="img-reset-brightness" src="/assets/img/qr-codes/vpbank.png" width="200px">
                 </a>
               </div>
             </div>
@@ -224,7 +224,7 @@ Account no: 1361767671">
               </div>
               <div class="back">
                 <a class="gallery-item" href="/assets/img/qr-codes/bidv.png">
-                  <img class="img-reset-brightness in-view-effect" src="/assets/img/qr-codes/bidv.png" width="200px">
+                  <img class="img-reset-brightness" src="/assets/img/qr-codes/bidv.png" width="200px">
                 </a>
               </div>
             </div>

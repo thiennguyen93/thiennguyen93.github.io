@@ -83,9 +83,9 @@ Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidd
 Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden="true"></i> to download QR code for later usage.
 
 <div class="has-text-centered columns is-multiline is-centered mb-3">
-  <!-- START VIETTEL MONEY BADGE  -->
+  <!-- START MBBank VIETTEL MONEY BADGE  -->
   <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank
-Account no: 0395443490">
+Account no: 9704229202692740">
     <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
         <div class="qr-card" onclick="revealQR(0)">
             <div class="qr-content">
@@ -101,7 +101,7 @@ Account no: 0395443490">
                       <div class="content has-text-dark  mt-5">
                         Account No
                         <br />
-                        <span class="has-text-weight-bold">0395443490</span>
+                        <span class="has-text-weight-bold">9704229202692740</span>
                         <br />
                         <p class="mt-3">
                           <i class="fa-regular fa-eye"></i>

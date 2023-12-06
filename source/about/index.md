@@ -11,7 +11,7 @@ cover_lqip: assets/pages/about/page-about-cover-lqip.webp
 classNames: ["custom-page-about"]
 coverClassnames: ["custom-page-about-cover"]
 titleClassnames: ["custom-page-about-title"]
-useStyles: ["/assets/styles/img-tilt-effect.css", "css/styles.css"]
+useStyles: ["/assets/styles/img-tilt-effect.css", "css/styles.css", "css/qr.css"]
 widgets: false
 ---
 
@@ -85,10 +85,40 @@ Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidd
   <!-- START VIETTEL MONEY BADGE  -->
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank
 Account no: 0395443490">
-    <div class="box has-ribbon-bottom" style="background: unset; box-shadow: unset">
-      <a class="gallery-item" href="/assets/img/qr-codes/mbbank.png">
-          <img alt="Viettel Money" class="in-view-effect" src="/assets/img/qr-codes/mbbank.png" width="200px">
-      </a>
+    <div class="box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
+        <div class="qr-card" onclick="revealQR(0)">
+            <div class="qr-content">
+              <div class="front">
+                <div style="wdith: 200px;">
+                  <div class="card has-background-white">
+                    <div class="card-content" style="height: 280px;">
+                      <div class="media">
+                        <div class="media-content has-text-right">
+                          <img src="/assets/img/logo-mbbank.png"  width="90" />
+                        </div>
+                      </div>
+                      <div class="content has-text-dark  mt-5">
+                        Account No
+                        <br />
+                        <span class="has-text-weight-bold">0395443490</span>
+                        <br />
+                        <p class="mt-3">
+                          <i class="fa-regular fa-eye"></i>
+                          <br />
+                          <span class="is-size-6">Show QR</span>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="back">
+                <a class="gallery-item" href="/assets/img/qr-codes/mbbank.png">
+                  <img class="in-view-effect" src="/assets/img/qr-codes/mbbank.png" width="200px">
+                </a>
+              </div>
+            </div>
+      </div>
       <nav class="level-right is-mobile">
         <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
@@ -104,23 +134,52 @@ Account no: 0395443490">
         </div>
       </nav>
     </div>
-  </div>  
+  </div>
   <!-- END VIETTEL MONEY BADGE  -->
 
   <!-- START VPBANK BADGE  -->
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-success" data-tooltip="Bank name: VPBank
 Account no: thiennguyen">
-    <div class="has-ribbon">
-      <div class="ribbon is-danger"><i class="fa-solid fa-star"></i> Preferrable</div>
-      <a class="gallery-item" href="/assets/img/qr-codes/vpbank.png">
-        <img alt="VPBank" style="filter: brightness(1); -webkit-filter: brightness(1)"  class="in-view-effect" src="/assets/img/qr-codes/vpbank.png" width="200px">
-      </a>
+    <div class="box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
+        <div class="qr-card hover" onclick="revealQR(1)">
+            <div class="qr-content">
+              <div class="front">
+                <div style="wdith: 200px;">
+                  <div class="card has-background-white">
+                    <div class="card-content" style="height: 280px;">
+                      <div class="media">
+                        <div class="media-content has-text-right">
+                          <img src="/assets/img/logo-vpbank.png" width="90" />
+                        </div>
+                      </div>
+                      <div class="content has-text-dark mt-5">
+                        Account No
+                        <br />
+                        <span class="has-text-weight-bold">thiennguyen</span>
+                        <br />
+                        <p class="mt-3">
+                          <i class="fa-regular fa-eye"></i>
+                          <br />
+                          <span class="is-size-6">Show QR</span>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="back">
+                <a class="gallery-item" href="/assets/img/qr-codes/vpbank.png">
+                  <img class="in-view-effect" src="/assets/img/qr-codes/vpbank.png" width="200px">
+                </a>
+              </div>
+            </div>
+      </div>
       <nav class="level-right is-mobile">
         <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
         </div>
         <div class="level-item has-text-centered">
-          <button id="vpbank" onclick="copyBankAccountNumber(1,'thiennguyen')" class="level-item button is-white">
+          <button onclick="copyBankAccountNumber(1,'thiennguyen')" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
@@ -136,10 +195,40 @@ Account no: thiennguyen">
   <!-- START BIDV BADGE  -->
   <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-warning" data-tooltip="Bank name: BIDV
 Account no: 1361767671">
-    <div class="box" style="background: unset; box-shadow: unset">
-      <a class="gallery-item" href="/assets/img/qr-codes/bidv.png">
-          <img alt="BIDV" class="in-view-effect" src="/assets/img/qr-codes/bidv.png" width="200px">
-      </a>
+    <div class="box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
+        <div class="qr-card" onclick="revealQR(2)">
+            <div class="qr-content">
+              <div class="front">
+                <div style="wdith: 200px;">
+                  <div class="card has-background-white">
+                    <div class="card-content" style="height: 280px;">
+                      <div class="media">
+                        <div class="media-content has-text-right">
+                          <img src="/assets/img/logo-bidv.png" width="90" />
+                        </div>
+                      </div>
+                      <div class="content has-text-dark mt-5">
+                        Account No
+                        <br />
+                        <span class="has-text-weight-bold">1361767671</span>
+                        <br />
+                        <p class="mt-3">
+                          <i class="fa-regular fa-eye"></i>
+                          <br />
+                          <span class="is-size-6">Show QR</span>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="back">
+                <a class="gallery-item" href="/assets/img/qr-codes/bidv.png">
+                  <img class="in-view-effect" src="/assets/img/qr-codes/bidv.png" width="200px">
+                </a>
+              </div>
+            </div>
+      </div>
       <nav class="level-right is-mobile">
         <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
@@ -155,7 +244,7 @@ Account no: 1361767671">
         </div>
       </nav>
     </div>
-  </div> 
+  </div>
   <!-- END BIDV BADGE  -->
 </div>
 
@@ -180,6 +269,17 @@ Account no: 1361767671">
       } 
     }
     elements[index].classList.remove(hiddenElementClassname)
+  }
+
+  function revealQR(index){
+    const revealedClassname = "hover"
+    const elements = document.getElementsByClassName("qr-card");
+    for (let i = 0; i < elements.length; i++) {
+      if (i !== index) {
+        elements[i].classList.remove(revealedClassname);
+      } 
+    }
+    elements[index].classList.add(revealedClassname)
   }
 </script>
 

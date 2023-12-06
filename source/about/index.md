@@ -279,6 +279,22 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
   <!-- END BIDV BADGE  -->
 </div>
 
+<!-- START QR SHORTEN URL -->
+<div style="padding-top: 20px;">
+    <article class="message message-immersive is-info is-small" style="margin: 0 -1.5rem -1.5rem -1.5rem;">
+        <div class="message-body is-size-7">
+          <p class="has-text-weight-semibold">
+              <span class="icon"><i class="fa-solid fa-circle-info"></i></span> Friendly URL
+          </p>    
+          <!-- Access these QR codes using this convenient short link:  -->
+          <p><span id="short-link" class="has-tooltip-arrow"><a href="https://qr.thiennguyen.dev/">https://qr.thiennguyen.dev</a></span>
+            <button class="button is-white is-small is-info short-link-btn" onclick="copyShortLink()"><i class="fa-regular fa-copy" aria-hidden="true"></i></button>
+          </p>
+        </div>
+    </article>
+</div>
+<!-- END QR SHORTEN URL -->
+
 <!-- endtab -->
 
 {% endtabs %}
@@ -300,6 +316,17 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
       } 
     }
     elements[index].classList.remove(hiddenElementClassname)
+  }
+
+  function copyShortLink() {
+    navigator.clipboard.writeText("https://qr.thiennguyen.dev");
+    const shortLinkLabel = document.getElementById("short-link");
+    shortLinkLabel.dataset.tooltip="Copied!"
+    shortLinkLabel.classList.add("has-tooltip-active")
+    setTimeout(function(){
+      shortLinkLabel.classList.remove("has-tooltip-active")
+      delete shortLinkLabel.dataset.tooltip
+    }, 1000);
   }
 
   function revealQR(index){

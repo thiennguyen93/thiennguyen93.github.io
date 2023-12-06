@@ -97,16 +97,18 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
                           <img src="/assets/img/logo-mbbank.png"  width="90" />
                         </div>
                       </div>
-                      <div class="content has-text-dark  mt-5">
-                        Account No
+                      <div class="content has-text-dark mt-5 is-size-7">
+                        <span class="has-text-weight-bold">Nguyen Ngoc Phuoc Thien</span>
                         <br />
                         <span class="has-text-weight-bold">9704229202692740</span>
                         <br />
-                        <p class="mt-3">
-                          <i class="fa-regular fa-eye"></i>
-                          <br />
-                          <span class="is-size-6">Show QR</span>
-                        </p>
+                        <div class="qr-show-label">
+                          <p class="mt-3">
+                            <i class="fa-regular fa-eye"></i>
+                            <br />
+                            <span class="is-size-">Show QR</span>
+                          </p>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -160,16 +162,18 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
                           <img src="/assets/img/logo-vpbank.png" width="90" />
                         </div>
                       </div>
-                      <div class="content has-text-dark mt-5">
-                        Account No
+                      <div class="content has-text-dark mt-5 is-size-7">
+                        <span class="has-text-weight-bold">Nguyen Ngoc Phuoc Thien</span>
                         <br />
                         <span class="has-text-weight-bold">thiennguyen</span>
                         <br />
-                        <p class="mt-3">
-                          <i class="fa-regular fa-eye"></i>
-                          <br />
-                          <span class="is-size-6">Show QR</span>
-                        </p>
+                        <div class="qr-show-label">
+                          <p class="mt-3">
+                            <i class="fa-regular fa-eye"></i>
+                            <br />
+                            <span class="is-size-">Show QR</span>
+                          </p>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -223,16 +227,18 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
                           <img src="/assets/img/logo-bidv.png" width="90" />
                         </div>
                       </div>
-                      <div class="content has-text-dark mt-5">
-                        Account No
+                      <div class="content has-text-dark mt-5 is-size-7">
+                        <span class="has-text-weight-bold">Nguyen Ngoc Phuoc Thien</span>
                         <br />
                         <span class="has-text-weight-bold">1361767671</span>
                         <br />
-                        <p class="mt-3">
-                          <i class="fa-regular fa-eye"></i>
-                          <br />
-                          <span class="is-size-6">Show QR</span>
-                        </p>
+                        <div class="qr-show-label">
+                          <p class="mt-3">
+                            <i class="fa-regular fa-eye"></i>
+                            <br />
+                            <span class="is-size-">Show QR</span>
+                          </p>
+                        </div>
                       </div>
                     </div>
                   </div>

@@ -48,3 +48,7 @@
   filter: brightness(1) !important; 
   -webkit-filter: brightness(1) !important;
 }
+
+.qr-box {
+  display: inline-block;
+}

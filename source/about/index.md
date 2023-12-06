@@ -83,9 +83,9 @@ Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidd
 
 <div class="has-text-centered columns is-multiline is-centered mb-3">
   <!-- START VIETTEL MONEY BADGE  -->
-  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank
+  <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank
 Account no: 0395443490">
-    <div class="box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
+    <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
         <div class="qr-card" onclick="revealQR(0)">
             <div class="qr-content">
               <div class="front">
@@ -138,9 +138,9 @@ Account no: 0395443490">
   <!-- END VIETTEL MONEY BADGE  -->
 
   <!-- START VPBANK BADGE  -->
-  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-success" data-tooltip="Bank name: VPBank
+  <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-success" data-tooltip="Bank name: VPBank
 Account no: thiennguyen">
-    <div class="box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
+    <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
         <div class="qr-card hover" onclick="revealQR(1)">
             <div class="qr-content">
               <div class="front">
@@ -193,9 +193,9 @@ Account no: thiennguyen">
   <!-- END VPBANK BADGE  -->
 
   <!-- START BIDV BADGE  -->
-  <div class="has-text-centered column is-one-quarter-desktop is-half-tablet mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-warning" data-tooltip="Bank name: BIDV
+  <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-warning" data-tooltip="Bank name: BIDV
 Account no: 1361767671">
-    <div class="box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
+    <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
         <div class="qr-card" onclick="revealQR(2)">
             <div class="qr-content">
               <div class="front">

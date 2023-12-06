@@ -43,3 +43,8 @@
   /* color: white; */
   transform: rotateY( 180deg );
 }
+
+.img-reset-brightness  {
+  filter: brightness(1) !important; 
+  -webkit-filter: brightness(1) !important;
+}

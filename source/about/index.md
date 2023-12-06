@@ -78,8 +78,9 @@ tại <em>Khu vườn trên mây</em>
 
 ## E-Wallets
 
-Click the QR code to enlarge the photo for scanning
-Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard
+Click the QR code to enlarge the photo for scanning.
+Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard.
+Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden="true"></i> to download QR code for later usage.
 
 <div class="has-text-centered columns is-multiline is-centered mb-3">
   <!-- START VIETTEL MONEY BADGE  -->
@@ -119,9 +120,18 @@ Account no: 0395443490">
               </div>
             </div>
       </div>
-      <nav class="level-right is-mobile">
+      <nav class="level is-mobile">
         <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+        </div>
+        <div class="level-item has-text-centered">
+          <a href="/assets/img/qr-codes/mbbank.png" class="level-item" aria-label="reply" download>
+            <button class="level-item button is-white">
+              <span class="icon">
+                <i class="fas fa-download"></i>
+              </span>
+            </button>
+          </a>
         </div>
         <div class="level-item has-text-centered">
           <button onclick="copyBankAccountNumber(0,'0395443490')" class="level-item button is-white">
@@ -174,9 +184,18 @@ Account no: thiennguyen">
               </div>
             </div>
       </div>
-      <nav class="level-right is-mobile">
+      <nav class="level is-mobile">
         <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+        </div>
+        <div class="level-item has-text-centered">
+          <a href="/assets/img/qr-codes/vpbank.png" class="level-item" aria-label="reply" download>
+            <button class="level-item button is-white">
+              <span class="icon">
+                <i class="fas fa-download"></i>
+              </span>
+            </button>
+          </a>
         </div>
         <div class="level-item has-text-centered">
           <button onclick="copyBankAccountNumber(1,'thiennguyen')" class="level-item button is-white">
@@ -229,9 +248,18 @@ Account no: 1361767671">
               </div>
             </div>
       </div>
-      <nav class="level-right is-mobile">
+      <nav class="level is-mobile">
         <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+        </div>
+        <div class="level-item has-text-centered">
+          <a href="/assets/img/qr-codes/bidv.png" class="level-item" aria-label="reply" download>
+            <button class="level-item button is-white">
+              <span class="icon">
+                <i class="fas fa-download"></i>
+              </span>
+            </button>
+          </a>
         </div>
         <div class="level-item has-text-centered">
           <button onclick="copyBankAccountNumber(2,'1361767671')" class="level-item button is-white">

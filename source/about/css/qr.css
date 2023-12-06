@@ -19,6 +19,7 @@
   transform-style: preserve-3d;
 }
 
+/* .qr-card:hover .qr-content, */
 .qr-card.hover .qr-content {
   transform: rotateY( 180deg ) ;
   transition: transform 0.5s;

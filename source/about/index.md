@@ -87,7 +87,7 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
   <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger" data-tooltip="Bank name: Viettel Money - MBBank
 Account no: 9704229202692740">
     <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
-        <div class="qr-card" onclick="revealQR(0)">
+        <div class="qr-card" onclick="revealQR(0)" onmouseover="revealQR(0)">
             <div class="qr-content">
               <div class="front">
                 <div style="wdith: 200px;">
@@ -151,7 +151,7 @@ Account no: 9704229202692740">
   <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-success" data-tooltip="Bank name: VPBank
 Account no: thiennguyen">
     <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
-        <div class="qr-card hover" onclick="revealQR(1)">
+        <div class="qr-card hover" onclick="revealQR(1)" onmouseover="revealQR(1)">
             <div class="qr-content">
               <div class="front">
                 <div style="wdith: 200px;">
@@ -215,7 +215,7 @@ Account no: thiennguyen">
   <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-warning" data-tooltip="Bank name: BIDV
 Account no: 1361767671">
     <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
-        <div class="qr-card" onclick="revealQR(2)">
+        <div class="qr-card" onclick="revealQR(2)" onmouseover="revealQR(2)">
             <div class="qr-content">
               <div class="front">
                 <div style="wdith: 200px;">

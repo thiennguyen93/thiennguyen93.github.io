@@ -78,9 +78,9 @@ tại <em>Khu vườn trên mây</em>
 
 ## E-Wallets
 
-Click the QR code to enlarge the photo for scanning.
-Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard.
-Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden="true"></i> to download QR code for later usage.
+For better scan results, tap the QR code to enlarge the image.
+<!-- Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard.
+Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden="true"></i> to download QR code for later usage. -->
 
 <div class="has-text-centered columns is-multiline is-centered mb-3">
   <!-- START MBBank VIETTEL MONEY BADGE  -->
@@ -112,8 +112,8 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
         <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
         </div>
-        <div class="level-item has-text-centered">
-          <a href="/assets/img/qr-codes/mbbank.png" class="level-item" aria-label="reply" download>
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Save">
+          <a href="/assets/img/qr-codes/mbbank.png" class="level-item" aria-label="reply" download="thiennguyen-mbbank-9704229202692740">
             <button class="level-item button is-white">
               <span class="icon">
                 <i class="fas fa-download"></i>
@@ -121,7 +121,7 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
             </button>
           </a>
         </div>
-        <div class="level-item has-text-centered">
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Copy">
           <button onclick="copyBankAccountNumber(0,'9704229202692740')" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
@@ -164,8 +164,8 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
         <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
         </div>
-        <div class="level-item has-text-centered">
-          <a href="/assets/img/qr-codes/vpbank.png" class="level-item" aria-label="reply" download>
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Save">
+          <a href="/assets/img/qr-codes/vpbank.png" class="level-item" aria-label="reply" download="thiennguyen-vpbank-thiennguyen">
             <button class="level-item button is-white">
               <span class="icon">
                 <i class="fas fa-download"></i>
@@ -173,7 +173,7 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
             </button>
           </a>
         </div>
-        <div class="level-item has-text-centered">
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Copy">
           <button onclick="copyBankAccountNumber(1,'thiennguyen')" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
@@ -217,8 +217,8 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
         <div class="level-item has-text-centered">
           <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
         </div>
-        <div class="level-item has-text-centered">
-          <a href="/assets/img/qr-codes/bidv.png" class="level-item" aria-label="reply" download>
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Save">
+          <a href="/assets/img/qr-codes/bidv.png" class="level-item" aria-label="reply" download="thiennguyen-bidv-1361767671">
             <button class="level-item button is-white">
               <span class="icon">
                 <i class="fas fa-download"></i>
@@ -226,7 +226,7 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
             </button>
           </a>
         </div>
-        <div class="level-item has-text-centered">
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Copy">
           <button onclick="copyBankAccountNumber(2,'1361767671')" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
@@ -278,6 +278,9 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
       } 
     }
     elements[index].classList.remove(hiddenElementClassname)
+    setTimeout(function(){
+        elements[index].classList.add(hiddenElementClassname)
+    }, 1000);
   }
 
   function copyShortLink() {
@@ -288,7 +291,7 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
     setTimeout(function(){
       shortLinkLabel.classList.remove("has-tooltip-active")
       delete shortLinkLabel.dataset.tooltip
-    }, 1000);
+    }, 500);
   }
 
   function revealQR(index){

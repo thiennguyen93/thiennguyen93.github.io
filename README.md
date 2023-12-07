@@ -49,6 +49,9 @@ Because the two different source folders shares the same assets folder. Need to 
 #### `in-view-effect`
 If class is added to an img element. If the image is in the user's view, an additional class `in-view` is added automatically to the img element.
 
+### `not-gallery-item`
+If class is added to an img element. It will be ignored in the gallery of the post.
+
 # LOW QUALITY IMAGE PLACEHOLDER
 - Package  https://www.npmjs.com/package/lqip-modern
 

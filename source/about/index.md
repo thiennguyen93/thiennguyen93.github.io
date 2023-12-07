@@ -95,7 +95,7 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
                   <div class="wave wave0"></div>
                   <div class="wave wave0"></div>
                   <div class="infotop">
-                    <img class="qr-logo" src="/assets/img/logo-mbbank.png" width="90" />
+                    <img class="qr-logo not-gallery-item" src="/assets/img/logo-mbbank.png" width="90" />
                     <div class="name">Nguyen Ngoc Phuoc Thien</div>
                     <div class="name">9704229202692740</div>
                   </div>
@@ -147,7 +147,7 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
                   <div class="wave wave1"></div>
                   <div class="wave wave1"></div>
                   <div class="infotop">
-                    <img class="qr-logo" src="/assets/img/logo-vpbank.png" width="90" />
+                    <img class="qr-logo not-gallery-item" src="/assets/img/logo-vpbank.png" width="90" />
                     <div class="name">Nguyen Ngoc Phuoc Thien</div>
                     <div class="name">thiennguyen</div>
                   </div>
@@ -199,7 +199,7 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
                   <div class="wave wave2"></div>
                   <div class="wave wave2"></div>
                   <div class="infotop">
-                    <img class="qr-logo" src="/assets/img/logo-bidv.png" width="90" />
+                    <img class="qr-logo not-gallery-item" src="/assets/img/logo-bidv.png" width="90" />
                     <div class="name">Nguyen Ngoc Phuoc Thien</div>
                     <div class="name">1361767671</div>
                     <br />

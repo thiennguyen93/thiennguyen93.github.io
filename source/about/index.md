@@ -89,28 +89,15 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
         <div class="qr-card" onclick="revealQR(0)" onmouseover="revealQR(0)">
             <div class="qr-content">
               <div class="front">
-                <div style="wdith: 200px;">
-                  <div class="card has-background-white">
-                    <div class="card-content" style="height: 280px;">
-                      <div class="media">
-                        <div class="media-content has-text-right">
-                          <img src="/assets/img/logo-mbbank.png"  width="90" />
-                        </div>
-                      </div>
-                      <div class="content has-text-dark mt-5 is-size-7">
-                        <span class="has-text-weight-bold">Nguyen Ngoc Phuoc Thien</span>
-                        <br />
-                        <span class="has-text-weight-bold">9704229202692740</span>
-                        <br />
-                        <div class="qr-show-label">
-                          <p class="mt-3">
-                            <i class="fa-regular fa-eye"></i>
-                            <br />
-                            <span class="is-size-">Show QR</span>
-                          </p>
-                        </div>
-                      </div>
-                    </div>
+                <div class="e-card playing">
+                  <div class="image"></div>
+                  <div class="wave wave0"></div>
+                  <div class="wave wave0"></div>
+                  <div class="wave wave0"></div>
+                  <div class="infotop">
+                    <img class="qr-logo" src="/assets/img/logo-mbbank.png" width="90" />
+                    <div class="name">Nguyen Ngoc Phuoc Thien</div>
+                    <div class="name">9704229202692740</div>
                   </div>
                 </div>
               </div>
@@ -135,7 +122,7 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
           </a>
         </div>
         <div class="level-item has-text-centered">
-          <button onclick="copyBankAccountNumber(0,'0395443490')" class="level-item button is-white">
+          <button onclick="copyBankAccountNumber(0,'9704229202692740')" class="level-item button is-white">
             <a class="level-item" aria-label="reply">
               <span class="icon">
                 <i class="fa-regular fa-copy" aria-hidden="true"></i>
@@ -154,28 +141,15 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
         <div class="qr-card hover" onclick="revealQR(1)" onmouseover="revealQR(1)">
             <div class="qr-content">
               <div class="front">
-                <div style="wdith: 200px;">
-                  <div class="card has-background-white">
-                    <div class="card-content" style="height: 280px;">
-                      <div class="media">
-                        <div class="media-content has-text-right">
-                          <img src="/assets/img/logo-vpbank.png" width="90" />
-                        </div>
-                      </div>
-                      <div class="content has-text-dark mt-5 is-size-7">
-                        <span class="has-text-weight-bold">Nguyen Ngoc Phuoc Thien</span>
-                        <br />
-                        <span class="has-text-weight-bold">thiennguyen</span>
-                        <br />
-                        <div class="qr-show-label">
-                          <p class="mt-3">
-                            <i class="fa-regular fa-eye"></i>
-                            <br />
-                            <span class="is-size-">Show QR</span>
-                          </p>
-                        </div>
-                      </div>
-                    </div>
+                <div class="e-card playing">
+                  <div class="image"></div>
+                  <div class="wave wave1"></div>
+                  <div class="wave wave1"></div>
+                  <div class="wave wave1"></div>
+                  <div class="infotop">
+                    <img class="qr-logo" src="/assets/img/logo-vpbank.png" width="90" />
+                    <div class="name">Nguyen Ngoc Phuoc Thien</div>
+                    <div class="name">thiennguyen</div>
                   </div>
                 </div>
               </div>
@@ -219,28 +193,16 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
         <div class="qr-card" onclick="revealQR(2)" onmouseover="revealQR(2)">
             <div class="qr-content">
               <div class="front">
-                <div style="wdith: 200px;">
-                  <div class="card has-background-white">
-                    <div class="card-content" style="height: 280px;">
-                      <div class="media">
-                        <div class="media-content has-text-right">
-                          <img src="/assets/img/logo-bidv.png" width="90" />
-                        </div>
-                      </div>
-                      <div class="content has-text-dark mt-5 is-size-7">
-                        <span class="has-text-weight-bold">Nguyen Ngoc Phuoc Thien</span>
-                        <br />
-                        <span class="has-text-weight-bold">1361767671</span>
-                        <br />
-                        <div class="qr-show-label">
-                          <p class="mt-3">
-                            <i class="fa-regular fa-eye"></i>
-                            <br />
-                            <span class="is-size-">Show QR</span>
-                          </p>
-                        </div>
-                      </div>
-                    </div>
+                <div class="e-card playing">
+                  <div class="image"></div>
+                  <div class="wave wave2"></div>
+                  <div class="wave wave2"></div>
+                  <div class="wave wave2"></div>
+                  <div class="infotop">
+                    <img class="qr-logo" src="/assets/img/logo-bidv.png" width="90" />
+                    <div class="name">Nguyen Ngoc Phuoc Thien</div>
+                    <div class="name">1361767671</div>
+                    <br />
                   </div>
                 </div>
               </div>

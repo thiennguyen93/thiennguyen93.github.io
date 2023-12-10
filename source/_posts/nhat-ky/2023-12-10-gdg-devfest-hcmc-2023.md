@@ -5,9 +5,9 @@ categories:
 - Journal
 language: en
 toc: false
-cover: /assets/img/eduardo-gorghetto-vJ3KldG86Eo-unsplash.webp
-cover_lqip: /assets/img/lqip/eduardo-gorghetto-vJ3KldG86Eo-unsplash.webp
-thumbnail: /assets/img/eduardo-gorghetto-vJ3KldG86Eo-unsplash.webp
+cover: /assets/img/2023-12-10-gdg-devfest-hcmc-2023-cover.png
+cover_lqip: /assets/img/lqip/2023-12-10-gdg-devfest-hcmc-2023-cover.webp
+thumbnail: /assets/img/2023-12-10-gdg-devfest-hcmc-2023-cover.png
 useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css']
 ---
 Nhớ cái thời còn là sinh viên, mình rất thích tham dự các sự kiện về tech, đặc biệt là khi các hãng công nghệ giới thiệu hay ra mắt sản phẩm mới như laptop, điện thoại, các thiết bị giải trí đa phương tiện. Mình đi sự kiện để được trải nghiệm sản phẩm, công nghệ mới, nhưng mà cái chính vẫn là mong trúng quà có giá trị từ ban tổ chức. Sau nhiều năm đi làm trong lĩnh vực công nghệ, một phần phần không có nhiều thời gian, phần khác cũng không có hứng thú với những thiết bị mới, mình đã không còn tham gia bất kỳ event nào nữa. Rồi một hôm mình tình cờ lượm lặt được thông tin nhóm Google Developer Group sẽ tổ chức Event **Devfest 2023** tại TP Hồ Chí Minh vào 10/12, mình liền đăng ký tham gia.

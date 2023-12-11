@@ -88,8 +88,8 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
       <p>Unlock the potential of GenAI for coding</p>
     </div>
   </div>
-  <div class="timeline-item is-primary">
-    <div class="timeline-marker is-primary is-icon">
+  <div class="timeline-item is-info">
+    <div class="timeline-marker is-info is-icon">
       <i class="fa-regular fa-comments"></i>
     </div>
     <div class="timeline-content">
@@ -97,8 +97,8 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
       <p>Fireside chat: Empowering womein in AI Field</p>
     </div>
   </div>
-  <div class="timeline-item is-primary">
-    <div class="timeline-marker is-primary is-icon">
+  <div class="timeline-item is-success">
+    <div class="timeline-marker is-success is-icon">
         <i class="fa-solid fa-utensils"></i>
     </div>
     <div class="timeline-content">
@@ -106,8 +106,8 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
       <p>Open Networking. Self-lunch break</p>
     </div>
   </div>
-  <div class="timeline-item is-primary">
-    <div class="timeline-marker is-primary is-icon">
+  <div class="timeline-item is-warning">
+    <div class="timeline-marker is-warning is-icon ">
         <i class="fa-solid fa-mug-hot"></i> 
     </div>
     <div class="timeline-content">
@@ -115,8 +115,8 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
       <p>Welcome Back - Coffee/Tea served</p>
     </div>
   </div>
-  <div class="timeline-item is-primary">
-    <div class="timeline-marker is-primary is-icon">
+  <div class="timeline-item is-danger">
+    <div class="timeline-marker is-danger is-icon">
       <i class="fa-solid fa-gamepad"></i>
     </div>
     <div class="timeline-content">
@@ -133,8 +133,8 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
       <p>What's new in web animations</p>
     </div>
   </div>
-  <div class="timeline-item is-primary">
-    <div class="timeline-marker is-primary is-icon">
+  <div class="timeline-item is-info">
+    <div class="timeline-marker is-info is-icon">
       <i class="fa-solid fa-code"></i>
     </div>
     <div class="timeline-content">

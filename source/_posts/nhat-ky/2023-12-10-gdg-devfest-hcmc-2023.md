@@ -12,6 +12,8 @@ useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.
 ---
 Nhớ cái thời còn là sinh viên, mình rất thích tham dự các sự kiện về tech, đặc biệt là khi các hãng công nghệ giới thiệu hay ra mắt sản phẩm mới như laptop, điện thoại, các thiết bị giải trí đa phương tiện. Mình đi sự kiện để được trải nghiệm sản phẩm, công nghệ mới, nhưng mà cái chính vẫn là mong trúng quà có giá trị từ ban tổ chức. Sau nhiều năm đi làm trong lĩnh vực công nghệ, một phần phần không có nhiều thời gian, phần khác cũng không có hứng thú với những thiết bị mới, mình đã không còn tham gia bất kỳ event nào nữa. Rồi một hôm mình tình cờ lượm lặt được thông tin nhóm Google Developer Group sẽ tổ chức Event **Devfest 2023** tại TP Hồ Chí Minh vào 10/12, mình liền đăng ký tham gia.
 
+<!-- more -->
+
 ## DevFest là sự kiện gì?
 Dành cho bạn nào chưa biết thì DevFest là sự kiện thường niên được tổ chức bởi Google Developer Group (GDG) tại hơn 1000 chapters khắp nơi trên thế giới. Đây cũng là ngày hội dành cho cộng đồng lập trình viên, các chuyên gia chia sẽ kiến thức; là nơi kết nối, giao lưu, học hỏi cũng như trải nghiệm và cập nhật xu hướng công nghệ mới, đặc biệt là các sản phẩm của Google. 
 
@@ -57,8 +59,8 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
     </div>
   </div>
   <div class="timeline-item is-warning">
-    <div class="timeline-marker is-image is-32x32">
-      <img src="google-firebase-icon-32x32.png">
+    <div class="timeline-marker is-image is-32x32 is-white">
+      <img class="not-gallery-item img-reset-brightness" src="google-firebase-icon-32x32.png">
     </div>
     <div class="timeline-content">
       <p class="heading">9:30</p>
@@ -68,8 +70,8 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
   <!-- <header class="timeline-header">
     <span class="tag is-primary">10:05</span>
   </header> -->
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
+  <div class="timeline-item is-primary">
+    <div class="timeline-marker is-primary is-icon">
       <i class="fa-solid fa-key"></i>
     </div>
     <div class="timeline-content">
@@ -77,17 +79,17 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
       <p>Passkey implementation in Android</p>
     </div>
   </div>
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
-      <i class="fa-solid fa-code"></i>
+  <div class="timeline-item is-primary">
+    <div class="timeline-marker is-image is-32x32 is-white">
+      <img class="not-gallery-item img-reset-brightness" src="ai.png">
     </div>
     <div class="timeline-content">
       <p class="heading">10:40</p>
       <p>Unlock the potential of GenAI for coding</p>
     </div>
   </div>
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
+  <div class="timeline-item is-primary">
+    <div class="timeline-marker is-primary is-icon">
       <i class="fa-regular fa-comments"></i>
     </div>
     <div class="timeline-content">
@@ -95,8 +97,8 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
       <p>Fireside chat: Empowering womein in AI Field</p>
     </div>
   </div>
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
+  <div class="timeline-item is-primary">
+    <div class="timeline-marker is-primary is-icon">
         <i class="fa-solid fa-utensils"></i>
     </div>
     <div class="timeline-content">
@@ -104,8 +106,8 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
       <p>Open Networking. Self-lunch break</p>
     </div>
   </div>
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
+  <div class="timeline-item is-primary">
+    <div class="timeline-marker is-primary is-icon">
         <i class="fa-solid fa-mug-hot"></i> 
     </div>
     <div class="timeline-content">
@@ -113,27 +115,27 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
       <p>Welcome Back - Coffee/Tea served</p>
     </div>
   </div>
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
-      <i class="fa fa-flag"></i>
+  <div class="timeline-item is-primary">
+    <div class="timeline-marker is-primary is-icon">
+      <i class="fa-solid fa-gamepad"></i>
     </div>
     <div class="timeline-content">
       <p class="heading">13:15</p>
       <p>Mini Game - Related to Morning Session</p>
     </div>
   </div>
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
-      <i class="fa fa-flag"></i>
+  <div class="timeline-item is-primary">
+    <div class="timeline-marker is-primary is-icon">
+      <i class="fa-regular fa-newspaper"></i>
     </div>
     <div class="timeline-content">
       <p class="heading">13:45</p>
       <p>What's new in web animations</p>
     </div>
   </div>
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
-      <i class="fa fa-flag"></i>
+  <div class="timeline-item is-primary">
+    <div class="timeline-marker is-primary is-icon">
+      <i class="fa-solid fa-code"></i>
     </div>
     <div class="timeline-content">
       <p class="heading">14:20</p>

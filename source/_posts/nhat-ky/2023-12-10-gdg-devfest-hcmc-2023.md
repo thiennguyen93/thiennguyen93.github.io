@@ -43,6 +43,7 @@ Khoảng 8h là mình đến nơi, không khó để tìm được chỗ giữ x
 
 Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ngồi bên trái mình là một anh developer người Pháp, tranh thủ vốn tiếng Anh sẵn có mình chào hỏi, làm quen hỏi về công việc, dự án và những techstack của công ty anh. Ngồi bên phải mình là bạn tên Quỳnh Anh sinh viên IU (Đại học Quốc Tế). Kế tiếp là một anh người Ấn Độ đang làm việc tại Singapore cũng đến đây để tham dự DevFest. Nhóm bốn người cũng có một buổi trò chuyện vui vẻ đang trong lúc chờ ban tổ chức chuẩn bị.
 
+Dưới đây là nội dung chi tiết của chương trình
 <p style="text-align: center">
     <img class="in-view-effect bright-on-hover transition-all lazy" src="devfest-2023-img_20231210_121906.jpeg" data-src="devfest-2023-img_20231210_121906.jpeg" alt="Việt - Pháp - Ấn" width="50%">
 </p>
@@ -130,7 +131,7 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
     </div>
     <div class="timeline-content">
       <p class="heading">13:45</p>
-      <p>What's new in web animations</p>
+      <p>What's new in web animations?</p>
     </div>
   </div>
   <div class="timeline-item is-info">

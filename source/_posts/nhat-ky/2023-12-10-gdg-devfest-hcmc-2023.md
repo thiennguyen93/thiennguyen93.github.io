@@ -44,7 +44,7 @@ Khoảng 8h là mình đến nơi, không khó để tìm được chỗ giữ x
 Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ngồi bên trái mình là một anh developer người Pháp, tranh thủ vốn tiếng Anh sẵn có mình chào hỏi, làm quen hỏi về công việc, dự án và những techstack của công ty anh. Ngồi bên phải mình là bạn tên Quỳnh Anh sinh viên IU (Đại học Quốc Tế). Kế tiếp là một anh người Ấn Độ đang làm việc tại Singapore cũng đến đây để tham dự DevFest. Nhóm bốn người cũng có một buổi trò chuyện vui vẻ đang trong lúc chờ ban tổ chức chuẩn bị.
 
 <p style="text-align: center">
-    <img class="in-view-effect bright-on-hover transition-all lazy" src="devfest-2023-img_20231210_121906.jpeg" data-src="devfest-2023-img_20231210_121906.jpeg" alt="Việt - Ấn - Pháp" width="50%">
+    <img class="in-view-effect bright-on-hover transition-all lazy" src="devfest-2023-img_20231210_121906.jpeg" data-src="devfest-2023-img_20231210_121906.jpeg" alt="Việt - Pháp - Ấn" width="50%">
 </p>
 
 <div class="timeline is-centered" style="border: none;">
@@ -148,4 +148,13 @@ Sau khi checkin thì mình vào sảnh King Hall, nơi diễn ra sự kiện. Ng
 </div>
 
 
-###  Còn cập nhật tiếp ... 
+##  Hình ảnh sự kiện
+
+<div class="justified-gallery mb-3">
+  <img class="in-view-effect bright-on-hover transition-all lazy" src="1.jpeg" data-src="1.jpeg" alt="">
+  <img class="in-view-effect bright-on-hover transition-all lazy" src="2.jpeg" data-src="2.jpeg" alt="">
+  <img class="in-view-effect bright-on-hover transition-all lazy" src="3.jpeg" data-src="3.jpeg" alt="">
+  <img class="in-view-effect bright-on-hover transition-all lazy" src="devfest-2023-img_20231210_121906.jpeg" data-src="devfest-2023-img_20231210_121906.jpeg" alt="">
+  <img class="in-view-effect bright-on-hover transition-all lazy" src="5.jpeg" data-src="5.jpeg" alt="">
+  <img class="in-view-effect bright-on-hover transition-all lazy" src="6.jpeg" data-src="6.jpeg" alt="">
+</div>

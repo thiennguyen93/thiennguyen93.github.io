@@ -8,3 +8,8 @@
     height: 80px;
     width: 80px;
 }
+
+.aplayer {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}

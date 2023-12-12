@@ -1,5 +1,10 @@
 /* MUSIC PLAYER: Custom album rounded like a CD */
 .aplayer-pic {
     border-radius:  50%;
-    margin: 0.5rem;
+    margin: 5px;
+}
+
+.aplayer.aplayer-withlrc .aplayer-pic {
+    height: 80px;
+    width: 80px;
 }

@@ -271,8 +271,13 @@ widgets:
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
       LinkedIn:
         icon: fab fa-linkedin-in
-        url: "https://www.linkedin.com/in/thiennguyendev/"
+        url: "https://www.linkedin.com/in/thiennguyendev"
         tooltip: "LinkedIn Profile"
+        classNames: [has-tooltip-arrow, has-tooltip-bottom]
+      Youtube:
+        icon: fa-brands fa-youtube
+        url: "https://www.youtube.com/thiennguyenpro"
+        tooltip: "Youtube Channel"
         classNames: [has-tooltip-arrow, has-tooltip-bottom]
       Contact:
         icon: fas fa-at

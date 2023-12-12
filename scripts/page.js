@@ -53,6 +53,11 @@ hexo.extend.injector.register('head_end', () => {
   return css('https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css'); // CDN
 }, 'default');
 
+hexo.extend.injector.register('head_end', () => {
+  // return css('/assets/css/APlayer.min.css'); // without CDN
+  return css('/assets/css/custom.css'); // CDN
+}, 'default');
+
 // Inject APlayerJS (CDN/non-CDN)
 hexo.extend.injector.register('body_begin', '<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>\n');
 // hexo.extend.injector.register('head_end', () => {

@@ -8,3 +8,8 @@
     height: 80px;
     width: 80px;
 } */
+
+.img-reset-brightness {
+    filter: brightness(1) !important; 
+    -webkit-filter: brightness(1) !important;
+}

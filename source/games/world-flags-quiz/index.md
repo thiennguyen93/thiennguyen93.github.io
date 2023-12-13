@@ -16,7 +16,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
 ---
 
 <div id="game-screen" class="has-ribbon game_step_home">
-  <button id="home-button" class="ribbon button is-primary cssanimation blurInTop">
+  <button onclick="backToHome()" id="home-button" class="ribbon button is-primary cssanimation blurInTop">
     <i class="fa-solid fa-house"></i>
   </button>
   <h1 class="has-text-centered">
@@ -77,74 +77,83 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
     </div>
   </div>
 
-  <div id="game-mode-country" class="cssanimation blurInBottom display-none">
-    <p>country</p>
-  </div>
-
-  <div id="game-mode-flag" class="cssanimation blurInBottom display-none">
-    <!-- START FLAG QUESTION -->
-    <div id="flag-question" class="mt-5">
-      <h3 class="has-text-centered" class="mt-5">
-        <span>Choose the correct flag</span>
-      </h3>
-      <h3 class="has-text-centered mt-2">
-        <button class="button is-primary is-size-4">Vietnam</button>
-      </h3>
+  <div id="game-play">
+    <div id="game-mode-country" class="cssanimation blurInBottom display-none">
+      <p>country</p>
     </div>
-    <!-- END FLAG QUESTION -->
-    <!--  -->
-    <!-- START FLAG MULTIPLE CHOICES  -->
-    <div id="flag-multiple-choices" class="mt-5">
-      <div class="columns">
-        <!-- START OPTION 1 -->
-        <div class="column is-half-desktop has-background-light">
-          <div class="card game-mode-flag-option cssanimation blurInTop">
-            <div class="card-content width-38-percent margin-0-auto">
-              <figure class="image">
-                <img src="https://flagcdn.com/108x81/ua.webp">
-              </figure>
-            </div>
-          </div>
-        </div>
-        <!-- END OPTION 1 -->
-        <!-- START OPTION 2 -->
-        <div class="column is-half-desktop">
-          <div class="card  is-warning cssanimation blurInTop">
-            <div class="card-content width-38-percent margin-0-auto">
-              <figure class="image">
-                <img src="https://flagcdn.com/108x81/vn.webp">
-              </figure>
-            </div>
-          </div>
-        </div>
-        <!-- END OPTION 2 -->
+    <div id="game-mode-flag" class="cssanimation display-none">
+      <!-- START FLAG QUESTION -->
+      <div id="flag-question" class="cssanimation blurInBottom mt-5">
+        <h3 class="has-text-centered" class="mt-5">
+          <span>Choose the correct flag</span>
+        </h3>
+        <h3 class="has-text-centered mt-2">
+          <button class="button is-primary is-size-4">Vietnam</button>
+        </h3>
       </div>
-      <div class="columns">
-        <!-- START OPTION 3 -->
-        <div class="column is-half-desktop">
-          <div class="card  is-warning cssanimation blurInTop">
-            <div class="card-content width-38-percent margin-0-auto">
-              <figure class="image">
-                <img src="https://flagcdn.com/108x81/us.webp">
-              </figure>
-            </div>
+      <!-- END FLAG QUESTION -->
+      <!--  -->
+      <!-- START FLAG MULTIPLE CHOICES  -->
+      <div id="flag-multiple-choices" class="mt-5">
+        <div class="columns">
+          <!-- START OPTION 1 -->
+          <div class="column is-half-desktop">
+            <a href="#">
+              <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
+                <div class="card-content width-38-percent margin-0-auto">
+                  <figure class="image">
+                    <img src="https://flagcdn.com/108x81/ua.webp" class="not-gallery-item img-reset-brightness">
+                  </figure>
+                </div>
+              </div>
+            </a>
           </div>
-        </div>
-        <!-- END OPTION 3 -->
-        <!-- START OPTION 4 -->
-        <div class="column is-half-desktop">
-          <div class="card  is-warning cssanimation blurInTop">
-            <div class="card-content width-38-percent margin-0-auto">
-              <figure class="image">
-                <img src="https://flagcdn.com/108x81/ru.webp">
-              </figure>
-            </div>
+          <!-- END OPTION 1 -->
+          <!-- START OPTION 2 -->
+          <div class="column is-half-desktop">
+            <a href="#">
+              <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
+                <div class="card-content width-38-percent margin-0-auto">
+                  <figure class="image">
+                    <img src="https://flagcdn.com/108x81/vn.webp" class="not-gallery-item img-reset-brightness">
+                  </figure>
+                </div>
+              </div>
+            </a>
           </div>
+          <!-- END OPTION 2 -->
         </div>
-        <!-- END OPTION 4 -->
+        <div class="columns">
+          <!-- START OPTION 3 -->
+          <div class="column is-half-desktop">
+            <a href="#">
+              <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
+                <div class="card-content width-38-percent margin-0-auto">
+                  <figure class="image">
+                    <img src="https://flagcdn.com/108x81/us.webp" class="not-gallery-item img-reset-brightness">
+                  </figure>
+                </div>
+              </div>
+            </a>
+          </div>
+          <!-- END OPTION 3 -->
+          <!-- START OPTION 4 -->
+          <div class="column is-half-desktop">
+            <a href="#">
+              <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
+                <div class="card-content width-38-percent margin-0-auto">
+                  <figure class="image">
+                    <img src="https://flagcdn.com/108x81/ru.webp" class="not-gallery-item img-reset-brightness">
+                  </figure>
+                </div>
+              </div>
+            </a>
+          </div>
+          <!-- END OPTION 4 -->
+        </div>
       </div>
+      <!-- END FLAG MULTIPLE CHOICES  -->
     </div>
-    <!-- END FLAG MULTIPLE CHOICES  -->
   </div>
 </div>
 
@@ -152,3 +161,4 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/letteranimation.min.js"></script>
 
 <script src="/assets/pages/games/world-flags-quiz/js/script.js"></script>
+<script src="/assets/pages/games/world-flags-quiz/js/confetti-effect.js"></script>

@@ -114,6 +114,17 @@
 	margin: 0 auto;
 }
 
-/* .game-mode-flag-option {
-	background-color: transparent !important;
-} */
+.animation-duration-500ms {
+	animation-duration: 0.5s;
+}
+
+.game-mode-flag-option:hover {
+	-webkit-box-shadow:inset 0px 0px 0px 1px #E32D67;
+	-moz-box-shadow:inset 0px 0px 0px 1px #E32D67;
+	box-shadow:inset 0px 0px 0px 1px #E32D67;
+}
+
+
+
+
+/* CONFETTI BUTTON */

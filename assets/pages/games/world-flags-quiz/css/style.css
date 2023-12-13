@@ -52,7 +52,7 @@
 	width: 1000px; 
 	height: 200px; 
 	overflow: visible;
-	background-image: url(/assets/pages/games/flag-quiz/img/worldmap-svg.webp);
+	background-image: url(/assets/pages/games/world-flags-quiz/img/worldmap-svg.webp);
 	background-repeat: no-repeat;
 }
 .globe-outer-shadow { 
@@ -90,4 +90,27 @@
 	to {
 		transform: translateX(0);
 	}
+}
+
+#game-screen {
+    min-height: 50vh;
+}
+
+#game-mode-country,
+#game-screen.game_step_home #home-button {
+	display: none;
+	transition: display 0s, opacity 5s linear;
+}
+
+.display-none {
+	display: none !important;
+	transition: display 0s, opacity 5s linear;
+}
+
+.width-38-percent {
+	width: 38%;
+}
+
+.margin-0-auto {
+	margin: 0 auto;
 }

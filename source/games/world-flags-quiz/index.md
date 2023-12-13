@@ -15,8 +15,12 @@ thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
 useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/cssanimation.min.css"]
 ---
 
+<button onclick="confetti()" id="confetti-btn" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+    Confetti
+</button>
+
 <div id="game-screen" class="has-ribbon game_step_home">
-  <button onclick="backToHome()" id="home-button" class="ribbon button is-primary cssanimation blurInTop">
+  <button onclick="backToHome(this)" id="home-button" class="ribbon button is-primary cssanimation blurInTop">
     <i class="fa-solid fa-house"></i>
   </button>
   <h1 class="has-text-centered">
@@ -37,7 +41,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
       </div>
     </h1>
     <h1 class="has-text-centered cssanimation fadeInBottom">
-      <Button class="button is-success px-5" onclick="onClickStartButton()">Start</Button>
+      <Button class="button is-success px-5" onclick="onClickStartButton(this)">Start</Button>
     </h1>
   </div>
 
@@ -58,7 +62,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
             </figure>
           </div>
           <footer class="card-footer">
-            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('flag')">Find the flag</button>
+            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('flag', this)">Find the flag</button>
           </footer>
         </div>
       </div>
@@ -70,7 +74,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
             </figure>
           </div>
           <footer class="card-footer">
-            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('country')">Find the country</button>
+            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('country', this)">Find the country</button>
           </footer>
         </div>
       </div>
@@ -88,7 +92,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           <span>Choose the correct flag</span>
         </h3>
         <h3 class="has-text-centered mt-2">
-          <button class="button is-primary is-size-4">Vietnam</button>
+          <button onclick="congrats(this)" class="button is-primary is-size-4">Vietnam</button>
         </h3>
       </div>
       <!-- END FLAG QUESTION -->
@@ -162,3 +166,4 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
 
 <script src="/assets/pages/games/world-flags-quiz/js/script.js"></script>
 <script src="/assets/pages/games/world-flags-quiz/js/confetti-effect.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/party-js@latest/bundle/party.min.js"></script>

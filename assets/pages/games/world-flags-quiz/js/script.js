@@ -3,16 +3,20 @@ const gameModeWrapperElement = {
     country: "#game-mode-country",
 }
 
-function onClickStartButton() {
-    $("#welcome-screen").fadeOut(100, ()=>{
-        $("#choose-game-modes-screen").removeClass('display-none')
-        $("#choose-game-modes-screen").fadeIn(100, function(){
-            const gameModeOptions = $('.game-mode-option')
-            for (const gameModeItem of gameModeOptions) {
-                gameModeItem.classList.remove("display-none")
-            }
+function onClickStartButton(event) {
+    // sparkles()
+    congrats(event)
+    setTimeout(()=>{
+        $("#welcome-screen").fadeOut(100, ()=>{
+            $("#choose-game-modes-screen").removeClass('display-none')
+            $("#choose-game-modes-screen").fadeIn(100, function(){
+                const gameModeOptions = $('.game-mode-option')
+                for (const gameModeItem of gameModeOptions) {
+                    gameModeItem.classList.remove("display-none")
+                }
+            })
         })
-    })
+    }, 50)
 }
 
 function loadData() {
@@ -21,11 +25,14 @@ function loadData() {
     .then((json) => console.log(json));
 }
 
-function backToHome() {
-    $("#game-play").addClass('display-none')
-    $("#choose-game-modes-screen").fadeOut(100, ()=>{
-        $("#welcome-screen").fadeIn()
-    })
+function backToHome(event) {
+    congrats(event)
+    setTimeout(()=>{
+        $("#game-play").addClass('display-none')
+        $("#choose-game-modes-screen").fadeOut(100, ()=>{
+            $("#welcome-screen").fadeIn()
+        })
+    },50)
 }
 
 function ready(callback){
@@ -39,13 +46,17 @@ function ready(callback){
     });
 }
 
-function chooseGameMode(opt) {
-    $('#game-screen').addClass("game_step_" + opt)
-    $('#game-screen').removeClass("game_step_home")
-    $('#choose-game-modes-screen').fadeOut(100,  function(){
-        $('#game-play').removeClass('display-none')
-        $(gameModeWrapperElement[opt]).removeClass('display-none')
-    })
+function chooseGameMode(opt, event) {
+    congrats(event)
+    setTimeout(()=>{
+        $('#game-screen').addClass("game_step_" + opt)
+        $('#game-screen').removeClass("game_step_home")
+        $('#choose-game-modes-screen').fadeOut(100,  function(){
+            $('#game-play').removeClass('display-none')
+            $(gameModeWrapperElement[opt]).removeClass('display-none')
+        })
+    }, 50)
+    // sparkles()
 }
 
 ready(function(){
@@ -53,4 +64,12 @@ ready(function(){
     loadData()
 });
 
+function congrats(event){
+    // const element = event
+    // party.confetti(element, {
+    //   count: party.variation.range(20, 40),
+    //   shapes: ["star"],
+    // });
+    sparkles()
+}
 

@@ -76,16 +76,75 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
       </div>
     </div>
   </div>
+
   <div id="game-mode-country" class="cssanimation blurInBottom display-none">
     <p>country</p>
   </div>
+
   <div id="game-mode-flag" class="cssanimation blurInBottom display-none">
-    <h3 class="has-text-centered mt-5">
-      <span>Choose the correct flag</span>
-    </h3>
-    <h3 class="has-text-centered mt-2">
-      <button class="button is-primary is-size-4">Vietnam</button>
-    </h3>
+    <!-- START FLAG QUESTION -->
+    <div id="flag-question" class="mt-5">
+      <h3 class="has-text-centered" class="mt-5">
+        <span>Choose the correct flag</span>
+      </h3>
+      <h3 class="has-text-centered mt-2">
+        <button class="button is-primary is-size-4">Vietnam</button>
+      </h3>
+    </div>
+    <!-- END FLAG QUESTION -->
+    <!--  -->
+    <!-- START FLAG MULTIPLE CHOICES  -->
+    <div id="flag-multiple-choices" class="mt-5">
+      <div class="columns">
+        <!-- START OPTION 1 -->
+        <div class="column is-half-desktop has-background-light">
+          <div class="card game-mode-flag-option cssanimation blurInTop">
+            <div class="card-content width-38-percent margin-0-auto">
+              <figure class="image">
+                <img src="https://flagcdn.com/108x81/ua.webp">
+              </figure>
+            </div>
+          </div>
+        </div>
+        <!-- END OPTION 1 -->
+        <!-- START OPTION 2 -->
+        <div class="column is-half-desktop">
+          <div class="card  is-warning cssanimation blurInTop">
+            <div class="card-content width-38-percent margin-0-auto">
+              <figure class="image">
+                <img src="https://flagcdn.com/108x81/vn.webp">
+              </figure>
+            </div>
+          </div>
+        </div>
+        <!-- END OPTION 2 -->
+      </div>
+      <div class="columns">
+        <!-- START OPTION 3 -->
+        <div class="column is-half-desktop">
+          <div class="card  is-warning cssanimation blurInTop">
+            <div class="card-content width-38-percent margin-0-auto">
+              <figure class="image">
+                <img src="https://flagcdn.com/108x81/us.webp">
+              </figure>
+            </div>
+          </div>
+        </div>
+        <!-- END OPTION 3 -->
+        <!-- START OPTION 4 -->
+        <div class="column is-half-desktop">
+          <div class="card  is-warning cssanimation blurInTop">
+            <div class="card-content width-38-percent margin-0-auto">
+              <figure class="image">
+                <img src="https://flagcdn.com/108x81/ru.webp">
+              </figure>
+            </div>
+          </div>
+        </div>
+        <!-- END OPTION 4 -->
+      </div>
+    </div>
+    <!-- END FLAG MULTIPLE CHOICES  -->
   </div>
 </div>
 

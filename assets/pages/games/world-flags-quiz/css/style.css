@@ -96,7 +96,6 @@
     min-height: 50vh;
 }
 
-#game-mode-country,
 #game-screen.game_step_home #home-button {
 	display: none;
 	transition: display 0s, opacity 5s linear;
@@ -114,3 +113,7 @@
 .margin-0-auto {
 	margin: 0 auto;
 }
+
+/* .game-mode-flag-option {
+	background-color: transparent !important;
+} */

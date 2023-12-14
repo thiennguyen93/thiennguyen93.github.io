@@ -62,7 +62,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
             </figure>
           </div>
           <footer class="card-footer">
-            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('country', this)">Find the country</button>
+            <button class="is-size-5 is-primary button is-large is-fullwidth" onclick="chooseGameMode('country', this)">Find the country</button>
           </footer>
         </div>
       </div>
@@ -74,7 +74,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
             </figure>
           </div>
           <footer class="card-footer">
-            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('flag', this)">Find the flag</button>
+            <button class="is-size-5 is-primary button is-large is-fullwidth" onclick="chooseGameMode('flag', this)">Find the flag</button>
           </footer>
         </div>
       </div>

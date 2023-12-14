@@ -12,12 +12,12 @@ comment: false
 background: false
 widgets: false
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
-useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/cssanimation.min.css"]
+useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/cssanimation.min.css","https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"]
 ---
 
-<!-- <button onclick="confetti()" id="confetti-btn" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+<button onclick="party.confetti(this)" id="confetti-btn" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
     Confetti
-</button> -->
+</button>
 
 <div id="game-screen" class="has-ribbon game_step_home">
   <button onclick="backToHome(this)" id="home-button" class="ribbon button is-primary cssanimation blurInTop">
@@ -102,54 +102,46 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
         <div class="columns is-flex is-flex-wrap-wrap">
           <!-- START OPTION 1 -->
           <div class="column is-half-mobile">
-            <a href="#">
-              <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
-                <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
-                  <figure class="image">
-                    <img src="https://flagcdn.com/128x96/ua.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
-                  </figure>
-                </div>
+            <div class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
+              <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
+                <figure class="image">
+                  <img src="https://flagcdn.com/128x96/ua.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
+                </figure>
               </div>
-            </a>
+            </div>
           </div>
           <!-- END OPTION 1 -->
           <!-- START OPTION 2 -->
           <div class="column is-half-mobile">
-            <a href="#">
-              <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
-                <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
-                  <figure class="image">
-                    <img src="https://flagcdn.com/128x96/vn.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
-                  </figure>
-                </div>
+            <div class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
+              <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
+                <figure class="image">
+                  <img src="https://flagcdn.com/128x96/vn.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
+                </figure>
               </div>
-            </a>
+            </div>
           </div>
           <!-- END OPTION 2 -->
           <!-- START OPTION 3 -->
           <div class="column is-half-mobile">
-            <a href="#">
-              <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
-                <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
-                  <figure class="image">
-                    <img src="https://flagcdn.com/128x96/us.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
-                  </figure>
-                </div>
+            <div class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
+              <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
+                <figure class="image">
+                  <img src="https://flagcdn.com/128x96/us.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
+                </figure>
               </div>
-            </a>
+            </div>
           </div>
           <!-- END OPTION 3 -->
           <!-- START OPTION 4 -->
           <div class="column is-half-mobile">
-            <a href="#">
-              <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
-                <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
-                  <figure class="image">
-                    <img src="https://flagcdn.com/128x96/ru.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
-                  </figure>
-                </div>
+            <div class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
+              <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
+                <figure class="image">
+                  <img src="https://flagcdn.com/128x96/ru.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
+                </figure>
               </div>
-            </a>
+            </div>
           </div>
           <!-- END OPTION 4 -->
         </div>

@@ -7,9 +7,15 @@ const gameModeWrapperElement = {
     country: "#game-mode-country",
 }
 
+const predefinedClassName = {
+    correctAnswer: 'correct-answer',
+    tadaAnimation: ['animate__animated', 'animate__tada'],
+    wobbleAnimation: ['animate__animated', 'animate__wobble']
+}
+
 function onClickStartButton(event) {
     // sparkles()
-    congrats(event)
+    showSparkles(event)
     setTimeout(()=>{
         $("#welcome-screen").fadeOut(100, ()=>{
             $("#choose-game-modes-screen").removeClass('display-none')
@@ -30,7 +36,7 @@ function loadCountryData() {
 }
 
 function backToHome(event) {
-    congrats(event)
+    showSparkles(event)
     setTimeout(()=>{
         $("#game-play").addClass('display-none')
         $("#choose-game-modes-screen").fadeOut(100, ()=>{
@@ -51,7 +57,7 @@ function ready(callback){
 }
 
 function chooseGameMode(opt, event) {
-    congrats(event)
+    showSparkles(event)
     setTimeout(()=>{
         $('#game-screen').addClass("game_step_" + opt)
         $('#game-screen').removeClass("game_step_home")
@@ -101,13 +107,40 @@ function flagModeLoadNewQuestion() {
     const chosenCountry = randomCountries?.[randomIndex]
     if (chosenCountry) {
         $('#flag-question-country-name').text(chosenCountry?.name?.official)
-        $('img.flag-mode-option-items:eq(0)').attr('src', `https://flagcdn.com/${randomCountries[0]?.cca2?.toLowerCase()
-    }.svg`);
         for (let i = 0; i < 4; i++) {
-            $(`img.flag-mode-option-items:eq(${i})`).attr('src', randomCountries[i]?.flags?.png);
+            const wrapperOfAnswerItem =  $(`.game-mode-flag-option:eq(${i})`)
+            const answerItem = $(`img.flag-mode-option-items:eq(${i})`)
+            answerItem.attr('src', randomCountries[i]?.flags?.png);
+            if (i ===randomIndex) {
+                answerItem.addClass(predefinedClassName.correctAnswer)
+                wrapperOfAnswerItem.addClass(predefinedClassName.correctAnswer)
+            } else {
+                answerItem.removeClass(predefinedClassName.correctAnswer)
+                wrapperOfAnswerItem.removeClass(predefinedClassName.correctAnswer)
+            }
         }
     }
-    console.log(randomCountries)
+}
+
+function onPlayerSelectAnswerInFlagMode(event) {
+    // console.log(event)
+    // event for class .game-mode-flag-option, check flagModeLoadNewQuestion
+    event.classList.remove('cssanimation')
+    const animationEffect = {
+        true: predefinedClassName.tadaAnimation,
+        false: predefinedClassName.wobbleAnimation
+    }
+        const isAnswerCorrect = event.classList.contains(predefinedClassName.correctAnswer)
+        const chosenEffect = animationEffect[isAnswerCorrect]
+        event.classList.add(...chosenEffect)
+        setTimeout(()=>{
+            event.classList.remove(...chosenEffect)
+        },1000)
+        if (isAnswerCorrect){
+            party.confetti(event)
+        } 
+        return
+
 }
 
 ready(async function(){
@@ -115,7 +148,7 @@ ready(async function(){
     data.country  = await loadCountryData()
 });
 
-function congrats(event){
+function showSparkles(event){
     // const element = event
     // party.confetti(element, {
     //   count: party.variation.range(20, 40),

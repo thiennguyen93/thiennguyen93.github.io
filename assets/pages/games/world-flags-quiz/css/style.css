@@ -106,8 +106,11 @@
 	transition: display 0s, opacity 5s linear;
 }
 
-.width-38-percent {
-	width: 38%;
+.center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Điều chỉnh chiều cao nếu cần thiết */
 }
 
 .margin-0-auto {

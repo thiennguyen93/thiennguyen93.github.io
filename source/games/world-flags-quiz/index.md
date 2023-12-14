@@ -56,7 +56,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
     <div class="columns is-desktop mt-5">
       <div class="column">
         <div class="card game-mode-option cssanimation blurInTop display-none">
-          <div class="card-content width-38-percent margin-0-auto">
+          <div class="card-content center-image margin-0-auto">
             <figure class="image is-128x128">
               <img src="/assets/pages/games/world-flags-quiz/img/countries_128.png">
             </figure>
@@ -68,7 +68,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
       </div>
       <div class="column">
         <div class="card game-mode-option cssanimation blurInTop display-none">
-          <div class="card-content width-38-percent margin-0-auto">
+          <div class="card-content center-image margin-0-auto">
             <figure class="image is-128x128">
               <img class="not-gallery-item" src="/assets/pages/games/world-flags-quiz/img/flag_128.png">
             </figure>
@@ -101,11 +101,11 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
       <div id="flag-multiple-choices" class="mt-5">
         <div class="columns">
           <!-- START OPTION 1 -->
-          <div class="column is-half-desktop">
+          <div class="column is-half">
             <a href="#">
               <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
-                <div class="card-content width-38-percent margin-0-auto">
-                  <figure class="image">
+                <div class="card-content center-image margin-0-auto">
+                  <figure class="image is-64x64">
                     <img src="https://flagcdn.com/108x81/ua.webp" class="not-gallery-item img-reset-brightness">
                   </figure>
                 </div>
@@ -114,11 +114,11 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           </div>
           <!-- END OPTION 1 -->
           <!-- START OPTION 2 -->
-          <div class="column is-half-desktop">
+          <div class="column is-half">
             <a href="#">
               <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
-                <div class="card-content width-38-percent margin-0-auto">
-                  <figure class="image">
+                <div class="card-content center-image margin-0-auto">
+                  <figure class="image is-64x64">
                     <img src="https://flagcdn.com/108x81/vn.webp" class="not-gallery-item img-reset-brightness">
                   </figure>
                 </div>
@@ -129,11 +129,11 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
         </div>
         <div class="columns">
           <!-- START OPTION 3 -->
-          <div class="column is-half-desktop">
+          <div class="column is-half">
             <a href="#">
               <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
-                <div class="card-content width-38-percent margin-0-auto">
-                  <figure class="image">
+                <div class="card-content center-image margin-0-auto">
+                  <figure class="image is-64x64">
                     <img src="https://flagcdn.com/108x81/us.webp" class="not-gallery-item img-reset-brightness">
                   </figure>
                 </div>
@@ -142,11 +142,11 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           </div>
           <!-- END OPTION 3 -->
           <!-- START OPTION 4 -->
-          <div class="column is-half-desktop">
+          <div class="column is-half">
             <a href="#">
               <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
-                <div class="card-content width-38-percent margin-0-auto">
-                  <figure class="image">
+                <div class="card-content center-image margin-0-auto">
+                  <figure class="image is-64x64">
                     <img src="https://flagcdn.com/108x81/ru.webp" class="not-gallery-item img-reset-brightness">
                   </figure>
                 </div>

@@ -56,3 +56,8 @@ If class is added to an img element. It will be ignored in the gallery of the po
 - Package  https://www.npmjs.com/package/lqip-modern
 
 This package helps the low quality version of each images stored in the `root/assets/img` directory. The LQIP is saved under path `source[_<<{language_code}>>]/assets/img/lqip/<<file_name>>.webp`
+
+
+# THIRD-PARTY APIs
+1. Restcountries.com 
+- https://restcountries.com/v3.1/all?fields=name,flags

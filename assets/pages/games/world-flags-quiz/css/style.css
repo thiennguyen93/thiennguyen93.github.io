@@ -127,8 +127,8 @@
 	box-shadow:inset 0px 0px 0px 1px #E32D67;
 }
 
-.display-flex {
-	display: flex;
+.is-flex-wrap-wrap {
+	flex-wrap: wrap;
 }
 
 

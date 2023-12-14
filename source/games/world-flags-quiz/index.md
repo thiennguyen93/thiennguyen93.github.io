@@ -54,7 +54,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
       </div>
     </div>
     <div class="columns display-flex is-desktop mt-5">
-      <div class="column is-half">
+      <div class="column is-half-mobile">
         <div class="card game-mode-option cssanimation blurInTop display-none">
           <div class="card-content center-image margin-0-auto">
             <figure class="image is-64x64">
@@ -62,11 +62,11 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
             </figure>
           </div>
           <footer class="card-footer">
-            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('flag', this)">Find the flag</button>
+            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('country', this)">Find the country</button>
           </footer>
         </div>
       </div>
-      <div class="column is-half">
+      <div class="column is-half-mobile">
         <div class="card game-mode-option cssanimation blurInTop display-none">
           <div class="card-content center-image margin-0-auto">
             <figure class="image is-64x64">
@@ -74,7 +74,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
             </figure>
           </div>
           <footer class="card-footer">
-            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('country', this)">Find the country</button>
+            <button class="is-primary button is-large is-fullwidth" onclick="chooseGameMode('flag', this)">Find the flag</button>
           </footer>
         </div>
       </div>

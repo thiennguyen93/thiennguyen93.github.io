@@ -131,6 +131,14 @@
 	flex-wrap: wrap;
 }
 
+.flag-mode-option-items  {
+	width: 128px;
+}
+
+.flag-mode-option-item-wrapper {
+	width: 180px;
+	height: 128px;
+}
 
 
 

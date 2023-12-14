@@ -53,11 +53,11 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
         </div>
       </div>
     </div>
-    <div class="columns is-desktop mt-5">
-      <div class="column">
+    <div class="columns display-flex is-desktop mt-5">
+      <div class="column is-half">
         <div class="card game-mode-option cssanimation blurInTop display-none">
           <div class="card-content center-image margin-0-auto">
-            <figure class="image is-128x128">
+            <figure class="image is-64x64">
               <img src="/assets/pages/games/world-flags-quiz/img/countries_128.png">
             </figure>
           </div>
@@ -66,10 +66,10 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           </footer>
         </div>
       </div>
-      <div class="column">
+      <div class="column is-half">
         <div class="card game-mode-option cssanimation blurInTop display-none">
           <div class="card-content center-image margin-0-auto">
-            <figure class="image is-128x128">
+            <figure class="image is-64x64">
               <img class="not-gallery-item" src="/assets/pages/games/world-flags-quiz/img/flag_128.png">
             </figure>
           </div>
@@ -99,7 +99,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
       <!--  -->
       <!-- START FLAG MULTIPLE CHOICES  -->
       <div id="flag-multiple-choices" class="mt-5">
-        <div class="columns">
+        <div class="columns display-flex">
           <!-- START OPTION 1 -->
           <div class="column is-half">
             <a href="#">
@@ -127,7 +127,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           </div>
           <!-- END OPTION 2 -->
         </div>
-        <div class="columns">
+        <div class="columns display-flex">
           <!-- START OPTION 3 -->
           <div class="column is-half">
             <a href="#">

@@ -127,6 +127,10 @@
 	box-shadow:inset 0px 0px 0px 1px #E32D67;
 }
 
+.display-flex {
+	display: flex;
+}
+
 
 
 

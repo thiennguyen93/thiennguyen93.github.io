@@ -101,12 +101,12 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
       <div id="flag-multiple-choices" class="mt-5">
         <div class="columns display-flex">
           <!-- START OPTION 1 -->
-          <div class="column is-half">
+          <div class="column is-half-mobile">
             <a href="#">
               <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
                 <div class="card-content center-image margin-0-auto">
-                  <figure class="image is-64x64">
-                    <img src="https://flagcdn.com/108x81/ua.webp" class="not-gallery-item img-reset-brightness">
+                  <figure class="image">
+                    <img src="https://flagcdn.com/128x96/ua.webp" class="not-gallery-item img-reset-brightness">
                   </figure>
                 </div>
               </div>
@@ -114,12 +114,12 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           </div>
           <!-- END OPTION 1 -->
           <!-- START OPTION 2 -->
-          <div class="column is-half">
+          <div class="column is-half-mobile">
             <a href="#">
               <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
                 <div class="card-content center-image margin-0-auto">
-                  <figure class="image is-64x64">
-                    <img src="https://flagcdn.com/108x81/vn.webp" class="not-gallery-item img-reset-brightness">
+                  <figure class="image">
+                    <img src="https://flagcdn.com/128x96/vn.webp" class="not-gallery-item img-reset-brightness">
                   </figure>
                 </div>
               </div>
@@ -129,12 +129,12 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
         </div>
         <div class="columns display-flex">
           <!-- START OPTION 3 -->
-          <div class="column is-half">
+          <div class="column is-half-mobile">
             <a href="#">
               <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
                 <div class="card-content center-image margin-0-auto">
-                  <figure class="image is-64x64">
-                    <img src="https://flagcdn.com/108x81/us.webp" class="not-gallery-item img-reset-brightness">
+                  <figure class="image">
+                    <img src="https://flagcdn.com/128x96/us.webp" class="not-gallery-item img-reset-brightness">
                   </figure>
                 </div>
               </div>
@@ -142,12 +142,12 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           </div>
           <!-- END OPTION 3 -->
           <!-- START OPTION 4 -->
-          <div class="column is-half">
+          <div class="column is-half-mobile">
             <a href="#">
               <div class="card is-warning game-mode-flag-option cssanimation blurInTop">
                 <div class="card-content center-image margin-0-auto">
-                  <figure class="image is-64x64">
-                    <img src="https://flagcdn.com/108x81/ru.webp" class="not-gallery-item img-reset-brightness">
+                  <figure class="image">
+                    <img src="https://flagcdn.com/128x96/ru.webp" class="not-gallery-item img-reset-brightness">
                   </figure>
                 </div>
               </div>

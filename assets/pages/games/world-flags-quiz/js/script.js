@@ -1,3 +1,7 @@
+const data = {
+    country: []
+}
+
 const gameModeWrapperElement = {
     flag: "#game-mode-flag",
     country: "#game-mode-country",
@@ -19,9 +23,9 @@ function onClickStartButton(event) {
     }, 50)
 }
 
-function loadData() {
-    fetch('https://server.com/data.json')
-    .then((response) => response.json())
+function loadCountryData() {
+    fetch('/assets/pages/games/world-flags-quiz/data/data.json')
+    .then((response) => data.country = response.json())
     .then((json) => console.log(json));
 }
 
@@ -59,9 +63,13 @@ function chooseGameMode(opt, event) {
     // sparkles()
 }
 
+function flagModeLoadQuestion() {
+
+}
+
 ready(function(){
     // do something
-    loadData()
+    loadCountryData()
 });
 
 function congrats(event){

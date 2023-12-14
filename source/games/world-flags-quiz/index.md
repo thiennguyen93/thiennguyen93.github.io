@@ -82,8 +82,9 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
   </div>
 
   <div id="game-play">
-    <div id="game-mode-country" class="cssanimation blurInBottom display-none">
-      <p>country</p>
+    <div id="game-mode-country" class="cssanimation blurInBottom display-none has-text-centered">
+      <img src="/assets/pages/games/world-flags-quiz/img/219347-P0VB16-493.jpg" width="40%">
+      <h2 class="has-text-centered mt-5 has-text-danger">This game mode is under construction</h2>
     </div>
     <div id="game-mode-flag" class="cssanimation display-none">
       <!-- START FLAG QUESTION -->

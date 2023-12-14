@@ -137,12 +137,19 @@
 
 .flag-mode-option-items  {
 	width: 128px;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+  	filter: drop-shadow(5px 5px 5px #222);
 }
 
 .flag-mode-option-item-wrapper {
 	width: 180px;
 	height: 128px;
 }
+
+.flag-mode-option-item-wrapper>.image>img {
+	box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
 
 
 

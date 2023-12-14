@@ -15,9 +15,9 @@ thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
 useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/cssanimation.min.css"]
 ---
 
-<button onclick="confetti()" id="confetti-btn" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+<!-- <button onclick="confetti()" id="confetti-btn" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
     Confetti
-</button>
+</button> -->
 
 <div id="game-screen" class="has-ribbon game_step_home">
   <button onclick="backToHome(this)" id="home-button" class="ribbon button is-primary cssanimation blurInTop">

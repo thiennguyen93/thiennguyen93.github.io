@@ -15,7 +15,8 @@ const sounds  = {
     magicalSpell: new Audio('/assets/pages/games/world-flags-quiz/sounds/Magic-Spell-A-Medium-www.fesliyanstudios.com.mp3'),
     magicalHit: new Audio('/assets/pages/games/world-flags-quiz/sounds/magical-hit-45356.mp3'),
     incorrect: new Audio('/assets/pages/games/world-flags-quiz/sounds/incorrect.mp3'),
-    mouseHover: new Audio('/assets/pages/games/world-flags-quiz/sounds/mouse-hover.mp3')
+    mouseHover: new Audio('/assets/pages/games/world-flags-quiz/sounds/mouse-hover.mp3'),
+    questionIntro: new Audio('/assets/pages/games/world-flags-quiz/sounds/question-intro.mp3')
 }
 
 const predefinedClassName = {
@@ -28,6 +29,9 @@ const predefinedClassName = {
 function onClickStartButton(event) {
     // sparkles()
     showSparkles(event)
+    for (let i = 0; i < 4; i++) {
+        $(`.game-mode-flag-option:eq(${i})`).addClass('cssanimation blurInTop')
+    }
     setTimeout(()=>{
         $("#welcome-screen").fadeOut(100, ()=>{
             $("#choose-game-modes-screen").removeClass('display-none')
@@ -51,7 +55,9 @@ function loadCountryData() {
 
 function backToHome(event) {
     showSparkles(event)
+    $("#game-play").addClass('cssanimation blurOutBottom')
     setTimeout(()=>{
+        $("#game-play").removeClass('cssanimation blurOutBottom')
         $("#game-play").addClass('display-none')
         $("#choose-game-modes-screen").fadeOut(100, ()=>{
             $("#welcome-screen").fadeIn()
@@ -168,7 +174,8 @@ function flagModeLoadNewQuestion() {
 }
 
 function flagModeGotoNextQuestion() {
-    $('#flag-question').addClass('blurOutBottom')
+    playSound(sounds.questionIntro)
+    $('#flag-question').addClass('cssanimation blurOutBottom')
     $('#flag-question').removeClass('blurInBottom')
 
     for (let i = 0; i < 4; i++) {
@@ -177,7 +184,7 @@ function flagModeGotoNextQuestion() {
 
     setTimeout(()=>{
         // Reshow new question
-        $('#flag-question').addClass('blurInBottom')
+        $('#flag-question').addClass('cssanimation blurInBottom')
         $('#flag-question').removeClass('blurOutBottom')
 
         for (let i = 0; i < 4; i++) {

@@ -31,7 +31,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
       <i class="fa-solid fa-house"></i>
     </button>
   </div>
-  <h1 class="has-text-centered">
+  <h1 class="has-text-centered mb-5">
     <p class="cssanimation leFlyInRight sequence">World Flags Mini Game</p>
   </h2>
   <div id="welcome-screen" class="">
@@ -113,7 +113,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           <div class="column is-half-mobile">
             <div onmouseenter="playSound(sounds.mouseHover)" class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
               <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
-                <figure class="image">
+                <figure class="image margin-0-auto">
                   <img src="https://flagcdn.com/128x96/ua.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
                 </figure>
               </div>
@@ -124,7 +124,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           <div class="column is-half-mobile">
             <div onmouseenter="playSound(sounds.mouseHover)" class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
               <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
-                <figure class="image">
+                <figure class="image margin-0-auto">
                   <img src="https://flagcdn.com/128x96/vn.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
                 </figure>
               </div>
@@ -135,7 +135,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           <div class="column is-half-mobile">
             <div onmouseenter="playSound(sounds.mouseHover)" class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
               <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
-                <figure class="image">
+                <figure class="image margin-0-auto">
                   <img src="https://flagcdn.com/128x96/us.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
                 </figure>
               </div>
@@ -146,7 +146,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           <div class="column is-half-mobile">
             <div onmouseenter="playSound(sounds.mouseHover)" class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
               <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
-                <figure class="image">
+                <figure class="image margin-0-auto">
                   <img src="https://flagcdn.com/128x96/ru.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
                 </figure>
               </div>

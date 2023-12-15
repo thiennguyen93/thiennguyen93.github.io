@@ -18,9 +18,19 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
 <button onclick="flagModeGotoNextQuestion()">Next question</button>
 
 <div id="game-screen" class="has-ribbon game_step_home">
-  <button onclick="backToHome(this)" id="home-button" class="ribbon ribbon-custom-home-button button is-primary cssanimation blurInTop">
-    <i class="fa-solid fa-house"></i>
-  </button>
+  <div id="home-button" class="ribbon ribbon-custom-home-button">
+    <button id="score-panel" onclick="backToHome(this)" class="button is-primary cssanimation blurInTop">
+      <i class="fa-solid fa-award"></i>
+      <span class="mx-3">Score</span>
+      <div class="has-text-weight-semibold is-size-4">
+        <span id="score">100</span>
+        <span id="score-change" class="is-invisible">+100</span>
+      </div>
+    </button>
+    <button onclick="backToHome(this)" class="button is-primary cssanimation blurInTop">
+      <i class="fa-solid fa-house"></i>
+    </button>
+  </div>
   <h1 class="has-text-centered">
     <p class="cssanimation leFlyInRight sequence">World Flags Mini Game</p>
   </h2>
@@ -60,7 +70,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
             </figure>
           </div>
           <footer class="card-footer">
-            <button class="is-size-5 is-primary button is-large is-fullwidth" onclick="//chooseGameMode('country', this)">Find the country <span class="ml-2">(under construction)</span></button>
+            <button class="is-size-5 is-primary button is-large is-fullwidth" onclick="//chooseGameMode('country', this)">Find the country <span class="ml-2">(coming soon)</span></button>
           </footer>
         </div>
       </div>

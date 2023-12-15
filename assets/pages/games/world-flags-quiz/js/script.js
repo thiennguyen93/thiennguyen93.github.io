@@ -1,3 +1,7 @@
+
+// Declare variables
+let scoreChangeLabel = undefined;
+let scoreLabel =  undefined;
 const data = {
     country: []
 }
@@ -5,6 +9,8 @@ const data = {
 const preload = {
     flagMode: null
 }
+
+const score = 0
 
 const gameModeWrapperElement = {
     flag: "#game-mode-flag",
@@ -23,7 +29,15 @@ const predefinedClassName = {
     correctAnswer: 'correct-answer',
     tadaAnimation: ['animate__animated', 'animate__tada'],
     wobbleAnimation: ['animate__animated', 'animate__wobble'],
-    blinkText: 'blink-text'
+    blinkText: 'blink-text',
+    selected: 'selected'
+}
+
+function flagModeResetOptions(){
+    for (let i = 0; i < 4; i++) {
+        $(`.game-mode-flag-option:eq(${i})`).addClass('cssanimation blurInTop')
+        $(`.game-mode-flag-option:eq(${i})`).removeClass('selected')
+    }
 }
 
 function onClickStartButton(event) {
@@ -61,6 +75,7 @@ function backToHome(event) {
         $("#game-play").addClass('display-none')
         $("#choose-game-modes-screen").fadeOut(100, ()=>{
             $("#welcome-screen").fadeIn()
+            flagModeResetOptions()
         })
     },50)
 }
@@ -173,6 +188,25 @@ function flagModeLoadNewQuestion() {
     flagModePreloadNextQuestion()
 }
 
+function scoreUp(score) {
+    scoreChangeLabel.text("+" + score)
+    scoreChangeLabel.addClass('cssanimation blurInTop').removeClass('is-invisible')
+    setTimeout(()=>{
+        scoreLabel.addClass('cssanimation blurOutBottom')
+        scoreChangeLabel.addClass('cssanimation blurOutBottom')
+        setTimeout(()=>{
+            console.log(scoreLabel.text)
+            scoreLabel.text(Number(scoreLabel.text()) + score)
+            scoreLabel.removeClass('blurOutBottom')
+            scoreLabel.addClass('cssanimation blurInTop')
+        }, 200)
+        setTimeout(()=>{
+            scoreChangeLabel.removeClass('cssanimation blurOutBottom blurInTop')
+            scoreChangeLabel.addClass('is-invisible')
+        }, 200)
+    },500)
+}
+
 function flagModeGotoNextQuestion() {
     playSound(sounds.questionIntro)
     $('#flag-question').addClass('cssanimation blurOutBottom')
@@ -180,6 +214,7 @@ function flagModeGotoNextQuestion() {
 
     for (let i = 0; i < 4; i++) {
         $(`.game-mode-flag-option:eq(${i})`).addClass('cssanimation blurOutTop')
+        $(`.game-mode-flag-option:eq(${i})`).removeClass(predefinedClassName.selected)
     }
 
     setTimeout(()=>{
@@ -204,22 +239,33 @@ function onPlayerSelectAnswerInFlagMode(event) {
         true: predefinedClassName.tadaAnimation,
         false: predefinedClassName.wobbleAnimation
     }
-        const isAnswerCorrect = event.classList.contains(predefinedClassName.correctAnswer)
-        const chosenEffect = animationEffect[isAnswerCorrect]
-        event.classList.add(...chosenEffect)
-        setTimeout(()=>{
-            event.classList.remove(...chosenEffect)
-        },1000)
-        if (isAnswerCorrect){
-            playSound(sounds.magicalHit)
-            party.confetti(event)
-            return
-        } 
-        playSound(sounds.incorrect)
+    const isAnswerCorrect = event.classList.contains(predefinedClassName.correctAnswer)
+    const hasAlreadySelected = event.classList.contains(predefinedClassName.selected)
+    const chosenEffect = animationEffect[isAnswerCorrect]
+    event.classList.add(...chosenEffect, predefinedClassName.selected)
+    setTimeout(()=>{
+        event.classList.remove(...chosenEffect)
+    },1000)
+    if (isAnswerCorrect){
+        playSound(sounds.magicalHit)
+        party.confetti(event)
+        if (!hasAlreadySelected) {
+            scoreUp(10)
+        }
+        return
+    } 
+    playSound(sounds.incorrect)
 }
 
 ready(async function(){
     // do something
+
+    // set variables after dom has loaded
+    scoreChangeLabel = $('#score-change')
+    scoreLabel =  $('#score')
+    // Update score initially
+    scoreLabel.text(score)
+
     data.country  = await loadCountryData()
 });
 

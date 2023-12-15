@@ -151,10 +151,12 @@
 }
 
 .ribbon-custom-home-button {
-	top: -33.5px
+	top: -33.5px;
+	background-color: transparent;
+	border: none;
 }
 
-.blink-text{
+.correct-answer.selected {
 	color: #000;
 	animation: blinkingText 2s infinite;
 }
@@ -166,6 +168,10 @@
 	100%	{ background-color: #04a1d5;}
 }
 
+#score-panel {
+	min-width: 170px;
+	justify-content: left;
+}
 
 
 /* CONFETTI BUTTON */

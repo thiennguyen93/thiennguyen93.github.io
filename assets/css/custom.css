@@ -13,3 +13,11 @@
     filter: brightness(1) !important; 
     -webkit-filter: brightness(1) !important;
 }
+
+
+body:not(.light) .only-in-light-mode {
+    display: none
+}
+body:not(.night) .only-in-night-mode {
+    display: none
+}

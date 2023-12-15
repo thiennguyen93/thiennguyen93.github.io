@@ -167,6 +167,28 @@ function flagModeLoadNewQuestion() {
     flagModePreloadNextQuestion()
 }
 
+function flagModeGotoNextQuestion() {
+    $('#flag-question').addClass('blurOutBottom')
+    $('#flag-question').removeClass('blurInBottom')
+
+    for (let i = 0; i < 4; i++) {
+        $(`.game-mode-flag-option:eq(${i})`).addClass('cssanimation blurOutTop')
+    }
+
+    setTimeout(()=>{
+        // Reshow new question
+        $('#flag-question').addClass('blurInBottom')
+        $('#flag-question').removeClass('blurOutBottom')
+
+        for (let i = 0; i < 4; i++) {
+            console.log( $(`.game-mode-flag-option:eq(${i})`))
+            $(`.game-mode-flag-option:eq(${i})`).removeClass('blurOutTop')
+            $(`.game-mode-flag-option:eq(${i})`).addClass('cssanimation blurInTop')
+        }
+        flagModeLoadNewQuestion()
+    }, 500)
+}
+
 function onPlayerSelectAnswerInFlagMode(event) {
     // console.log(event)
     // event for class .game-mode-flag-option, check flagModeLoadNewQuestion

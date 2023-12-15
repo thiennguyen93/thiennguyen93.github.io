@@ -15,6 +15,8 @@ thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
 useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/cssanimation.min.css","https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"]
 ---
 
+<button onclick="flagModeGotoNextQuestion()">Next question</button>
+
 <div id="game-screen" class="has-ribbon game_step_home">
   <button onclick="backToHome(this)" id="home-button" class="ribbon ribbon-custom-home-button button is-primary cssanimation blurInTop">
     <i class="fa-solid fa-house"></i>

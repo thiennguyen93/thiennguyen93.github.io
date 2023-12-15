@@ -158,7 +158,7 @@
 
 .correct-answer.selected {
 	color: #000;
-	animation: blinkingText 2s infinite;
+	animation: blinkingText 2s infinite, tada 2s;
 }
 @keyframes blinkingText{
 	0%		{ background-color: #10c018;}

@@ -59,8 +59,8 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
         </div>
       </div>
     </div>
-    <div class="columns is-flex is-desktop mt-5">
-      <div class="column is-half-mobile">
+    <div class="columns is-flex is-flex-wrap-wrap is-desktop mt-5">
+      <div class="column is-full-mobile is-one-quarter-tablet is-one-quarter-fullhd">
         <div class="card game-mode-option cssanimation blurInTop display-none">
           <div class="card-content center-image margin-0-auto">
             <figure class="image is-64x64">
@@ -72,7 +72,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           </footer>
         </div>
       </div>
-      <div class="column is-half-mobile">
+      <div class="column is-full-mobile is-one-quarter-tablet is-one-quarter-fullhd">
         <div class="card game-mode-option cssanimation blurInTop display-none">
           <div class="card-content center-image margin-0-auto">
             <figure class="image is-64x64">

@@ -2,15 +2,27 @@ const data = {
     country: []
 }
 
+const preload = {
+    flagMode: null
+}
+
 const gameModeWrapperElement = {
     flag: "#game-mode-flag",
     country: "#game-mode-country",
 }
 
+const sounds  = {
+    magicalSpell: new Audio('/assets/pages/games/world-flags-quiz/sounds/Magic-Spell-A-Medium-www.fesliyanstudios.com.mp3'),
+    magicalHit: new Audio('/assets/pages/games/world-flags-quiz/sounds/magical-hit-45356.mp3'),
+    incorrect: new Audio('/assets/pages/games/world-flags-quiz/sounds/incorrect.mp3'),
+    mouseHover: new Audio('/assets/pages/games/world-flags-quiz/sounds/mouse-hover.mp3')
+}
+
 const predefinedClassName = {
     correctAnswer: 'correct-answer',
     tadaAnimation: ['animate__animated', 'animate__tada'],
-    wobbleAnimation: ['animate__animated', 'animate__wobble']
+    wobbleAnimation: ['animate__animated', 'animate__wobble'],
+    blinkText: 'blink-text'
 }
 
 function onClickStartButton(event) {
@@ -27,6 +39,8 @@ function onClickStartButton(event) {
             })
         })
     }, 50)
+    // Preload: Flag mode
+    flagModePreloadNextQuestion()
 }
 
 function loadCountryData() {
@@ -70,6 +84,11 @@ function chooseGameMode(opt, event) {
     // sparkles()
 }
 
+function preload_image(im_url) {
+  let img = new Image();
+  img.src = im_url;
+}
+
 function getRandomElements(arr, numElements) {
     let shuffled = arr.slice(0);
     let result = [];
@@ -100,11 +119,35 @@ function shuffleArray(arr) {
     return arr;
 }
 
-
-function flagModeLoadNewQuestion() {
+function flagModePreloadNextQuestion() {
+    preload.flagMode = null
     const randomCountries = shuffleArray(getRandomElements(data.country, 4))
     const randomIndex = getRandomNumber(randomCountries.length)
     const chosenCountry = randomCountries?.[randomIndex]
+    const result = {
+        randomCountries,
+        randomIndex,
+        chosenCountry
+    }
+    preload.flagMode = result
+    // Preload image
+    randomCountries.forEach(ctry => {
+        preload_image(ctry?.flags?.png)
+    });
+    return {
+        randomCountries,
+        randomIndex,
+        chosenCountry
+    }
+}
+
+
+function flagModeLoadNewQuestion() {
+    if (!preload.flagMode) {
+        flagModePreloadNextQuestion()
+    }
+
+    const { randomCountries, randomIndex, chosenCountry } = preload.flagMode
     if (chosenCountry) {
         $('#flag-question-country-name').text(chosenCountry?.name?.official)
         for (let i = 0; i < 4; i++) {
@@ -120,6 +163,8 @@ function flagModeLoadNewQuestion() {
             }
         }
     }
+    // Preload next question 
+    flagModePreloadNextQuestion()
 }
 
 function onPlayerSelectAnswerInFlagMode(event) {
@@ -137,10 +182,11 @@ function onPlayerSelectAnswerInFlagMode(event) {
             event.classList.remove(...chosenEffect)
         },1000)
         if (isAnswerCorrect){
+            playSound(sounds.magicalHit)
             party.confetti(event)
+            return
         } 
-        return
-
+        playSound(sounds.incorrect)
 }
 
 ready(async function(){
@@ -148,12 +194,18 @@ ready(async function(){
     data.country  = await loadCountryData()
 });
 
+function playSound(snd) {
+    snd.currentTime=0;
+    snd.play();
+}
+
 function showSparkles(event){
     // const element = event
     // party.confetti(element, {
     //   count: party.variation.range(20, 40),
     //   shapes: ["star"],
     // });
+    playSound(sounds.magicalSpell)
     sparkles()
 }
 

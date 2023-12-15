@@ -150,6 +150,21 @@
 	box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
+.ribbon-custom-home-button {
+	top: -33.5px
+}
+
+.blink-text{
+	color: #000;
+	animation: blinkingText 2s infinite;
+}
+@keyframes blinkingText{
+	0%		{ background-color: #10c018;}
+	25%		{ background-color: #1056c0;}
+	50%		{ background-color: #ef0ac9;}
+	75%		{ background-color: #254878;}
+	100%	{ background-color: #04a1d5;}
+}
 
 
 

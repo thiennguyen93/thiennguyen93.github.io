@@ -15,12 +15,8 @@ thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
 useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/cssanimation.min.css","https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"]
 ---
 
-<button onclick="party.confetti(this)" id="confetti-btn" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-    Confetti
-</button>
-
 <div id="game-screen" class="has-ribbon game_step_home">
-  <button onclick="backToHome(this)" id="home-button" class="ribbon button is-primary cssanimation blurInTop">
+  <button onclick="backToHome(this)" id="home-button" class="ribbon ribbon-custom-home-button button is-primary cssanimation blurInTop">
     <i class="fa-solid fa-house"></i>
   </button>
   <h1 class="has-text-centered">
@@ -93,7 +89,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           <span id="flag-question-text">Choose the correct flag</span>
         </h3>
         <h3 class="has-text-centered mt-2">
-          <button id="flag-question-country-name" onclick="congrats(this)" class="button is-primary is-size-4">Vietnam</button>
+          <span id="flag-question-country-name" onclick="congrats(this)" class="has-text-success is-size-4 has-text-weight-semibold">Vietnam</span>
         </h3>
       </div>
       <!-- END FLAG QUESTION -->
@@ -103,7 +99,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
         <div class="columns is-flex is-flex-wrap-wrap">
           <!-- START OPTION 1 -->
           <div class="column is-half-mobile">
-            <div class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
+            <div onmouseenter="playSound(sounds.mouseHover)" class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
               <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
                 <figure class="image">
                   <img src="https://flagcdn.com/128x96/ua.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
@@ -114,7 +110,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           <!-- END OPTION 1 -->
           <!-- START OPTION 2 -->
           <div class="column is-half-mobile">
-            <div class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
+            <div onmouseenter="playSound(sounds.mouseHover)" class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
               <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
                 <figure class="image">
                   <img src="https://flagcdn.com/128x96/vn.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
@@ -125,7 +121,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           <!-- END OPTION 2 -->
           <!-- START OPTION 3 -->
           <div class="column is-half-mobile">
-            <div class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
+            <div onmouseenter="playSound(sounds.mouseHover)" class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
               <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
                 <figure class="image">
                   <img src="https://flagcdn.com/128x96/us.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">
@@ -136,7 +132,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
           <!-- END OPTION 3 -->
           <!-- START OPTION 4 -->
           <div class="column is-half-mobile">
-            <div class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
+            <div onmouseenter="playSound(sounds.mouseHover)" class="card is-warning game-mode-flag-option cssanimation blurInTop" onclick="onPlayerSelectAnswerInFlagMode(this)">
               <div class="card-content center-image margin-0-auto flag-mode-option-item-wrapper">
                 <figure class="image">
                   <img src="https://flagcdn.com/128x96/ru.webp" class="flag-mode-option-items not-gallery-item img-reset-brightness">

@@ -84,10 +84,7 @@ Phần âm thanh trong game thì mình search từ nhiều nguồn miễn phí t
 ## Kết
 Sau vài hôm nghiên cứu và "code lách", mình đã xong được mode chơi đầu tiên của game. 
 Mời bạn chơi xả "xì-trét" và cũng là để ủng hộ "nhà phát triển" bạn nhé nhé ^^.
-Gameplay thì cực kỳ  đơn giản, bạn được chọn đáp án nhiều lần nếu chọn sai (chỉ tính điểm khi bạn chọn đúng ngay lần đầu tiên). Nghĩa là bạn sẽ không bao giờ thua nên cũng không cần lo bị "xử" giống trong Squid Game series đâu heng ^^.
-
-<a href="https://www.imdb.com/title/tt10919420/"><span data-tooltip="Original title: Ojing-eo geim
- - TV Series 2021">Squid Game</span></a>
+Gameplay thì cực kỳ  đơn giản, bạn được chọn đáp án nhiều lần nếu chọn sai (chỉ tính điểm khi bạn chọn đúng ngay lần đầu tiên). Nghĩa là bạn sẽ không bao giờ thua nên cũng không cần lo bị "xử" giống trong <a href="https://www.imdb.com/title/tt10919420/"><span class="has-text-weight-medium" data-tooltip="Original title: Ojing-eo geim - TV Series 2021">Squid Game series</span></a> đâu heng ^^.
 
 Cám ơn bạn đã dành thời gian đọc bài này! 🥰😇😍
 

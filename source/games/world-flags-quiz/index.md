@@ -15,8 +15,6 @@ thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
 useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/cssanimation.min.css","https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"]
 ---
 
-<button onclick="flagModeGotoNextQuestion()">Next question</button>
-
 <div id="game-screen" class="has-ribbon game_step_home">
   <div id="home-button" class="ribbon ribbon-custom-home-button">
     <button id="score-panel" onclick="backToHome(this)" class="button is-primary cssanimation blurInTop">
@@ -103,6 +101,18 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
         <h3 class="has-text-centered mt-2">
           <span id="flag-question-country-name" onclick="congrats(this)" class="has-text-success is-size-4 has-text-weight-semibold">Vietnam</span>
         </h3>
+        <!-- START CONTROLLER -->
+        <div id="flag-mode-controller my-3">
+          <div class="columns is-flex is-flex-wrap-wrap is-justify-content-center">
+            <div class="column is-half-mobile has-text-centered">
+              <button class="button is-primary" onclick="flagModeGotoNextQuestion()">
+                <i class="fa-solid fa-forward"></i>
+                <span class="mx-2">Next question</span>
+              </button>
+            </div>
+          </div>
+        </div>
+        <!-- END CONTROLLER -->
       </div>
       <!-- END FLAG QUESTION -->
       <!--  -->

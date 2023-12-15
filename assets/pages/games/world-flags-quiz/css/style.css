@@ -173,5 +173,8 @@
 	justify-content: left;
 }
 
+.is-justify-content-center {
+	justify-content: center;
+}
 
 /* CONFETTI BUTTON */

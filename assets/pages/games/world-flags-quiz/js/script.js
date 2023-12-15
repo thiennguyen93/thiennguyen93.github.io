@@ -195,7 +195,6 @@ function scoreUp(score) {
         scoreLabel.addClass('cssanimation blurOutBottom')
         scoreChangeLabel.addClass('cssanimation blurOutBottom')
         setTimeout(()=>{
-            console.log(scoreLabel.text)
             scoreLabel.text(Number(scoreLabel.text()) + score)
             scoreLabel.removeClass('blurOutBottom')
             scoreLabel.addClass('cssanimation blurInTop')
@@ -255,6 +254,10 @@ function onPlayerSelectAnswerInFlagMode(event) {
         return
     } 
     playSound(sounds.incorrect)
+    // If player has chosen an incorrect answer  -->  show correct answer
+    const correctAnswerItem = $('.game-mode-flag-option.correct-answer')
+    correctAnswerItem.addClass('selected')
+    party.confetti(correctAnswerItem[0])
 }
 
 ready(async function(){

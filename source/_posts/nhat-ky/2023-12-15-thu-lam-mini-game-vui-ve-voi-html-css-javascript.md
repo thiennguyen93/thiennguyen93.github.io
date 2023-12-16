@@ -7,7 +7,7 @@ language: en
 toc: false
 cover: /assets/img/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-cover.png
 cover_lqip: /assets/img/lqip/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-cover.webp
-thumbnail: /assets/img/post/thumbnails/2023-12-10-gdg-devfest-hcmc-2023.png
+thumbnail: /assets/img/post/thumbnails/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-thumbnail.png
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
 Không giống nhiều bạn trẻ khác, mình không có sở thích chơi game mặc dù đang làm việc tại một công ty phát triển game. Ở công ty ngoài việc đóng góp tiếng cười nhiều khi rất là "voo-tree", mình còn xây dựng hệ thống back-end Back-office dùng để quản lý các tựa game, người chơi và các tính năng có trong game, chứ thật ra hổng có làm game. Game thì có team khác làm.

@@ -38,9 +38,11 @@ Tôi tên đầy đủ là Nguyễn Ngọc Phước Thiện.
 
 Năm 2023, tôi tròn 30 tuổi.
 
-Hiện tại tôi là kỹ sư phần mềm tại một [công ty phát triển Game của Singapore](/cv/#Work-Experience).
+Hiện tại tôi là kỹ sư phần mềm tại [**Gamify Studios**](/cv/#Work-Experience) - một công ty phát triển Game của Singapore.
 
-Tôi luôn tìm thấy sự mâu thuẫn, ngay cả ở chính bản thân. Chẳng hạn, đề cao chủ nghĩa tối giản nhưng lại thường suy nghĩ theo hướng phức tạp. Thuận tay phải nhưng khi ăn thì dùng đũa tay trái.
+Tôi luôn tìm thấy sự mâu thuẫn, kể cả ở bản thân. Đề cao chủ nghĩa tối giản nhưng thường suy nghĩ mọi thứ theo hướng phức tạp. 
+
+Tôi rèn luyện khả năng dùng đũa bằng tay trái như một phương án dự phòng (Plan B) ~~nếu lỡ chẳng may cụt mất tay thuận là tay phải~~.
 
 Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt 🥕🥕 (tên cúng cơm do bà nội đặt)
 

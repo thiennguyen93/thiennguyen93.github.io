@@ -8,13 +8,13 @@ toc: false
 cover: /assets/img/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-cover.png
 cover_lqip: /assets/img/lqip/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-cover.webp
 thumbnail: /assets/img/post/thumbnails/2023-12-10-gdg-devfest-hcmc-2023.png
-useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css']
+useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
 Không giống nhiều bạn trẻ khác, mình không có sở thích chơi game mặc dù đang làm việc tại một công ty phát triển game. Ở công ty ngoài việc đóng góp tiếng cười nhiều khi rất là "voo-tree", mình còn xây dựng hệ thống back-end Back-office dùng để quản lý các tựa game, người chơi và các tính năng có trong game, chứ thật ra hổng có làm game. Game thì có team khác làm.
 
-Ngày xưa, lúc còn học cấp 2, cấp 3 trường làng, mình cũng thử "ra net" chơi FIFA Online, đá PES hay Counter-strike. Hihi, mà chắc là do kỹ năng kém, trình "gà" nên chơi toàn thua và bị ăn chửi. Từ đó, cay ... nên không chơi game nữa 😆😂🤣 chuyển sang mày mò tự học lập trình.
+Ngày xưa, lúc còn học cấp 2, cấp 3 trường làng, mình cũng thử "ra net" chơi FIFA Online, đá PES, Counter-strike, GunBound đủ thứ (trừ Audition). Hihi, mà chắc là do kỹ năng kém, trình "gà" nên chơi toàn thua và bị ăn chửi. Từ đó, cay ... nên không chơi game nữa 😆😂🤣 chuyển sang mày mò tự học lập trình.
 
-Mấy nay tự nhiên mình lại nảy ra ý tưởng làm con mini game vui vui để học, giống mấy như game của MiniClip ngày xưa á, cái thời mà game viết bằng Flash còn thịnh hành. Chắc chỉ còn dân 8x, 9x mới biết flash game là gì ^⍜^.
+Mấy nay tự nhiên mình lại nảy ra ý tưởng làm con mini game vui vui để học, giống mấy như game của MiniClip ngày xưa á, cái thời mà game viết bằng Flash còn thịnh hành. Chắc chỉ còn dân 8x, 9x mới biết flash game là gì ^^.
 
 Cùng đọc bài viết về con game đầu tay của mình nha...
 
@@ -25,24 +25,24 @@ Mời bạn bấm <a href="/games/world-flags-quiz/" target="_blank">vào đây<
 
 Ý tưởng game khá là đơn giản được bắt nguồn từ một short video của kênh **Street interviews** mà mình tình cờ lướt thấy trên Youtube. Người chơi sẽ được xem nhiều hình ảnh quốc kỳ và phải trả lời được tên quốc gia tương ứng.
 
-<div class="card has-text-centered">
-<iframe height="320"
-src="https://youtube.com/embed/PpQZ76KvfJo"
-title="YouTube video player" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-gyroscope; picture-in-picture;
-web-share"
-allowfullscreen></iframe>
+<div class="card has-text-centered my-2">
+  <iframe height="320"
+  src="https://youtube.com/embed/PpQZ76KvfJo"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+  gyroscope; picture-in-picture;
+  web-share"
+  allowfullscreen></iframe>
 </div>
 
-Từ ý tưởng trên, mình xây dựng game của mình có hai "mode" chơi
+Từ ý tưởng trên, mình xây dựng hai "mode" chơi cho game
 1. Tìm hình ảnh của quốc kỳ theo tên quốc gia. (đã có thể chơi được trên game demo ở trên)
 2. Tìm tên quốc gia theo hình ảnh quốc kỳ. (chưa thực hiện)
 
 <p style="text-align: center;">
     <!-- <img width="50%" src="mini-game-screenshot-game-play.png"> -->
-    <img class="only-in-light-mode" src="mini-game-screenshot-game-play-light.png" width="50%" >
-    <img class="only-in-night-mode" src="mini-game-screenshot-game-play-dark.png" width="50%" >
+    <img class="only-in-light-mode in-view-effect img-reset-brightness" src="mini-game-screenshot-game-play-light.png" width="50%" >
+    <img class="only-in-night-mode in-view-effect img-reset-brightness" src="mini-game-screenshot-game-play-dark.png" width="50%" >
 </p>
 
 Các mode chơi khác có thể được xây dựng trong tương lai
@@ -72,18 +72,18 @@ Hai thư viện mình dùng là:
 Mình dùng  <a href="https://party.js.org/" target="_blank">party.js</a> để tạo hiệu ứng trời đầy sao và hiệu ứng "tung bông tung hoa" khi người dùng chọn đúng đáp án.
 
 <div class="card has-text-centered">
-  <button class="button is-primary" onclick="party.confetti(this)">🎉 Tung bông, tung hoa</button>
-  <button class="button is-primary" onclick="sparkles()">⭐️ Bầu trời đầy sao</button>
+  <button class="button is-primary mx-2 my-2" onclick="party.confetti(this)">🎉 Tung bông, tung hoa</button>
+  <button class="button is-primary mx-2 my-2" onclick="sparkles()">⭐️ Bầu trời đầy sao</button>
 </div>
 
 5. Nguồn dữ liệu
-Mình không cần tự chuẩn bị câu hỏi về quốc gia hay hình ảnh quốc kỳ các nước, chứ hơn 200 quốc gia và vùng lãnh thổ mà tự chuẩn bị thì tới mùa quýt mới "release" được nhé. Cụ thể, dữ liệu câu hói trong game được lấy từ 02 trang <a href="https://restcountries.com/" target="_blank">restcountries.com</a> và <a href="https://flagpedia.net/download/api" target="_blank">flagpedia.net</a>. Chân thành cám ơn hai "nhà" trên đã cung cấp miễn phí và đầy đủ dữ liệu để mình sử dụng.
+Mình không cần tự chuẩn bị câu hỏi về quốc gia hay hình ảnh quốc kỳ, chứ có hơn 200 quốc gia và vùng lãnh thổ mà tự chuẩn bị thì chắc tới mùa quýt mới "release" được. Cụ thể, dữ liệu câu hỏi trong game được lấy từ 02 trang <a href="https://restcountries.com/" target="_blank">restcountries.com</a> và <a href="https://flagpedia.net/download/api" target="_blank">flagpedia.net</a>. Chân thành cám ơn hai "nhà" trên đã cung cấp miễn phí và đầy đủ dữ liệu để mình sử dụng.
 Phần âm thanh trong game thì mình search từ nhiều nguồn miễn phí trên Internet như
-<a href="https://pixabay.com" target="_blank">pixabay.com</a> và một vài trang nữa không nhớ rõ T.T. Sound effects license free ráp vô game cho vui tai thôi chứ nghe rất là "chuối" luôn 🍌
+<a href="https://pixabay.com" target="_blank">pixabay.com</a> và một vài trang nữa không nhớ rõ T.T. Sound effects thì dùng license free ráp vô game cho vui tai thôi chứ nghe rất là "chuối" luôn 🍌.
 
 ## Kết
 Sau vài hôm nghiên cứu và "code lách", mình đã xong được mode chơi đầu tiên của game. 
-Mời bạn chơi xả "xì-trét" và cũng là để ủng hộ "nhà phát triển" bạn nhé nhé ^^.
+Mời bạn chơi xả "xì-trét" và cũng là cách để ủng hộ "nhà phát triển" bạn nhé nhé ^^.
 Gameplay thì cực kỳ  đơn giản, bạn được chọn đáp án nhiều lần nếu chọn sai (chỉ tính điểm khi bạn chọn đúng ngay lần đầu tiên). Nghĩa là bạn sẽ không bao giờ thua nên cũng không cần lo bị "xử" giống trong <a href="https://www.imdb.com/title/tt10919420/"><span class="has-text-weight-medium" data-tooltip="Original title: Ojing-eo geim - TV Series 2021">Squid Game series</span></a> đâu heng ^^.
 
 Cám ơn bạn đã dành thời gian đọc bài này! 🥰😇😍

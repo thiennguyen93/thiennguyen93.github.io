@@ -10,7 +10,7 @@ cover_lqip: /assets/img/lqip/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-ja
 thumbnail: /assets/img/post/thumbnails/2023-12-10-gdg-devfest-hcmc-2023.png
 useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css']
 ---
-Không giống nhiều bạn trẻ khác, mình không có sở thích chơi game mặc dù đang là Kỹ sư phần mềm tại một công ty phát triển game. Ở công ty ngoài việc đóng góp tiếng cười nhiều khi rất là "voo-tree", mình còn xây dựng hệ thống back-end Back-office dùng để quản lý các tựa game, người chơi và các tính năng có trong game, chứ thật ra hổng có làm game. Game thì có team khác làm.
+Không giống nhiều bạn trẻ khác, mình không có sở thích chơi game mặc dù đang làm việc tại một công ty phát triển game. Ở công ty ngoài việc đóng góp tiếng cười nhiều khi rất là "voo-tree", mình còn xây dựng hệ thống back-end Back-office dùng để quản lý các tựa game, người chơi và các tính năng có trong game, chứ thật ra hổng có làm game. Game thì có team khác làm.
 
 Ngày xưa, lúc còn học cấp 2, cấp 3 trường làng, mình cũng thử "ra net" chơi FIFA Online, đá PES hay Counter-strike. Hihi, mà chắc là do kỹ năng kém, trình "gà" nên chơi toàn thua và bị ăn chửi. Từ đó, cay ... nên không chơi game nữa 😆😂🤣 chuyển sang mày mò tự học lập trình.
 

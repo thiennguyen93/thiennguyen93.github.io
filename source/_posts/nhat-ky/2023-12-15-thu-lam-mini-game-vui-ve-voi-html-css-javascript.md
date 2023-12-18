@@ -51,7 +51,7 @@ Các mode chơi khác có thể được xây dựng trong tương lai
 
 ## Những thứ mình đã dùng để xây dựng game Flags of World
 
-Game của mình chỉ nằm ở mức độ đơn giản, vui vui, vừa chơi giải trí lại biết thêm một vài kiến thức địa lý về quốc gia, quốc kỳ. Phần đồ họa chỉ là vài hiệu ứng chuyển động cơ bản, chứ không thể làm như phim Hollywood được vì làm front-end web còn chưa phải là thế mạnh của mình, chứ chưa nói đến đồ họa làm game.
+Game của mình chỉ nằm ở mức độ đơn giản, vui vui, vừa chơi giải trí lại biết thêm một vài kiến thức địa lý về quốc gia, quốc kỳ. 
 
 Mình sẽ liệt kê những thứ mình đã sử dụng để viết con game này nhé
 

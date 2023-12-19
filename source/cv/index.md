@@ -95,7 +95,7 @@ body:not(.night) .only-in-night-mode {
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Email</span></div>
-        <div class="column"><span>me@thiennguyen.dev</span></div>
+        <div class="column"><span>hi@thiennguyen.dev</span></div>
     </div>
     <div class="columns is-gapless mb-3">
         <div class="column is-one-fifth"><span class="has-text-grey">Phone</span></div>
@@ -114,20 +114,20 @@ body:not(.night) .only-in-night-mode {
                     <div class="tags has-addons">
                     <span class="tag">
                         <figure class="image is-16x16 mr-0 ml-0">
-                            <img alt="US flag" width="16" height="16" src="/assets/img/en-us-64x64.png">
+                            <img alt="Vietnam flag" width="16" height="16" src="/assets/img/vi-vn-64x64.png">
                         </figure>
                     </span>
-                    <span class="tag">English</span>
+                    <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="Native proficiency">Vietnamese</span>
                     </div>
                 </div>
                 <div class="control">
                     <div class="tags has-addons">
                     <span class="tag">
                         <figure class="image is-16x16 mr-0 ml-0">
-                            <img alt="Vietnam flag" width="16" height="16" src="/assets/img/vi-vn-64x64.png">
+                            <img alt="US flag" width="16" height="16" src="/assets/img/en-us-64x64.png">
                         </figure>
                     </span>
-                    <span class="tag">Vietnamese</span>
+                    <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="Professional working proficiency">English</span>
                     </div>
                 </div>
             </div>
@@ -304,7 +304,7 @@ body:not(.night) .only-in-night-mode {
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img alt="Laravel logo" class="cv wh-64 only-in-light-mode" src="img/logo-laravel-light.png">
-            <img alt="Laravel logo" class="cv wh-64 only-in-night-mode" src="img/logo-laravel-light.png">
+            <img alt="Laravel logo" class="cv wh-64 only-in-night-mode" src="img/logo-laravel-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6" id="certification-php"><strong><span class="tag mr-2">Sep 2020</span> <span>Certificate of Completion of PHP Programming Training Course</span></strong></h4>

@@ -337,6 +337,11 @@ theme_config:
           url: "https://www.linkedin.com/in/thiennguyendev/"
           tooltip: "Linkedin"
           classNames: [has-tooltip-arrow, has-tooltip-bottom]
+        Youtube:
+          icon: fa-brands fa-youtube
+          url: "https://www.youtube.com/thiennguyenpro"
+          tooltip: "Youtube Channel"
+          classNames: [has-tooltip-arrow, has-tooltip-bottom]
         Contact:
           icon: fas fa-at
           url: "/contact"

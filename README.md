@@ -49,7 +49,15 @@ Because the two different source folders shares the same assets folder. Need to 
 #### `in-view-effect`
 If class is added to an img element. If the image is in the user's view, an additional class `in-view` is added automatically to the img element.
 
+### `not-gallery-item`
+If class is added to an img element. It will be ignored in the gallery of the post.
+
 # LOW QUALITY IMAGE PLACEHOLDER
 - Package  https://www.npmjs.com/package/lqip-modern
 
 This package helps the low quality version of each images stored in the `root/assets/img` directory. The LQIP is saved under path `source[_<<{language_code}>>]/assets/img/lqip/<<file_name>>.webp`
+
+
+# THIRD-PARTY APIs
+1. Restcountries.com 
+- https://restcountries.com/v3.1/all?fields=name,flags

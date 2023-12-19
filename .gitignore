@@ -11,3 +11,4 @@ yarn.lock
 # Ignore run-time asset folders
 source/assets/**/*
 source_vi/assets/**/*
+assets/img/lqip/**/*

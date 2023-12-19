@@ -6,12 +6,12 @@ toc: false
 article:
   licenses: false
 enableDate: false
-cover: assets/pages/about/page-about-cover.avif
+cover: assets/pages/about/page-about-cover.webp
 cover_lqip: assets/pages/about/page-about-cover-lqip.webp
-classNames: ['custom-page-about']
-coverClassnames: ['custom-page-about-cover']
-titleClassnames: ['custom-page-about-title']
-useStyles: ['/assets/styles/img-tilt-effect.css','css/styles.css']
+classNames: ["custom-page-about"]
+coverClassnames: ["custom-page-about-cover"]
+titleClassnames: ["custom-page-about-title"]
+useStyles: ["/assets/styles/img-tilt-effect.css", "css/styles.css", "css/qr.css"]
 widgets: false
 ---
 
@@ -26,7 +26,7 @@ Thien Nguyen
 
 {% tabs align:centered style:boxed %}
 
-<!-- tab id:about-me-vi "icon:fas fa-cubes" "title:Tiếng Việt" active -->
+<!-- tab id:about-me "icon:fa-solid fa-user" "title:About" active -->
 
 Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
 
@@ -38,19 +38,21 @@ Tôi tên đầy đủ là Nguyễn Ngọc Phước Thiện.
 
 Năm 2023, tôi tròn 30 tuổi.
 
-Hiện tại tôi là kỹ sư phần mềm tại một [công ty phát triển Game của Singapore](/cv/#Work-Experience).
+Hiện tại tôi là kỹ sư phần mềm tại [**Gamify Studios**](/cv/#Work-Experience) - một công ty phát triển Game của Singapore.
 
-Tôi luôn tìm thấy sự mâu thuẫn, ngay cả ở chính bản thân. Chẳng hạn, đề cao chủ nghĩa tối giản nhưng lại thường suy nghĩ theo hướng phức tạp. Thuận tay phải nhưng khi ăn thì dùng đũa tay trái.
+Tôi luôn tìm thấy sự mâu thuẫn, kể cả ở bản thân. Đề cao chủ nghĩa tối giản nhưng thường suy nghĩ mọi thứ theo hướng phức tạp. 
+
+Tôi rèn luyện khả năng dùng đũa bằng tay trái như một phương án dự phòng (Plan B) ~~nếu lỡ chẳng may cụt mất tay thuận là tay phải~~.
 
 Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt 🥕🥕 (tên cúng cơm do bà nội đặt)
 
 <p style="text-align: center;">
-    <img class="in-view-effect frame tilt-right lazy" src="/assets/pages/about/carrot-01_LQIP.webp" data-src="/assets/pages/about/carrot-01.jpeg" alt="Cà rốt 🥕" title="Cà rốt" width="60%">
+    <img class="in-view-effect frame tilt-right lazy" src="/assets/pages/about/carrot-02_LQIP.webp" data-src="/assets/pages/about/carrot-02.jpeg" alt="Cà rốt 🥕" title="Cà rốt" width="60%">
 </p>
 
 ## Về blog này 🍻
 
-Tôi bắt đầu viết blog từ những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ  hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân tôi.
+Tôi bắt đầu viết blog từ những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân tôi.
 
 Tôi viết những gì tôi muốn nên không có những đề tài cụ thể, chỉ đơn giản là đặt bút xuống và viết.
 
@@ -74,33 +76,253 @@ tại <em>Khu vườn trên mây</em>
 </p>
 <!-- endtab -->
 
-<!-- tab id:about-me-en "icon:fas fa-file-code" "title:English" -->
+<!-- tab id:qr-collection "icon:fa-solid fa-qrcode" "title:QR" -->
 
-## About me
+## E-Wallets
 
-Hi 👋, I am Thien Nguyen, aka William Nguyen.
-I am a dedicated backend developer and a proud father to a wonderful child.
-Currently, I work for Gamify Studios, a game development company located in Ho Chi Minh City, Vietnam.
+For better scan results, tap the QR code to enlarge the image.
+<!-- Click <i class="mx-0 px-2 button is-small is-white fa-regular fa-copy" aria-hidden="true"></i> to copy account number to clipboard.
+Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden="true"></i> to download QR code for later usage. -->
+
+<div class="has-text-centered columns is-multiline is-centered mb-3">
+  <!-- START MBBank VIETTEL MONEY BADGE  -->
+  <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-danger">
+    <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
+        <div class="qr-card" onclick="revealQR(0)" onmouseover="revealQR(0)">
+            <div class="qr-content">
+              <div class="front">
+                <div class="e-card playing">
+                  <div class="image"></div>
+                  <div class="wave wave0"></div>
+                  <div class="wave wave0"></div>
+                  <div class="wave wave0"></div>
+                  <div class="infotop">
+                    <img class="qr-logo not-gallery-item" src="/assets/img/logo-mbbank.png" width="90" />
+                    <div class="name">Nguyen Ngoc Phuoc Thien</div>
+                    <div class="name">9704229202692740</div>
+                  </div>
+                </div>
+              </div>
+              <div class="back">
+                <a class="gallery-item" href="/assets/img/qr-codes/mbbank.png">
+                  <img class="img-reset-brightness" src="/assets/img/qr-codes/mbbank.png" width="200px">
+                </a>
+              </div>
+            </div>
+      </div>
+      <nav class="level is-mobile">
+        <div class="level-item has-text-centered">
+          <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+        </div>
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Save">
+          <a href="/assets/img/qr-codes/mbbank.png" class="level-item" aria-label="reply" download="thiennguyen-mbbank-9704229202692740">
+            <button class="level-item button is-white">
+              <span class="icon">
+                <i class="fas fa-download"></i>
+              </span>
+            </button>
+          </a>
+        </div>
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Copy">
+          <button onclick="copyBankAccountNumber(0,'9704229202692740')" class="level-item button is-white">
+            <a class="level-item" aria-label="reply">
+              <span class="icon">
+                <i class="fa-regular fa-copy" aria-hidden="true"></i>
+              </span>
+            </a>
+          </button>
+        </div>
+      </nav>
+    </div>
+  </div>
+  <!-- END VIETTEL MONEY BADGE  -->
+
+  <!-- START VPBANK BADGE  -->
+  <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-success">
+    <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
+        <div class="qr-card hover" onclick="revealQR(1)" onmouseover="revealQR(1)">
+            <div class="qr-content">
+              <div class="front">
+                <div class="e-card playing">
+                  <div class="image"></div>
+                  <div class="wave wave1"></div>
+                  <div class="wave wave1"></div>
+                  <div class="wave wave1"></div>
+                  <div class="infotop">
+                    <img class="qr-logo not-gallery-item" src="/assets/img/logo-vpbank.png" width="90" />
+                    <div class="name">Nguyen Ngoc Phuoc Thien</div>
+                    <div class="name">thiennguyen</div>
+                  </div>
+                </div>
+              </div>
+              <div class="back">
+                <a class="gallery-item" href="/assets/img/qr-codes/vpbank.png">
+                  <img class="img-reset-brightness" src="/assets/img/qr-codes/vpbank.png" width="200px">
+                </a>
+              </div>
+            </div>
+      </div>
+      <nav class="level is-mobile">
+        <div class="level-item has-text-centered">
+          <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+        </div>
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Save">
+          <a href="/assets/img/qr-codes/vpbank.png" class="level-item" aria-label="reply" download="thiennguyen-vpbank-thiennguyen">
+            <button class="level-item button is-white">
+              <span class="icon">
+                <i class="fas fa-download"></i>
+              </span>
+            </button>
+          </a>
+        </div>
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Copy">
+          <button onclick="copyBankAccountNumber(1,'thiennguyen')" class="level-item button is-white">
+            <a class="level-item" aria-label="reply">
+              <span class="icon">
+                <i class="fa-regular fa-copy" aria-hidden="true"></i>
+              </span>
+            </a>
+          </button>
+        </div>
+      </nav>
+    </div>
+  </div>
+  <!-- END VPBANK BADGE  -->
+
+  <!-- START BIDV BADGE  -->
+  <div class="has-text-centered column is-one-quarter-desktop mb-3 has-tooltip-arrow has-tooltip-align-left has-tooltip-top has-tooltip-warning">
+    <div class="qr-box has-ribbon-bottom px-0" style="background: unset; box-shadow: unset">
+        <div class="qr-card" onclick="revealQR(2)" onmouseover="revealQR(2)">
+            <div class="qr-content">
+              <div class="front">
+                <div class="e-card playing">
+                  <div class="image"></div>
+                  <div class="wave wave2"></div>
+                  <div class="wave wave2"></div>
+                  <div class="wave wave2"></div>
+                  <div class="infotop">
+                    <img class="qr-logo not-gallery-item" src="/assets/img/logo-bidv.png" width="90" />
+                    <div class="name">Nguyen Ngoc Phuoc Thien</div>
+                    <div class="name">1361767671</div>
+                    <br />
+                  </div>
+                </div>
+              </div>
+              <div class="back">
+                <a class="gallery-item" href="/assets/img/qr-codes/bidv.png">
+                  <img class="img-reset-brightness" src="/assets/img/qr-codes/bidv.png" width="200px">
+                </a>
+              </div>
+            </div>
+      </div>
+      <nav class="level is-mobile">
+        <div class="level-item has-text-centered">
+          <span class="mr-2 copied-label is-invisible is-size-6 has-text-success">Copied!</span>
+        </div>
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Save">
+          <a href="/assets/img/qr-codes/bidv.png" class="level-item" aria-label="reply" download="thiennguyen-bidv-1361767671">
+            <button class="level-item button is-white">
+              <span class="icon">
+                <i class="fas fa-download"></i>
+              </span>
+            </button>
+          </a>
+        </div>
+        <div class="level-item has-text-centered has-tooltip-arrow has-tooltip-bottom" data-tooltip="Copy">
+          <button onclick="copyBankAccountNumber(2,'1361767671')" class="level-item button is-white">
+            <a class="level-item" aria-label="reply">
+              <span class="icon">
+                <i class="fa-regular fa-copy" aria-hidden="true"></i>
+              </span>
+            </a>
+          </button>
+        </div>
+      </nav>
+    </div>
+  </div>
+  <!-- END BIDV BADGE  -->
+</div>
+
+<!-- START QR SHORTEN URL -->
+<div style="padding-top: 20px;">
+    <article class="message message-immersive is-info is-small" style="margin: 0 -1.5rem -1.5rem -1.5rem;">
+        <div class="message-body is-size-7">
+          <p class="has-text-weight-semibold">
+              <span class="icon"><i class="fa-solid fa-circle-info"></i></span> Friendly URL
+          </p>    
+          <!-- Access these QR codes using this convenient short link:  -->
+          <p><span id="short-link" class="has-tooltip-arrow"><a href="https://qr.thiennguyen.dev/">https://qr.thiennguyen.dev</a></span>
+            <button class="button is-white is-small is-info short-link-btn" onclick="copyShortLink()"><i class="fa-regular fa-copy" aria-hidden="true"></i></button>
+          </p>
+        </div>
+    </article>
+</div>
+<!-- END QR SHORTEN URL -->
 
 <!-- endtab -->
 
 {% endtabs %}
 
+<style>
+  [data-tooltip]:not(.is-disabled).has-tooltip-align-left::before {
+    text-align: left !important; 
+  }
+</style>
+
 <script>
-  var tabVi = document.querySelector("a[href='#about-me-vi']");
+  function copyBankAccountNumber(index, text){
+    navigator.clipboard.writeText(text)
+    const hiddenElementClassname = "is-invisible"
+    const elements = document.getElementsByClassName("copied-label");
+    for (let i = 0; i < elements.length; i++) {
+      if (i !== index) {
+        elements[i].classList.add(hiddenElementClassname);
+      } 
+    }
+    elements[index].classList.remove(hiddenElementClassname)
+    setTimeout(function(){
+        elements[index].classList.add(hiddenElementClassname)
+    }, 1000);
+  }
+
+  function copyShortLink() {
+    navigator.clipboard.writeText("https://qr.thiennguyen.dev");
+    const shortLinkLabel = document.getElementById("short-link");
+    shortLinkLabel.dataset.tooltip="Copied!"
+    shortLinkLabel.classList.add("has-tooltip-active")
+    setTimeout(function(){
+      shortLinkLabel.classList.remove("has-tooltip-active")
+      delete shortLinkLabel.dataset.tooltip
+    }, 500);
+  }
+
+  function revealQR(index){
+    const revealedClassname = "hover"
+    const elements = document.getElementsByClassName("qr-card");
+    for (let i = 0; i < elements.length; i++) {
+      if (i !== index) {
+        elements[i].classList.remove(revealedClassname);
+      } 
+    }
+    elements[index].classList.add(revealedClassname)
+  }
+</script>
+
+<script>
+  var tabVi = document.querySelector("a[href='#about-me']");
   if (tabVi) {
     tabVi.dataset.href = tabVi.getAttribute("href");
     tabVi.href = "javascript:;";
   }
 
-  var tabEn = document.querySelector("a[href='#about-me-en']");
+  var tabEn = document.querySelector("a[href='#qr-collection']");
   if (tabEn) {
     tabEn.dataset.href = tabEn.getAttribute("href");
     tabEn.href = "javascript:;";
   }
 
-  var liEn = document.querySelector("a[data-href='#about-me-en']").parentElement;
-  var liVi = document.querySelector("a[data-href='#about-me-vi']").parentElement;
+  var liEn = document.querySelector("a[data-href='#qr-collection']").parentElement;
+  var liVi = document.querySelector("a[data-href='#about-me']").parentElement;
 
   var tabContentVi = tabVi.dataset.href;
   tabVi.addEventListener("click", function (e) {

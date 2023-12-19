@@ -29,7 +29,8 @@ async function processLQIP() {
     for await (fileItem of imgFiles) {
         const { name, ext } = fileItem
         const result = await lqip(dir + name, {
-            resize: 320,
+            resize: 1200,
+            outputFormat: "webp"
         })
         fs.writeFile(
           dir + "lqip/" + (name + "_temp").replace(ext + "_temp", "") + ".webp",

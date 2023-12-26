@@ -153,6 +153,10 @@ navbar:
     View Profile on GitHub:
       icon: fab fa-github
       url: "https://github.com/thiennguyen93"
+    QR:
+      icon: fa-solid fa-qrcode
+      target: _self
+      url: "/about/#qr-collection"
 # Page footer configurations
 footer:
   # Links to be shown on the right of the footer section

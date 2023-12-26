@@ -331,6 +331,14 @@ Click <i class="mx-0 px-2 button is-small is-white fas fa-download" aria-hidden=
     openTab(tabContentVi);
   });
 
+  // QR element on navbar
+  // Issue: If the current page is about page, then QR icon button won't activate tab QR (resolved)
+  var qrNavBarButton = document.querySelector("a[title='QR']")
+  qrNavBarButton.addEventListener("click", function (e) {
+    e.preventDefault()
+    tabEn.click()
+  });
+
 
   var tabContentEn = tabEn.dataset.href;
   tabEn.addEventListener("click", function (e) {

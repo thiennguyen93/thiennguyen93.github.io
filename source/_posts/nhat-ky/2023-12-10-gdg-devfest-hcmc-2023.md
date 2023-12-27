@@ -159,4 +159,6 @@ Dưới đây là nội dung chi tiết của chương trình
   <img class="in-view-effect bright-on-hover transition-all lazy" src="devfest-2023-img_20231210_121906.jpeg" data-src="devfest-2023-img_20231210_121906.jpeg" alt="">
   <img class="in-view-effect bright-on-hover transition-all lazy" src="5.jpeg" data-src="5.jpeg" alt="">
   <img class="in-view-effect bright-on-hover transition-all lazy" src="6.jpeg" data-src="6.jpeg" alt="">
+  <img class="in-view-effect bright-on-hover transition-all lazy" src="album/2_lqip.jpeg" data-src="album/2.jpeg" alt="">
+  <img class="in-view-effect bright-on-hover transition-all lazy" src="album/4_lqip.jpeg" data-src="album/4.jpeg" alt="">
 </div>

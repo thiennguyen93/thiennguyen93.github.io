@@ -114,7 +114,7 @@ body:not(.night) .only-in-night-mode {
                     <div class="tags has-addons">
                     <span class="tag">
                         <figure class="image is-16x16 mr-0 ml-0">
-                            <img alt="Vietnam flag" width="16" height="16" src="/assets/img/vi-vn-64x64.png">
+                            <img class="not-gallery-item" alt="Vietnam flag" width="16" height="16" src="/assets/img/vi-vn-64x64.png">
                         </figure>
                     </span>
                     <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="Native proficiency">Vietnamese</span>
@@ -124,7 +124,7 @@ body:not(.night) .only-in-night-mode {
                     <div class="tags has-addons">
                     <span class="tag">
                         <figure class="image is-16x16 mr-0 ml-0">
-                            <img alt="US flag" width="16" height="16" src="/assets/img/en-us-64x64.png">
+                            <img class="not-gallery-item" alt="US flag" width="16" height="16" src="/assets/img/en-us-64x64.png">
                         </figure>
                     </span>
                     <span class="tag has-tooltip-arrow has-tooltip-bottom" data-tooltip="Professional working proficiency">English</span>
@@ -141,8 +141,8 @@ body:not(.night) .only-in-night-mode {
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="Gamify Studios logo" class="cv wh-64 only-in-light-mode" src="img/logo-gamify-studios-light.png">
-            <img alt="Gamify Studios logo" class="cv wh-64 only-in-night-mode" src="img/logo-gamify-studios-dark.png">
+            <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-gamify-studios-light.png">
+            <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-gamify-studios-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#">Gamify Studios Company Limited</a></strong></h4>
@@ -175,8 +175,8 @@ body:not(.night) .only-in-night-mode {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="CMC Global logo" class="cv wh-64 only-in-light-mode" src="img/logo-cmc-global-light.png">
-            <img alt="CMC Global logo" class="cv wh-64 only-in-night-mode" src="img/logo-cmc-global-light.png">
+            <img alt="CMC Global logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-cmc-global-light.png">
+            <img alt="CMC Global logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-cmc-global-light.png">
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase" id="work-experience-cmc-global"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
@@ -208,8 +208,8 @@ body:not(.night) .only-in-night-mode {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="HPT Vietnam Corporation logo" class="cv wh-64 only-in-light-mode" src="img/logo-hpt-light.png">
-            <img alt="HPT Vietnam Corporation logo" class="cv wh-64 only-in-night-mode" src="img/logo-hpt-light.png">
+            <img alt="HPT Vietnam Corporation logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-hpt-light.png">
+            <img alt="HPT Vietnam Corporation logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-hpt-light.png">
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase" id="work-experience-hpt-vietnam-corp"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span><a href="https://www.hpt.vn/" target="_blank"> HPT Vietnam Corporation</a></span></strong></h4>
@@ -239,8 +239,8 @@ body:not(.night) .only-in-night-mode {
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="Ripplify app icon" class="cv wh-64 only-in-light-mode" src="img/logo-ripplify-light.png">
-            <img alt="Ripplify app icon" class="cv wh-64 only-in-night-mode" src="img/logo-ripplify-light.png">
+            <img alt="Ripplify app icon" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-ripplify-light.png">
+            <img alt="Ripplify app icon" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-ripplify-light.png">
         </figure>
         <div>
             <h4 class="is-size-6" id="project-ripplify"><strong><span><a href="https://ripplify.thiennguyen.dev/" target="_blank">Ripplify</a></span></strong> <span class="tag mr-2">JUN 2021</span></h4>
@@ -249,8 +249,8 @@ body:not(.night) .only-in-night-mode {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="FSC Utilities Plugin app icon" class="cv wh-64 only-in-light-mode" src="img/logo-fscup-light.png">
-            <img alt="FSC Utilities Plugin app icon" class="cv wh-64 only-in-night-mode" src="img/logo-fscup-light.png">
+            <img alt="FSC Utilities Plugin app icon" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-fscup-light.png">
+            <img alt="FSC Utilities Plugin app icon" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-fscup-light.png">
         </figure>
         <div>
             <h4 class="is-size-6" id="project-fscup"><strong><span><a href="https://fsc-utilities-plugin.netlify.app/" target="_blank">FSC Utilities Plugin</a></strong> </span><span class="tag mr-2">MAR 2019 (EOL)</span></h4>
@@ -266,7 +266,7 @@ body:not(.night) .only-in-night-mode {
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <!-- <img class="only-in-light-mode cv wh-64" src="img/logo-hcmus-light.png"> -->
             <!-- <img class="only-in-night-mode cv wh-64" src="img/logo-hcmus-dark.png"> -->
-            <img alt="HCMUS logo" class="only-in-night-light cv wh-64" src="img/logo-hcmus.png">
+            <img alt="HCMUS logo" class="not-gallery-item only-in-night-light cv wh-64" src="img/logo-hcmus.png">
         </figure>
         <div class="timeline-item">
             <h4 class="is-size-6 is-uppercase" id="education-hcmus"><strong> <span class="tag mr-2">Dec 2017 - Oct 2020</span> <span><a href="https://www.hcmus.edu.vn" target="_blank">VNUHCM - University of Science</a></span></span></strong></h4>
@@ -278,7 +278,7 @@ body:not(.night) .only-in-night-mode {
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <!-- <img class="cv wh-64 only-in-light-mode" src="img/logo-hcmute-light.png"> -->
             <!-- <img class="cv wh-64 only-in-night-mode" src="img/logo-hcmute-dark.png"> -->
-            <img alt="HCMUTE logo" class="cv wh-64" src="img/logo-hcmute.png">
+            <img alt="HCMUTE logo" class="not-gallery-item cv wh-64" src="img/logo-hcmute.png">
         </figure>
         <div>
             <h4 class="is-size-6 is-uppercase" id="education-hcmute"><strong> <span class="tag mr-2">Sep 2011 - Dec 2015</span> <span><a href="https://hcmute.edu.vn" target="_blank">HCMC University of Technology and Education</a></span></strong></h4>
@@ -293,8 +293,8 @@ body:not(.night) .only-in-night-mode {
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="ReactJS logo" class="cv wh-64 only-in-light-mode" src="img/logo-react-js-light.png">
-            <img alt="ReactJS logo" class="cv wh-64 only-in-night-mode" src="img/logo-react-js-light.png">
+            <img alt="ReactJS logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-react-js-light.png">
+            <img alt="ReactJS logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-react-js-light.png">
         </figure>
         <div>
             <h4 class="is-size-6" id="certification-reactjs"><strong><span class="tag mr-2">Jan 2021</span> <a class="gallery-item" href="/assets/img/zendvn-cert.png"><img alt="Certificate of Achievement in Completion of ReactJS Programming" class="cv wh-64 is-hidden" src="/assets/img/zendvn-cert.png"><span>Certificate of Achievement in Completion of ReactJS Programming</span></a></strong></h4>
@@ -303,8 +303,8 @@ body:not(.night) .only-in-night-mode {
     </article>
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="Laravel logo" class="cv wh-64 only-in-light-mode" src="img/logo-laravel-light.png">
-            <img alt="Laravel logo" class="cv wh-64 only-in-night-mode" src="img/logo-laravel-dark.png">
+            <img alt="Laravel logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-laravel-light.png">
+            <img alt="Laravel logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-laravel-dark.png">
         </figure>
         <div>
             <h4 class="is-size-6" id="certification-php"><strong><span class="tag mr-2">Sep 2020</span> <span>Certificate of Completion of PHP Programming Training Course</span></strong></h4>

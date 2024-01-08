@@ -20,9 +20,9 @@ Cùng đọc bài viết về con game đầu tay của mình nha...
 
 <!-- more -->
 
-## Demo và ý tưởng
-Mời bạn bấm <a href="/games/world-flags-quiz/" target="_blank">vào đây</a> để chơi thử.
+## Demo <a class="mx-3" href="/games/world-flags-quiz/" target="_blank"><button class="button is-success is-outlined"><span class="icon is-small"><i class="fa-solid fa-play"></i></span><span>Bấm vào đây để truy cập game</span></button></a>
 
+## Ý tưởng
 Ý tưởng game khá là đơn giản được bắt nguồn từ một short video của kênh **Street interviews** mà mình tình cờ lướt thấy trên Youtube. Người chơi sẽ được xem nhiều hình ảnh quốc kỳ và phải trả lời được tên quốc gia tương ứng.
 
 <div class="card has-text-centered my-2">

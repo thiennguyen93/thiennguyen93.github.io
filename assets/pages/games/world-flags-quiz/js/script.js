@@ -19,10 +19,13 @@ const gameModeWrapperElement = {
 
 const sounds  = {
     magicalSpell: new Audio('/assets/pages/games/world-flags-quiz/sounds/Magic-Spell-A-Medium-www.fesliyanstudios.com.mp3'),
-    magicalHit: new Audio('/assets/pages/games/world-flags-quiz/sounds/magical-hit-45356.mp3'),
-    incorrect: new Audio('/assets/pages/games/world-flags-quiz/sounds/incorrect.mp3'),
+    // magicalHit: new Audio('/assets/pages/games/world-flags-quiz/sounds/magical-hit-45356.mp3'),
+    magicalHit: new Audio('https://www.soundboard.com/track/download/904544'),
+    // incorrect: new Audio('/assets/pages/games/world-flags-quiz/sounds/incorrect.mp3'),
+    incorrect: new Audio('https://www.soundboard.com/track/download/904547'),
     mouseHover: new Audio('/assets/pages/games/world-flags-quiz/sounds/mouse-hover.mp3'),
-    questionIntro: new Audio('/assets/pages/games/world-flags-quiz/sounds/question-intro.mp3')
+    questionIntro: new Audio('/assets/pages/games/world-flags-quiz/sounds/question-intro.mp3'),
+    letsPlay: new Audio('https://www.soundboard.com/track/download/904536')
 }
 
 const predefinedClassName = {
@@ -59,6 +62,15 @@ function onClickStartButton(event) {
     }, 50)
     // Preload: Flag mode
     flagModePreloadNextQuestion()
+    playALTPsound()
+}
+
+function playALTPsound() {
+    // Play sound from game show Ai la
+    const player = window.aplayers?.[0]
+    if (player) {
+        player.play()
+    }
 }
 
 function loadCountryData() {
@@ -93,6 +105,7 @@ function ready(callback){
 
 function chooseGameMode(opt, event) {
     showSparkles(event)
+    playSound(sounds.letsPlay)
     setTimeout(()=>{
         $('#game-screen').addClass("game_step_" + opt)
         $('#game-screen').removeClass("game_step_home")
@@ -207,7 +220,7 @@ function scoreUp(score) {
 }
 
 function flagModeGotoNextQuestion() {
-    playSound(sounds.questionIntro)
+    // playSound(sounds.letsPlay)
     $('#flag-question').addClass('cssanimation blurOutBottom')
     $('#flag-question').removeClass('blurInBottom')
 
@@ -283,7 +296,7 @@ function showSparkles(event){
     //   count: party.variation.range(20, 40),
     //   shapes: ["star"],
     // });
-    playSound(sounds.magicalSpell)
+    // playSound(sounds.magicalSpell)
     sparkles()
 }
 

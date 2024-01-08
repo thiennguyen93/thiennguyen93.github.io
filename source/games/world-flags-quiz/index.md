@@ -170,6 +170,34 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
   </div>
 </div>
 
+<div class="is-invisible">
+
+{% aplayerlist %}
+{
+    "showlrc": 3,
+    "theme": "#e6d0b2",
+    "showlrc": 3,
+    "mutex": true,
+    "mode": "order",
+    "loop":"one",
+    "fixed":false,
+    "autoplay": false,
+    "preload": true,
+    "volume": 0.5,
+    "music": [
+        {
+            "title": "Shay Nắnggg",
+            "author": "Amee, Obito, Hứa Kim Tuyền",
+            "url": "https://api.mp3.zing.vn/api/streaming/audio/IW86W09E/128",
+            "pic": "/assets/media/shay-nanggg/album.jpeg",
+            "lrc": "/assets/media/shay-nanggg/lyric.lrc"
+        }
+    ]
+}
+{% endaplayerlist %}
+
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/yesiamrocks/cssanimation.io@1.0.3/letteranimation.min.js"></script>
 

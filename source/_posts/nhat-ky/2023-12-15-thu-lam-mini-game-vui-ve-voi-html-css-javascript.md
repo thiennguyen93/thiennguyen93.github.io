@@ -10,6 +10,9 @@ cover_lqip: /assets/img/lqip/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-ja
 thumbnail: /assets/img/post/thumbnails/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-thumbnail.png
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
+
+### <a class="mx-0" href="/games/world-flags-quiz/" target="_blank"><button class="button is-success is-outlined"><span class="icon is-small"><i class="fa-solid fa-play"></i></span><span>Bấm vào đây để truy cập game</span></button></a>
+
 Không giống nhiều bạn trẻ khác, mình không có sở thích chơi game mặc dù đang làm việc tại một công ty phát triển game. Ở công ty ngoài việc đóng góp tiếng cười nhiều khi rất là "voo-tree", mình còn xây dựng hệ thống back-end Back-office dùng để quản lý các tựa game, người chơi và các tính năng có trong game, chứ thật ra hổng có làm game. Game thì có team khác làm.
 
 Ngày xưa, lúc còn học cấp 2, cấp 3 trường làng, mình cũng thử "ra net" chơi FIFA Online, đá PES, Counter-strike, GunBound đủ thứ (trừ Audition). Hihi, mà chắc là do kỹ năng kém, trình "gà" nên chơi toàn thua và bị ăn chửi. Từ đó, cay ... nên không chơi game nữa 😆😂🤣 chuyển sang mày mò tự học lập trình.
@@ -19,8 +22,6 @@ Mấy nay tự nhiên mình lại nảy ra ý tưởng làm con mini game vui vu
 Cùng đọc bài viết về con game đầu tay của mình nha...
 
 <!-- more -->
-
-## Demo <a class="mx-3" href="/games/world-flags-quiz/" target="_blank"><button class="button is-success is-outlined"><span class="icon is-small"><i class="fa-solid fa-play"></i></span><span>Bấm vào đây để truy cập game</span></button></a>
 
 ## Ý tưởng
 Ý tưởng game khá là đơn giản được bắt nguồn từ một short video của kênh **Street interviews** mà mình tình cờ lướt thấy trên Youtube. Người chơi sẽ được xem nhiều hình ảnh quốc kỳ và phải trả lời được tên quốc gia tương ứng.

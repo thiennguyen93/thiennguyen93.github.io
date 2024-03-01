@@ -1,0 +1,35 @@
+name: "Deploy Firebase: vi.thiennguyen.dev"
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a multi-line script
+      env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}
+          GH_SHA: ${{ github.sha }}
+          GH_REPO_URL: ${{ github.repositoryUrl }}
+          GH_SERVER_URL: ${{ github.server_url }}
+          GH_REPOSITORY: ${{ github.repository }}
+          GH_EVENT_HEAD_COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+      run: |
+        echo "artifactname=${GH_TOKEN}" >> $GITHUB_ENV
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git config --global user.name "github-actions"
+        git config --global url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "git@github.com:"
+        npm install lqip-modern
+        npm run build-vi
+      
+    - name: Deploy to firebase hosting
+      uses: FirebaseExtended/action-hosting-deploy@v0
+      with:
+        repoToken: '${{ secrets.GITHUB_TOKEN }}'
+        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_THIENNGUYEN_BLOG }}'
+        channelId: live
+        projectId: thiennguyen-blog

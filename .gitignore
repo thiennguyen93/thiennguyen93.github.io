@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+.env
+yarn.lock
+
+# Ignore run-time asset folders
+source/assets/**/*
+source_vi/assets/**/*
+assets/img/lqip/**/*

@@ -1,0 +1,33 @@
+/* MUSIC PLAYER: Custom album rounded like a CD
+.aplayer:not(.aplayer-fixed) .aplayer-pic {
+    border-radius:  50%;
+    margin: 5px;
+}
+
+.aplayer:not(.aplayer-fixed) .aplayer.aplayer-withlrc .aplayer-pic {
+    height: 80px;
+    width: 80px;
+} */
+
+.img-reset-brightness {
+  filter: brightness(1) !important;
+  -webkit-filter: brightness(1) !important;
+}
+
+body:not(.light) .only-in-light-mode {
+  display: none;
+}
+body:not(.night) .only-in-night-mode {
+  display: none;
+}
+
+/* in-view effect for cover-photo, only in dark-mode */
+body:not(.light) .in-view-effect.cover-photo:not(.in-view) {
+  filter: brightness(0.55) grayscale(0.5);
+  -webkit-filter: brightness(0.55) grayscale(0.5);
+}
+
+body:not(.light) .in-view.cover-photo {
+  filter: brightness(0.8) grayscale(0);
+  -webkit-filter: brightness(0.8) grayscale(0);
+}

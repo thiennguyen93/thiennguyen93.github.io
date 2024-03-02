@@ -79,3 +79,20 @@ This package helps the low quality version of each images stored in the `root/as
 1. Restcountries.com
 
 - <https://restcountries.com/v3.1/all?fields=name,flags>
+
+# POST
+## Front matter
+```
+---
+title: Âm thanh của hạnh phúc
+date: 2024/01/28
+categories:
+- Journal
+language: en
+toc: false
+cover: /assets/img/2024-01-28-am-thanh-hanh-phuc-cover.webp
+fetchpriority: "high"    --> Reduce LCP
+cover_lqip: /assets/img/lqip/2024-01-28-am-thanh-hanh-phuc-cover.webp
+thumbnail: /assets/img/2024-01-28-am-thanh-hanh-phuc-thumbnail.jpg
+useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css']
+```

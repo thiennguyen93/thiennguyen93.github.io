@@ -6,6 +6,7 @@ categories:
 language: en
 toc: false
 cover: /assets/img/2024-01-28-am-thanh-hanh-phuc-cover.webp
+fetchpriority: "high"
 cover_lqip: /assets/img/lqip/2024-01-28-am-thanh-hanh-phuc-cover.webp
 thumbnail: /assets/img/2024-01-28-am-thanh-hanh-phuc-thumbnail.jpg
 useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css']

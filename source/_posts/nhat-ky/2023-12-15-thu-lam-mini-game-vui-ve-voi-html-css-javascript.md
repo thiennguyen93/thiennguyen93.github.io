@@ -5,9 +5,9 @@ categories:
 - Journal
 language: en
 toc: false
-cover: /assets/img/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-cover.png
+cover: /assets/img/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-cover.webp
 cover_lqip: /assets/img/lqip/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-cover.webp
-thumbnail: /assets/img/post/thumbnails/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-thumbnail.png
+thumbnail: /assets/img/post/thumbnails/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript-thumbnail-64x64.webp
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
 

@@ -79,6 +79,15 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+# Stylus config: https://github.com/hexojs/hexo-renderer-stylus
+stylus:
+  compress: true
+  sourcemaps:
+    comment: true
+    inline: true
+    sourceRoot: ''
+    basePath: .
+  plugins: 'nib'
 # Need to inject manually by scripts/page.js
 aplayer:
   asset_inject: false

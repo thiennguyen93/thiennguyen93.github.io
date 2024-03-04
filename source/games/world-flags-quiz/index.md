@@ -188,7 +188,7 @@ useStyles: ["/assets/pages/games/world-flags-quiz/css/style.css","https://cdn.js
         {
             "title": "Shay Nắnggg",
             "author": "Amee, Obito, Hứa Kim Tuyền",
-            "url": "https://api.mp3.zing.vn/api/streaming/audio/IW86W09E/128",
+            "url": "https://www.soundboard.com/track/download/904534",
             "pic": "/assets/media/shay-nanggg/album.jpeg",
             "lrc": "/assets/media/shay-nanggg/lyric.lrc"
         }

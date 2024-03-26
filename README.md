@@ -5,7 +5,8 @@
 - This is my personal microblog.
 - Built with [Hexo](https://hexo.io/) - A fast, simple & powerful static site generator
 - Hosted on
-  - GitHub Pages: [https://thiennguyen93.github.io/](https://thiennguyen93.github.io)
+  - GitHub Pages: [https://thiennguyen93.github.io](https://thiennguyen93.github.io) or [https://thiennguyen.dev](https://www.thiennguyen.dev)
+  - Cloudflare Pages: [https://thien.pages.dev](https://thien.pages.dev)
 
 # Configs
 
@@ -54,7 +55,7 @@ GH_TOKEN=<Token to get the theme repos>
 
 # SHARED COMMON ASSETS
 
-Because the two different source folders shares the same assets folder. Need to copy `assets`  folder to each source folder when running blog.
+Because the two different source folders shares the same assets folder. Need to copy `assets`  folder to each source folder when running blog (auto-copy).
 
 ## STYLES
 

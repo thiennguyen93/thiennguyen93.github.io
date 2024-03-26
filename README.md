@@ -1,6 +1,4 @@
-![Github Pages (en)](https://github.com/thiennguyen93/thiennguyen93.github.io/actions/workflows/main.yml/badge.svg)
-
-![Google Hosting (vi)](https://github.com/thiennguyen93/thiennguyen93.github.io/actions/workflows/firebase-hosting-merge.yml/badge.svg
+![Github Pages (en)](https://github.com/thiennguyen93/thiennguyen93.github.io/actions/workflows/main.yml/badge.svg) &emsp; ![Google Hosting (vi)](https://github.com/thiennguyen93/thiennguyen93.github.io/actions/workflows/firebase-hosting-merge.yml/badge.svg)
 
 # About Thien Nguyen's microblog
 

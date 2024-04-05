@@ -166,7 +166,7 @@ body:not(.light) .card-action-nav:hover {
   position: relative;
   bottom: 20px;
   /* Temporarily disable copy & download button */
-  display: none !important;
+  /* display: none !important; */
 }
 
 @-webkit-keyframes wave {

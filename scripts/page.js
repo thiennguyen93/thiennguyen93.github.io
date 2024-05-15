@@ -49,6 +49,22 @@ hexo.extend.injector.register(
 // Thien Nguyen Custom... Inject aplayer dependencies CSS, JS
 hexo.extend.injector.register(
   "head_end",
+  `
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S8T504QJK6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S8T504QJK6');
+</script>
+  `
+);
+
+// Thien Nguyen Custom... Inject aplayer dependencies CSS, JS
+hexo.extend.injector.register(
+  "head_end",
   () => {
     // return css('/assets/css/APlayer.min.css'); // without CDN
     return css(

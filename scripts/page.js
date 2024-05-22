@@ -64,9 +64,20 @@ hexo.extend.injector.register(
 
 // Thien Nguyen Custom... Inject aplayer dependencies CSS, JS
 hexo.extend.injector.register(
-  "head_end",
+  "body_end",
   () => {
     // return css('/assets/css/APlayer.min.css'); // without CDN
+    return js(
+      "https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"
+    ); // CDN
+  },
+  "category"
+);
+
+// 
+hexo.extend.injector.register(
+  "head_end",
+  () => {
     return css(
       "https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css"
     ); // CDN

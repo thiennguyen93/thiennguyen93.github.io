@@ -31,3 +31,8 @@ body:not(.light) .in-view.cover-photo {
   filter: brightness(0.8) grayscale(0);
   -webkit-filter: brightness(0.8) grayscale(0);
 }
+
+/* MISSING BULMA */
+.is-flex-wrap-wrap {
+	flex-wrap: wrap;
+}

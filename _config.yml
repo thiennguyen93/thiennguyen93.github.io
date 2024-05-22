@@ -94,3 +94,4 @@ aplayer:
 thiennguyen:
   useStyles: 
     - '/assets/css/custom.css'
+    - '/assets/css/progressbar.css'

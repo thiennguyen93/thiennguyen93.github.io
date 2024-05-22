@@ -93,7 +93,7 @@ hexo.extend.injector.register(
             breakAt: {
                 1200: 2,
                 940: 2,
-                520: 2,
+                520: 1,
                 400: 1
             }
         });

@@ -68,8 +68,38 @@ hexo.extend.injector.register(
   () => {
     // return css('/assets/css/APlayer.min.css'); // without CDN
     return js(
-      "https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"
+      // "https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"
+      // "/assets/js/minimasonry.min.js"
+      "/assets/js/macy.js"
+      // "https://cdn.jsdelivr.net/npm/macy@2"
     ); // CDN
+  },
+  "category"
+);
+// Thien Nguyen Custom... Inject aplayer dependencies CSS, JS
+hexo.extend.injector.register(
+  "body_end",
+  () => {
+    return `
+      <script>
+      const isFeaturedCategoryPhotoAlbum = !!document.querySelector(".photo-album-columns");
+      if (isFeaturedCategoryPhotoAlbum) {
+        var macy = new Macy({
+            container: '.photo-album-columns',
+            trueOrder: false,
+            waitForImages: false,
+            margin: 0,
+            columns: 2,
+            breakAt: {
+                1200: 2,
+                940: 2,
+                520: 2,
+                400: 1
+            }
+        });
+      };
+      </script>
+      `;
   },
   "category"
 );

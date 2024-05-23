@@ -271,8 +271,9 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
-            <img alt="Git logo light" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-git-dark.png">
-            <img alt="Git logo dark" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-git-light.png">
+            <!-- <img alt="Git logo light" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-git-light.png"> -->
+            <!-- <img alt="Git logo dark" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-git-dark.png"> -->
+            <img alt="Git logo" class="not-gallery-item cv wh-64" src="img/logo-git-light.png">
         </figure>
         <div>
             <h4 class="is-size-6" id="certification-git-github">

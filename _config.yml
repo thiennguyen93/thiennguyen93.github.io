@@ -54,7 +54,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 updated_option: mtime
-per_page: 5
+per_page: 6
 pagination_dir: page
 include: null
 exclude: null
@@ -96,4 +96,6 @@ thiennguyen:
     - '/assets/css/custom.css'
     - '/assets/css/progressbar.css'
   featuredCategory:
-    photoAlbums: "Albums"
+    "Albums": 
+      css:
+        - "/assets/css/photo-album-category.css"

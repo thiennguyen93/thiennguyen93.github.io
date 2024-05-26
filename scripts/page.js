@@ -84,7 +84,7 @@ hexo.extend.injector.register(
       <script>
       const isFeaturedCategoryPhotoAlbum = !!document.querySelector(".photo-album-columns");
       if (isFeaturedCategoryPhotoAlbum) {
-        var macy = new Macy({
+        var macyInstance = new Macy({
             container: '.photo-album-columns',
             trueOrder: false,
             waitForImages: false,
@@ -96,7 +96,7 @@ hexo.extend.injector.register(
                 520: 1,
                 400: 1
             }
-        });
+          });
       };
       </script>
       `;

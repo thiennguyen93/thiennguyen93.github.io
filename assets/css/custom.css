@@ -37,6 +37,11 @@ body:not(.light) .in-view.cover-photo {
 	flex-wrap: wrap;
 }
 
+/* FIXED MISSING TRANSITION ON IMAGE HOVER IN LIGHT MODE */
+body:not(.night) img, body:not(.night) video, body:not(.night) iframe, body:not(.night) .waifu, body:not(.night) .donate {
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out
+}
 
 /* 
 .loader {

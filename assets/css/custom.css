@@ -75,3 +75,6 @@ body:not(.night) img, body:not(.night) video, body:not(.night) iframe, body:not(
   img.error {
     opacity: 1;
   }
+  img:not([src]) {
+    visibility: hidden;
+  }

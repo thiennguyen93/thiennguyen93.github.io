@@ -99,4 +99,12 @@ thiennguyen:
     "Albums": 
       css:
         - "/assets/css/photo-album-category.css"
+      js:
+        - "https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/jquery.nanogallery2.min.js"
       disableWidgets: true
+  featuredPostType:
+    "photo_album":
+      css: 
+        - "https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/css/nanogallery2.min.css"
+      js:
+        - "https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/jquery.nanogallery2.min.js"

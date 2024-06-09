@@ -89,9 +89,9 @@ hexo.extend.injector.register(
             trueOrder: false,
             waitForImages: false,
             margin: 0,
-            columns: 3,
+            columns: 2,
             breakAt: {
-                1200: 3,
+                1200: 2,
                 940: 2,
                 520: 1,
                 400: 1

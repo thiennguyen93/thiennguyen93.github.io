@@ -101,7 +101,7 @@ thiennguyen:
         - "/assets/css/photo-album-category.css"
       js:
         - "https://cdn.jsdelivr.net/npm/nanogallery2@3/dist/jquery.nanogallery2.min.js"
-      disableWidgets: true
+      disableWidgets: false
   featuredPostType:
     "photo_album":
       css: 

@@ -159,7 +159,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
         <div>
             <h4 class="is-size-6 is-uppercase" id="work-experience-cmc-global"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
             <span>Software Engineer</span>
-            <p>Projects: THK CMMS, THK Order System & HACCP Report Application</p>
+            <p>Projects: THK CMMS, THK Order System & HACCP Report</p>
             <p>
             <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Estimated project timelines and resources required for completion.
             </p>

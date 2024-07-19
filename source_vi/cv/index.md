@@ -17,6 +17,7 @@ widgets:
     author_tooltip: "Thiện Nguyễn \nIPA /tiːɛn ˈwɪn/"
     author_title: Software Engineer
     avatar_rounded: true
+    counter: false
     location: Ho Chi Minh City, Vietnam
     gravatar: info@thiennguyenpro.com
     follow_link: "https://www.linkedin.com/in/thiennguyendev/"

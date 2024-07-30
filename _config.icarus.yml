@@ -264,7 +264,7 @@ widgets:
   # Email address for the Gravatar
   gravatar: phuocthien@outlook.com
   # URL or path for the follow button
-  follow_link: "https://thiennguyen.dev/cv"
+  follow_link: "/cv"
   follow_title: "View my CV"
   # target of link: _self, _blank
   target: "_self"

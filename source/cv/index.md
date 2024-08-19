@@ -120,11 +120,37 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+            <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-pilotpulse-ai-light.png">
+            <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-pilotpulse-ai-light.png">
+        </figure>
+        <div>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Apr 2023 - Now</span> <a href="https://pilotpulse.ai/">PilotPulse.ai</a></strong></h4>
+            <span>AI Software Engineer</span>
+            <p>Product: AI Agents for business</p>
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Developed and maintained RESTful APIs and dashboard to manage users, knowledge base & prompt.
+            </p>
+            <!-- <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> (& more to be updated)
+            </p> -->
+            <p  style="margin-bottom: 20px">
+                <span class="tag is-white">Keywords</span>
+                <span class="tag is-primary is-light">Go</span>
+                <span class="tag is-success is-light">Python</span>
+                <span class="tag">PostgreSQL</span>
+                <span class="tag is-warning is-light">MongoDB</span>
+                <span class="tag">AI</span>
+                <span class="tag">ReactJS</span>
+            </p>
+        </div>
+    </article>
+    <article class="media" style="color: unset;">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-gamify-studios-light.png">
             <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-gamify-studios-dark.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#">Gamify Studios Company Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Feb 2023</span> <a href="#">Gamify Studios Company Limited</a></strong></h4>
             <span>Software Engineer</span>
             <p>Product: Back Office Gaming Management System</p>
             <p>

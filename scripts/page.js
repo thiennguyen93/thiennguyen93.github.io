@@ -14,7 +14,7 @@ const script = `
     cmdKshortcut = document.createElement('div');
     cmdKshortcut.id = 'cmdKshortcut';
     cmdKshortcut.className = 'searchbox-cmd-k-shortcut';
-    cmdKshortcut.innerHTML = '<span class="cmdk-label px-1">⌘ K</span>';
+    cmdKshortcut.innerHTML = '<span class="cmdk-label px-1 mx-1">⌘ K</span>';
 
     // Locate the parent element where the new element should be inserted
     var searchHeader = document.querySelector('.searchbox-header');

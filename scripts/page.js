@@ -30,8 +30,7 @@ hexo.extend.injector.register(
   "body_end",
   () => {
     return script;
-  },
-  "page"
+  }
 );
 
 hexo.extend.injector.register(

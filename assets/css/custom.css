@@ -78,3 +78,21 @@ body:not(.night) img, body:not(.night) video, body:not(.night) iframe, body:not(
   img:not([src]) {
     visibility: hidden;
   }
+
+
+/* CSS for cmdK shortcut span */
+.searchbox-cmd-k-shortcut {
+  display: inline-block;
+  padding: .78em 0em
+}
+.cmdk-label {
+  background-color: #65666b30;
+  --tw-border-opacity: 1;
+  border-color: rgb(85 85 85 / var(--tw-border-opacity));
+  border-width: .5px;
+  border-radius: 0.250rem;
+  white-space: nowrap;
+  display: inline-block;
+  border: 0px solid #e5e7eb;
+  box-sizing: border-box;
+}

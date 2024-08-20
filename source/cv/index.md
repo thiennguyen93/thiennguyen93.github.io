@@ -312,7 +312,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
                     </a>
                 </strong>
             </h4>
-            <p>Codecademy</p>
+            <p><a href="https://www.codecademy.com/profiles/thiennguyen.dev/certificates/a8ab218d5950c29861635cc0bf12fd13" target="_blank">Codecademy</a></p>
         </div>
     </article>
     <article class="media" style="color: unset;">
@@ -321,8 +321,8 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="ReactJS logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-react-js-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6" id="certification-reactjs"><strong><span class="tag mr-2">Jan 2021</span> <a class="gallery-item" href="/assets/img/zendvn-cert.png"><img alt="Certificate of Achievement in Completion of ReactJS Programming" class="cv wh-64 is-hidden" src="/assets/img/zendvn-cert.png"><span>Certificate of Achievement in Completion of ReactJS Programming</span></a></strong></h4>
-            <p>Zend Vietnam</p>
+            <h4 class="is-size-6" id="certification-reactjs"><strong><span class="tag mr-2">Jan 2021</span> <a class="gallery-item" href="/assets/img/zendvn-cert.png"><img alt="Certificate of Achievement in Completion of ReactJS Programming" class="cv wh-64 is-hidden" src="/assets/img/zendvn-cert.png"><span>Certificate of Achievement in Completion of ReactJS Course</span></a></strong></h4>
+            <p><a href="https://zendvn.com/" target="_blank">Zend Vietnam</a></p>
         </div>
     </article>
     <article class="media" style="color: unset;">

@@ -512,3 +512,7 @@ feed:
 # Need to inject manually by scripts/page.js
 aplayer:
   asset_inject: false
+thiennguyen:
+  useStyles: 
+    - '/assets/css/custom.css'
+    - '/assets/css/progressbar.css'

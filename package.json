@@ -27,7 +27,7 @@
     "cross-env": "^7.0.3",
     "dotenv": "^10.0.0",
     "hexo": "^5.0.0",
-    "hexo-component-inferno": "^2.0.3",
+    "hexo-component-inferno": "github:thiennguyen93/hexo-component-inferno#dist",
     "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",

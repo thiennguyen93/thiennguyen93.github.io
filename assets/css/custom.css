@@ -96,3 +96,13 @@ body:not(.night) img, body:not(.night) video, body:not(.night) iframe, body:not(
   border: 0px solid #e5e7eb;
   box-sizing: border-box;
 }
+
+/* Verified account badge for profile widget */
+.verified-account-badge {
+  display: inline-block;
+  line-height: 80%;
+}
+.verified-account-badge img {
+  width: 18px;
+}
+

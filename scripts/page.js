@@ -6,25 +6,6 @@ const ghSHA = process.env.GH_SHA;
 const script = `
 <script>
   console.log("Copyright © 2023 Thien Nguyen ${ghSHA}")
-
-  // Added cmdK shortcut
-  /*
-  var cmdKshortcut = document.getElementById('cmdKshortcut');
-  if (!cmdKshortcut) {
-    // Create the new element
-    cmdKshortcut = document.createElement('div');
-    cmdKshortcut.id = 'cmdKshortcut';
-    cmdKshortcut.className = 'searchbox-cmd-k-shortcut';
-    cmdKshortcut.innerHTML = '<span class="cmdk-label px-1 mx-1">⌘ K</span>';
-
-    // Locate the parent element where the new element should be inserted
-    var searchHeader = document.querySelector('.searchbox-header');
-    var closeButton = document.querySelector('.searchbox-close');
-
-    // Insert the new element before the close button
-    searchHeader.insertBefore(cmdKshortcut, closeButton);
-  }
-  */
 </script>
 `;
 

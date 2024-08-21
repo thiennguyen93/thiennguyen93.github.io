@@ -8,6 +8,7 @@ const script = `
   console.log("Copyright © 2023 Thien Nguyen ${ghSHA}")
 
   // Added cmdK shortcut
+  /*
   var cmdKshortcut = document.getElementById('cmdKshortcut');
   if (!cmdKshortcut) {
     // Create the new element
@@ -23,6 +24,7 @@ const script = `
     // Insert the new element before the close button
     searchHeader.insertBefore(cmdKshortcut, closeButton);
   }
+  */
 </script>
 `;
 

@@ -19,7 +19,7 @@ widgets: false
   <img src="/images/thiennguyen-figure.jpeg" class="img-fluid" alt="Thiện Nguyễn">
 </div>
 <h1 class="title is-3 is-size-4-mobile has-text-centered" style="line-height: 1;">
-Thien Nguyen
+Thien Nguyen <span class="verified-account-badge"><img src='/assets/img/verified-account.svg' class="img-reset-brightness not-gallery-item" /></span>
 <div class="is-3 is-size-4-mobile has-text-centered"><span style="font-size:1rem">/tiːɛn ˈwɪn/</span></div>
 </h1>
 <h5 class="title is-3 is-size-8-mobile has-text-centered has-text-grey">Minimalism is not a lack of something.<br />It’s simply the perfect amount of something.</h5>

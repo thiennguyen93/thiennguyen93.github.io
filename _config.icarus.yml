@@ -110,8 +110,8 @@ navbar:
   menu:
     Home: 
       path: /
-    Archives: 
-      path: /archives
+    # Archives: 
+    #   path: /archives
     Categories:
       path: /categories
     # Thẻ: /tags
@@ -144,15 +144,15 @@ navbar:
       flag: "https://thiennguyen.dev/assets/img/en-us-64x64.png"
   # Links to be shown on the right of the navigation bar
   links:
-    View Profile on Facebook:
-      icon: fab fa-facebook
-      url: https://www.facebook.com/thiennguyen.dev/
-    View Profile on LinkedIn:
-      icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/thiennguyendev/
-    View Profile on GitHub:
-      icon: fab fa-github
-      url: "https://github.com/thiennguyen93"
+    # View Profile on Facebook:
+    #   icon: fab fa-facebook
+    #   url: https://www.facebook.com/thiennguyen.dev/
+    # View Profile on LinkedIn:
+    #   icon: fab fa-linkedin
+    #   url: https://www.linkedin.com/in/thiennguyendev/
+    # View Profile on GitHub:
+    #   icon: fab fa-github
+    #   url: "https://github.com/thiennguyen93"
     QR:
       icon: fa-solid fa-qrcode
       target: _self

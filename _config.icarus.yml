@@ -261,6 +261,7 @@ widgets:
   avatar:
   # Whether show the rounded avatar image
   avatar_rounded: true
+  avatar_has_border: true
   # Email address for the Gravatar
   gravatar: phuocthien@outlook.com
   # URL or path for the follow button

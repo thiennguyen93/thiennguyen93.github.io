@@ -14,9 +14,9 @@ useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.
 "Dịp quốc khánh năm nay, ... "
 ![ủa gì zọ?? Bạn AI Code Assistant của tui sao hay tài lanh quá zạ](/2024/09/02/nhat-ky/2024-09-02-ky-nghi-le-quoc-khanh-2024/SCR-20240901-tzzj.png)
 
-Hôm nay ngẫu hứng viết blog sau thời gian dài "kín tiếng trước truyền thông". Vừa mở trình soạn thảo ra, mới viết được vài từ thì "em" thư ký AI chuyên gợi ý viết nhắc lệnh lập trình đã làm tôi không khỏi bất ngờ, bởi vì trước giờ cứ nghĩ ẻm giỏi code thôi nhưng không ngờ lại còn biết cả viết lách nữa chứ 😂.
+Hôm nay ngẫu hứng viết blog sau thời gian dài "kín tiếng trước truyền thông". Vừa mở trình soạn thảo ra, mới viết được vài từ thì "em" thư ký AI chuyên gợi ý viết nhắc lệnh lập trình đã làm tôi không khỏi bất ngờ, bởi vì trước giờ cứ nghĩ ẻm giỏi code thôi, không ngờ lại còn biết cả viết lách nữa chứ 😂.
 
-Khá khen, khá khen ... nhưng tui hổng có mượn nhen ^^. Blog của tui, tui sẽ tự viết và bài viết bạn đang đọc là về kỳ nghỉ lễ Quốc khánh 2/9 phải gọi là "vô tiền khoáng hậu" năm nay.
+Khá khen, khá khen ... nhưng tui hổng có mượn nhen ^^. Blog của tui, tui sẽ tự viết và bài viết bạn đang đọc là về kỳ nghỉ lễ Quốc khánh 2/9 phải nói là "vô tiền khoáng hậu" như năm nay.
 
 <!-- more -->
 
@@ -64,7 +64,7 @@ Theo lịch, hai ngày nghỉ lễ sẽ là thứ hai (2-9) và thứ ba (3-9), 
     <div class="timeline-content">
       <p class="heading">Ngày 2: Chủ nhật, 01-09-2024</p>
       <p>Buổi sáng, mình đưa Cà rốt 🥕 đi bác sĩ kiểm tra vì tối qua sốt li bì cả đêm, chắc do Vaccine hành.</p>
-      <p>Bác sĩ bảo là con mình đang bị viêm nướu răng do vi khuẩn chứ không liên quan gì đến vaccine cả. Hèn chi hôm qua tới giờ nó cứ hay chỉ tay vào miệng và kêu đau. Mình nghĩ là do chích vaccine, bác sĩ cũng nói thêm là vaccine hiện nay dại đều là công nghệ mới, hoàn toàn an toàn không có tác dụng phụ cũng không ảnh hưởng gì đến sự phát triển của trẻ cả nên các ba mẹ cứ yên tâm nha. Bệnh dại rất nguy hiểm vì thế càng không được chủ quan. Khám xong, bác sĩ kê hai ngày thuốc để uống và cho đi về.</p>
+      <p>Bác sĩ nói là con mình đang bị viêm nướu răng do vi khuẩn chứ không liên quan gì đến vaccine cả. Hèn chi hôm qua tới giờ nó cứ hay chỉ tay vào miệng và kêu đau. Mình nghĩ là do chích vaccine, bác sĩ cũng nói thêm là vaccine dại hiện nay đều sử dụng công nghệ mới, an toàn, không có tác dụng phụ cũng không ảnh hưởng gì đến sự phát triển của trẻ cả nên các ba mẹ cứ yên tâm nha. Bệnh dại rất nguy hiểm vì thế càng không được chủ quan. Khám xong, bác sĩ kê hai ngày thuốc để uống và cho đi về.</p>
       <div class="justified-gallery mb-3">
         <img src="https://lh3.googleusercontent.com/pw/AP1GczOm_tW2Hu9FzFJhY8oPSrcKRcQn9r5L-uAkuJvqkz3Y2nGNEoTXOKFBsorpSNtVG8545ShthQLRedx7cEz_VtYuJ25a4w6JlQDOTGZ2Bqhrp7PI1x4uuBXEOs-GZWhthu2yHo_clSllx_5fHkZmljgJ6A=w2640-h1454-s-no-gm?authuser=0" alt="Đoạn bác sĩ kêu vào khám, vẫn còn ám ảnh vụ chích ngừa hôm qua nên cà rốt khóc la chạy khắp nơi hòng trốn bác sĩ" />
       </div>

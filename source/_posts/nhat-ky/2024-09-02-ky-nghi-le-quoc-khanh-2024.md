@@ -9,7 +9,7 @@ toc: false
 # cover_lqip: /assets/img/lqip/ky-nghi-le-quoc-khanh-2024-cover.webp
 thumbnail: /assets/img/post/thumbnails/ky-nghi-le-quoc-khanh-2024-thumbnail.webp
 useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css','/assets/en/posts/2024-09-02-ky-nghi-le-quoc-khanh-2024/styles.css']
-ribbon: ['⭐️','is-danger']
+ribbon: ['★','has-background-danger has-text-warning is-borderless']
 ---
 
 "Dịp quốc khánh năm nay, ... "

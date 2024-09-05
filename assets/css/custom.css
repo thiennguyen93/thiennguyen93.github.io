@@ -110,3 +110,7 @@ body:not(.night) img, body:not(.night) video, body:not(.night) iframe, body:not(
 .avatar.has-border {
   border: 3px solid rgba(255,255,255,0.3);
 }
+
+.is-borderless {
+  border: none;
+}

@@ -9,10 +9,11 @@ toc: false
 # cover_lqip: /assets/img/lqip/ky-nghi-le-quoc-khanh-2024-cover.webp
 thumbnail: /assets/img/post/thumbnails/ky-nghi-le-quoc-khanh-2024-thumbnail.webp
 useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css','/assets/en/posts/2024-09-02-ky-nghi-le-quoc-khanh-2024/styles.css']
+ribbon: ['⭐️','is-danger']
 ---
 
 "Dịp quốc khánh năm nay, ... "
-![ủa gì zọ?? Bạn AI Code Assistant của tui sao hay tài lanh quá zạ](/2024/09/02/nhat-ky/2024-09-02-ky-nghi-le-quoc-khanh-2024/SCR-20240901-tzzj.png)
+![ủa gì zọ?? Tui muốn viết bài mà bạn AI Code Assistant của tui sao hay tài lanh quá zạ](/2024/09/02/nhat-ky/2024-09-02-ky-nghi-le-quoc-khanh-2024/SCR-20240901-tzzj.png)
 
 Hôm nay ngẫu hứng viết blog sau thời gian dài "kín tiếng trước truyền thông". Vừa mở trình soạn thảo ra, mới viết được vài từ thì "em" thư ký AI chuyên gợi ý viết nhắc lệnh lập trình đã làm tôi không khỏi bất ngờ, bởi vì trước giờ cứ nghĩ ẻm giỏi code thôi, không ngờ lại còn biết cả viết lách nữa chứ 😂.
 

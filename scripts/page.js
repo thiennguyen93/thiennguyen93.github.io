@@ -49,8 +49,6 @@ hexo.extend.injector.register(
 hexo.extend.injector.register(
   "head_end",
   `
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-S8T504QJK6"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}

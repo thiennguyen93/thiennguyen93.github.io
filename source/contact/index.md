@@ -112,7 +112,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   
   // Get main form 
   var form = document.getElementById("form");
-  form.addEventListener("submit", formSubmit);
+  form.addEventListener("submit", formSubmitTallyForm);
   var url = "https://getform.io/f/alljneva"
   
   // Get button go backk
@@ -249,6 +249,69 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         submitBtn.removeAttribute(attributeDisabled);
         formFieldset.removeAttribute(attributeDisabled);
       })
+  }
+
+  function formSubmitTallyForm(e) {
+    e.preventDefault()
+
+    const tallyFormUrl = "https://api.tally.so/forms/mVYlvv/respond"
+    // Tally.so Form account: hi[at]thiennguyen.dev
+
+    const fullname = document.querySelector('input[name="full-name"]').value;
+    const email = document.querySelector('input[name="email"]').value;
+    const message = document.querySelector('textarea[name="message"]').value
+    // Build form headers
+    const myHeaders = new Headers();
+    myHeaders.append("Content-Type", "application/json");
+    myHeaders.append("Access-Control-Allow-Origin","*")
+
+    // Request options
+    var requestOptions = {
+      method: 'POST',
+      headers: myHeaders,
+      body: JSON.stringify({
+        "sessionUuid": crypto.randomUUID(),
+        "respondentUuid": crypto.randomUUID(),
+        "responses": {
+            "4dac5065-59ab-48f2-b7c7-f560616bd969": fullname,
+            "83fc9110-3216-457a-844a-623dfdb03aca": email,
+            "a958e6ae-d2d3-472b-8cb8-a6fa5fbc12b1": message
+        },
+        "isCompleted": true
+      }),
+      redirect: 'follow'
+    };
+
+  var submitBtn = document.getElementById("submitBtn");
+  submitBtn.innerHTML = "Sending..."
+  submitBtn.setAttribute(attributeDisabled, "");
+
+  errMsg.classList.add(classIsHidden)
+
+  // Disabled 
+  formFieldset.setAttribute(attributeDisabled, "");
+
+  fetch(tallyFormUrl,
+    requestOptions)
+    .then(response => {
+      // hide feedback form
+      feedBackForm.classList.add(classIsHidden);
+      formCaption.classList.add(classIsHidden);
+
+      // show thank box
+      thankBox.classList.remove(classIsHidden);
+    })
+    .catch(error => {
+      console.log(error);
+      errMsg.classList.remove(classIsHidden)
+    })
+    .finally(() => {
+      submitBtn.innerHTML = "Send"
+      submitBtn.removeAttribute(attributeDisabled);
+      formFieldset.removeAttribute(attributeDisabled);
+    })
+
+
   }
 
 </script>

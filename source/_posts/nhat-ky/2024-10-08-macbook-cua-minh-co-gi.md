@@ -110,7 +110,7 @@ brew install --cask openkey
 {% endcodeblock %}
 <p style="text-align: center">
     <img class="only-in-night-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-openkey-dark.png" data-src="/assets/img/SCR-20241009-openkey-dark.png" width="50%">
-    <img class="only-in-light-mode in-view-effect transition-all lazy" alt="Giao diện Wezterm do mình tùy chỉnh nè, cửa sổ bên dưới là terminal mặc định của macOS" title="Giao diện Wezterm do mình tùy chỉnh nè, cửa sổ bên dưới là terminal mặc định của macOS" src="/assets/img/SCR-20241009-openkey-light.png" data-src="/assets/img/SCR-20241009-openkey-light.png" width="50%">
+    <img class="only-in-light-mode in-view-effect transition-all lazy" alt="Giao diện bảng điều khiển của OpenKey" src="/assets/img/SCR-20241009-openkey-light.png" data-src="/assets/img/SCR-20241009-openkey-light.png" width="50%">
 </p>
 
 ### 3. Wezterm

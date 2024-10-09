@@ -30,7 +30,7 @@ description: "Ricky Star x Lăng LD x Amee"
         {
             "title": "Tình bạn diệu kì",
             "author": "Ricky Star x Lăng LD x Amee",
-            "url": "https://api.mp3.zing.vn/api/streaming/audio/ZOBD0W7Z/128",
+            "url": "/assets/media/tinh-ban-dieu-ky/tinh-ban-dieu-ky.mp3",
             "pic": "/assets/media/tinh-ban-dieu-ky/album.webp",
             "lrc": "/assets/media/tinh-ban-dieu-ky/lyric.lrc"
         }

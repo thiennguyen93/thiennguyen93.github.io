@@ -4,11 +4,20 @@ date: 2024/10/08
 categories:
 - Journal
 language: en
-toc: false
+toc: true
 cover: /assets/img/2024-10-08-macbook-cua-minh-co-gi.webp
 cover_lqip: /assets/img/lqip/2024-10-08-macbook-cua-minh-co-gi.webp
 thumbnail: /assets/img/post/thumbnails/2024-10-08-macbook-cua-minh-co-gi-thumbnail.png
 useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css','/assets/en/posts/2024-09-02-ky-nghi-le-quoc-khanh-2024/styles.css']
+widgets:
+  - type: toc
+    position: left
+    collapsed: true
+    index: false
+    depth: 2
+sidebar:
+  left:
+    sticky: true
 ---
 Trong năm 2024 này mình được xài đến tận ba em Macbook khác nhau theo thứ tự: M3 Pro (14 inch), M2 Pro (13 inch) và hiện đang dùng em M3 Air (13 inch). Haha thường thì người ta nâng cấp, còn mình thì hạ cấp dần từ bản Pro xuống bản Air. Cuộc sống mà... có lúc "lên voi, xuống chó" cũng là chuyện thường ngày. Nói vậy chứ thật ra thì công ty cấp gì xài nấy ^^, chứ có phải tiền của mình đâu mà đòi hỏi máy này hay máy kia 🤣😂.
 

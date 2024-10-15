@@ -28,7 +28,7 @@ Máy của mình cấu hình bình thường, không nâng cấp gì cả (16Gb 
 <!-- more -->
 
 <p style="text-align: center">
-    <img class="in-view-effect frame transition-all lazy"  alt='"Siêu mẫu" Macbook Air M3' title="Siêu mẫu Macbook Air M3" src="/assets/img/20241008_macbook_air_box_1.jpg" data-src="/assets/img/20241008_macbook_air_box_1.jpg" width="30%">
+    <img width="50%" class="in-view-effect frame transition-all lazy"  alt='"Siêu mẫu" Macbook Air M3' title="Siêu mẫu Macbook Air M3" src="/assets/img/20241008_macbook_air_box_1.jpg" data-src="/assets/img/20241008_macbook_air_box_1.jpg">
 </p>
 
 ## Terminal là gì? Tại sao cần Terminal?
@@ -43,8 +43,8 @@ Chắc hẳn bạn đã quen thuộc với việc tương tác với máy tính 
 Đến ngày nay khi mà máy móc đã mạnh hơn trước, màn hình xịn hơn, to hơn, rõ đẹp hơn, dĩ nhiên người ta cũng ít dùng dòng lệnh hơn, thay vào đó là những giao diện đồ họa bắt mắt, trực quan và dễ sử dụng hơn và tất nhiên không còn phải nhớ thêm một dòng lệnh nào nữa. Nhưng đâu phải ai cũng vậy, có nhiều người như mình lại thích dùng CLI hơn nè và Terminal chính là ứng dụng mang giao diện dòng lệnh trở lại.
 
 <p style="text-align: center">
-    <img class="only-in-night-mode in-view-effect frame transition-all lazy" src="/assets/img/SCR-20241009-terminal-dark-bg.jpeg" data-src="/assets/img/SCR-20241009-terminal-dark-bg.jpeg" width="50%">
-    <img class="only-in-light-mode in-view-effect frame transition-all lazy" alt="Ứng dụng Terminal mặc định trong MacOS" title="Ứng dụng Terminal mặc định trong MacOS" src="/assets/img/SCR-20241009-terminal-light-bg.jpeg" data-src="/assets/img/SCR-20241009-terminal-light-bg.jpeg" width="50%">
+    <img width="80%" class="only-in-night-mode in-view-effect frame transition-all lazy" src="/assets/img/SCR-20241009-terminal-dark-bg.jpeg" data-src="/assets/img/SCR-20241009-terminal-dark-bg.jpeg">
+    <img width="80%" class="only-in-light-mode in-view-effect frame transition-all lazy" alt="Ứng dụng Terminal mặc định trong MacOS" title="Ứng dụng Terminal mặc định trong MacOS" src="/assets/img/SCR-20241009-terminal-light-bg.jpeg" data-src="/assets/img/SCR-20241009-terminal-light-bg.jpeg">
 </p>
 
 ### 👉🏻 Tại sao mình lại dành nhiều đất để viết về terminal vậy? 
@@ -85,8 +85,8 @@ Homebrew đơn giản chỉ là một ứng dụng quản lý các gói cài đ�
 
 
 <p style="text-align: center">
-    <img class="only-in-night-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-homebrew-dark.png" data-src="/assets/img/SCR-20241009-homebrew-dark.png" alt="" width="50%">
-    <img class="only-in-light-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-homebrew-light.png" data-src="/assets/img/SCR-20241009-homebrew-light.png" alt="" width="50%">
+    <img width="80%" class="only-in-night-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-homebrew-dark.png" data-src="/assets/img/SCR-20241009-homebrew-dark.png" alt="">
+    <img width="80%" class="only-in-light-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-homebrew-light.png" data-src="/assets/img/SCR-20241009-homebrew-light.png" alt="">
 </p>
 
 Vào trang chủ https://brew.sh/ và copy dòng lệnh Install Homebrew và paste vào terminal để chạy
@@ -118,8 +118,8 @@ Bộ gõ tiếng Việt mã nguồn mở khá xịn xò
 brew install --cask openkey
 {% endcodeblock %}
 <p style="text-align: center">
-    <img class="only-in-night-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-openkey-dark.png" data-src="/assets/img/SCR-20241009-openkey-dark.png" width="50%">
-    <img class="only-in-light-mode in-view-effect transition-all lazy" alt="Giao diện bảng điều khiển của OpenKey" src="/assets/img/SCR-20241009-openkey-light.png" data-src="/assets/img/SCR-20241009-openkey-light.png" width="50%">
+    <img width="80%" class="only-in-night-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-openkey-dark.png" data-src="/assets/img/SCR-20241009-openkey-dark.png">
+    <img width="80%" class="only-in-light-mode in-view-effect transition-all lazy" alt="Giao diện bảng điều khiển của OpenKey" src="/assets/img/SCR-20241009-openkey-light.png" data-src="/assets/img/SCR-20241009-openkey-light.png">
 </p>
 
 ### 3. Wezterm
@@ -129,17 +129,27 @@ brew install --cask wezterm
 {% endcodeblock %}
 
 <p style="text-align: center">
-    <img class="only-in-night-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-wezterm-dark.jpeg" data-src="/assets/img/SCR-20241009-wezterm-dark.jpeg" width="50%">
-    <img class="only-in-light-mode in-view-effect transition-all lazy" alt="Giao diện Wezterm do mình tùy chỉnh nè, cửa sổ bên dưới là trình terminal mặc định của MacOS" src="/assets/img/SCR-20241009-wezterm-light.jpeg" data-src="/assets/img/SCR-20241009-wezterm-light.jpeg" width="50%">
+    <img width="80%" class="only-in-night-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-wezterm-dark.jpeg" data-src="/assets/img/SCR-20241009-wezterm-dark.jpeg">
+    <img width="80%" class="only-in-light-mode in-view-effect transition-all lazy" alt="Giao diện Wezterm do mình tùy chỉnh nè, cửa sổ bên dưới là trình terminal mặc định của MacOS" src="/assets/img/SCR-20241009-wezterm-light.jpeg" data-src="/assets/img/SCR-20241009-wezterm-light.jpeg">
 </p>
 
-### 3. Microsoft Visual Studio Code
+### 4. Git
+Git là một hệ thống quản lý source code không thể thiếu với dev được ^^
+{% codeblock Terminal %}
+brew install git
+{% endcodeblock %}
+Công ty mình đang dùng Github nên mình cài thêm Github CLI nữa
+{% codeblock Terminal %}
+brew install gh
+{% endcodeblock %}
+
+### 5. Microsoft Visual Studio Code
 Editor siêu kinh điển của anh em dev, trừ mấy ông xài NeoVim 😇
 {% codeblock Terminal %}
 brew install --cask visual-studio-code
 {% endcodeblock %}
 
-### 4. Datagrip
+### 6. Datagrip
 Công cụ quản trị Database tiện dụng, hỗ trợ rất nhiều loại CSDL khác nhau (PostgreSQL, MongoDB, Redis, MySQL, v.v..)
 License Edu đang mượn của ***Ms Sương (Khoa Ngoại ngữ - ĐH Sư Phạm Kỹ Thuật TP.HCM)*** 🥰 
 Thank Ms Sương nếu cô có tình cờ đọc bài viết này của em.
@@ -148,20 +158,20 @@ Thank Ms Sương nếu cô có tình cờ đọc bài viết này của em.
 brew install --cask datagrip
 {% endcodeblock %}
 
-### 5. Shottr
+### 7. Shottr
 Ứng dụng screenshot với nhiều chức năng tiện dụng. 
 Phần lớn các ảnh minh họa trên blog đều được chụp bằng phần mềm này hihi 😊
 {% codeblock Terminal %}
 brew install --cask shottr
 {% endcodeblock %}
 
-### 6. Postman
+### 8. Postman
 Ứng dụng phục vụ kiểm thử API
 {% codeblock Terminal %}
 brew install --cask postman
 {% endcodeblock %}
 
-### 7. Hammerspoon
+### 9. Hammerspoon
 Nếu bên Windows có AutoHotkey thì bên MacOS có Hammerspoon. Ứng dụng cho phép cài đặt phím tắt tùy ý để thao tác với cửa sổ, trỏ chuột, bàn phím, v.v...
 {% codeblock Terminal %}
 brew install --cask hammerspoon

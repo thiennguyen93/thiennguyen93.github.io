@@ -114,3 +114,7 @@ body:not(.night) img, body:not(.night) video, body:not(.night) iframe, body:not(
 .is-borderless {
   border: none;
 }
+
+article h2, article h3 {
+  color: #ef476f !important
+}

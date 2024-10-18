@@ -124,7 +124,7 @@ navbar:
     #     Note:
     #       path: /note
     Relax:
-      path: /categories/music
+      path: /music
     CV: 
       path: /cv
     About: 

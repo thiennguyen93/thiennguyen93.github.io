@@ -83,45 +83,6 @@ widgets:
 - # Where should the widget be placed, left sidebar or right sidebar
   position: left
   type: recent_posts
-# Archives widget configurations
-- # Where should the widget be placed, left sidebar or right sidebar
-  position: left
-  type: archives
-# Tags widget configurations
-- # Where should the widget be placed, left sidebar or right sidebar
-  position: left
-  type: tags
-  # # Google FeedBurner email subscription widget configurations
-  # -
-  #     # Where should the widget be placed, left sidebar or right sidebar
-  #     position: left
-  #     type: subscribe_email
-  #     # Hint text under the email input
-  #     description:
-  #     # Feedburner ID
-  #     feedburner_id: ''
-  # Google AdSense unit configurations
-  # -
-  # Where should the widget be placed, left sidebar or right sidebar
-  # position: left
-  # type: adsense
-  # # AdSense client ID
-  # client_id: ''
-  # # AdSense AD unit ID
-  # slot_id: ''
-  # # Follow.it email subscription widget configurations
-  # -
-  #     # Where should the widget be placed, left sidebar or right sidebar
-  #     position: left
-  #     type: followit
-  #     # Hint text under the email input
-  #     description:
-  #     # Subscription form action URL
-  #     action_url: ''
-  #     # Feed claiming verification code
-  #     verification_code: ''
-# Plugin configurations
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 sidebar:
   right:
     sticky: true

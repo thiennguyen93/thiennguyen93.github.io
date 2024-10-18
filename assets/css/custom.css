@@ -118,3 +118,8 @@ body:not(.night) img, body:not(.night) video, body:not(.night) iframe, body:not(
 article h2, article h3 {
   color: #ef476f !important
 }
+
+/* Fixed issue: in dark mode fixed player at the end of page show a shadow on lyrics and hard to read */
+body:not(.light) .aplayer.aplayer-fixed .aplayer-lrc {
+  text-shadow: none;
+}

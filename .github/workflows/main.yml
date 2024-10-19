@@ -35,5 +35,6 @@ jobs:
       with:
         GH_ALGOLIA_INDEXING_KEY: ${{ secrets.GH_ALGOLIA_INDEXING_KEY }}
         GH_ALGOLIA_INDEXING_KEY_VI: ${{ secrets.GH_ALGOLIA_INDEXING_KEY_VI }}
-      run: npm run algolia-index
+      run: |
+        npm run algolia-index
       

@@ -30,11 +30,5 @@ jobs:
         git config --global url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "git@github.com:"
         npm install lqip-modern
         npm run build-gh-page
-      
-    - name: Indexing site
-      with:
-        GH_ALGOLIA_INDEXING_KEY: ${{ secrets.GH_ALGOLIA_INDEXING_KEY }}
-        GH_ALGOLIA_INDEXING_KEY_VI: ${{ secrets.GH_ALGOLIA_INDEXING_KEY_VI }}
-      run: |
         npm run algolia-index
       

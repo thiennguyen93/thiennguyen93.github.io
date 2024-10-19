@@ -16,6 +16,8 @@ jobs:
       env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}
+          GH_ALGOLIA_INDEXING_KEY: ${{ secrets.GH_ALGOLIA_INDEXING_KEY }}
+          GH_ALGOLIA_INDEXING_KEY_VI: ${{ secrets.GH_ALGOLIA_INDEXING_KEY_VI }}
           GH_SHA: ${{ github.sha }}
           GH_REPO_URL: ${{ github.repositoryUrl }}
           GH_SERVER_URL: ${{ github.server_url }}
@@ -29,9 +31,9 @@ jobs:
         npm install lqip-modern
         npm run build-gh-page
       
-    # - name: Deploy site to Github Pages
-    #   uses: peaceiris/actions-gh-pages@v3
-    #   with:
-    #     github_token: ${{ secrets.GITHUB_TOKEN }}
-    #     publish_branch: gh-pages
-    #     enable_jekyll: false
+    - name: Indexing site
+      with:
+        GH_ALGOLIA_INDEXING_KEY: ${{ secrets.GH_ALGOLIA_INDEXING_KEY }}
+        GH_ALGOLIA_INDEXING_KEY_VI: ${{ secrets.GH_ALGOLIA_INDEXING_KEY_VI }}
+      run: npm run algolia-index
+      

@@ -13,6 +13,8 @@ jobs:
       env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}
+          GH_ALGOLIA_INDEXING_KEY: ${{ secrets.GH_ALGOLIA_INDEXING_KEY }}
+          GH_ALGOLIA_INDEXING_KEY_VI: ${{ secrets.GH_ALGOLIA_INDEXING_KEY_VI }}
           GH_SHA: ${{ github.sha }}
           GH_REPO_URL: ${{ github.repositoryUrl }}
           GH_SERVER_URL: ${{ github.server_url }}

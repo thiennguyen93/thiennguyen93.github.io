@@ -509,6 +509,11 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+# Search integration
+algolia:
+    applicationID: Z10A2B3Y0R
+    indexName: prod_vi.thiennguyen.dev
+    apiKey: 31c240d17d62425f38504bf154edbed7
 # Need to inject manually by scripts/page.js
 aplayer:
   asset_inject: false

@@ -17,7 +17,9 @@
     "dev": "eval $(grep '^GH_' .env) && npm run prepare-asset && npm run myinstall && hexo server",
     "dev-vi": "eval $(grep '^GH_' .env) && npm run prepare-asset-vi && npm run myinstall && hexo server --config i18n/_config.vi.yml",
     "server-vi": "npm run prepare-asset-vi && hexo server --config i18n/_config.vi.yml",
-    "build-vi": "npm run prepare-asset-vi && npm run myinstall && hexo generate --config i18n/_config.vi.yml"
+    "build-vi": "npm run prepare-asset-vi && npm run myinstall && hexo generate --config i18n/_config.vi.yml",
+    "algolia-index": "eval $(grep '^GH_ALGOLIA_INDEXING_KEY=' .env) && npx hexo clean && HEXO_ALGOLIA_INDEXING_KEY=$GH_ALGOLIA_INDEXING_KEY npx hexo algolia",
+    "algolia-index-vi": "eval $(grep '^GH_ALGOLIA_INDEXING_KEY_VI=' .env) && npx hexo clean && HEXO_ALGOLIA_INDEXING_KEY=$GH_ALGOLIA_INDEXING_KEY_VI npx hexo algolia --config i18n/_config.vi.yml"
   },
   "hexo": {
     "version": "5.4.0"
@@ -27,6 +29,7 @@
     "cross-env": "^7.0.3",
     "dotenv": "^10.0.0",
     "hexo": "^5.0.0",
+    "hexo-algolia": "^1.3.2",
     "hexo-component-inferno": "github:thiennguyen93/hexo-component-inferno",
     "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",

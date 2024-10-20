@@ -47,10 +47,10 @@ Chắc hẳn bạn đã quen thuộc với việc tương tác với máy tính 
     <img width="80%" class="only-in-light-mode in-view-effect frame transition-all lazy" alt="Ứng dụng Terminal mặc định trong MacOS" title="Ứng dụng Terminal mặc định trong MacOS" src="/assets/img/SCR-20241009-terminal-light-bg.jpeg" data-src="/assets/img/SCR-20241009-terminal-light-bg.jpeg">
 </p>
 
-### 👉🏻 Tại sao mình lại dành nhiều đất để viết về terminal vậy? 
+### :point_right: Tại sao mình lại dành nhiều đất để viết về terminal vậy? 
 Bởi vì mình sẽ dùng terminal để cài đặt hầu hết các ứng dụng trên máy.
 
-### 👉🏻 Ủa vậy chứ tại sao không cài đặt một cách bình thường hay là muốn làm màu chăng?
+### :point_right: Ủa vậy chứ tại sao không cài đặt một cách bình thường hay là muốn làm màu chăng?
 Để cho bạn dễ so sánh, mình sẽ minh họa cách bằng cả hai cách luôn.
 
 Cách 1: Mình cài trình duyệt **Google Chrome** một cách bình thường nè:
@@ -77,11 +77,11 @@ Ahhh, vậy là chỉ có 6 bước (thay vì 7) để cài Chrome bằng Termin
 
 Ê! Đừng thử gõ lệnh `brew install --cask google-chrome` để install Cờ-rôm nha. Không được đâu!! Do trước đó mình cài Homebrew rồi mới gõ lệnh đó được. Cũng hơi "ăn gian" một xíu, nhưng mà mình chỉ cần cài Homebrew lần đầu thôi. Khi Homebrew đã được cài vào máy rồi, cần phần mềm gì thì cũng chỉ là gõ lệnh tương ứng thôi.
 
-### 👉🏻 Homebrew là gì? Tại sao cần nó?
+### :point_right: Homebrew là gì? Tại sao cần nó?
 
 Homebrew đơn giản chỉ là một ứng dụng quản lý các gói cài đặt (package manager) dành cho MacOS. Ứng dụng này không có giao diện đồ họa mà chủ yếu sẽ là các thao tác qua CLI giúp mình tìm kiếm, cài đặt các phần mềm trong bộ sưu tập đồ sộ của nó.
 
-### 👉🏻 Cách cài đặt Homebrew
+### :point_right: Cách cài đặt Homebrew
 
 
 <p style="text-align: center">
@@ -130,7 +130,7 @@ brew install --cask wezterm
 
 <p style="text-align: center">
     <img width="80%" class="only-in-night-mode in-view-effect frame transition-all lazy" src="/assets/img/SCR-20241009-wezterm-dark.jpeg" data-src="/assets/img/SCR-20241009-wezterm-dark.jpeg">
-    <img width="80%" class="only-in-light-mode in-view-effect frame transition-all lazy" alt="Giao diện Wezterm do mình tùy chỉnh nè, cửa sổ bên dưới là trình terminal mặc định của MacOS" src="/assets/img/SCR-20241009-wezterm-light.jpeg" data-src="/assets/img/SCR-20241009-wezterm-light.jpeg">
+    <img width="80%" class="only-in-light-mode in-view-effect frame transition-all lazy" alt="Giao diện Wezterm do mình tùy chỉnh nè" src="/assets/img/SCR-20241009-wezterm-light.jpeg" data-src="/assets/img/SCR-20241009-wezterm-light.jpeg">
 </p>
 
 ### 4. Git
@@ -177,7 +177,7 @@ brew install --cask hammerspoon
 {% endcodeblock %}
 
 ## Kết
-Qua bài viết mình trình bày một số khái niệm về UI, CLI, Terminal cũng như sự tiện lợi khi mình dùng Terminal để cài đặt các ứng dụng. Mình cũng liệt kê một số phần mềm *<ins>không thể không có</ins>* trên máy tính của mình. Thật ra còn hàng tá thứ "linh ta, linh tinh" khác nữa, nhưng trong khuôn khổ bài viết ngắn gọn mình không thể đề cập hết được, mong "quý dzị" thông cảm 😌. 
+Qua bài viết mình trình bày một số khái niệm về UI, CLI, Terminal cũng như sự tiện lợi khi mình dùng Terminal để cài đặt các ứng dụng. Mình cũng liệt kê một số phần mềm *<ins>không thể không có</ins>* trên máy tính của mình. Thật ra còn hàng tá thứ "linh ta, linh tinh" khác nữa, nhưng để giữ khuôn khổ bài viết được ngắn gọn mình không đề cập hết, mong các bạn thông cảm 😌. 
 
 Nếu bạn thấy hay, hãy ~like (quên mất! Mình không câu like ^^) và~ share bài viết này và tiếp tục ủng hộ blog của mình nữa nhé.
 

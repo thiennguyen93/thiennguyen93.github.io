@@ -42,7 +42,7 @@ function updateUtterancesTheme() {
             type: 'set-theme',
             theme: theme
         };
-        iframe.contentWindow.postMessage(message, '*');
+        iframe.contentWindow.postMessage(message, 'https://utteranc.es');
     }
 }
 
@@ -80,3 +80,21 @@ observeUtterancesFrame((frame) => {
         updateUtterancesTheme(frame)
     });
 });
+
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            const frame = entry.target.querySelector('iframe');
+            if (frame) {
+                // Gửi postMessage ở đây
+               updateUtterancesTheme()
+            }
+            observer.unobserve(entry.target);
+        }
+    });
+});
+
+const utterancesContainer = document.querySelector('.utterances');
+if (utterancesContainer) {
+    observer.observe(utterancesContainer);
+}

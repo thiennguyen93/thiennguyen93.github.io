@@ -129,8 +129,8 @@ brew install --cask wezterm
 {% endcodeblock %}
 
 <p style="text-align: center">
-    <img width="80%" class="only-in-night-mode in-view-effect transition-all lazy" src="/assets/img/SCR-20241009-wezterm-dark.jpeg" data-src="/assets/img/SCR-20241009-wezterm-dark.jpeg">
-    <img width="80%" class="only-in-light-mode in-view-effect transition-all lazy" alt="Giao diện Wezterm do mình tùy chỉnh nè, cửa sổ bên dưới là trình terminal mặc định của MacOS" src="/assets/img/SCR-20241009-wezterm-light.jpeg" data-src="/assets/img/SCR-20241009-wezterm-light.jpeg">
+    <img width="80%" class="only-in-night-mode in-view-effect frame transition-all lazy" src="/assets/img/SCR-20241009-wezterm-dark.jpeg" data-src="/assets/img/SCR-20241009-wezterm-dark.jpeg">
+    <img width="80%" class="only-in-light-mode in-view-effect frame transition-all lazy" alt="Giao diện Wezterm do mình tùy chỉnh nè, cửa sổ bên dưới là trình terminal mặc định của MacOS" src="/assets/img/SCR-20241009-wezterm-light.jpeg" data-src="/assets/img/SCR-20241009-wezterm-light.jpeg">
 </p>
 
 ### 4. Git
@@ -151,8 +151,7 @@ brew install --cask visual-studio-code
 
 ### 6. Datagrip
 Công cụ quản trị Database tiện dụng, hỗ trợ rất nhiều loại CSDL khác nhau (PostgreSQL, MongoDB, Redis, MySQL, v.v..)
-License Edu đang mượn của ***Ms Sương (Khoa Ngoại ngữ - ĐH Sư Phạm Kỹ Thuật TP.HCM)*** 🥰 
-Thank Ms Sương nếu cô có tình cờ đọc bài viết này của em.
+License Edu đang mượn của ***Ms Sương (Khoa Ngoại ngữ - ĐH Sư Phạm Kỹ Thuật TP.HCM)*** 🥰 :cherry_blossom: Cảm ơn Ms Sương nếu cô có tình cờ đọc bài viết này của em.
 
 {% codeblock Terminal %}
 brew install --cask datagrip
@@ -177,7 +176,7 @@ Nếu bên Windows có AutoHotkey thì bên MacOS có Hammerspoon. Ứng dụng 
 brew install --cask hammerspoon
 {% endcodeblock %}
 
-## Kết bài
+## Kết
 Qua bài viết mình trình bày một số khái niệm về UI, CLI, Terminal cũng như sự tiện lợi khi mình dùng Terminal để cài đặt các ứng dụng. Mình cũng liệt kê một số phần mềm *<ins>không thể không có</ins>* trên máy tính của mình. Thật ra còn hàng tá thứ "linh ta, linh tinh" khác nữa, nhưng trong khuôn khổ bài viết ngắn gọn mình không thể đề cập hết được, mong "quý dzị" thông cảm 😌. 
 
 Nếu bạn thấy hay, hãy ~like (quên mất! Mình không câu like ^^) và~ share bài viết này và tiếp tục ủng hộ blog của mình nữa nhé.

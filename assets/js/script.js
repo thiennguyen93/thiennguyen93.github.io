@@ -54,3 +54,31 @@ utterancesObserver.observe(document.body, { childList: true, subtree: true });
 
 // Initial call to set the theme when the script loads
 updateUtterancesTheme();
+
+function observeUtterancesFrame(callback) {
+    const targetNode = document.body;
+    const config = { childList: true, subtree: true };
+
+    const observer = new MutationObserver((mutationsList, observer) => {
+        for(let mutation of mutationsList) {
+            if (mutation.type === 'childList') {
+                const utterancesFrame = document.querySelector('.utterances-frame');
+                if (utterancesFrame) {
+                    observer.disconnect(); // Ngừng observe khi đã tìm thấy frame
+                    callback(utterancesFrame);
+                    return;
+                }
+            }
+        }
+    });
+
+    observer.observe(targetNode, config);
+}
+
+// Sử dụng function
+observeUtterancesFrame((frame) => {
+    console.log('Utterances frame đã được thêm vào DOM!', frame, document.querySelector("body").classList);
+    updateUtterancesTheme(frame)
+    // Thực hiện các hành động cần thiết với frame ở đây
+    // Ví dụ: thay đổi theme hoặc thực hiện các tùy chỉnh khác
+});

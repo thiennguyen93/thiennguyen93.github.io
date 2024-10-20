@@ -42,7 +42,7 @@ function updateUtterancesTheme() {
             type: 'set-theme',
             theme: theme
         };
-        iframe.contentWindow.postMessage(message, 'https://utteranc.es');
+        iframe.contentWindow.postMessage(message, '*');
     }
 }
 
@@ -75,10 +75,8 @@ function observeUtterancesFrame(callback) {
     observer.observe(targetNode, config);
 }
 
-// Sử dụng function
 observeUtterancesFrame((frame) => {
-    console.log('Utterances frame đã được thêm vào DOM!', frame, document.querySelector("body").classList);
-    updateUtterancesTheme(frame)
-    // Thực hiện các hành động cần thiết với frame ở đây
-    // Ví dụ: thay đổi theme hoặc thực hiện các tùy chỉnh khác
+    frame.addEventListener('load', () => {
+        updateUtterancesTheme(frame)
+    });
 });

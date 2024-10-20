@@ -59,6 +59,16 @@ hexo.extend.injector.register(
   `
 );
 
+// Thien Nguyen Custom... Inject other scripts
+hexo.extend.injector.register(
+  "body_end",
+  () => {
+    return js(
+      "/assets/js/script.js"
+    );
+  }
+);
+
 // Thien Nguyen Custom... Inject aplayer dependencies CSS, JS
 hexo.extend.injector.register(
   "body_end",

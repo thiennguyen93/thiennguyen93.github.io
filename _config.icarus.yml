@@ -208,7 +208,7 @@ comment:
     issue_term: pathname        # Required if issue_number is not set
     # issue_number: 100           # Required if issue_term is not set. Every post can be mapped to a separate, manually-created GitHub issue.
     label: comment              # Optional
-    # theme: github-dark         # Optional
+    theme: dark-blue         # Optional ---> CHECK assets/js/script.js for dynamically changing theme
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:

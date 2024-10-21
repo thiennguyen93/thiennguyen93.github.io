@@ -123,3 +123,8 @@ article h2, article h3 {
 body:not(.light) .aplayer.aplayer-fixed .aplayer-lrc {
   text-shadow: none;
 }
+
+/* Make comment session more readable */
+.card-content.thiennguyen-comment {
+  backdrop-filter: blur(20px);
+}

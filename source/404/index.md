@@ -12,9 +12,8 @@ permalink: /404.html
 comment: false
 classNames: ['custom-page-404']
 titleClassnames: ['custom-page-404-title']
+useStyles: ['/404/asset/css/style.css']
 ---
-<link rel="stylesheet" href="/404/asset/css/style.css">
-
 <!-- DARK -->
 <div class="dark">
     <div class="central-body">

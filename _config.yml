@@ -96,7 +96,7 @@ algolia:
     routing: false
     showPoweredbyLabel: false
     config:
-      hitsPerPage: 20
+      hitsPerPage: 10
 # Need to inject manually by scripts/page.js
 aplayer:
   asset_inject: false

@@ -132,3 +132,24 @@ body:not(.light) .aplayer.aplayer-fixed .aplayer-lrc {
 .overflow-hidden {
   overflow: hidden;
 }
+
+/* Ẩn nút clear trong trình duyệt WebKit (Chrome, Safari) */
+/* Text input search của algolia */
+/* clears the 'X' in searchbar from Internet Explorer */
+input[type="search"].ais-SearchBox-input::-ms-clear {
+  display: none;
+  width: 0;
+  height: 0;
+}
+input[type="search"].ais-SearchBox-input::-ms-reveal {
+  display: none;
+  width: 0;
+  height: 0;
+}
+/* clears the 'X' in searchbar from Chrome */
+input[type="search"].ais-SearchBox-input::-webkit-search-decoration,
+input[type="search"].ais-SearchBox-input::-webkit-search-cancel-button,
+input[type="search"].ais-SearchBox-input::-webkit-search-results-button,
+input[type="search"].ais-SearchBox-input::-webkit-search-results-decoration {
+  display: none;
+}

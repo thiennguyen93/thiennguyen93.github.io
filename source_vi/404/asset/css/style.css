@@ -125,13 +125,18 @@ DRIBBBLE: https://dribbble.com/shots/4330167-404-Page-Lost-In-Space
     }
 }
 
-.spin-earth-on-hover {
+.searchbox.show {
+    /* Make sure search box is on top of everything */
+    z-index: 220; 
+}
+
+.page404 .spin-earth-on-hover {
 
     transition: ease 200s !important;
     transform: rotate(-3600deg) !important;
 }
 
-.bg-purple {
+.page404 .bg-purple {
     background: url(http://salehriaz.com/404Page/img/bg_purple.png);
     background-repeat: repeat-x;
     background-size: cover;
@@ -141,17 +146,17 @@ DRIBBBLE: https://dribbble.com/shots/4330167-404-Page-Lost-In-Space
 
 }
 
-.custom-navbar {
+.page404 .custom-navbar {
     padding-top: 15px;
 }
 
-.brand-logo {
+.page404 .brand-logo {
     margin-left: 25px;
     margin-top: 5px;
     display: inline-block;
 }
 
-.navbar-links {
+.page404 .navbar-links {
     display: inline-block;
     float: right;
     margin-right: 15px;
@@ -160,7 +165,7 @@ DRIBBBLE: https://dribbble.com/shots/4330167-404-Page-Lost-In-Space
 
 }
 
-ul {
+.page404 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -169,12 +174,12 @@ ul {
     align-items: center;
 }
 
-li {
+.page404 li {
     float: left;
     padding: 0px 15px;
 }
 
-li a {
+.page404 li a {
     display: block;
     color: white;
     text-align: center;
@@ -189,25 +194,25 @@ li a {
     transition: all 0.3s ease-in;
 }
 
-li a:hover {
+.page404 li a:hover {
     color: #ffcb39;
 }
 
-.btn-request {
+.page404 .btn-request {
     padding: 10px 25px;
     border: 1px solid #FFCB39;
     border-radius: 100px;
     font-weight: 400;
 }
 
-.btn-request:hover {
+.page404 .btn-request:hover {
     background-color: #FFCB39;
     color: #fff;
     transform: scale(1.05);
     box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.1);
 }
 
-.btn-go-home {
+.page404 .btn-go-home {
     position: relative;
     z-index: 200;
     margin: 15px auto;
@@ -230,25 +235,25 @@ li a:hover {
     transition: all 0.3s ease-in;
 }
 
-.btn-go-home:hover {
+.page404 .btn-go-home:hover {
     background-color: #FFCB39;
     color: #fff;
     transform: scale(1.05);
     box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.1);
 }
 
-.central-body {
+.page404 .central-body {
     /*    width: 100%;*/
     padding: 17% 5% 10% 5%;
     text-align: center;
 }
 
-.objects img {
+.page404 .objects img {
     z-index: 90;
     pointer-events: none;
 }
 
-.object_rocket {
+.page404 .object_rocket {
     z-index: 95;
     position: absolute;
     transform: translateX(-50px);
@@ -257,7 +262,7 @@ li a:hover {
     animation: rocket-movement 200s linear infinite both running;
 }
 
-.object_earth {
+.page404 .object_earth {
     position: absolute;
     top: 20%;
     left: 15%;
@@ -265,7 +270,7 @@ li a:hover {
     /*    animation: spin-earth 100s infinite linear both;*/
 }
 
-.object_moon {
+.page404 .object_moon {
     position: absolute;
     top: 12%;
     left: 25%;
@@ -275,13 +280,13 @@ li a:hover {
 */
 }
 
-.earth-moon {}
+.page404 .earth-moon {}
 
-.object_astronaut {
+.page404 .object_astronaut {
     animation: rotate-astronaut 200s infinite linear both alternate;
 }
 
-.box_astronaut {
+.page404 .box_astronaut {
     z-index: 110 !important;
     position: absolute;
     top: 60%;
@@ -290,20 +295,20 @@ li a:hover {
     animation: move-astronaut 50s infinite linear both alternate;
 }
 
-.image-404 {
+.page404 .image-404 {
     position: relative;
     z-index: 100;
     pointer-events: none;
 }
 
-.stars {
+.page404 .stars {
     background: url(http://salehriaz.com/404Page/img/overlay_stars.svg);
     background-repeat: repeat;
     background-size: contain;
     background-position: left top;
 }
 
-.glowing_stars .star {
+.page404 .glowing_stars .star {
     position: absolute;
     border-radius: 100%;
     background-color: #fff;
@@ -313,54 +318,54 @@ li a:hover {
     will-change: opacity;
 }
 
-.glowing_stars .star:nth-child(1) {
+.page404 .glowing_stars .star:nth-child(1) {
     top: 80%;
     left: 25%;
     animation: glow-star 2s infinite ease-in-out alternate 1s;
 }
 
-.glowing_stars .star:nth-child(2) {
+.page404 .glowing_stars .star:nth-child(2) {
     top: 20%;
     left: 40%;
     animation: glow-star 2s infinite ease-in-out alternate 3s;
 }
 
-.glowing_stars .star:nth-child(3) {
+.page404 .glowing_stars .star:nth-child(3) {
     top: 25%;
     left: 25%;
     animation: glow-star 2s infinite ease-in-out alternate 5s;
 }
 
-.glowing_stars .star:nth-child(4) {
+.page404 .glowing_stars .star:nth-child(4) {
     top: 75%;
     left: 80%;
     animation: glow-star 2s infinite ease-in-out alternate 7s;
 }
 
-.glowing_stars .star:nth-child(5) {
+.page404 .glowing_stars .star:nth-child(5) {
     top: 90%;
     left: 50%;
     animation: glow-star 2s infinite ease-in-out alternate 9s;
 }
 
 @media only screen and (max-width: 600px) {
-    .navbar-links {
+    .page404 .navbar-links {
         display: none;
     }
 
-    .custom-navbar {
+    .page404 .custom-navbar {
         text-align: center;
     }
 
-    .brand-logo img {
+    .page404 .brand-logo img {
         width: 120px;
     }
 
-    .box_astronaut {
+    .page404 .box_astronaut {
         top: 70%;
     }
 
-    .central-body {
+    .page404 .central-body {
         padding-top: 25%;
     }
 }
@@ -381,36 +386,36 @@ body:not(.light) .light {
     display: none;
 }
 
-body:not(.light) .custom-page-404 {
+body:not(.light) .page404 .custom-page-404 {
     background-color: transparent !important;
     box-shadow: none;
 }
 
 
 /*  LIGHT */
-.main-wrapper {
+.page404 .main-wrapper {
     width: 80%;
     margin: auto;
     display: flex;
 }
 
-.scarecrow-img img {
+.page404 .scarecrow-img img {
     width: 90%;
     height: auto;
 }
 
-.error-text {
+.page404 .error-text {
     width: 70%;
 }
 
-.error-text h2 {
+.page404 .error-text h2 {
     width: 80%;
     font-size: 3.75rem;
     letter-spacing: 0.5px;
     font-weight: normal;
 }
 
-.error-text p {
+.page404 .error-text p {
     /* width: 50%; */
     padding: 5px;
 }
@@ -431,21 +436,21 @@ body:not(.light) .custom-page-404 {
 
 /* Medium devices (tablets, 768px and up) */
 @media (max-width: 991.9px) {
-    .main-wrapper {
+    .page404 .main-wrapper {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
 
-    .error-text h2 {
+    .page404 .error-text h2 {
         width: 100%;
         font-size: 3rem;
         line-height: 100%;
         padding-top: 15px;
     }
 
-    .error-text p {
+    .page404 .error-text p {
         width: 100%;
         font-size: 0.8rem;
         line-height: 150%;
@@ -455,13 +460,13 @@ body:not(.light) .custom-page-404 {
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-    .error-text h2 {
+    .page404 .error-text h2 {
         width: 100%;
         line-height: 100%;
         padding-top: 15px;
     }
 
-    .error-text p {
+    .page404 .error-text p {
         width: 100%;
         line-height: 150%;
         padding-top: 15px;

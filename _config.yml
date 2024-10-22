@@ -94,7 +94,7 @@ algolia:
     indexName: prod_thiennguyen.dev
     apiKey: 28b33fc64c1c62d59c60cda3b7b26807
     routing: false
-    showPoweredbyLabel: false
+    showPoweredbyLabel: true
     config:
       hitsPerPage: 10
 # Need to inject manually by scripts/page.js

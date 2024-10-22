@@ -128,3 +128,7 @@ body:not(.light) .aplayer.aplayer-fixed .aplayer-lrc {
 .card-content.thiennguyen-comment {
   backdrop-filter: blur(20px);
 }
+
+.overflow-hidden {
+  overflow: hidden;
+}

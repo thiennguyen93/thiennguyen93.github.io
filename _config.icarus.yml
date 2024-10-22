@@ -200,6 +200,7 @@ article:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
 search:
   type: algolia
+# searh hitsPerPage in all node_modules to see the option of items per page
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:

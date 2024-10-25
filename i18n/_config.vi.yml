@@ -175,15 +175,18 @@ theme_config:
     menu:
       Home: 
         path: /
+        icon: fas fa-home
         translation: "Trang chủ"
-      Archives: 
-        path: /archives
-        translation: "Lưu trữ"
+      # Archives: 
+      #   path: /archives
+      #   translation: "Lưu trữ"
       Categories:
         path: /categories
+        icon: fa-solid fa-folder-open
         translation: "Chuyên mục"
       Relax:
         path: /categories/nhac
+        icon: fa-solid fa-music
         translation: "Thư giãn"  
       # Misc:
       #   path: /misc
@@ -195,11 +198,14 @@ theme_config:
       #       path: /note
       CV: 
         path: /cv
+        icon: fa-solid fa-briefcase
       About: 
         path: /about
+        icon: fas fa-user
         translation: "Giới thiệu"
       Contact: 
         path: /contact
+        icon: fa-solid fa-envelope
         translation: "Liên hệ"
     langauge_menu_selected: 0 # index of selected menu lanauage 
     language_menu_title: "Chọn ngôn ngữ"

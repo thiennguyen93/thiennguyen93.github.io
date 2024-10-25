@@ -112,10 +112,12 @@ navbar:
   menu:
     Home: 
       path: /
+      icon: fas fa-home
     # Archives: 
     #   path: /archives
     Categories:
       path: /categories
+      icon: fa-solid fa-folder-open
     # Thẻ: /tags
     # Misc:
     #   path: /misc
@@ -127,12 +129,16 @@ navbar:
     #       path: /note
     Relax:
       path: /music
+      icon: fa-solid fa-music
     CV: 
       path: /cv
+      icon: fa-solid fa-briefcase
     About: 
       path: /about
+      icon: fas fa-user
     Contact: 
       path: /contact
+      icon: fa-solid fa-envelope
   langauge_menu_selected: 1 # index of selected menu lanauage 
   language_menu_title: "Select site language"
   language_menu: 

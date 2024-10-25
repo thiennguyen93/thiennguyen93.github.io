@@ -218,15 +218,19 @@ theme_config:
         icon: "fas fa-cube"
     # Links to be shown on the right of the navigation bar
     links:
-      View Profile on Facebook:
-        icon: fab fa-facebook
-        url: https://www.facebook.com/thiennguyen.dev/
-      View Profile on LinkedIn:
-        icon: fab fa-linkedin
-        url: https://www.linkedin.com/in/thiennguyendev/
-      View Profile on GitHub:
-        icon: fab fa-github
-        url: "https://github.com/thiennguyen93"
+      QR: 
+        icon: fa-solid fa-qrcode
+        target: _self
+        url: "/about/#qr-collection"
+      # View Profile on Facebook:
+      #   icon: fab fa-facebook
+      #   url: https://www.facebook.com/thiennguyen.dev/
+      # View Profile on LinkedIn:
+      #   icon: fab fa-linkedin
+      #   url: https://www.linkedin.com/in/thiennguyendev/
+      # View Profile on GitHub:
+      #   icon: fab fa-github
+      #   url: "https://github.com/thiennguyen93"
   # Page footer configurations
   footer:
     # Links to be shown on the right of the footer section

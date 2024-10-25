@@ -69,6 +69,8 @@ theme_config:
   logo: 
       light: /img/logo-cropped.svg
       dark: /img/logo-dark-cropped.svg
+      light_mobile: /img/logo-light-compact.webp
+      dark_mobile: /img/logo-dark-compact.webp
   # Page metadata configurations
   head:
     # URL or path to the website's icon

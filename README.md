@@ -83,6 +83,13 @@ This package helps the low quality version of each images stored in the `root/as
 
 - <https://restcountries.com/v3.1/all?fields=name,flags>
 
+2. Github Emoji
+
+
+## Sử dụng Emoji của Gihub
+Refer to this page https://jimit105.github.io/github-emoji-cheatsheet/
+You can use Github version of Emojis in your post :+1: :computer: :kissing_closed_eyes:
+
 # POST
 ## Front matter
 ```

@@ -75,7 +75,7 @@ Ahhh, vậy là chỉ có 6 bước (thay vì 7) để cài Chrome bằng Termin
 
 ## Cài đặt Homebrew
 
-Ê! Đừng thử gõ lệnh `brew install --cask google-chrome` để install Cờ-rôm nha. Không được đâu!! Do trước đó mình cài Homebrew rồi mới gõ lệnh đó được. Cũng hơi "ăn gian" một xíu, nhưng mà mình chỉ cần cài Homebrew lần đầu thôi. Khi Homebrew đã được cài vào máy rồi, cần phần mềm gì thì cũng chỉ là gõ lệnh tương ứng thôi.
+Nè he... đừng thử gõ lệnh `brew install --cask google-chrome` để install Cờ-rôm nha. Nhiều khả năng là không được đâu, vì trước đó mình cài Homebrew rồi mới gõ lệnh đó được. Cũng hơi "ăn gian" một xíu, nhưng mà mình chỉ cần cài Homebrew lần đầu thôi. Khi Homebrew đã được cài vào máy rồi, cần phần mềm gì thì cũng chỉ là gõ lệnh tương ứng thôi.
 
 ### :point_right: Homebrew là gì? Tại sao cần nó?
 

@@ -126,3 +126,7 @@ githubEmojis:
   inject: true
   styles:
   customEmojis:
+lottiesPlayer:
+  enable: true
+  inject: true #Manually inject by script/page.js
+  className: thiennguyen-lotties-player

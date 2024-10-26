@@ -19,7 +19,9 @@ sidebar:
   left:
     sticky: true
 ---
-Trong năm 2024 này mình được xài đến tận ba em Macbook khác nhau theo thứ tự: M3 Pro (14 inch), M2 Pro (13 inch) và hiện đang dùng em M3 Air (13 inch). Haha thường thì người ta nâng cấp, còn mình thì hạ cấp dần từ bản Pro xuống bản Air. Cuộc sống mà... có lúc "lên voi, xuống chó" cũng là chuyện thường ngày. Nói vậy chứ thật ra thì công ty cấp gì xài nấy ^^, chứ có phải tiền của mình đâu mà đòi hỏi máy này hay máy kia 🤣😂.
+Trong năm 2024 này mình được xài đến tận ba em Macbook khác nhau theo thứ tự: M3 Pro (14 inch), M2 Pro (13 inch) và hiện đang dùng em M3 Air (13 inch). Haha thường thì người ta nâng cấp, còn mình thì hạ cấp dần từ bản Pro xuống bản Air. Cuộc sống mà... có lúc "lên voi, xuống chó" cũng là chuyện thường ngày. Nói vậy chứ thật ra thì công ty cấp gì xài nấy ^^, chứ có phải tiền của mình đâu mà đòi hỏi máy này hay máy kia.
+
+{% lotties_player className="animated-emoji" src="https://lottie.host/272b60dd-462d-42a3-8ed6-fec4143633d6/X4FxBascRI.json" width="100px" hover bounce loop autoplay background="transparent" %}
 
 Bởi vì cấu hình máy không quá mạnh như "đàn anh" dòng Pro, **"Mac-Air"** không cần một "body 6 múi", không cần vai u thịt bắp. Thay vào đó, "ẻm" sở hữu một thân hình mảnh mai, nhẹ nhàng thanh thoát, có thể ví von như đứa em xinh gái trong nhà hay là cô người yêu mà bao chàng trai hằng mong ước 🥰
 

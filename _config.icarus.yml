@@ -275,7 +275,7 @@ widgets:
   gravatar: phuocthien@outlook.com
   # URL or path for the follow button
   follow_link: "/cv"
-  follow_title: "View my CV"
+  follow_title: "View CV"
   # target of link: _self, _blank
   target: "_self"
   # Links to be shown on the bottom of the profile widget

@@ -12,7 +12,7 @@ thumbnail: /assets/img/post/thumbnails/2024-01-28-am-thanh-hanh-phuc-thumbnail.w
 useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css']
 
 ---
- <span class="has-tooltip-arrow has-tooltip-bottom" data-tooltip="27 tháng tuổi (tính đến thời điểm viết bài)">Cà Rốt 🥕</span> bập bẹ nói từ khá sớm, ban đầu chỉ là những từ đơn giản như "ba," "mẹ", "bà", "ông nội," hoặc bắt chước những gì người lớn nói. Mình nhớ có một lần dạy Cà Rốt về trái quýt...
+ <span class="has-tooltip-arrow has-tooltip-bottom" data-tooltip="27 tháng tuổi (tính đến thời điểm viết bài)">Cà Rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %}</span> bập bẹ nói từ khá sớm, ban đầu chỉ là những từ đơn giản như "ba," "mẹ", "bà", "ông nội," hoặc bắt chước những gì người lớn nói. Mình nhớ có một lần dạy Cà Rốt về trái quýt...
  
 {% blockquote %}
 Mình hỏi: 
@@ -21,11 +21,11 @@ Mình hỏi:
 - Đây là trái gì? <em>(mình hỏi lại)</em>
 <br />
 
-🥕 trả lời: Trái "wứt". 🤣
+{% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %} trả lời: Trái "wứt". 🤣
 {% endblockquote %}
 
 
-Mình cố lặp lại lần mà Rốt vẫn cứ trái "wứt" nên phải nhờ đến mẹ Rốt. Đến khi mẹ nó phát âm chuẩn trái quýt thì Rốt mới nói đúng được. Cười "chớt" 😂, thì ra do mình phát âm sai nên con trẻ nghe sao thì nói y như vậy. Mình thấy cái chuyện kỳ cục là khi ta nói từ trái "quýt" thì phải chu mỏ, uốn lưỡi thì mới ra, còn trái "quích" nhanh gọn, dễ thế mà lại nói theo không được. Nói gì nói, trái "quýt" mới đúng nhen các bạn, người miền nam quen nói nhanh thành trái "quích" chứ không phải bị ngọng đâu á 🙄. 
+Mình cố lặp lại lần mà Rốt vẫn cứ trái "wứt" nên phải nhờ đến mẹ Rốt. Đến khi mẹ nó phát âm chuẩn trái quýt thì Rốt mới nói đúng được. Cười "chớt" {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" width="1em" height="1em" autoplay loop %}, thì ra do mình phát âm sai nên con trẻ nghe sao thì nói y như vậy. Mình thấy cái chuyện kỳ cục là khi ta nói từ trái "quýt" thì phải chu mỏ, uốn lưỡi thì mới ra, còn trái "quích" nhanh gọn, dễ thế mà lại nói theo không được. Nói gì nói, trái "quýt" mới đúng nhen các bạn, người miền nam quen nói nhanh thành trái "quích" chứ không phải bị ngọng đâu á 🙄. 
 <!-- more -->
 <p style="text-align: center">
     <img class="not-gallery-item in-view-effect img-reset-brightness transition-all lazy" src="trai-quyt.jpg" data-src="trai-quyt.jpg" alt="Trái quýt <em><br />(Ảnh: Freepik)</em>" width="200px">
@@ -76,7 +76,7 @@ Nghe sao triều mến và ấm áp đến lạ thường.
         "music": [
             {
                 "title": "Ba ơi",
-                "author": "Cà rốt 🥕",
+                "author": "Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %}",
                 "url": "papa-audio.mp3",
                 "pic": "/assets/img/2024-01-28-am-thanh-hanh-phuc-thumbnail.jpg",
                 "lrc": "/assets/media/no-lyric/lyric.lrc"

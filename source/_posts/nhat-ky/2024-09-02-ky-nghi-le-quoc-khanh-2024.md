@@ -15,7 +15,7 @@ ribbon: ['★','has-background-danger has-text-warning is-borderless']
 "Dịp quốc khánh năm nay, ... "
 ![ủa gì zọ?? Tui muốn viết bài mà bạn AI Code Assistant của tui sao hay tài lanh quá zạ](/2024/09/02/nhat-ky/2024-09-02-ky-nghi-le-quoc-khanh-2024/SCR-20240901-tzzj.png)
 
-Hôm nay ngẫu hứng viết blog sau thời gian dài "kín tiếng trước truyền thông". Vừa mở trình soạn thảo ra, mới viết được vài từ thì "em" thư ký AI chuyên gợi ý viết nhắc lệnh lập trình đã làm tôi không khỏi bất ngờ, bởi vì trước giờ cứ nghĩ ẻm giỏi code thôi, không ngờ lại còn biết cả viết lách nữa chứ 😂.
+Hôm nay ngẫu hứng viết blog sau thời gian dài "kín tiếng trước truyền thông". Vừa mở trình soạn thảo ra, mới viết được vài từ thì "em" thư ký AI chuyên gợi ý viết nhắc lệnh lập trình đã làm tôi không khỏi bất ngờ, bởi vì trước giờ cứ nghĩ ẻm giỏi code thôi, không ngờ lại còn biết cả viết lách nữa chứ {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" width="1em" height="1em" autoplay loop %}.
 
 Khá khen, khá khen ... nhưng tui hổng có mượn nhen ^^. Blog của tui, tui sẽ tự viết và bài viết bạn đang đọc là về kỳ nghỉ lễ Quốc khánh 2/9 phải nói là "vô tiền khoáng hậu" như năm nay.
 
@@ -54,8 +54,8 @@ Theo lịch, hai ngày nghỉ lễ sẽ là thứ hai (2-9) và thứ ba (3-9), 
         <img src="https://lh3.googleusercontent.com/pw/AP1GczPL2W02xipTp_XW0i80y3QYVDJt7EfL8Wn9_p-oeyBPKSh2Bx3xSWm2KdnjYjSvQk9hgrrJ31JSsjY5vWwTyWlAKUfWDUjwiQ-x1lSobimhwTGE3rMfTCBKYFasJE0wW4_ZX7O2v79uJnGuujC4SJW5iQ=w1332-h1776-s-no-gm?authuser=0" alt="Lịch làm việc tiêm ngừa Viện Pasteur TPHCM" />
         <img src="https://lh3.googleusercontent.com/pw/AP1GczPNHE_hKTEtWrqDYieYWstT0sZ_2hvByZWhY-A4qBAfEBVgNiR7aKqJFWhCx9cGs3s1WZR3E_Kp7C3aAmHt9yjfqIAQ5hfdcff6-3aam7HJ1euQPU4_eZCg08HNi43drUZiYAzkNxQjZE3tzgMGs7bEAQ=w1282-h1708-s-no-gm?authuser=0" alt="Hướng dẫn chỉ định điều trị dự phòng bệnh dại" />
       </div>
-      <p>Mới đầu anh báo 🐆 nhà ta còn rất quỡn luôn, chạy nhảy, la hét khắp nơi. Một bác sĩ đi ngang sảnh chờ còn hỏi thằng này chích 💉 phải "vaccine sung" gì vậy 😅 haha? Cô điều dưỡng cũng giỡn kêu là: Giờ cười đi, ...lát khóc 😂</p>
-      <p>Đúng là lát nữa chích ngừa không phải khóc thiệt, mà là khóc thét luôn 😂🤣 ... lúc đó ngoài trời thì đang mưa gió bão bùng, còn trong phòng tiêm thì có đứa đang khóc như mưa ngoài trời 🌧️ <em>(ba mũi tiêm = 𝙭𝟯 nỗi đau)</em></p>
+      <p>Mới đầu anh báo 🐆 nhà ta còn rất quỡn luôn, chạy nhảy, la hét khắp nơi. Một bác sĩ đi ngang sảnh chờ còn hỏi thằng này chích 💉 phải "vaccine sung" gì vậy 😅 haha? Cô điều dưỡng cũng giỡn kêu là: Giờ cười đi, ...lát khóc {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" width="1em" height="1em" autoplay loop %}</p>
+      <p>Đúng là lát nữa chích ngừa không phải khóc thiệt, mà là khóc thét luôn {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" width="1em" height="1em" autoplay loop %}🤣 ... lúc đó ngoài trời thì đang mưa gió bão bùng, còn trong phòng tiêm thì có đứa đang khóc như mưa ngoài trời 🌧️ <em>(ba mũi tiêm = 𝙭𝟯 nỗi đau)</em></p>
     </div>
   </div>
   <div class="timeline-item is-primary">
@@ -64,7 +64,7 @@ Theo lịch, hai ngày nghỉ lễ sẽ là thứ hai (2-9) và thứ ba (3-9), 
     </div>
     <div class="timeline-content">
       <p class="heading">Ngày 2: Chủ nhật, 01-09-2024</p>
-      <p>Buổi sáng, mình đưa Cà rốt 🥕 đi bác sĩ kiểm tra vì tối qua sốt li bì cả đêm, chắc do Vaccine hành.</p>
+      <p>Buổi sáng, mình đưa Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %} đi bác sĩ kiểm tra vì tối qua sốt li bì cả đêm, chắc do Vaccine hành.</p>
       <p>Bác sĩ nói là con mình đang bị viêm nướu răng do vi khuẩn chứ không liên quan gì đến vaccine cả. Hèn chi hôm qua tới giờ nó cứ hay chỉ tay vào miệng và kêu đau. Mình nghĩ là do chích vaccine, bác sĩ cũng nói thêm là vaccine dại hiện nay đều sử dụng công nghệ mới, an toàn, không có tác dụng phụ cũng không ảnh hưởng gì đến sự phát triển của trẻ cả nên các ba mẹ cứ yên tâm nha. Bệnh dại rất nguy hiểm vì thế càng không được chủ quan. Khám xong, bác sĩ kê hai ngày thuốc để uống và cho đi về.</p>
       <div class="justified-gallery mb-3">
         <img src="https://lh3.googleusercontent.com/pw/AP1GczOm_tW2Hu9FzFJhY8oPSrcKRcQn9r5L-uAkuJvqkz3Y2nGNEoTXOKFBsorpSNtVG8545ShthQLRedx7cEz_VtYuJ25a4w6JlQDOTGZ2Bqhrp7PI1x4uuBXEOs-GZWhthu2yHo_clSllx_5fHkZmljgJ6A=w2640-h1454-s-no-gm?authuser=0" alt="Đoạn bác sĩ kêu vào khám, vẫn còn ám ảnh vụ chích ngừa hôm qua nên cà rốt khóc la chạy khắp nơi hòng trốn bác sĩ" />

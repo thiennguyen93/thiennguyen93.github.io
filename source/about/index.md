@@ -19,7 +19,7 @@ widgets: false
   <img src="/images/thiennguyen-figure.jpeg" class="img-fluid" alt="Thiện Nguyễn">
 </div>
 <h1 class="title is-3 is-size-4-mobile has-text-centered" style="line-height: 1;">
-Thien Nguyen <span class="verified-account-badge"><img src='/assets/img/verified-account.svg' class="img-reset-brightness not-gallery-item" /></span>
+Thien Nguyen {% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/verified_badge.lottie" width="1em" height="1em" autoplay loop %}
 <div class="is-3 is-size-4-mobile has-text-centered"><span style="font-size:1rem">/tiːɛn ˈwɪn/</span></div>
 </h1>
 <h5 class="title is-3 is-size-8-mobile has-text-centered has-text-grey">Minimalism is not a lack of something.<br />It’s simply the perfect amount of something.</h5>
@@ -44,13 +44,13 @@ Tôi luôn tìm thấy sự mâu thuẫn, kể cả ở bản thân. Đề cao c
 
 Tôi rèn luyện khả năng dùng đũa bằng tay trái như một phương án dự phòng (Plan B) ~~nếu lỡ chẳng may cụt mất tay thuận là tay phải~~.
 
-Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt 🥕🥕 (tên cúng cơm do bà nội đặt)
+Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %} (tên cúng cơm do bà nội đặt)
 
 <p style="text-align: center;">
     <img class="in-view-effect frame tilt-right lazy" src="/assets/pages/about/carrot-02_LQIP.webp" data-src="/assets/pages/about/carrot-02.jpeg" alt="Cà rốt 🥕" title="Cà rốt" width="60%">
 </p>
 
-## Về blog này 🍻
+## Về blog này {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/lottie.json" width="1em" height="1em" autoplay loop %}
 
 Tôi bắt đầu viết blog từ những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân tôi.
 

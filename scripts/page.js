@@ -7,6 +7,7 @@ const script = `
 <script>
   console.log("Copyright © 2023 Thien Nguyen ${ghSHA}")
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.2.0/instantpage.min.js" integrity="sha512-p8l0Kir2Q2O+MWF/+qw2yM2LQQf0+m0AMD0EvGTFFL9vHquAXMRQKuyFBvHdTWpGEgIbXZxd9vjCRPUHeAhsOA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 `;
 
 hexo.extend.injector.register(

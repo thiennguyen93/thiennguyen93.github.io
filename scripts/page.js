@@ -21,8 +21,12 @@ hexo.extend.injector.register(
   () => {
     return `
       <script>
-      if (document.querySelector(".navbar-item.is-active[href='/categories/music']") || document.querySelector(".navbar-item.is-active[href='/categories/nhac']")) {
-        document.querySelector(".navbar-item.is-active[href='/categories']").classList.remove("is-active")
+      const categories = ["/categories/music", "/categories/nhac", "/categories/photos"];
+      const isActive = categories.some(item =>document.querySelector(\`.navbar-item.is-active[href='\${item}']\`));
+
+      if (isActive) {
+          // cái này phải dùng querySelectorAll vì có đến 2 navbar (mobile và not-mobile navbar)
+          document.querySelectorAll(".navbar-item.is-active[href='/categories']").forEach(item => item.classList.remove("is-active"));
       }
       </script>
       `;

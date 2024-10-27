@@ -127,7 +127,10 @@ navbar:
     #       # icon: fab fa-github
     #     Note:
     #       path: /note
-    Relax:
+    Photos:
+      path: /categories/photos
+      icon: fa-regular fa-image
+    Music:
       path: /music
       icon: fa-solid fa-music
     CV: 

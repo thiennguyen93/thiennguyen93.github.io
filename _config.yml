@@ -107,7 +107,7 @@ thiennguyen:
     - '/assets/css/custom.css'
     - '/assets/css/progressbar.css'
   featuredCategory:
-    "Albums": 
+    "Photos": 
       css:
         - "/assets/css/photo-album-category.css"
       js:

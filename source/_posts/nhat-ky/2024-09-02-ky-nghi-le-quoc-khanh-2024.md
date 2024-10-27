@@ -15,7 +15,7 @@ ribbon: ['★','has-background-danger has-text-warning is-borderless']
 "Dịp quốc khánh năm nay, ... "
 ![ủa gì zọ?? Tui muốn viết bài mà bạn AI Code Assistant của tui sao hay tài lanh quá zạ](/2024/09/02/nhat-ky/2024-09-02-ky-nghi-le-quoc-khanh-2024/SCR-20240901-tzzj.png)
 
-Hôm nay ngẫu hứng viết blog sau thời gian dài "kín tiếng trước truyền thông". Vừa mở trình soạn thảo ra, mới viết được vài từ thì "em" thư ký AI chuyên gợi ý viết nhắc lệnh lập trình đã làm tôi không khỏi bất ngờ, bởi vì trước giờ cứ nghĩ ẻm giỏi code thôi, không ngờ lại còn biết cả viết lách nữa chứ {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" width="1em" height="1em" autoplay loop %}.
+Hôm nay ngẫu hứng viết blog sau thời gian dài "kín tiếng trước truyền thông". Vừa mở trình soạn thảo ra, mới viết được vài từ thì "em" thư ký AI chuyên gợi ý viết nhắc lệnh lập trình đã làm tôi không khỏi bất ngờ, bởi vì trước giờ cứ nghĩ ẻm giỏi code thôi, không ngờ lại còn biết cả viết lách nữa chứ {% lotties_emoji code=1f602 %}.
 
 Khá khen, khá khen ... nhưng tui hổng có mượn nhen ^^. Blog của tui, tui sẽ tự viết và bài viết bạn đang đọc là về kỳ nghỉ lễ Quốc khánh 2/9 phải nói là "vô tiền khoáng hậu" như năm nay.
 
@@ -54,8 +54,8 @@ Theo lịch, hai ngày nghỉ lễ sẽ là thứ hai (2-9) và thứ ba (3-9), 
         <img src="https://lh3.googleusercontent.com/pw/AP1GczPL2W02xipTp_XW0i80y3QYVDJt7EfL8Wn9_p-oeyBPKSh2Bx3xSWm2KdnjYjSvQk9hgrrJ31JSsjY5vWwTyWlAKUfWDUjwiQ-x1lSobimhwTGE3rMfTCBKYFasJE0wW4_ZX7O2v79uJnGuujC4SJW5iQ=w1332-h1776-s-no-gm?authuser=0" alt="Lịch làm việc tiêm ngừa Viện Pasteur TPHCM" />
         <img src="https://lh3.googleusercontent.com/pw/AP1GczPNHE_hKTEtWrqDYieYWstT0sZ_2hvByZWhY-A4qBAfEBVgNiR7aKqJFWhCx9cGs3s1WZR3E_Kp7C3aAmHt9yjfqIAQ5hfdcff6-3aam7HJ1euQPU4_eZCg08HNi43drUZiYAzkNxQjZE3tzgMGs7bEAQ=w1282-h1708-s-no-gm?authuser=0" alt="Hướng dẫn chỉ định điều trị dự phòng bệnh dại" />
       </div>
-      <p>Mới đầu anh báo 🐆 nhà ta còn rất quỡn luôn, chạy nhảy, la hét khắp nơi. Một bác sĩ đi ngang sảnh chờ còn hỏi thằng này chích 💉 phải "vaccine sung" gì vậy 😅 haha? Cô điều dưỡng cũng giỡn kêu là: Giờ cười đi, ...lát khóc {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" width="1em" height="1em" autoplay loop %}</p>
-      <p>Đúng là lát nữa chích ngừa không phải khóc thiệt, mà là khóc thét luôn {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" width="1em" height="1em" autoplay loop %}🤣 ... lúc đó ngoài trời thì đang mưa gió bão bùng, còn trong phòng tiêm thì có đứa đang khóc như mưa ngoài trời 🌧️ <em>(ba mũi tiêm = 𝙭𝟯 nỗi đau)</em></p>
+      <p>Mới đầu anh báo 🐆 nhà ta còn rất quỡn luôn, chạy nhảy, la hét khắp nơi. Một bác sĩ đi ngang sảnh chờ còn hỏi thằng này chích 💉 phải "vaccine sung" gì vậy 😅 haha? Cô điều dưỡng cũng giỡn kêu là: Giờ cười đi, ...lát khóc {% lotties_emoji code=1f602 %}</p>
+      <p>Đúng là lát nữa chích ngừa không phải khóc thiệt, mà là khóc thét luôn {% lotties_emoji code=1f602 %}🤣 ... lúc đó ngoài trời thì đang mưa gió bão bùng, còn trong phòng tiêm thì có đứa đang khóc như mưa ngoài trời 🌧️ <em>(ba mũi tiêm = 𝙭𝟯 nỗi đau)</em></p>
     </div>
   </div>
   <div class="timeline-item is-primary">

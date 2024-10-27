@@ -48,7 +48,7 @@ Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt 
 </p>
 
 
-## Về blog này {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/lottie.json" width="1em" height="1em" autoplay loop %}
+## Về blog này {% lotties_emoji code=1f37b %}
 
 Tôi bắt đầu viết blog từ những năm 20 của thế kỷ 21. Trải qua gần 1/3 thập kỷ  hình thành và phát triển, tuy số lượng bài viết không đồ sộ nhưng chúng luôn mang giá trị hoài niệm vô cùng to lớn đối với bản thân tôi.
 

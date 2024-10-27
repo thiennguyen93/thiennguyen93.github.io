@@ -15,7 +15,7 @@ useStyles: ['/assets/styles/img-tilt-effect.css']
 
 Không giống nhiều bạn trẻ khác, mình không có sở thích chơi game mặc dù đang làm việc tại một công ty phát triển game. Ở công ty ngoài việc đóng góp tiếng cười nhiều khi rất là "voo-tree", mình còn xây dựng hệ thống back-end Back-office dùng để quản lý các tựa game, người chơi và các tính năng có trong game, chứ thật ra hổng có làm game. Game thì có team khác làm.
 
-Ngày xưa, lúc còn học cấp 2, cấp 3 trường làng, mình cũng thử "ra net" chơi FIFA Online, đá PES, Counter-strike, GunBound đủ thứ (trừ Audition). Hihi, mà chắc là do kỹ năng kém, trình "gà" nên chơi toàn thua và bị ăn chửi. Từ đó, cay ... nên không chơi game nữa {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" width="1em" height="1em" autoplay loop %} chuyển sang mày mò tự học lập trình.
+Ngày xưa, lúc còn học cấp 2, cấp 3 trường làng, mình cũng thử "ra net" chơi FIFA Online, đá PES, Counter-strike, GunBound đủ thứ (trừ Audition). Hihi, mà chắc là do kỹ năng kém, trình "gà" nên chơi toàn thua và bị ăn chửi. Từ đó, cay ... nên không chơi game nữa {% lotties_emoji code=1f602 %} chuyển sang mày mò tự học lập trình.
 
 Mấy nay tự nhiên mình lại nảy ra ý tưởng làm con mini game vui vui để học, giống mấy như game của MiniClip ngày xưa á, cái thời mà game viết bằng Flash còn thịnh hành. Chắc chỉ còn dân 8x, 9x mới biết flash game là gì ^^.
 

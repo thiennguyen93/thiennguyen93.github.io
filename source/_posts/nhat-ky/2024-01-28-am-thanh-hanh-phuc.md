@@ -21,11 +21,11 @@ Mình hỏi:
 - Đây là trái gì? <em>(mình hỏi lại)</em>
 <br />
 
-{% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %} trả lời: Trái "wứt". 🤣
+{% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %} trả lời: Trái "wứt". {% lotties_emoji code=u1f606 %}
 {% endblockquote %}
 
 
-Mình cố lặp lại lần mà Rốt vẫn cứ trái "wứt" nên phải nhờ đến mẹ Rốt. Đến khi mẹ nó phát âm chuẩn trái quýt thì Rốt mới nói đúng được. Cười "chớt" {% lotties_player className="is-inline-block animated-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" width="1em" height="1em" autoplay loop %}, thì ra do mình phát âm sai nên con trẻ nghe sao thì nói y như vậy. Mình thấy cái chuyện kỳ cục là khi ta nói từ trái "quýt" thì phải chu mỏ, uốn lưỡi thì mới ra, còn trái "quích" nhanh gọn, dễ thế mà lại nói theo không được. Nói gì nói, trái "quýt" mới đúng nhen các bạn, người miền nam quen nói nhanh thành trái "quích" chứ không phải bị ngọng đâu á 🙄. 
+Mình cố lặp lại lần mà Rốt vẫn cứ trái "wứt" nên phải nhờ đến mẹ Rốt. Đến khi mẹ nó phát âm chuẩn trái quýt thì Rốt mới nói đúng được. Cười "chớt" {% lotties_emoji code=1f602 %}, thì ra do mình phát âm sai nên con trẻ nghe sao thì nói y như vậy. Mình thấy cái chuyện kỳ cục là khi ta nói từ trái "quýt" thì phải chu mỏ, uốn lưỡi thì mới ra, còn trái "quích" nhanh gọn, dễ thế mà lại nói theo không được. Nói gì nói, trái "quýt" mới đúng nhen các bạn, người miền nam quen nói nhanh thành trái "quích" chứ không phải bị ngọng đâu á {% lotties_emoji code=u1f644 %}. 
 <!-- more -->
 <p style="text-align: center">
     <img class="not-gallery-item in-view-effect img-reset-brightness transition-all lazy" src="trai-quyt.jpg" data-src="trai-quyt.jpg" alt="Trái quýt <em><br />(Ảnh: Freepik)</em>" width="200px">
@@ -37,7 +37,7 @@ Cà rốt bây giờ lém lắm, có thể nói một câu dài 4-5 từ và ph�
     <img class="in-view-effect frame bright-on-hover transition-all lazy tilt-right" src="carrot-o-truong-mam-non-01.jpeg" data-src="carrot-o-truong-mam-non-01.jpeg" alt="Mình nghĩ bức ảnh này không cần chú thích đứa nào là cà rốt trong đám trẻ" width="80%">
 </p>
 
-Cà rốt không biết giống ai mà cái nết nó vui tính. Mẹ nó chưng tổ yến với táo đỏ dụ con ăn. Nó không chịu ăn nên giở trò nôn oẹ oẹ. Không biết học ở đâu nhưng mà nhìn điệu bộ giả trân không chịu nỗi, làm ba mẹ phải cười phì phèo trong sự bất lực. 😶😅
+Cà rốt không biết giống ai mà cái nết nó vui tính. Mẹ nó chưng tổ yến với táo đỏ dụ con ăn. Nó không chịu ăn nên giở trò nôn oẹ oẹ. Không biết học ở đâu nhưng mà nhìn điệu bộ giả trân không chịu nỗi, làm ba mẹ phải cười phì phèo trong sự bất lực. {% lotties_emoji code=u1f636 %}{% lotties_emoji code=u1f605 %}
 
 <p style="text-align: center;">
     <img class="not-gallery-item" style="filter: brightness(1); -webkit-filter: brightness(1);" src="/assets/stickers/carrot/carrot-laughing-lossy-150x150.gif" width="150px">
@@ -46,7 +46,7 @@ Cà rốt không biết giống ai mà cái nết nó vui tính. Mẹ nó chưng
 ## Lời kết
 Đối với mình, mỗi đứa trẻ sinh ra như một món quà vô giá của cha mẹ và mỗi chúng ta, ai cũng vậy, đều có cha mẹ sinh ra chứ không thể từ đất nẻ mà chui lên được. Đôi khi, những đứa trẻ may mắn sinh ra được "ngậm thìa vàng" hay phải đi lùi mới về vạch đích. Ngược lại, có những bậc cha mẹ phải lao động vất vả để nuôi con. 
 
-Sinh con ra nên mình cố gắng làm việc kiếm tiền để lo cho con những gì tốt nhất có thể. Mình không kỳ vọng con mình là một thiên tài hay thần đồng gì cả, mà chỉ mong con được khoẻ mạnh, bình an và vui vẻ. 💌 🥰
+Sinh con ra nên mình cố gắng làm việc kiếm tiền để lo cho con những gì tốt nhất có thể. Mình không kỳ vọng con mình là một thiên tài hay thần đồng gì cả, mà chỉ mong con được khoẻ mạnh, bình an và vui vẻ. {% lotties_emoji code=u1f48c %} {% lotties_emoji code=1f970 %}
 
 ### Bạn có biết không? 
 Âm thanh hạnh phúc nhất không phải là tiếng "ting ting 📲" mỗi khi cuối tháng lương về mà là tiếng con gọi "ba ơi." 
@@ -76,7 +76,7 @@ Nghe sao triều mến và ấm áp đến lạ thường.
         "music": [
             {
                 "title": "Ba ơi",
-                "author": "Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %}",
+                "author": "Cà rốt",
                 "url": "papa-audio.mp3",
                 "pic": "/assets/img/2024-01-28-am-thanh-hanh-phuc-thumbnail.jpg",
                 "lrc": "/assets/media/no-lyric/lyric.lrc"

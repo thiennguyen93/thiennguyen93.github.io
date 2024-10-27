@@ -28,7 +28,7 @@ Thien Nguyen {% lotties_player className="is-inline-block animated-emoji" src="/
 
 <!-- tab id:about-me "icon:fa-solid fa-user" "title:About" active -->
 
-Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
+Xin chào {% lotties_emoji code=u1f44b %} {% lotties_emoji code=u1f44b_1f3fb %} {% lotties_emoji code=u1f44b_1f3fd %}(vẫy tay x3,14),
 
 Chào mừng bạn đến **"khu vườn trên mây 🌥️"** của tôi. Tôi gọi thế vì đây là nơi để tôi nghỉ ngơi, suy ngẫm và sẻ chia những câu chuyện về cuộc sống và công việc.
 
@@ -68,7 +68,7 @@ Hy vọng bạn tìm thấy điều gì đó thú vị khi đọc bài trên blo
 
 <br />
 <p  style="text-align: right;">
-<br />☀️🌈🚀
+<br />{% lotties_emoji code=u1f31e %}{% lotties_emoji code=u1f308 %}{% lotties_emoji code=u1f680 %}
 Chúc bạn một ngày tốt lành!
 <br />
 <strong>Thiện Nguyễn</strong>

@@ -27,7 +27,7 @@ Thien Nguyen <span class="verified-account-badge"><img src='/assets/img/verified
 
 <!-- tab id:about-me-vi "icon:fas fa-cubes" "title:Tiếng Việt" active -->
 
-Xin chào 👋 👋🏻 👋🏽(vẫy tay x3,14),
+Xin chào {% lotties_emoji code=u1f44b %} {% lotties_emoji code=u1f44b %}🏻 {% lotties_emoji code=u1f44b %} (vẫy tay x3,14),
 
 Chào mừng bạn đến **"khu vườn trên mây 🌥️"** của tôi. Tôi gọi thế vì đây là nơi để tôi nghỉ ngơi, suy ngẫm và sẻ chia những câu chuyện về cuộc sống và công việc.
 
@@ -66,7 +66,7 @@ Hy vọng bạn tìm thấy điều gì đó thú vị khi đọc bài trên blo
 
 <br />
 <p  style="text-align: right;">
-<br />☀️🌈🚀
+<br />{% lotties_emoji code=u1f31e %}{% lotties_emoji code=u1f308 %}{% lotties_emoji code=u1f680 %}
 Chúc bạn một ngày tốt lành!
 <br />
 <strong>Thiện Nguyễn</strong>
@@ -78,7 +78,7 @@ tại <em>Khu vườn trên mây</em>
 
 ## About me
 
-Hi 👋, I am Thien Nguyen, aka William Nguyen.
+Hi {% lotties_emoji code=u1f44b %}, I am Thien Nguyen, aka William Nguyen.
 I am a dedicated backend developer and a proud father to a wonderful child.
 Currently, I work for Gamify Studios, a game development company located in Ho Chi Minh City, Vietnam.
 

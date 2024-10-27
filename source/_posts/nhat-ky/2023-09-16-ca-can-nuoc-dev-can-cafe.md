@@ -72,4 +72,4 @@ Và còn nhiều nữa...
 
 ## Tổng kết
 
-Ngắn gọn như đề bài viết "Cá cần nước, dev cần cà phê". Với tôi, Cà phê là nguồn cảm hứng sáng tạo. Cà phê vừa giúp tôi tập trung làm việc, vừa mang lại nhiều lợi ích cho sức khỏe. Vậy nên nếu bạn chưa bao giờ dùng cà phê, thì ngại gì mà không thử?! 👋🏻
+Ngắn gọn như đề bài viết "Cá cần nước, dev cần cà phê". Với tôi, Cà phê là nguồn cảm hứng sáng tạo. Cà phê vừa giúp tôi tập trung làm việc, vừa mang lại nhiều lợi ích cho sức khỏe. Vậy nên nếu bạn chưa bao giờ dùng cà phê, thì ngại gì mà không thử?! {% lotties_emoji code=u1f44b %}

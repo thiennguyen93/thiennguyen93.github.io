@@ -11,7 +11,7 @@ cover_lqip: /assets/img/lqip/glenn-carstens-peters-RLw-UC03Gwc-unsplash.webp
 thumbnail: /assets/img/post/thumbnails/glenn-carstens-peters-RLw-UC03Gwc-unsplash.webp
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---
-Tôi từng không có thói quen viết ghi chú (note-taking). Không ít lần một ý tưởng 💡 rất hay thoáng qua đầu nhưng tôi lại không ghi chép lại rồi quên béng lúc nào không hay. Biết đâu được cái ý tưởng vu vơ đó có thể giúp tôi trở thành triệu phú thì sao? 
+Tôi từng không có thói quen viết ghi chú (note-taking). Không ít lần một ý tưởng {% lotties_emoji code=u1f4a1 %} rất hay thoáng qua đầu nhưng tôi lại không ghi chép lại rồi quên béng lúc nào không hay. Biết đâu được cái ý tưởng vu vơ đó có thể giúp tôi trở thành triệu phú thì sao? 
 
 Thế là tôi tập viết ghi chú...
 
@@ -20,7 +20,7 @@ Thế là tôi tập viết ghi chú...
 
 Việc ghi chú giúp tôi ghi nhớ những thứ quan trọng, nhưng điểm cần lưu ý trong công công việc lẫn cuộc sống hằng ngày. Ngoài ra tôi còn cố gắng phân loại ghi chú để dễ dàng xem lại hoặc tìm kiếm khi cần. 
 
-Đối với công việc, đặc biệt là khi làm một feature mới, tôi `take note`📝 lại requirements từ <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="Business analyst - Người giữ vai trò phân tích nghiệp vụ">BA</span>, những bước cần chuẩn bị, chia nhỏ task và ước lượng thời gian để hoàn thành. Ghi chú có thể là một checklist hoặc đôi khi chỉ cần vài cái gạch đầu dòng cho <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="những ý chính">main points</span> hoặc <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="những từ khóa">keywords</span> quan trọng.
+Đối với công việc, đặc biệt là khi làm một feature mới, tôi `take note`{% lotties_emoji code=u270f_fe0f %} lại requirements từ <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="Business analyst - Người giữ vai trò phân tích nghiệp vụ">BA</span>, những bước cần chuẩn bị, chia nhỏ task và ước lượng thời gian để hoàn thành. Ghi chú có thể là một checklist hoặc đôi khi chỉ cần vài cái gạch đầu dòng cho <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="những ý chính">main points</span> hoặc <span class="has-tooltip-arrow has-tooltip-top" data-tooltip="những từ khóa">keywords</span> quan trọng.
 
 <p style="text-align: center">
     <img class="in-view-effect bright-on-hover transition-all lazy" src="SCR-20230921-txqg-lqip.webp" data-src="SCR-20230921-txqg.jpeg" alt="Notion - ứng dụng ghi chú yêu thích của tôi" width="70%">
@@ -45,7 +45,7 @@ Tôi không dùng giấy bút để viết ghi chú vì chúng mất thời gian
     <img class="in-view-effect bright-on-hover transition-all lazy" src="SCR-20230921-unmh-liqp.jpeg" data-src="SCR-20230921-unmh_eo8rcs.jpg" alt="Giao diện Notion thân thiện, dễ sử dụng và hỗ darkmode cho anh em dev chúng mình" width="70%">
 </p>
 
-Trước đây tôi dùng Evernote để viết ghi chú được khoảng thời gian dài. Trải nghiệm với Evernote khá tốt, đủ đáp ứng mọi nhu cầu ghi chú cơ bản. Nhưng từ lúc biết đến Notion, tôi thấy việc ghi chép còn đơn giản hơn nữa. Nhìn chung, giao diện của Notion hiện đại hơn, nhiều tính năng quản lý hơn. Notion có gói miễn phí cho người dùng cá nhân nữa... quá đã!!! 🥰
+Trước đây tôi dùng Evernote để viết ghi chú được khoảng thời gian dài. Trải nghiệm với Evernote khá tốt, đủ đáp ứng mọi nhu cầu ghi chú cơ bản. Nhưng từ lúc biết đến Notion, tôi thấy việc ghi chép còn đơn giản hơn nữa. Nhìn chung, giao diện của Notion hiện đại hơn, nhiều tính năng quản lý hơn. Notion có gói miễn phí cho người dùng cá nhân nữa... quá đã!!! {% lotties_emoji code=u1f970 %}
 
 Ứng dụng Notion có trên mọi nền tảng, thiết bị từ máy tính cá nhân tới điện thoại (iOS/Android). Notion còn có phiên bản web để tôi có thể truy cập mọi lúc mọi nơi.
 
@@ -63,9 +63,9 @@ Tính năng tôi thích nhất ở notion chính là phân trang. Một trang gh
 
 ## Tổng kết
 
-Viết ghi chú giúp tôi ghi nhớ tốt hơn vì tôi là người hay quên và để đề phòng trường hợp mất trí nhớ vì lý do nào đó 😇. 
+Viết ghi chú giúp tôi ghi nhớ tốt hơn vì tôi là người hay quên và để đề phòng trường hợp mất trí nhớ vì lý do nào đó {% lotties_emoji code=u1f607 %}. 
 Trong thời gian tới tôi sẽ cố gắng tìm một phương pháp hiệu quả để ghi chú tốt hơn hơn, không bỏ sót nội dung quan trọng. 
 
-Cuối cùng, không quên nhắc bạn dùng thử Notion - một công cụ ghi chú tuyệt vời 😉.
+Cuối cùng, không quên nhắc bạn dùng thử Notion - một công cụ ghi chú tuyệt vời {% lotties_emoji code=u1f609 %}.
 
 *P/S: Nhớ rảnh thì xem thử bộ phim Memento bạn nhé!*

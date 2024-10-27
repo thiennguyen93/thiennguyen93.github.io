@@ -87,7 +87,7 @@ Sau vài hôm nghiên cứu và "code lách", mình đã xong được mode chơ
 Mời bạn chơi xả "xì-trét" và cũng là cách để ủng hộ "nhà phát triển" bạn nhé nhé ^^.
 Gameplay thì cực kỳ  đơn giản, bạn được chọn đáp án nhiều lần nếu chọn sai (chỉ tính điểm khi bạn chọn đúng ngay lần đầu tiên). Nghĩa là bạn sẽ không bao giờ thua nên cũng không cần lo bị "xử" giống trong <a href="https://www.imdb.com/title/tt10919420/"><span class="has-text-weight-medium" data-tooltip="Original title: Ojing-eo geim - TV Series 2021">Squid Game series</span></a> đâu heng ^^.
 
-Cám ơn bạn đã dành thời gian đọc bài này! 🥰😇😍
+Cám ơn bạn đã dành thời gian đọc bài này! {% lotties_emoji code=u1f970 %}{% lotties_emoji code=u1f607 %}{% lotties_emoji code=u1f60d %}
 
 <p style="text-align: center;">
     <img style="filter: brightness(1); -webkit-filter: brightness(1); height: 150px" src="dalgona-meme.webp">

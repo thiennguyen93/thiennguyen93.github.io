@@ -19,7 +19,7 @@ sidebar:
   left:
     sticky: true
 ---
-Trong năm 2024 này mình được xài đến tận ba em Macbook khác nhau theo thứ tự: M3 Pro (14 inch), M2 Pro (13 inch) và hiện đang dùng em M3 Air (13 inch). Haha thường thì người ta nâng cấp, còn mình thì hạ cấp dần từ bản Pro xuống bản Air. Cuộc sống mà... có lúc "lên voi, xuống chó" cũng là chuyện thường ngày. Nói vậy chứ thật ra thì công ty cấp gì xài nấy ^^, chứ có phải tiền của mình đâu mà đòi hỏi máy này hay máy kia {% lotties_emoji code=u1f48c %}. 
+Trong năm 2024 này mình được xài đến tận ba em Macbook khác nhau theo thứ tự: M3 Pro (14 inch), M2 Pro (13 inch) và hiện đang dùng em M3 Air (13 inch). Haha thường thì người ta nâng cấp, còn mình thì hạ cấp dần từ bản Pro xuống bản Air. Cuộc sống mà... có lúc "lên voi, xuống chó" cũng là chuyện thường ngày. Nói vậy chứ thật ra thì công ty cấp gì xài nấy ^^, chứ có phải tiền của mình đâu mà đòi hỏi máy này hay máy kia {% lotties_emoji code=u1f92a %}. 
 
 Bởi vì cấu hình máy không quá mạnh như "đàn anh" dòng Pro, **"Mac-Air"** không cần một "body 6 múi", không cần vai u thịt bắp. Thay vào đó, "ẻm" sở hữu một thân hình mảnh mai, nhẹ nhàng thanh thoát, có thể ví von như đứa em xinh gái trong nhà hay là cô người yêu mà bao chàng trai hằng mong ước {% lotties_emoji code=1f970 %}.
 
@@ -144,14 +144,14 @@ brew install gh
 {% endcodeblock %}
 
 ### 5. Microsoft Visual Studio Code
-Editor siêu kinh điển của anh em dev, trừ mấy ông xài NeoVim 😇
+Editor siêu kinh điển của anh em dev, trừ mấy ông xài NeoVim {% lotties_emoji code=u1f607 %}
 {% codeblock Terminal %}
 brew install --cask visual-studio-code
 {% endcodeblock %}
 
 ### 6. Datagrip
 Công cụ quản trị Database tiện dụng, hỗ trợ rất nhiều loại CSDL khác nhau (PostgreSQL, MongoDB, Redis, MySQL, v.v..)
-License Edu đang mượn của ***Ms Sương (Khoa Ngoại ngữ - ĐH Sư Phạm Kỹ Thuật TP.HCM)*** 🥰 :cherry_blossom: Cảm ơn Ms Sương nếu cô có tình cờ đọc bài viết này của em.
+License Edu đang mượn của ***Ms Sương (Khoa Ngoại ngữ - ĐH Sư Phạm Kỹ Thuật TP.HCM)*** {% lotties_emoji code=u1f970 %} :cherry_blossom: Cảm ơn Ms Sương nếu cô có tình cờ đọc bài viết này của em.
 
 {% codeblock Terminal %}
 brew install --cask datagrip
@@ -181,4 +181,4 @@ Qua bài viết mình trình bày một số khái niệm về UI, CLI, Terminal
 
 Nếu bạn thấy hay, hãy ~like (quên mất! Mình không câu like ^^) và~ share bài viết này và tiếp tục ủng hộ blog của mình nữa nhé.
 
-<p style='text-align: right;'> Hihi 🥰 </p>
+<p style='text-align: right;'> Hihi {% lotties_emoji code=u1f970 %} </p>

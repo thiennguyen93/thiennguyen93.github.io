@@ -24,7 +24,7 @@ Có ba lý do.
 
 ### Một là...
 
-Công việc hằng ngày của tôi xoay quanh chiếc bàn phím ⌨️ và màn hình máy tính 💻 với hy vọng viết ra những dòng code có thể thay đổi cả thế giới, tất nhiên là trở nên tốt đẹp hơn 💡. 
+Công việc hằng ngày của tôi xoay quanh chiếc bàn phím ⌨️ và màn hình máy tính 💻 với hy vọng viết ra những dòng code có thể thay đổi cả thế giới, tất nhiên là trở nên tốt đẹp hơn {% lotties_emoji code=u1f4a1 %}. 
 
 Việc này khiến tôi liên tưởng đến bộ phim <a class="has-tooltip-arrow has-tooltip-top" data-tooltip="View IMDB" href="https://www.imdb.com/title/tt2872732/">Lucy (2014)</a>. Nữ chính vì vô tình dùng phải loại thuốc có chưa chất `CPH4` từ đó có thể sử dụng 100% công suất bộ não, trở thành người có tri thức siêu phàm và khả năng kiểm soát không - thời gian thậm chí thay đổi cả thế giới. 
 Có lẽ bác biên kịch biết tiếng Việt nên mới dùng lối chơi chữ `CàPHê` thành `CPH4` như trong kịch bản phim. {% lotties_emoji code=1f602 %}

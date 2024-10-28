@@ -6,8 +6,8 @@ variant: default
 logo: 
     light: /img/logo-cropped.svg
     dark: /img/logo-dark-cropped.svg
-    light_mobile: /img/logo-light-compact.webp
-    dark_mobile: /img/logo-dark-compact.webp
+    light_mobile: /assets/img/logo-light-compact.svg
+    dark_mobile: /assets/img/logo-dark-compact.svg
 # Page metadata configurations
 head:
   # URL or path to the website's icon

@@ -26,16 +26,6 @@ Cùng đọc bài viết về con game đầu tay của mình nha...
 ## Ý tưởng
 Ý tưởng game khá là đơn giản được bắt nguồn từ một short video của kênh **Street interviews** mà mình tình cờ lướt thấy trên Youtube. Người chơi sẽ được xem nhiều hình ảnh quốc kỳ và phải trả lời được tên quốc gia tương ứng.
 
-<div class="card has-text-centered my-2">
-  <iframe height="320"
-  src="https://youtube.com/embed/PpQZ76KvfJo"
-  title="YouTube video player" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-  gyroscope; picture-in-picture;
-  web-share"
-  allowfullscreen></iframe>
-</div>
-
 Từ ý tưởng trên, mình xây dựng hai "mode" chơi cho game
 1. Tìm hình ảnh của quốc kỳ theo tên quốc gia. (đã có thể chơi được trên game demo ở trên)
 2. Tìm tên quốc gia theo hình ảnh quốc kỳ. (chưa thực hiện)

@@ -19,3 +19,10 @@ body:not(.night) .only-in-night-mode {
 .caption {
   display: none;
 }
+
+/* custom-page-cv */
+@media only screen and (max-width: 768px) {
+  .custom-page-cv article .media {
+      flex-direction: column;
+  }
+}

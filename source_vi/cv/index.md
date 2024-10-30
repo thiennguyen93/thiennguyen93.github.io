@@ -60,6 +60,7 @@ sidebar:
     sticky: true
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/08/logo-hcmus.png
 useStyles: ["/assets/pages/cv/css/style.css"]
+classNames: ["custom-page-cv"]
 ---
 
 Hello, I’m Thien, a <span id="typed"></span> based in Ho Chi Minh City, Vietnam.
@@ -125,7 +126,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-gamify-studios-dark.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#">Gamify Studios Company Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#">Gamify Studios</a></strong></h4>
             <span>Software Engineer</span>
             <p>Product: Back Office Gaming Management System</p>
             <p>
@@ -159,7 +160,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="CMC Global logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-cmc-global-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-cmc-global"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global Company Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-cmc-global"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global</a></strong></h4>
             <span>Software Engineer</span>
             <p>Projects: THK CMMS, THK Order System & HACCP Report</p>
             <p>

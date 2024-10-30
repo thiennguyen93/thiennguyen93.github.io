@@ -9,6 +9,7 @@ cover: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=800
 cover_lqip: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
 thumbnail: https://thiennguyenpro.files.wordpress.com/2021/04/bvt.jpg?w=300
 excerpt: 'Chuyến team building cùng team HAS HPT tại TP Vũng Tàu (BR-VT)'
+classNames: ["post-teambuilding-vungtau"]
 ---
 
 Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố biển Vũng Tàu nhé!!!
@@ -39,7 +40,7 @@ Nào cũng xem lại những kỷ niệm đẹp của chúng ta ở thành phố
 
 <!-- more -->
 
-<div class="card-content">
+<div class="post-time-line">
    <h4 class="tag is-primary">Khởi hành</h4>
    <div class="timeline">
       <article class="media">
@@ -250,3 +251,18 @@ Cùng ngắm lại những khoảnh khắc tuyệt đẹp trong chuyến đi nh�
         </div>
     </article>
 </div>
+
+<style>
+/* custom-page-cv */
+@media only screen and (max-width: 768px) {
+   .post-teambuilding-vungtau article .media {
+      flex-direction: column;
+   }
+   .post-teambuilding-vungtau .media-left.image {
+      margin: 0 0 0.5rem 0
+   }
+}
+.post-teambuilding-vungtau article.media:before {
+   margin-top: 1.5rem
+}
+</style>

@@ -7,7 +7,7 @@ language: en
 toc: true
 cover: /assets/img/2024-10-08-macbook-cua-minh-co-gi.webp
 cover_lqip: /assets/img/lqip/2024-10-08-macbook-cua-minh-co-gi.webp
-thumbnail: /assets/img/post/thumbnails/2024-10-08-macbook-cua-minh-co-gi-thumbnail.png
+thumbnail: https://photos.thiennguyen.dev/f=webp,w=64,h=64/album/blog/post/thumbnails/2024-10-08-macbook-cua-minh-co-gi-thumbnail.png
 useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css','/assets/en/posts/2024-09-02-ky-nghi-le-quoc-khanh-2024/styles.css']
 widgets:
   - type: toc

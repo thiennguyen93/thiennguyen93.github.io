@@ -23,7 +23,7 @@ Trong năm 2024 này mình được xài đến tận ba em Macbook khác nhau t
 
 Bởi vì cấu hình máy không quá mạnh như "đàn anh" dòng Pro, **"Mac-Air"** không cần một "body 6 múi", không cần vai u thịt bắp. Thay vào đó, "ẻm" sở hữu một thân hình mảnh mai, nhẹ nhàng thanh thoát, có thể ví von như đứa em xinh gái trong nhà hay là cô người yêu mà bao chàng trai hằng mong ước {% lotties_emoji code=1f970 %}.
 
-Máy của mình cấu hình bình thường, không nâng cấp gì cả (16Gb RAM, 512Gb SSD, Apple M3 Chip). Mình nghĩ cấu hình này cơ bản là đủ dùng cho dev, lâu lâu render vài shot video đăng youtube chắc cũng ổn {% lotties_emoji code=1f643 %}. Nhân cơ hội được "unseal" (bóc tem - PV) máy mới, mình lên bài viết chia sẻ cách setup MacOS phục vụ công việc và sở thích cá nhân của mình. Hãy cùng khám phá nhé!
+Máy của mình cấu hình bình thường, không nâng cấp gì cả (16Gb RAM, 512Gb SSD, Apple M3 Chip). Mình nghĩ cấu hình này cơ bản là đủ dùng cho dev, lâu lâu render vài shot video đăng youtube chắc cũng ổn {% lotties_emoji code=1f643 %}. Nhân cơ hội được "unseal" (bóc tem - PV) máy mới, mình lên bài viết chia sẻ cách setup MacOS phục vụ công việc và sở thích cá nhân của mình. Hãy cùng khám phá nhé! ^^
 
 <!-- more -->
 

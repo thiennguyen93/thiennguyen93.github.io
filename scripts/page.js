@@ -116,17 +116,6 @@ hexo.extend.injector.register(
   "category"
 );
 
-// 
-hexo.extend.injector.register(
-  "head_end",
-  () => {
-    return css(
-      "https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css"
-    ); // CDN
-  },
-  "default"
-);
-
 // Import multipe css files from config
 const { thiennguyen } = hexo?.config;
 if (thiennguyen?.useStyles?.length) {
@@ -138,10 +127,19 @@ if (thiennguyen?.useStyles?.length) {
 }
 
 // Inject APlayerJS (CDN/non-CDN)
-hexo.extend.injector.register(
-  "body_begin",
-  '<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>\n'
-);
-// hexo.extend.injector.register('head_end', () => {
-//   return js('/assets/js/APlayer.min.js');
-// }, 'default');
+["page", "post", "category"].forEach(item => {
+  hexo.extend.injector.register(
+    "body_begin",
+    '<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>\n',
+    item
+  );
+  hexo.extend.injector.register(
+    "head_end",
+    () => {
+      return css(
+        "https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css"
+      ); // CDN
+    },
+    item
+  );
+})

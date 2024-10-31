@@ -493,9 +493,9 @@ theme_config:
       ## security: 027ff2d5 <<--uncomment this to use
     # Twitter conversion tracking plugin settings
     # https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html
-    twitter_conversion_tracking:
+    twitter_conversion_tracking: false
       # Twitter Pixel ID
-      pixel_id:
+      # pixel_id:
   # CDN provider settings
   # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
   providers:

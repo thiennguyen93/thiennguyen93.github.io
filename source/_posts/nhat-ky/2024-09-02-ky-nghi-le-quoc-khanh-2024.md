@@ -13,7 +13,7 @@ ribbon: ['★','has-background-danger has-text-warning is-borderless']
 ---
 
 "Dịp quốc khánh năm nay, ... "
-![ủa gì zọ?? Tui muốn viết bài mà bạn AI Code Assistant của tui sao hay tài lanh quá zạ](https://photos.thiennguyen.dev/f=webp/album/blog/2024-09-02-ky-nghi-le-quoc-khanh-2024/SCR-20240901-tzzj.png)
+<img class="not-gallery-item" src="https://photos.thiennguyen.dev/f=webp,q=80/album/blog/2024-09-02-ky-nghi-le-quoc-khanh-2024/SCR-20240901-tzzj.png" alt="AI code completion" width="100%" height="100%">
 
 Hôm nay ngẫu hứng viết blog sau thời gian dài "kín tiếng trước truyền thông". Vừa mở trình soạn thảo ra, mới viết được vài từ thì "em" thư ký AI chuyên gợi ý viết nhắc lệnh lập trình đã làm tôi không khỏi bất ngờ, bởi vì trước giờ cứ nghĩ ẻm giỏi code thôi, không ngờ lại còn biết cả viết lách nữa chứ {% lotties_emoji code=1f602 %}.
 

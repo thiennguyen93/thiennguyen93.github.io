@@ -448,4 +448,5 @@ providers:
   # Name or URL template of the webfont CDN provider
   fontcdn: google
   # Name or URL of the fontawesome icon font CDN provider
-  iconcdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+  # iconcdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+  iconcdn: /assets/css/font-icon.css

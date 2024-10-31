@@ -504,7 +504,8 @@ theme_config:
     # Name or URL template of the webfont CDN provider
     fontcdn: google
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: fontawesome
+    # iconcdn: fontawesome
+    iconcdn: /assets/css/font-icon.css
 
 deploy:
     type: git

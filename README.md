@@ -90,6 +90,16 @@ This package helps the low quality version of each images stored in the `root/as
 Refer to this page https://jimit105.github.io/github-emoji-cheatsheet/
 You can use Github version of Emojis in your post :+1: :computer: :kissing_closed_eyes:
 
+## Sử dụng Fontawesome
+Nếu cần dùng icon nào mới trong bộ fontawesome (v6)
+Tìm đến `/assets/css/all.css` (cái này sẽ exclude khỏi source chính, ko nhúng vào page)
+Tìm icon cần thêm ví dụ
+```css
+.fa-pencil::before {
+  content: "\f303"; }
+```
+Copy & paste vào `/assets/css/font-icon.css` đúng vị trí (liền kề các icon đã có sẵn)
+
 # POST
 ## Front matter
 ```

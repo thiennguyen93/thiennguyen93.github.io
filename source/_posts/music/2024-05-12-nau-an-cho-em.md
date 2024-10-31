@@ -6,7 +6,7 @@ categories:
 language: en
 toc: false
 # cover: 
-thumbnail: /assets/media/nau-an-cho-em/album-90x90.jpeg
+thumbnail: https://photos.thiennguyen.dev/w=64,h=64,f=webp/album/blog/nau-an-cho-em/album.jpeg
 hide: true
 post_type: "music"
 # comment: false

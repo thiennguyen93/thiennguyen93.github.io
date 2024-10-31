@@ -210,7 +210,7 @@ article:
 # Search plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
 search:
-  type: insight
+  type: algolia
   include_pages: true
 # searh hitsPerPage in all node_modules to see the option of items per page
 # Comment plugin configurations

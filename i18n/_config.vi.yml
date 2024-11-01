@@ -184,18 +184,14 @@ theme_config:
         path: /categories
         icon: fa-solid fa-folder-open
         translation: "Chuyên mục"
-      Relax:
+      Photos: false
+        # path: /categories/photos
+        # icon: fa-regular fa-image
+        # translation: "Ảnh"
+      Music: 
         path: /categories/nhac
         icon: fa-solid fa-music
-        translation: "Thư giãn"  
-      # Misc:
-      #   path: /misc
-      #   children:
-      #     Music:
-      #       path: /categories/music
-      #       # icon: fab fa-github
-      #     Note:
-      #       path: /note
+        translation: "Nhạc"
       CV: 
         path: /cv
         icon: fa-solid fa-briefcase

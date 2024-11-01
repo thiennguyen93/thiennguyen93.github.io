@@ -273,7 +273,7 @@ theme_config:
   # Search plugin configurations
   # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
   search:
-    type: algolia
+    type: insight
   # Comment plugin configurations
   # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
   comment:

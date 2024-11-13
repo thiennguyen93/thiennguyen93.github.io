@@ -19,7 +19,7 @@ Tinh thêm hôm nay nữa là được tám ngày từ cái hôm "Cà pháo" ch�
 <!-- ![Ba ẵm em bé trong phòng chờ](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241104090936.jpg) -->
 ![Em bé đang ngủ](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113005613.jpg)
 ![Em bé và ba](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113010334.jpg)
-![Em bé và ba](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/khoa-phu-san-umc-20241104-051812.jpg)
+![Khoa Phụ sản](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/khoa-phu-san-umc-20241104-051812.jpg)
 
 </div>
 

@@ -1,41 +1,43 @@
-const lqip = require('lqip-modern')
-const fs = require('fs/promises');
-const stdFs = require('fs')
-var path = require('path')
+import lqip from 'lqip-modern';
+import fs from 'fs/promises';
+import path from 'path';
 
+const lqipDir = "lqip/";
+const dir = new URL("./assets/img/", import.meta.url).pathname;
 
 async function processLQIP() {
-    const lqipDir = "lqip/"
-    const dir =  __dirname + "/assets/img/"
-    let files = await fs.readdir(dir,  {
+    let files = await fs.readdir(dir, {
         withFileTypes: true
     });
-    // Filter all image file
-    imgFiles = files?.map(item =>{
-        const ext = path.extname(dir + item.name)
-        return {
-            name:  item.name,
-            ext
-        }
-    })
-    .filter(({ext})  =>  {
-        return [".png",".jpg",".jpeg",".webp"].includes(ext)
-    })
 
-    // remove current lqip  sdir
-    await fs.rm(dir + lqipDir, { force: true, recursive: true });
-    await fs.mkdir(dir + lqipDir);
-    
-    for await (fileItem of imgFiles) {
-        const { name, ext } = fileItem
-        const result = await lqip(dir + name, {
+    // Filter all image files
+    const imgFiles = files
+        .map(item => {
+            const ext = path.extname(item.name);
+            return {
+                name: item.name,
+                ext
+            };
+        })
+        .filter(({ ext }) => {
+            return [".png", ".jpg", ".jpeg", ".webp"].includes(ext);
+        });
+
+    // Remove current lqip directory
+    await fs.rm(path.join(dir, lqipDir), { force: true, recursive: true });
+    await fs.mkdir(path.join(dir, lqipDir));
+
+    for (const fileItem of imgFiles) {
+        const { name, ext } = fileItem;
+        const result = await lqip(path.join(dir, name), {
             resize: 1200,
             outputFormat: "webp"
-        })
-        fs.writeFile(
-          dir + "lqip/" + (name + "_temp").replace(ext + "_temp", "") + ".webp",
-          result.content
+        });
+        await fs.writeFile(
+            path.join(dir, lqipDir, (name + "_temp").replace(ext + "_temp", "") + ".webp"),
+            result.content
         );
     }
 }
-processLQIP()
+
+processLQIP().catch(console.error);

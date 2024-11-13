@@ -18,7 +18,6 @@ Tinh thêm hôm nay nữa là được tám ngày từ cái hôm "Cà pháo" ch�
 
 <!-- ![Ba ẵm em bé trong phòng chờ](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241104090936.jpg) -->
 ![Em bé đang ngủ](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113005613.jpg)
-![Em bé "again"](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao.jpg)
 ![Em bé và ba](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113010334.jpg)
 ![Em bé và ba](https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/khoa-phu-san-umc-20241104-051812.jpg)
 
@@ -32,7 +31,7 @@ Tinh thêm hôm nay nữa là được tám ngày từ cái hôm "Cà pháo" ch�
 
 <br />
 
-**Ba mời các cô chú cùng đọc bài ạ {% lotties_emoji code=1f970 %}**
+**Ba mời các cô chú bấm [Read more] đọc tiếp bài ạ {% lotties_emoji code=1f970 %}**
 
 <!-- more -->
 
@@ -43,5 +42,9 @@ Chưa đầy 5 phút sau taxi công nghệ cũng vừa tới, ba cuống cuồng
 Mất khoảng 10 phút để làm xong thủ tục, ba được cô y tá cho dẫn lên **Tầng 4 khu B** của bệnh viện. Đó là khoa phụ sản và để được vào bên trong, ba phải thay áo khoác và mang dép theo quy định của bệnh viện. Vừa bước vào hành lang mấy bộ, ba đã nghe tiếng khóc oe oe của trẻ sơ sinh. Ba nghĩ thầm: các bác sĩ và y tá làm việc ở khoa này chắc hằng ngày đều nghe tiếng trẻ sơ sinh khóc luôn ý nhỉ? Đoạn một chị y ta nhìn ba rồi nói lớn: "***anh nhanh chân lên, con anh khóc nảy giờ rồi kìa!***", ba giật mình chưng hửng thì ra tiếng khóc ba nghe vừa nảy là của con luôn á. Ba còn không tin là mẹ sinh con ra nhanh đến vậy tại vì hồi anh hai Cà rốt từ lúc đau nhập viện đến lúc chào đời phải hơn 10 tiếng.
 
 Ba vào tới phòng sinh thì thấy con đã nằm gọn trên lòng của mẹ con rồi, còn bác sĩ thì đang chăm chú may may vá vá như một thợ thủ công lành nghề. Nhìn em Cà pháo nằm trên bụng mẹ, thời gian như trôi ngược về khoảng hơn ba năm về trước, tại chính căn phòng này, anh hai Cà-rốt của con cũng nằm sấp y chang như vậy, bàn tay nhăn nheo, đôi mắt thì lia qua lia lại nhìn cảnh vật lạ lẫm xung quanh. 
+
+<p style="text-align: center;">
+    <img class="in-view-effect frame tilt-right lazy" src="https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao.jpg" data-src="https://photos.thiennguyen.dev/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao.jpg" alt="Cà pháo" title="Cà rốt" width="60%">
+</p>
 
 Câu chuyện con chào đời là như vậy đó: 05 giờ 25 phút sáng ngày 4.11.2024, nặng 3.2kg (hơn anh hai Cà-rốt 300gr).

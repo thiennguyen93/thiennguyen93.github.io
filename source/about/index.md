@@ -44,7 +44,7 @@ Tôi luôn tìm thấy sự mâu thuẫn, kể cả ở bản thân. Đề cao c
 
 Tôi rèn luyện khả năng dùng đũa bằng tay trái như một phương án dự phòng (Plan B) ~~nếu lỡ chẳng may cụt mất tay thuận là tay phải~~.
 
-Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %} (tên cúng cơm do bà nội đặt)
+Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" width="1em" height="1em" autoplay loop %} (tên cúng cơm do bà nội đặt)
 
 <p style="text-align: center;">
     <img class="in-view-effect frame tilt-right lazy" src="/assets/pages/about/carrot-02_LQIP.webp" data-src="/assets/pages/about/carrot-02.jpeg" alt="Cà rốt 🥕" title="Cà rốt" width="60%">

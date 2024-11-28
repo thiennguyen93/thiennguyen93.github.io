@@ -12,7 +12,7 @@ thumbnail: /assets/img/post/thumbnails/2024-01-28-am-thanh-hanh-phuc-thumbnail.w
 useStyles: ['/assets/styles/img-tilt-effect.css','/assets/styles/bulma-timeline.css']
 
 ---
- <span class="has-tooltip-arrow has-tooltip-bottom" data-tooltip="27 tháng tuổi (tính đến thời điểm viết bài)">Cà Rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %}</span> bập bẹ nói từ khá sớm, ban đầu chỉ là những từ đơn giản như "ba," "mẹ", "bà", "ông nội," hoặc bắt chước những gì người lớn nói. Mình nhớ có một lần dạy Cà Rốt về trái quýt...
+ <span class="has-tooltip-arrow has-tooltip-bottom" data-tooltip="27 tháng tuổi (tính đến thời điểm viết bài)">Cà Rốt {% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" width="1em" height="1em" autoplay loop %}</span> bập bẹ nói từ khá sớm, ban đầu chỉ là những từ đơn giản như "ba," "mẹ", "bà", "ông nội," hoặc bắt chước những gì người lớn nói. Mình nhớ có một lần dạy Cà Rốt về trái quýt...
  
 {% blockquote %}
 Mình hỏi: 
@@ -21,7 +21,7 @@ Mình hỏi:
 - Đây là trái gì? <em>(mình hỏi lại)</em>
 <br />
 
-{% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %} trả lời: Trái "wứt". {% lotties_emoji code=u1f606 %}
+{% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" width="1em" height="1em" autoplay loop %} trả lời: Trái "wứt". {% lotties_emoji code=u1f606 %}
 {% endblockquote %}
 
 

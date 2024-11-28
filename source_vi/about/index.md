@@ -41,10 +41,10 @@ Hiện tại tôi là kỹ sư phần mềm tại một [công ty phát triển 
 
 Tôi luôn tìm thấy sự mâu thuẫn, ngay cả ở chính bản thân. Chẳng hạn, đề cao chủ nghĩa tối giản nhưng lại thường suy nghĩ theo hướng phức tạp. Thuận tay phải nhưng khi ăn thì dùng đũa tay trái.
 
-Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %}{% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %} (tên cúng cơm do bà nội đặt)
+Tôi đã lập gia đình và có một bé trai thường gọi là Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" width="1em" height="1em" autoplay loop %}{% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" width="1em" height="1em" autoplay loop %} (tên cúng cơm do bà nội đặt)
 
 <p style="text-align: center;">
-    <img class="in-view-effect frame tilt-right lazy" src="/assets/pages/about/carrot-02_LQIP.webp" data-src="/assets/pages/about/carrot-02.jpeg" alt="Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %}" title="Cà rốt" width="60%">
+    <img class="in-view-effect frame tilt-right lazy" src="/assets/pages/about/carrot-02_LQIP.webp" data-src="/assets/pages/about/carrot-02.jpeg" alt="Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" width="1em" height="1em" autoplay loop %}" title="Cà rốt" width="60%">
 </p>
 
 

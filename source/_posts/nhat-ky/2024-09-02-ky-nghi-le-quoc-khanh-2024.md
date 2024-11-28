@@ -64,7 +64,7 @@ Theo lịch, hai ngày nghỉ lễ sẽ là thứ hai (2-9) và thứ ba (3-9), 
     </div>
     <div class="timeline-content">
       <p class="heading">Ngày 2: Chủ nhật, 01-09-2024</p>
-      <p>Buổi sáng, mình đưa Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="https://lottie.host/9711a9e1-d701-4f09-9da4-9bce347cc1a8/nX0h3fi6lA.lottie" width="1em" height="1em" autoplay loop %} đi bác sĩ kiểm tra vì tối qua sốt li bì cả đêm, chắc do Vaccine hành.</p>
+      <p>Buổi sáng, mình đưa Cà rốt {% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" width="1em" height="1em" autoplay loop %} đi bác sĩ kiểm tra vì tối qua sốt li bì cả đêm, chắc do Vaccine hành.</p>
       <p>Bác sĩ nói là con mình đang bị viêm nướu răng do vi khuẩn chứ không liên quan gì đến vaccine cả. Hèn chi hôm qua tới giờ nó cứ hay chỉ tay vào miệng và kêu đau. Mình nghĩ là do chích vaccine, bác sĩ cũng nói thêm là vaccine dại hiện nay đều sử dụng công nghệ mới, an toàn, không có tác dụng phụ cũng không ảnh hưởng gì đến sự phát triển của trẻ cả nên các ba mẹ cứ yên tâm nha. Bệnh dại rất nguy hiểm vì thế càng không được chủ quan. Khám xong, bác sĩ kê hai ngày thuốc để uống và cho đi về.</p>
       <div class="justified-gallery mb-3">
         <img src="https://lh3.googleusercontent.com/pw/AP1GczOm_tW2Hu9FzFJhY8oPSrcKRcQn9r5L-uAkuJvqkz3Y2nGNEoTXOKFBsorpSNtVG8545ShthQLRedx7cEz_VtYuJ25a4w6JlQDOTGZ2Bqhrp7PI1x4uuBXEOs-GZWhthu2yHo_clSllx_5fHkZmljgJ6A=w2640-h1454-s-no-gm?authuser=0" alt="Đoạn bác sĩ kêu vào khám, vẫn còn ám ảnh vụ chích ngừa hôm qua nên cà rốt khóc la chạy khắp nơi hòng trốn bác sĩ" />

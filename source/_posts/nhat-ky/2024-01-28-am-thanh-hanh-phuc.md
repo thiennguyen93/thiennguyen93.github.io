@@ -25,13 +25,13 @@ Mình hỏi:
 {% endblockquote %}
 
 
-Mình cố lặp lại lần mà Rốt vẫn cứ trái "wứt" nên phải nhờ đến mẹ Rốt. Đến khi mẹ nó phát âm chuẩn trái quýt thì Rốt mới nói đúng được. Cười "chớt" {% lotties_emoji code=1f602 %}, thì ra do mình phát âm sai nên con trẻ nghe sao thì nói y như vậy. Mình thấy cái chuyện kỳ cục là khi ta nói từ trái "quýt" thì phải chu mỏ, uốn lưỡi thì mới ra, còn trái "quích" nhanh gọn, dễ thế mà lại nói theo không được. Nói gì nói, trái "quýt" mới đúng nhen các bạn, người miền nam quen nói nhanh thành trái "quích" chứ không phải bị ngọng đâu á {% lotties_emoji code=u1f644 %}. 
+Mình cố lặp lại lần mà Rốt vẫn cứ trái "wứt" nên phải nhờ đến mẹ Rốt. Đến khi mẹ nó phát âm chuẩn trái quýt thì Rốt mới nói đúng được. Cười "chớt" {% lotties_emoji code=1f602 %}, thì ra do mình phát âm sai nên con trẻ nghe sao thì nói y như vậy. Mình thấy cái chuyện kỳ cục là khi ta nói từ trái "quýt" thì phải chu môi, uốn lưỡi thì mới ra, còn trái "quích" nhanh gọn, dễ thế mà lại nói theo không được. Nói gì nói, trái "quýt" mới đúng nhen các bạn, người miền nam quen nói nhanh thành trái "quích" chứ không phải bị ngọng đâu á {% lotties_emoji code=u1f644 %}. 
 <!-- more -->
 <p style="text-align: center">
     <img class="not-gallery-item in-view-effect img-reset-brightness transition-all lazy" src="trai-quyt.jpg" data-src="trai-quyt.jpg" alt="Trái quýt <em><br />(Ảnh: Freepik)</em>" width="200px">
 </p>
 
-Cà rốt bây giờ lém lắm, có thể nói một câu dài 4-5 từ và phù hợp ngữ cảnh, đặt câu hỏi và trả lời rõ ràng. Nó thường nói như ra lệnh: "bà cởi áo" (áo khoác) mỗi khi bà đi đâu về, để bà không đi nữa. Đi học cũng tự lựa quần áo chứ không chịu người khác soạn cho nữa. Mà cái goute thời trang của nó cũng lạ, chụp chung các bạn ở trường mầm non mà nhìn nó lạc tông dễ sợ.
+Cà rốt bây giờ lém lắm, có thể nói một câu dài 4-5 từ và phù hợp ngữ cảnh, đặt câu hỏi và trả lời rõ ràng. Nó thường nói như ra lệnh: "bà cởi áo" (áo khoác) mỗi khi bà nội đi đâu về, để bà không đi nữa. Đi học cũng tự lựa quần áo chứ không chịu người khác soạn cho. Mà cái "goute" thời trang của nó cũng lạ, chụp chung các bạn ở trường mầm non mà nhìn nó lạc tông dễ sợ.
 
 <p style="text-align: center">
     <img class="in-view-effect frame bright-on-hover transition-all lazy tilt-right" src="carrot-o-truong-mam-non-01.jpeg" data-src="carrot-o-truong-mam-non-01.jpeg" alt="Mình nghĩ bức ảnh này không cần chú thích đứa nào là cà rốt trong đám trẻ" width="80%">
@@ -44,7 +44,7 @@ Cà rốt không biết giống ai mà cái nết nó vui tính. Mẹ nó chưng
 </p>
 
 ## Lời kết
-Đối với mình, mỗi đứa trẻ sinh ra như một món quà vô giá của cha mẹ và mỗi chúng ta, ai cũng vậy, đều có cha mẹ sinh ra chứ không thể từ đất nẻ mà chui lên được. Đôi khi, những đứa trẻ may mắn sinh ra được "ngậm thìa vàng" hay phải đi lùi mới về vạch đích. Ngược lại, có những bậc cha mẹ phải lao động vất vả để nuôi con. 
+Đối với mình, mỗi đứa trẻ sinh ra như một món quà vô giá của cha mẹ và mỗi chúng ta, ai cũng vậy, đều có cha mẹ sinh ra chứ không thể từ đất nẻ mà chui lên được. Đôi khi, những đứa trẻ may mắn sinh ra được "ngậm thìa vàng" hay phải đi lùi mới về vạch đích. Thì ngược lại, có những bậc cha mẹ phải lao động vất vả để nuôi con.
 
 Sinh con ra nên mình cố gắng làm việc kiếm tiền để lo cho con những gì tốt nhất có thể. Mình không kỳ vọng con mình là một thiên tài hay thần đồng gì cả, mà chỉ mong con được khoẻ mạnh, bình an và vui vẻ. {% lotties_emoji code=u1f48c %} {% lotties_emoji code=1f970 %}
 

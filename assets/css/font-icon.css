@@ -1060,6 +1060,10 @@
     content: "\f019";
 }
 
+.fa-house::before {
+    content: "\f015"; 
+}
+
 
 /* thiennguyen */
 

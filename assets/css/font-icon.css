@@ -1064,6 +1064,9 @@
     content: "\f015"; 
 }
 
+.fa-award::before {
+    content: "\f559"; 
+}
 
 /* thiennguyen */
 

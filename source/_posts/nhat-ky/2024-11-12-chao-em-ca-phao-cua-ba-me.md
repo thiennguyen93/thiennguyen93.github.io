@@ -15,9 +15,9 @@ useStyles: ['/assets/styles/img-tilt-effect.css']
 Tinh thêm hôm nay nữa là được tám ngày từ cái hôm "Cà pháo" chào đời trong vòng tay của ba và mẹ. Ba tranh thủ chút thời gian rảnh rang khi con còn đang say giấc, vội viết trang blog kể về hành trình kỳ diệu của con đến thế giới xinh đẹp này. 
 
 <div class="justified-gallery">
-    <img class="lazy" src="https://photos.thiennguyen.dev/h=200,q=90,f=webp/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113005613.jpg" alt="Em bé đang ngủ" data-src="https://photos.thiennguyen.dev/f=webp,h=600/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113005613.jpg" />
-    <img class="lazy" src="https://photos.thiennguyen.dev/h=200,q=90,f=webp/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113010334.jpg" alt="Em bé và ba" data-src="https://photos.thiennguyen.dev/f=webp,h=600/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113010334.jpg" />
-    <img class="lazy" src="https://photos.thiennguyen.dev/h=200,q=90,f=webp/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/khoa-phu-san-umc-20241104-051812.jpg" alt="Khoa Phụ sản" data-src="https://photos.thiennguyen.dev/f=webp,h=600/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/khoa-phu-san-umc-20241104-051812.jpg" />
+    <img class="lazy" src="https://photos.thiennguyen.dev/h=120,q=90,f=webp/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113005613.jpg" alt="Em bé đang ngủ" data-src="https://photos.thiennguyen.dev/f=webp,h=600/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113005613.jpg" />
+    <img class="lazy" src="https://photos.thiennguyen.dev/h=120,q=90,f=webp/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113010334.jpg" alt="Em bé và ba" data-src="https://photos.thiennguyen.dev/f=webp,h=600/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113010334.jpg" />
+    <img class="lazy" src="https://photos.thiennguyen.dev/h=120,q=90,f=webp/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/khoa-phu-san-umc-20241104-051812.jpg" alt="Khoa Phụ sản" data-src="https://photos.thiennguyen.dev/f=webp,h=600/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/khoa-phu-san-umc-20241104-051812.jpg" />
 </div>
 
 <!-- <p style="text-align: center">

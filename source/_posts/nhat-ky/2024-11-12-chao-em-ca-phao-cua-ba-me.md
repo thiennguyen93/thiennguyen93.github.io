@@ -7,7 +7,7 @@ language: en
 toc: true
 cover: https://photos.thiennguyen.dev/f=webp,w=761,h=325,fit=cover/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao.jpg
 cover_lqip: https://photos.thiennguyen.dev/f=webp,w=761,h=325,fit=cover,q=80/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao.jpg
-# fetchpriority: high
+fetchpriority: high
 thumbnail: https://photos.thiennguyen.dev/f=webp,w=64,h=64,fit=cover/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao.jpg
 useStyles: ['/assets/styles/img-tilt-effect.css']
 ---

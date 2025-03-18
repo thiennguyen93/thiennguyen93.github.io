@@ -2,7 +2,7 @@
 title: Thien Nguyen
 date: 2021-08-14 10:16:35
 toc: true
-lang: en
+lang: vi
 layout: page
 article:
   licenses: false
@@ -122,11 +122,37 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+            <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-pilotpulse-ai-light.png">
+            <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-pilotpulse-ai-light.png">
+        </figure>
+        <div>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Apr 2024 - Present</span> <a href="https://pilotpulse.ai/">PilotPulse.ai</a></strong></h4>
+            <span>AI Software Engineer</span>
+            <p>Product: AI Agents for business</p>
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Developed and maintained RESTful APIs and dashboard to manage users, knowledge base & prompt.
+            </p>
+            <!-- <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> (& more to be updated)
+            </p> -->
+            <p  style="margin-bottom: 20px">
+                <span class="tag is-white">Keywords</span>
+                <span class="tag is-primary is-light">Go</span>
+                <span class="tag is-success is-light">Python</span>
+                <span class="tag">PostgreSQL</span>
+                <span class="tag is-warning is-light">MongoDB</span>
+                <span class="tag">AI</span>
+                <span class="tag">ReactJS</span>
+            </p>
+        </div>
+    </article>
+    <article class="media" style="color: unset;">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-gamify-studios-light.png">
             <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-gamify-studios-dark.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Now</span> <a href="#">Gamify Studios</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Feb 2024</span> <a href="#">Gamify Studios</a></strong></h4>
             <span>Software Engineer</span>
             <p>Product: Back Office Gaming Management System</p>
             <p>
@@ -274,12 +300,31 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+            <!-- <img alt="Git logo light" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-git-light.png"> -->
+            <!-- <img alt="Git logo dark" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-git-dark.png"> -->
+            <img alt="Git logo" class="not-gallery-item cv wh-64" src="img/logo-git-light.png">
+        </figure>
+        <div>
+            <h4 class="is-size-6" id="certification-git-github">
+                <strong>
+                    <span class="tag mr-2">Apr 2024</span>
+                    <a class="gallery-item" href="/assets/img/codecademy-git-github-cert.png">
+                        <img alt="Certificate of Completion for the Learn Git & GitHub Course" class="cv wh-64 is-hidden" src="/assets/img/codecademy-git-github-cert.png">
+                        <span>Certificate of Completion for the Learn Git & GitHub Course</span>
+                    </a>
+                </strong>
+            </h4>
+            <p><a href="https://www.codecademy.com/profiles/thiennguyen.dev/certificates/a8ab218d5950c29861635cc0bf12fd13" target="_blank">Codecademy</a></p>
+        </div>
+    </article>
+    <article class="media" style="color: unset;">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img alt="ReactJS logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-react-js-light.png">
             <img alt="ReactJS logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-react-js-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6" id="certification-reactjs"><strong><span class="tag mr-2">Jan 2021</span> <a class="gallery-item" href="/assets/img/zendvn-cert.png"><img alt="Certificate of Achievement in Completion of ReactJS Programming" class="cv wh-64 is-hidden" src="/assets/img/zendvn-cert.png"><span>Certificate of Achievement in Completion of ReactJS Programming</span></a></strong></h4>
-            <p>Accredited by Zend Vietnam</p>
+            <h4 class="is-size-6" id="certification-reactjs"><strong><span class="tag mr-2">Jan 2021</span> <a class="gallery-item" href="/assets/img/zendvn-cert.png"><img alt="Certificate of Achievement in Completion of ReactJS Programming" class="cv wh-64 is-hidden" src="/assets/img/zendvn-cert.png"><span>Certificate of Achievement in Completion of ReactJS Course</span></a></strong></h4>
+            <p><a href="https://zendvn.com/" target="_blank">Zend Vietnam</a></p>
         </div>
     </article>
     <article class="media" style="color: unset;">
@@ -289,7 +334,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
         </figure>
         <div>
             <h4 class="is-size-6" id="certification-php"><strong><span class="tag mr-2">Sep 2020</span> <span>Certificate of Completion of PHP Programming Training Course</span></strong></h4>
-            <p>Accredited by APTECH Saigon</p>
+            <p>APTECH Saigon</p>
         </div>
     </article>
 </div>

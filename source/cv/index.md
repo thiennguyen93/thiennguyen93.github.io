@@ -126,7 +126,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-pilotpulse-ai-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Apr 2023 - Now</span> <a href="https://pilotpulse.ai/">PilotPulse.ai</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Apr 2024 - Present</span> <a href="https://pilotpulse.ai/">PilotPulse.ai</a></strong></h4>
             <span>AI Software Engineer</span>
             <p>Product: AI Agents for business</p>
             <p>
@@ -152,7 +152,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-gamify-studios-dark.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Feb 2023</span> <a href="#">Gamify Studios</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Feb 2024</span> <a href="#">Gamify Studios</a></strong></h4>
             <span>Software Engineer</span>
             <p>Product: Back Office Gaming Management System</p>
             <p>

@@ -74,7 +74,7 @@ function playALTPsound() {
 }
 
 function loadCountryData() {
-    return fetch('/assets/pages/games/world-flags-quiz/data/data.json')
+    return fetch('https://restcountries.com/v3.1/all?fields=name,flags')
     .then((response) => response.json())
     .then((json) => json);
 }

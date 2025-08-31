@@ -126,7 +126,10 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="Pepperstone logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/pepperstone_blue_logo_160_dark.svg">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-pepperstone"><strong><span class="tag mr-2">Apr 2025 - Present</span> <a href="https://pepperstoneworld.com/">Pepperstone Group Limited</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-pepperstone">
+                <div><strong><a href="https://pepperstoneworld.com/" target="_blank">Pepperstone Group Limited</a></strong></div>
+                <div><strong><span class="tag mr-2 mt-2">Apr 2025 - Present</span></strong></div>
+            </h4>
             <span>Software Engineer</span>
             <p>Product: User Onboarding Platform</p>
             <p>
@@ -155,7 +158,10 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-pilotpulse-ai-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Apr 2024 - Apr 2025</span> <a href="https://pilotpulse.ai/">PilotPulse.ai</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-pilotpulse">
+                <div><strong><a href="https://pilotpulse.ai/" target="_blank">PilotPulse.ai</a></strong></div>
+                <div><strong><span class="tag mr-2 mt-2">Apr 2024 - Apr 2025</span></strong></div>
+            </h4>
             <span>AI Software Engineer</span>
             <p>Product: AI Agents for business</p>
             <p>
@@ -181,7 +187,10 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-gamify-studios-dark.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Sep 2022 - Feb 2024</span> <a href="#">Gamify Studios</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios">
+                <div><strong><a href="#">Gamify Studios</a></strong></div>
+                <div><strong><span class="tag mr-2 mt-2">Sep 2022 - Feb 2024</span></strong></div>
+            </h4>
             <span>Software Engineer</span>
             <p>Product: Back Office Gaming Management System</p>
             <p>
@@ -215,7 +224,10 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="CMC Global logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-cmc-global-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-cmc-global"><strong><span class="tag mr-2">Sep 2021 - Sep 2022</span> <a href="https://cmcglobal.com.vn/" target="_blank">CMC Global</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-cmc-global">
+                <div><strong><a href="https://cmcglobal.com.vn/" target="_blank">CMC Global</a></strong></div>
+                <div><strong><span class="tag mr-2 mt-2">Sep 2021 - Sep 2022</span></strong></div>
+            </h4>
             <span>Software Engineer</span>
             <p>Projects: THK CMMS, THK Order System & HACCP Report</p>
             <p>
@@ -248,7 +260,10 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <img alt="HPT Vietnam Corporation logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-hpt-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-hpt-vietnam-corp"><strong> <span class="tag mr-2">Apr 2020 - Aug 2021</span><span><a href="https://www.hpt.vn/" target="_blank"> HPT Vietnam Corporation</a></span></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-hpt-vietnam-corp">
+                <div><strong><a href="https://www.hpt.vn/" target="_blank">HPT Vietnam Corporation</a></strong></div>
+                <div><strong><span class="tag mr-2 mt-2">Apr 2020 - Aug 2021</span></strong></div>
+            </h4>
             <span>Software Engineer</span>
             <p>Projects: Cash Vault Management (Techcombank)</p>
             <p style="margin-bottom: 20px">

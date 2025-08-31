@@ -523,9 +523,9 @@ feed:
   template:
 # Search integration
 algolia:
-    applicationID: Z10A2B3Y0R
+    applicationID: 52IRD5YY20
     indexName: prod_vi.thiennguyen.dev
-    apiKey: 31c240d17d62425f38504bf154edbed7
+    apiKey: 7106d401c1ecda7f6880d8d14bd3f5bb
 # Need to inject manually by scripts/page.js
 aplayer:
   asset_inject: false

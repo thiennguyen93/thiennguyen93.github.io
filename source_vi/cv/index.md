@@ -2,7 +2,7 @@
 title: Thien Nguyen
 date: 2021-08-14 10:16:35
 toc: true
-lang: vi
+lang: en
 layout: page
 article:
   licenses: false
@@ -121,7 +121,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
 
 <div class="timeline">
     <article class="media" style="color: unset;">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem; margin-top: -20px">
             <img alt="Pepperstone logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/pepperstone_blue_logo_160.svg">
             <img alt="Pepperstone logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/pepperstone_blue_logo_160_dark.svg">
         </figure>
@@ -153,7 +153,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
         </div>
     </article>
     <article class="media" style="color: unset;">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem; margin-top: -20px">
             <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-pilotpulse-ai-light.png">
             <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-pilotpulse-ai-light.png">
         </figure>
@@ -182,7 +182,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
         </div>
     </article>
     <article class="media" style="color: unset;">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem; margin-top: -20px">
             <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-gamify-studios-light.png">
             <img alt="Gamify Studios logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-gamify-studios-dark.png">
         </figure>
@@ -219,7 +219,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
         </div>
     </article>
     <article class="media" style="color: unset;">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem; margin-top: -20px">
             <img alt="CMC Global logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-cmc-global-light.png">
             <img alt="CMC Global logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-cmc-global-light.png">
         </figure>
@@ -255,7 +255,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
         </div>
     </article>
     <article class="media" style="color: unset;">
-        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem; margin-top: -20px">
             <img alt="HPT Vietnam Corporation logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-hpt-light.png">
             <img alt="HPT Vietnam Corporation logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-hpt-light.png">
         </figure>

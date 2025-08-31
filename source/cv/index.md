@@ -122,11 +122,40 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
 <div class="timeline">
     <article class="media" style="color: unset;">
         <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
+            <img alt="Pepperstone logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/pepperstone_blue_logo_160.svg">
+            <img alt="Pepperstone logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/pepperstone_blue_logo_160_dark.svg">
+        </figure>
+        <div>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-pepperstone"><strong><span class="tag mr-2">Apr 2025 - Present</span> <a href="https://pepperstoneworld.com/">Pepperstone Group Limited</a></strong></h4>
+            <span>Software Engineer</span>
+            <p>Product: User Onboarding Platform</p>
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Develop, support, and maintain software applications using best practices across a range of technologies ensuring high-quality, maintainable, efficient, tested, and scalable code. 
+            </p>
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Contribute to the improvement of software development lifecycle processes. 
+            </p>
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Contribute to the improvement of software development lifecycle processes. 
+            </p>
+            <p  style="margin-bottom: 20px">
+                <span class="tag is-white">Keywords</span>
+                <span class="tag is-primary is-light">Go</span>
+                <span class="tag is-success is-light">Nats.io</span>
+                <span class="tag is-info is-light">PostgreSQL</span>
+                <span class="tag is-warning is-light">Event-Driven Architecture</span>
+                <span class="tag">Fastify</span>
+                <span class="tag">AWS</span>
+            </p>
+        </div>
+    </article>
+    <article class="media" style="color: unset;">
+        <figure class="media-left" style="margin-left: 0; margin-bottom: 0; margin-right: 1rem">
             <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-pilotpulse-ai-light.png">
             <img alt="PilotPulse.ai logo" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-pilotpulse-ai-light.png">
         </figure>
         <div>
-            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Apr 2024 - Present</span> <a href="https://pilotpulse.ai/">PilotPulse.ai</a></strong></h4>
+            <h4 class="is-size-6 is-uppercase" id="work-experience-gamify-studios"><strong><span class="tag mr-2">Apr 2024 - Apr 2025</span> <a href="https://pilotpulse.ai/">PilotPulse.ai</a></strong></h4>
             <span>AI Software Engineer</span>
             <p>Product: AI Agents for business</p>
             <p>
@@ -139,7 +168,7 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
                 <span class="tag is-white">Keywords</span>
                 <span class="tag is-primary is-light">Go</span>
                 <span class="tag is-success is-light">Python</span>
-                <span class="tag">PostgreSQL</span>
+                <span class="tag is-info is-light">PostgreSQL</span>
                 <span class="tag is-warning is-light">MongoDB</span>
                 <span class="tag">AI</span>
                 <span class="tag">ReactJS</span>

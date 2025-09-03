@@ -1,0 +1,28 @@
+body:not(.light) .tag.is-light {
+  color: #c0c0c0 !important;
+  background-color: #373d48 !important;
+}
+body:not(.light) .tag.is-white {
+  color: #c0c0c0 !important;
+  background-color: transparent !important;
+}
+body:not(.light) .only-in-light-mode {
+  display: none;
+}
+body:not(.night) .only-in-night-mode {
+  display: none;
+}
+.cv.wh-64 {
+  width: 64px;
+  height: 64px;
+}
+.caption {
+  display: none;
+}
+
+/* custom-page-cv */
+@media only screen and (max-width: 768px) {
+  .custom-page-cv article .media {
+      flex-direction: column;
+  }
+}

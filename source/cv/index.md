@@ -138,9 +138,6 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
             <p>
             <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Contribute to the improvement of software development lifecycle processes. 
             </p>
-            <p>
-            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Contribute to the improvement of software development lifecycle processes. 
-            </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>
                 <span class="tag is-primary is-light">Go</span>

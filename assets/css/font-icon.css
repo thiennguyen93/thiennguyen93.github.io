@@ -982,6 +982,10 @@
     content: "\f02e";
 }
 
+.fa-exclamation-triangle::before {
+    content: "\f071";
+}
+
 .fa-line:before {
     content: "\f3c0"
 }

@@ -523,7 +523,7 @@ feed:
   template:
 # Search integration
 algolia:
-    applicationID: 52IRD5YY20
+    applicationID: 09LGJI02FX
     indexName: prod_vi.thiennguyen.dev
     apiKey: 7106d401c1ecda7f6880d8d14bd3f5bb
 # Need to inject manually by scripts/page.js

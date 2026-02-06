@@ -90,7 +90,7 @@ stylus:
   plugins: 'nib'
 # Search integration
 algolia:
-    applicationID: 52IRD5YY20
+    applicationID: 09LGJI02FX
     indexName: prod_thiennguyen.dev
     apiKey: 7106d401c1ecda7f6880d8d14bd3f5bb
     routing: false

@@ -174,22 +174,27 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
                 <div><strong><a href="https://pilotpulse.ai/" target="_blank">PilotPulse.ai</a></strong></div>
                 <div><strong><span class="tag mr-2 mt-2">Apr 2024 - Apr 2025</span></strong></div>
             </h4>
-            <span>AI Software Engineer</span>
-            <p>Product: AI Agents for business</p>
+            <span>Senior Software Engineer</span>
+            <p>Product: AI Agent Management Dashboard</p>
             <p>
-            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Developed and maintained RESTful APIs and dashboard to manage users, knowledge base & prompt.
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Developed and maintained RESTful APIs and a dashboard for managing users, knowledge bases, prompts, and workflow configurations.
             </p>
-            <!-- <p>
-            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> (& more to be updated)
-            </p> -->
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Integrated Auth0 for authentication and implemented role-based access control (RBAC) to improve security and user management.
+            </p>
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Optimized API performance and database queries in PostgreSQL, enhancing system efficiency and scalability.
+            </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>
-                <span class="tag is-primary is-light">Go</span>
-                <span class="tag is-success is-light">Python</span>
-                <span class="tag is-info is-light">PostgreSQL</span>
-                <span class="tag is-warning is-light">MongoDB</span>
-                <span class="tag">AI</span>
-                <span class="tag">ReactJS</span>
+                <span class="tag is-primary is-light">Fiber Framework</span>
+                <span class="tag is-success is-light">Go</span>
+                <span class="tag is-info is-light">ReactJS</span>
+                <span class="tag is-warning is-light">NodeJS/TypeScript</span>
+                <span class="tag">PostgreSQL</span>
+                <span class="tag">MongoDB</span>
+                <span class="tag">Auth0</span>
+                <span class="tag">RBAC</span>
             </p>
         </div>
     </article>

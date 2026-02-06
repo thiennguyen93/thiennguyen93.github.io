@@ -91,8 +91,8 @@ stylus:
 # Search integration
 algolia:
     applicationID: 09LGJI02FX
-    indexName: prod_thiennguyen.dev
-    apiKey: 7106d401c1ecda7f6880d8d14bd3f5bb
+    indexName: prod_en
+    apiKey: 01cf97d0c608830e9506d6b37dab980e
     routing: false
     showPoweredbyLabel: false
     config:

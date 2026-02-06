@@ -524,8 +524,8 @@ feed:
 # Search integration
 algolia:
     applicationID: 09LGJI02FX
-    indexName: prod_vi.thiennguyen.dev
-    apiKey: 7106d401c1ecda7f6880d8d14bd3f5bb
+    indexName: prod_vi
+    apiKey: 01cf97d0c608830e9506d6b37dab980e
 # Need to inject manually by scripts/page.js
 aplayer:
   asset_inject: false

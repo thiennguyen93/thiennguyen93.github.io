@@ -130,22 +130,37 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
                 <div><strong><a href="https://pepperstoneworld.com/" target="_blank">Pepperstone Group Limited</a></strong></div>
                 <div><strong><span class="tag mr-2 mt-2">Apr 2025 - Present</span></strong></div>
             </h4>
-            <span>Software Engineer</span>
-            <p>Product: User Onboarding Platform</p>
+            <span>Senior Engineer</span>
+            <p>Product: Onboarding Tech Rebuild</p>
             <p>
-            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Develop, support, and maintain software applications using best practices across a range of technologies ensuring high-quality, maintainable, efficient, tested, and scalable code. 
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Rebuilt the user onboarding system for the Mexican market while ensuring seamless operation of legacy infrastructure.
             </p>
             <p>
-            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Contribute to the improvement of software development lifecycle processes. 
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Developed backend services using NodeJS/TypeScript (Fastify) and Go (Huma framework), with seamless integrations to Salesforce and internal systems.
+            </p>
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Implemented robust event-driven architecture leveraging NATS/Jetstream for reliable event sourcing and system communication.
+            </p>
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Established comprehensive monitoring solutions using Datadog and OpsLevel to ensure optimal system performance and reliability.
+            </p>
+            <p>
+            <i class="fa-solid fa-bookmark is-size-7 has-text-warning"></i> Collaborated effectively within a global cross-functional team of 10 engineers using Agile/Scrum methodologies.
             </p>
             <p  style="margin-bottom: 20px">
                 <span class="tag is-white">Keywords</span>
-                <span class="tag is-primary is-light">Go</span>
-                <span class="tag is-success is-light">Nats.io</span>
-                <span class="tag is-info is-light">PostgreSQL</span>
-                <span class="tag is-warning is-light">Event-Driven Architecture</span>
-                <span class="tag">Fastify</span>
-                <span class="tag">AWS</span>
+                <span class="tag is-primary is-light">Huma Framework</span>
+                <span class="tag is-success is-light">Go</span>
+                <span class="tag is-info is-light">Fastify</span>
+                <span class="tag is-warning is-light">TypeScript</span>
+                <span class="tag">NATS/Jetstream</span>
+                <span class="tag">PostgreSQL</span>
+                <span class="tag">MySQL</span>
+                <span class="tag">EventBridge</span>
+                <span class="tag">S3</span>
+                <span class="tag">OpenAPI</span>
+                <span class="tag">Datadog</span>
+                <span class="tag">OpsLevel</span>
             </p>
         </div>
     </article>

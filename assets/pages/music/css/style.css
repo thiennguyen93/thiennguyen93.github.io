@@ -1,0 +1,57 @@
+.custom-card-content h1.title {
+    display: none;
+}
+.custom-card-content .aplayer {
+    margin: 0 !important;
+}
+
+/* TOP MEDIA PLAYER PANEL */
+body:not(.light) .aplayer .aplayer-info .aplayer-music .aplayer-title {
+    color: white;    
+}
+
+body:not(.light) li.aplayer-list-light {
+    background-color: #373d48 !important;
+}
+
+body:not(.light) .aplayer .aplayer-list ol li {
+    border-top: none;
+    color: rgb(255, 255, 255, 0.5);
+    transition: all 250ms;
+}
+
+body:not(.light) .aplayer .aplayer-list ol li:hover {
+    background-color: rgba(40,44,52,0.5);
+}
+
+/* CURRENT PLAYING INDICATOR */
+body:not(.light) .aplayer .aplayer-list ol li.aplayer-list-light .aplayer-list-cur {
+    background-color: red;
+}
+
+/* HOVER EFFECT */
+body:not(.light) .aplayer .aplayer-list ol li:hover .aplayer-list-index {
+    color: white;    
+}
+body:not(.light) .aplayer .aplayer-list ol li:hover .aplayer-list-author {
+    color: white;    
+}
+
+body:not(.light) .aplayer .aplayer-list ol li:hover .aplayer-list-title {
+    color: white;    
+}
+
+body:not(.light) .aplayer.aplayer-withlist .aplayer-info {
+    border-bottom: none;
+}
+
+/* SELECTED ROW: CURRENT PLAYING */
+body:not(.light) .aplayer .aplayer-list ol li.aplayer-list-light .aplayer-list-title {
+    color: white;
+}
+body:not(.light) .aplayer .aplayer-list ol li.aplayer-list-light .aplayer-list-author {
+    color: white;
+}
+body:not(.light) .aplayer .aplayer-list ol li.aplayer-list-light .aplayer-list-index {
+    color: white;
+}

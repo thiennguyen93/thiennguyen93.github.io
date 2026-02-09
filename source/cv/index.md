@@ -720,6 +720,9 @@ h1.title {
 .collapsible-company .company-details {
     transition: all 0.3s ease;
     overflow: hidden;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .collapsible-company .company-details {

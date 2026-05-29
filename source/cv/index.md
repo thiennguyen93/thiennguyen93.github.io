@@ -382,6 +382,32 @@ I thrive in collaborative environments and believe in continuous learning. I'm e
 <div class="timeline">
     <article class="media personal-project" style="color: unset;">
         <figure class="media-left">
+            <img alt="Kira app icon" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-kira-light.svg">
+            <img alt="Kira app icon" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-kira-dark.svg">
+        </figure>
+        <div style="width: 100%;">
+            <div class="project-header">
+                <h4 class="is-size-6" id="project-kira">
+                    <div class="project-title-row">
+                        <div class="project-name">
+                            <div><strong><a href="https://kira.thiennguyen.dev/" target="_blank">Kira</a></strong></div>
+                        </div>
+                        <div class="project-time">
+                            <div><strong><span class="tag mr-2">MAY 2026</span></strong></div>
+                        </div>
+                        <span class="spacer-icon">
+                            <!-- Invisible spacer to match toggle icon width -->
+                        </span>
+                    </div>
+                </h4>
+                <div class="project-summary">
+                    <p>A fast, friendly native macOS app for developers who'd rather press a key than drown in browser tabs.</p>
+                </div>
+            </div>
+        </div>
+    </article>
+    <article class="media personal-project" style="color: unset;">
+        <figure class="media-left">
             <img alt="Ripplify app icon" class="not-gallery-item cv wh-64 only-in-light-mode" src="img/logo-ripplify-light.png">
             <img alt="Ripplify app icon" class="not-gallery-item cv wh-64 only-in-night-mode" src="img/logo-ripplify-light.png">
         </figure>

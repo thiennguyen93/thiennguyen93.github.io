@@ -89,16 +89,16 @@ stylus:
     basePath: .
   plugins: 'nib'
 # Search integration
-# algolia:
-#     applicationID: 09LGJI02FX
-#     indexName: prod_en
-#     apiKey: 01cf97d0c608830e9506d6b37dab980e
-#     routing: false
-#     showPoweredbyLabel: false
-#     config:
-#       hitsPerPage: 20
-#       # totalPages: 1000
-#       padding: 1
+algolia:
+    applicationID: O7HRXT72CP
+    indexName: prod_en
+    apiKey: 15d1ebfccf3f2828c3bb0f65aa515ce4
+    routing: false
+    showPoweredbyLabel: false
+    config:
+      hitsPerPage: 20
+      # totalPages: 1000
+      padding: 1
 # Need to inject manually by scripts/page.js
 aplayer:
   asset_inject: false

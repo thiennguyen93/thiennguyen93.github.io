@@ -6,6 +6,7 @@ categories:
 - Journal
 language: en
 toc: true
+hide: true
 ---
 
 ## Giới thiệu Hyperkey

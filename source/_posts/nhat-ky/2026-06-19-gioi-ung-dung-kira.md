@@ -11,8 +11,9 @@ hide: false
 
 Công ty mình hiện đang sử dụng các dịch vụ Cloud Services của AWS nên mình cũng thường xuyên truy cập vào AWS khi làm việc, chủ yếu là sử dụng trình duyệt web. Cảm giác duyệt một đống tab, đi lòng vòng từng mục từ ngoài vào trong để vào đúng chỗ cần kiểm tra quả là bất tiện. Chưa hết…, mỗi lần switch account hoặc để lâu một vài phút session tự timeout, mình bắt buộc phải đăng nhập lại thông qua tài khoản SSO của công ty và việc này khá là mất thời gian. Bỗng ngày nọ, một ý tưởng xuất hiện trong đầu: tại sao mình không viết một ứng dụng chỉ gom những mục mình hay sử dụng vào một chỗ và có thể truy cập bất kỳ lúc nào? Từ ý tưởng đó đơn giản đó, Kira chào đời.
 
+<div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wBuZkzd5PNY?si=7CY6T1GWEa3uuA09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</div>
 <!-- more -->
 
 Kira thuở ban đầu mình viết chỉ là để mình kiểm tra version của các services nằm trong một Cluster của team mình thôi, nhưng về sau mình tích hợp thêm nhiều tiện ích khác nữa. Sau một thời gian phát triển, mình thấy chức năng cũng kha khá nên muốn chia sẽ cùng các bạn. Mong nhận được feedback từ các bạn để Kira ngày càng hoàn thiện hơn.

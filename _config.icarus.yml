@@ -323,6 +323,7 @@ widgets:
     type: links
     # Names and URLs of the sites
     links:
+        Kira - AWS Desktop Client for macOS: '/2026/06/19/nhat-ky/2026-06-19-gioi-ung-dung-kira/'
         World Flags Quiz: '/games/world-flags-quiz/'
 
 # Categories widget configurations

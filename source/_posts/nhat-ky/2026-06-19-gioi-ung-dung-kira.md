@@ -12,7 +12,7 @@ hide: false
 Công ty mình hiện đang sử dụng các dịch vụ Cloud Services của AWS nên mình cũng thường xuyên truy cập vào AWS khi làm việc, chủ yếu là sử dụng trình duyệt web. Cảm giác duyệt một đống tab, đi lòng vòng từng mục từ ngoài vào trong để vào đúng chỗ cần kiểm tra quả là bất tiện. Chưa hết…, mỗi lần switch account hoặc để lâu một vài phút session tự timeout, mình bắt buộc phải đăng nhập lại thông qua tài khoản SSO của công ty và việc này khá là mất thời gian. Bỗng ngày nọ, một ý tưởng xuất hiện trong đầu: tại sao mình không viết một ứng dụng chỉ gom những mục mình hay sử dụng vào một chỗ và có thể truy cập bất kỳ lúc nào? Từ ý tưởng đó đơn giản đó, Kira chào đời.
 
 <div style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wBuZkzd5PNY?si=7CY6T1GWEa3uuA09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio:16/9; border:0;" src="https://www.youtube.com/embed/wBuZkzd5PNY?si=7CY6T1GWEa3uuA09" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <!-- more -->
 

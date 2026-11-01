@@ -12,25 +12,34 @@
 
 # Configs
 
-- Adding .env with the following environment variables:
-  - GH_TOKEN: Github personal access token (scope: repo)
-  - GH_PRIVATE_THEME_REPOSITORY: the name of theme repository
+- Adding .env with the following environment variables (only needed for `npm run algolia-index*`):
+  - GH_ALGOLIA_INDEXING_KEY, GH_ALGOLIA_INDEXING_KEY_VI
+
+# Theme
+
+The custom theme [hexo-theme-icarus-thiennguyen](https://github.com/thiennguyen93/hexo-theme-icarus-thiennguyen) (private) is a git submodule at `themes/icarus`. Hexo loads `themes/icarus` before `node_modules/hexo-theme-icarus`, and the theme's dependencies are declared in this repo's `package.json`.
+
+- Clone with the theme: `git clone --recurse-submodules ...`, or `git submodule update --init` in an existing clone.
+- Edit the theme directly in `themes/icarus` while `npm run dev` is running: JSX layouts, styles and theme assets reload without restarting, and the browser refreshes itself (see `scripts/dev-reload.js`).
+- Ship a theme change:
+  1. Commit and push inside `themes/icarus` (theme repo, branch `main`).
+  2. Commit the updated `themes/icarus` pointer in this repo.
+- Pull the latest theme: `git submodule update --remote themes/icarus`.
 
 # Github Page
 
 ## On local
 
-- Clone the source;
-- Run command "npm run myinstall" to install packages;
+- Clone the source with `--recurse-submodules`;
+- Run command "npm install" to install packages;
 - Run command "npm run build-gh-page" to generate Github Page;
 - Done
 
 ## With Github Action
 
 - Personal access token is required.
-- Go to repository Settings → Secrets and Variables → Actions, add two secrets
-  - GH_PRIVATE_THEME_REPOSITORY: Custom theme private repository
-  - GH_TOKEN: Personnal access token to give access to the private theme repository
+- Go to repository Settings → Secrets and Variables → Actions, add the secret
+  - GH_TOKEN: Personnal access token with access to the private theme repository (used to check out the submodule and to deploy)
 
 # Netlify
 
@@ -46,13 +55,6 @@ Run this command
 
 ```
 npm run dev
-```
-
-Please update the .env
-
-```
-GH_PRIVATE_THEME_REPOSITORY=<theme_repo>#<branch>
-GH_TOKEN=<Token to get the theme repos>
 ```
 
 # SHARED COMMON ASSETS

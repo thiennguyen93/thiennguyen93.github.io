@@ -1,0 +1,4 @@
+[submodule "themes/icarus"]
+	path = themes/icarus
+	url = ../hexo-theme-icarus-thiennguyen.git
+	branch = main

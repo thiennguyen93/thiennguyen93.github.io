@@ -11,11 +11,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v5
+      with:
+        # Theme lives in the private submodule themes/icarus, GITHUB_TOKEN can't read it
+        submodules: true
+        token: ${{ secrets.GH_TOKEN }}
     - name: Run a multi-line script
       env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GH_PRIVATE_THEME_REPOSITORY: ${{ secrets.GH_PRIVATE_THEME_REPOSITORY }}
           GH_ALGOLIA_INDEXING_KEY: ${{ secrets.GH_ALGOLIA_INDEXING_KEY }}
           GH_ALGOLIA_INDEXING_KEY_VI: ${{ secrets.GH_ALGOLIA_INDEXING_KEY_VI }}
           GH_SHA: ${{ github.sha }}

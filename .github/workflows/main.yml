@@ -19,8 +19,6 @@ jobs:
     - name: Run a multi-line script
       env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GH_ALGOLIA_INDEXING_KEY: ${{ secrets.GH_ALGOLIA_INDEXING_KEY }}
-          GH_ALGOLIA_INDEXING_KEY_VI: ${{ secrets.GH_ALGOLIA_INDEXING_KEY_VI }}
           GH_SHA: ${{ github.sha }}
           GH_REPO_URL: ${{ github.repositoryUrl }}
           GH_SERVER_URL: ${{ github.server_url }}
@@ -33,5 +31,4 @@ jobs:
         git config --global url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "git@github.com:"
         npm install lqip-modern
         npm run build-gh-page
-        npm run algolia-index
       

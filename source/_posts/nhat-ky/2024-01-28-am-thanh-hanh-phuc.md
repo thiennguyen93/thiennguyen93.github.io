@@ -19,7 +19,7 @@ Mình hỏi:
 - Đây là trái gì? <em>(ngừng một xí cho "Rốt" nhìn trái quýt đang cầm trên tay)</em>
 - Đây là trái "quích" <em>(mình tự trả lời câu hỏi bằng chất giọng miền Nam)</em>
 - Đây là trái gì? <em>(mình hỏi lại)</em>
-<br />
+  <br />
 
 {% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" width="1em" height="1em" autoplay loop %} trả lời: Trái "wứt". {% lotties_emoji code=u1f606 %}
 {% endblockquote %}

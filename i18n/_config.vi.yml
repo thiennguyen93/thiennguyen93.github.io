@@ -526,6 +526,10 @@ algolia:
     applicationID: O7HRXT72CP
     indexName: prod_vi
     apiKey: 15d1ebfccf3f2828c3bb0f65aa515ce4
+# hexo-renderer-marked 7 defaults prependRoot to true, which turns post asset
+# images like ![](image.jpg) into /image.jpg (404 with post_asset_folder)
+marked:
+  prependRoot: false
 # Need to inject manually by scripts/page.js
 aplayer:
   asset_inject: false

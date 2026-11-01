@@ -70,7 +70,7 @@ Mình dùng  <a href="https://party.js.org/" target="_blank">party.js</a> để 
 5. Nguồn dữ liệu
 Mình không cần tự chuẩn bị câu hỏi về quốc gia hay hình ảnh quốc kỳ, chứ có hơn 200 quốc gia và vùng lãnh thổ mà tự chuẩn bị thì chắc tới mùa quýt mới "release" được. Cụ thể, dữ liệu câu hỏi trong game được lấy từ 02 trang <a href="https://restcountries.com/" target="_blank">restcountries.com</a> và <a href="https://flagpedia.net/download/api" target="_blank">flagpedia.net</a>. Chân thành cám ơn hai "nhà" trên đã cung cấp miễn phí và đầy đủ dữ liệu để mình sử dụng.
 Phần âm thanh trong game thì mình search từ nhiều nguồn miễn phí trên Internet như
-<a href="https://pixabay.com" target="_blank">pixabay.com</a> và một vài trang nữa không nhớ rõ T.T. Sound effects thì dùng license free ráp vô game cho vui tai thôi chứ nghe rất là "chuối" luôn 🍌.
+   <a href="https://pixabay.com" target="_blank">pixabay.com</a> và một vài trang nữa không nhớ rõ T.T. Sound effects thì dùng license free ráp vô game cho vui tai thôi chứ nghe rất là "chuối" luôn 🍌.
 
 ## Kết
 Sau vài hôm nghiên cứu và "code lách", mình đã xong được mode chơi đầu tiên của game. 

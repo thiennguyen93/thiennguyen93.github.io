@@ -1,0 +1,9 @@
+.timeline {
+    border-left: none;
+    padding-left: 0px;
+    margin-left: 0;
+}
+
+.timeline .timeline-item {
+    margin-left: 1.25em
+}

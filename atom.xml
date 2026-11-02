@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Thien Nguyen</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://thiennguyen.dev/icon.png</icon>
+  <id>https://thiennguyen.dev/</id>
+  <link href="https://thiennguyen.dev/" rel="alternate"/>
+  <link href="https://thiennguyen.dev/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Thien Nguyen</rights>
+  <subtitle>Sharing Knowledge, Experiences, and Insights on Software Development, Technology, and Life.</subtitle>
+  <title>Thien Nguyen's Blog</title>
+  <updated>2026-11-02T05:23:52.639Z</updated>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2026/06/19/nhat-ky/2026-06-19-gioi-ung-dung-kira/</id>
+    <link href="https://thiennguyen.dev/2026/06/19/nhat-ky/2026-06-19-gioi-ung-dung-kira/"/>
+    <published>2026-06-19T00:00:00.000Z</published>
+    <summary>Mình viết ứng dụng desktop truy cập AWS phục vụ cho công việc hằng ngày của mình</summary>
+    <title>Kira - Ứng dụng truy cập các dịch vụ AWS cho MacOS</title>
+    <updated>2026-11-02T05:23:52.639Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2026/04/10/nhat-ky/2026-04-10-hyperkey-tren-macos/</id>
+    <link href="https://thiennguyen.dev/2026/04/10/nhat-ky/2026-04-10-hyperkey-tren-macos/"/>
+    <published>2026-04-10T00:00:00.000Z</published>
+    <summary>Mình biến CapsLock thành Hyperkey (Ctrl + Option + Cmd + Shift) và workflow hằng ngày nhanh hơn rõ rệt.</summary>
+    <title>Danh sách phím tắt do mình cài đặt để thuận tiện hơn khi làm việc</title>
+    <updated>2026-11-02T05:23:52.639Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2024/11/12/nhat-ky/2024-11-12-chao-em-ca-phao-cua-ba-me/</id>
+    <link href="https://thiennguyen.dev/2024/11/12/nhat-ky/2024-11-12-chao-em-ca-phao-cua-ba-me/"/>
+    <published>2024-11-12T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Tinh thêm hôm nay nữa là được tám ngày từ cái hôm “Cà pháo” chào đời trong vòng tay của ba và mẹ. Ba tranh thủ chút thời gian rảnh rang khi con còn đang say giấc, vội viết trang blog kể về hành trình kỳ diệu của con đến thế giới xinh đẹp này. </p>
+<div class="justified-gallery">
+    <img class="lazy" src="https://photos.thiennguyen.dev/h=120,q=90,f=webp/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113005613.jpg" alt="Em bé đang ngủ" data-src="https://photos.thiennguyen.dev/f=webp,h=600/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113005613.jpg">
+    <img class="lazy" src="https://photos.thiennguyen.dev/h=120,q=90,f=webp/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113010334.jpg" alt="Em bé và ba" data-src="https://photos.thiennguyen.dev/f=webp,h=600/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/ca-phao-20241113010334.jpg">
+    <img class="lazy" src="https://photos.thiennguyen.dev/h=120,q=90,f=webp/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/khoa-phu-san-umc-20241104-051812.jpg" alt="Khoa Phụ sản" data-src="https://photos.thiennguyen.dev/f=webp,h=600/album/blog/2024-11-12-chao-em-ca-phao-cua-ba-me/khoa-phu-san-umc-20241104-051812.jpg">
+</div>
+
+<!-- <p style="text-align: center">
+
+{% lotties_player className="is-inline-block animated-emoji" src="/assets/animation/baby.lottie" width="50%" height="50%" autoplay loop %}
+
+</p> -->
+
+<br>
+
+<p><strong>Ba mời các cô chú bấm [Read more] đọc tiếp bài ạ <dotlottie-wc class="thiennguyen-lotties-player thiennguyen-lotties-emoji is-inline-block" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f970/lottie.json" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc></strong></p>]]>
+    </summary>
+    <title>Chào em &quot;cà pháo&quot; của ba mẹ</title>
+    <updated>2026-11-02T05:23:52.639Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2024/10/08/nhat-ky/2024-10-08-macbook-cua-minh-co-gi/</id>
+    <link href="https://thiennguyen.dev/2024/10/08/nhat-ky/2024-10-08-macbook-cua-minh-co-gi/"/>
+    <published>2024-10-08T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Trong năm 2024 này mình được xài đến tận ba em Macbook khác nhau theo thứ tự: M3 Pro (14 inch), M2 Pro (13 inch) và hiện đang dùng em M3 Air (13 inch). Haha thường thì người ta nâng cấp, còn mình thì hạ cấp dần từ bản Pro xuống bản Air. Cuộc sống mà… có lúc “lên voi, xuống chó” cũng là chuyện thường ngày. Nói vậy chứ thật ra thì công ty cấp gì xài nấy ^^, chứ có phải tiền của mình đâu mà đòi hỏi máy này hay máy kia <dotlottie-wc class="thiennguyen-lotties-player thiennguyen-lotties-emoji is-inline-block" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/lottie.json" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc>. </p>
+<p>Bởi vì cấu hình máy không quá mạnh như “đàn anh” dòng Pro, <strong>“Mac-Air”</strong> không cần một “body 6 múi”, không cần vai u thịt bắp. Thay vào đó, “ẻm” sở hữu một thân hình mảnh mai, nhẹ nhàng thanh thoát, có thể ví von như đứa em xinh gái trong nhà hay là cô người yêu mà bao chàng trai hằng mong ước <dotlottie-wc class="thiennguyen-lotties-player thiennguyen-lotties-emoji is-inline-block" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f970/lottie.json" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc>.</p>
+<p>Máy của mình cấu hình bình thường, không nâng cấp gì cả (16Gb RAM, 512Gb SSD, Apple M3 Chip). Mình nghĩ cấu hình này cơ bản là đủ dùng cho dev, lâu lâu render vài shot video đăng youtube chắc cũng ổn <dotlottie-wc class="thiennguyen-lotties-player thiennguyen-lotties-emoji is-inline-block" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f643/lottie.json" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc>. Nhân cơ hội được “unseal” (bóc tem - PV) máy mới, mình lên bài viết chia sẻ cách setup MacOS phục vụ công việc và sở thích cá nhân của mình. Hãy cùng khám phá nhé! ^^</p>]]>
+    </summary>
+    <title>Macbook mới của mình có gì?</title>
+    <updated>2026-11-02T05:23:52.639Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2024/09/02/nhat-ky/2024-09-02-ky-nghi-le-quoc-khanh-2024/</id>
+    <link href="https://thiennguyen.dev/2024/09/02/nhat-ky/2024-09-02-ky-nghi-le-quoc-khanh-2024/"/>
+    <published>2024-09-02T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>“Dịp quốc khánh năm nay, … “<br><img class="not-gallery-item" src="https://photos.thiennguyen.dev/f=webp,q=80,w=591,h=189/album/blog/2024-09-02-ky-nghi-le-quoc-khanh-2024/SCR-20240901-tzzj.png" alt="AI code completion" width="100%" height="100%"></p>
+<p>Hôm nay ngẫu hứng viết blog sau thời gian dài “kín tiếng trước truyền thông”. Vừa mở trình soạn thảo ra, mới viết được vài từ thì “em” thư ký AI chuyên gợi ý viết nhắc lệnh lập trình đã làm tôi không khỏi bất ngờ, bởi vì trước giờ cứ nghĩ ẻm giỏi code thôi, không ngờ lại còn biết cả viết lách nữa chứ <dotlottie-wc class="thiennguyen-lotties-player thiennguyen-lotties-emoji is-inline-block" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc>.</p>
+<p>Khá khen, khá khen … nhưng tui hổng có mượn nhen ^^. Blog của tui, tui sẽ tự viết và bài viết bạn đang đọc là về kỳ nghỉ lễ Quốc khánh 2/9 phải nói là “vô tiền khoáng hậu” như năm nay.</p>]]>
+    </summary>
+    <title>Kỳ nghỉ lễ Quốc khánh 2-9 năm 2024</title>
+    <updated>2026-11-02T05:23:52.633Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Photos" scheme="https://thiennguyen.dev/categories/photos/"/>
+    <id>https://thiennguyen.dev/2024/05/19/albums/2024-05-19-album-01/</id>
+    <link href="https://thiennguyen.dev/2024/05/19/albums/2024-05-19-album-01/"/>
+    <published>2024-05-19T00:00:00.000Z</published>
+    <summary>16 photos</summary>
+    <title>Album Ảnh hồi nhỏ</title>
+    <updated>2026-11-02T05:23:52.588Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Music" scheme="https://thiennguyen.dev/categories/music/"/>
+    <id>https://thiennguyen.dev/2024/05/12/music/2024-05-12-nau-an-cho-em/</id>
+    <link href="https://thiennguyen.dev/2024/05/12/music/2024-05-12-nau-an-cho-em/"/>
+    <published>2024-05-12T00:00:00.000Z</published>
+    <summary>Đen ft. Pia Linh</summary>
+    <title>Nấu Ăn Cho Em</title>
+    <updated>2026-11-02T05:23:52.588Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2024/01/28/nhat-ky/2024-01-28-am-thanh-hanh-phuc/</id>
+    <link href="https://thiennguyen.dev/2024/01/28/nhat-ky/2024-01-28-am-thanh-hanh-phuc/"/>
+    <published>2024-01-28T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p> <span class="has-tooltip-arrow has-tooltip-bottom" data-tooltip="27 tháng tuổi (tính đến thời điểm viết bài)">Cà Rốt <dotlottie-wc class="thiennguyen-lotties-player is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc></span> bập bẹ nói từ khá sớm, ban đầu chỉ là những từ đơn giản như “ba,” “mẹ”, “bà”, “ông nội,” hoặc bắt chước những gì người lớn nói. Mình nhớ có một lần dạy Cà Rốt về trái quýt…</p>
+<blockquote><p>Mình hỏi: </p>
+<ul>
+<li>Đây là trái gì? <em>(ngừng một xí cho “Rốt” nhìn trái quýt đang cầm trên tay)</em></li>
+<li>Đây là trái “quích” <em>(mình tự trả lời câu hỏi bằng chất giọng miền Nam)</em></li>
+<li>Đây là trái gì? <em>(mình hỏi lại)</em><br></li>
+</ul>
+<p><dotlottie-wc class="thiennguyen-lotties-player is-inline-block animated-emoji" src="/assets/animation/rotating-carrot.lottie" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc> trả lời: Trái “wứt”. <dotlottie-wc class="thiennguyen-lotties-player thiennguyen-lotties-emoji is-inline-block" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f606/lottie.json" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc></p>
+</blockquote>
+
+
+<p>Mình cố lặp lại lần mà Rốt vẫn cứ trái “wứt” nên phải nhờ đến mẹ Rốt. Đến khi mẹ nó phát âm chuẩn trái quýt thì Rốt mới nói đúng được. Cười “chớt” <dotlottie-wc class="thiennguyen-lotties-player thiennguyen-lotties-emoji is-inline-block" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc>, thì ra do mình phát âm sai nên con trẻ nghe sao thì nói y như vậy. Mình thấy cái chuyện kỳ cục là khi ta nói từ trái “quýt” thì phải chu môi, uốn lưỡi thì mới ra, còn trái “quích” nhanh gọn, dễ thế mà lại nói theo không được. Nói gì nói, trái “quýt” mới đúng nhen các bạn, người miền nam quen nói nhanh thành trái “quích” chứ không phải bị ngọng đâu á <dotlottie-wc class="thiennguyen-lotties-player thiennguyen-lotties-emoji is-inline-block" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f644/lottie.json" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc>. </p>]]>
+    </summary>
+    <title>Âm thanh của hạnh phúc</title>
+    <updated>2026-11-02T05:23:52.631Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2024/01/17/nhat-ky/2024-01-17-year-in-review-2023/</id>
+    <link href="https://thiennguyen.dev/2024/01/17/nhat-ky/2024-01-17-year-in-review-2023/"/>
+    <published>2024-01-17T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Vậy là…<br>thêm một năm nữa lặng lẽ trôi qua.<br>Nhiều lúc thoáng nghĩ cuộc đời giống như một bộ phim dài tập mà chưa biết hồi kết.<br>Một năm trôi qua chỉ bằng một cú chuyển cảnh kèm thêm dòng cap “One year later…”, nhanh đến nỗi mà đôi khi tự hỏi trong thời gian qua mình đã làm được những gì và có bỏ lỡ điều gì không?!</p>
+<p>Ngồi xuống, nhâm nhi tách trà, nghĩ về một năm qua</p>]]>
+    </summary>
+    <title>&quot;Rì viu&quot; năm 2023</title>
+    <updated>2026-11-02T05:23:52.631Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2023/12/15/nhat-ky/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript/</id>
+    <link href="https://thiennguyen.dev/2023/12/15/nhat-ky/2023-12-15-thu-lam-mini-game-vui-ve-voi-html-css-javascript/"/>
+    <published>2023-12-15T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h3 id="Bam-vao-day-de-truy-cap-game"><a href="#Bam-vao-day-de-truy-cap-game" class="headerlink" title="Bấm vào đây để truy cập game"></a><a class="mx-0" href="/games/world-flags-quiz/" target="_blank"><button class="button is-success is-outlined"><span class="icon is-small"><i class="fa-solid fa-play"></i></span><span>Bấm vào đây để truy cập game</span></button></a></h3><p>Không giống nhiều bạn trẻ khác, mình không có sở thích chơi game mặc dù đang làm việc tại một công ty phát triển game. Ở công ty ngoài việc đóng góp tiếng cười nhiều khi rất là “voo-tree”, mình còn xây dựng hệ thống back-end Back-office dùng để quản lý các tựa game, người chơi và các tính năng có trong game, chứ thật ra hổng có làm game. Game thì có team khác làm.</p>
+<p>Ngày xưa, lúc còn học cấp 2, cấp 3 trường làng, mình cũng thử “ra net” chơi FIFA Online, đá PES, Counter-strike, GunBound đủ thứ (trừ Audition). Hihi, mà chắc là do kỹ năng kém, trình “gà” nên chơi toàn thua và bị ăn chửi. Từ đó, cay … nên không chơi game nữa <dotlottie-wc class="thiennguyen-lotties-player thiennguyen-lotties-emoji is-inline-block" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f602/lottie.json" backgroundcolor="transparent" style="width: 1em; height: 1em;" width="1em" height="1em" speed="1" playmode="normal" loop="" autoplay=""></dotlottie-wc> chuyển sang mày mò tự học lập trình.</p>
+<p>Mấy nay tự nhiên mình lại nảy ra ý tưởng làm con mini game vui vui để học, giống mấy như game của MiniClip ngày xưa á, cái thời mà game viết bằng Flash còn thịnh hành. Chắc chỉ còn dân 8x, 9x mới biết flash game là gì ^^.</p>
+<p>Cùng đọc bài viết về con game đầu tay của mình nha…</p>]]>
+    </summary>
+    <title>Thử làm mini game vui vẻ với HTML, CSS và JS</title>
+    <updated>2026-11-02T05:23:52.627Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2023/12/10/nhat-ky/2023-12-10-gdg-devfest-hcmc-2023/</id>
+    <link href="https://thiennguyen.dev/2023/12/10/nhat-ky/2023-12-10-gdg-devfest-hcmc-2023/"/>
+    <published>2023-12-10T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Nhớ cái thời còn là sinh viên, mình rất thích tham dự các sự kiện về tech, đặc biệt là khi các hãng công nghệ giới thiệu hay ra mắt sản phẩm mới như laptop, điện thoại, các thiết bị giải trí đa phương tiện. Mình đi sự kiện để được trải nghiệm sản phẩm, công nghệ mới, nhưng mà cái chính vẫn là mong trúng quà có giá trị từ ban tổ chức. Sau nhiều năm ra trường và đi làm trong lĩnh vực công nghệ, mình đã không còn tham gia bất kỳ tech event nào. Lý do là vì một phần mình không có nhiều thời gian, phần khác cũng không còn hứng thú với những thiết bị mới nữa. Rồi một hôm mình tình cờ lượm lặt được thông tin nhóm Google Developer Group sẽ tổ chức Event <strong>Devfest 2023</strong> tại TP Hồ Chí Minh vào ngày 10/12, mình liền đăng ký tham gia.</p>]]>
+    </summary>
+    <title>Sự kiện GDG Devfest 2023 HCMC</title>
+    <updated>2026-11-02T05:23:52.614Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2023/09/21/nhat-ky/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/</id>
+    <link href="https://thiennguyen.dev/2023/09/21/nhat-ky/2023-09-21-notion-giup-toi-ghi-nho-moi-thu/"/>
+    <published>2023-09-21T00:00:00.000Z</published>
+    <summary>Nếu một ngày tôi mất trí nhớ, tôi sẽ đọc lại ghi chú của mình</summary>
+    <title>Notion giúp tôi ghi nhớ mọi thứ</title>
+    <updated>2026-11-02T05:23:52.596Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2023/09/16/nhat-ky/2023-09-16-ca-can-nuoc-dev-can-cafe/</id>
+    <link href="https://thiennguyen.dev/2023/09/16/nhat-ky/2023-09-16-ca-can-nuoc-dev-can-cafe/"/>
+    <published>2023-09-16T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Cà phê đối với tôi được nâng lên một tầm cao mới. Nó là một thứ tôn giáo chứ không đơn thuần là một loại đồ uống. Mỗi sáng không “làm” một ly cà phê sữa đá, thì tâm hồn tôi cứ bay bổng trên mây, nửa mê nửa tỉnh. Là một tín đồ của cà phê, hôm nay tôi chia sẽ trải nghiệm bản thân về loại đồ uống này. </p>]]>
+    </summary>
+    <title>Cá cần nước, dev cần cà phê ☕️</title>
+    <updated>2026-11-02T05:23:52.589Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Music" scheme="https://thiennguyen.dev/categories/music/"/>
+    <id>https://thiennguyen.dev/2023/08/11/music/2023-08-11-tinh-ban-dieu-ky/</id>
+    <link href="https://thiennguyen.dev/2023/08/11/music/2023-08-11-tinh-ban-dieu-ky/"/>
+    <published>2023-08-11T00:00:00.000Z</published>
+    <summary>Ricky Star x Lăng LD x Amee</summary>
+    <title>Tình bạn diệu kỳ</title>
+    <updated>2026-11-02T05:23:52.588Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Music" scheme="https://thiennguyen.dev/categories/music/"/>
+    <id>https://thiennguyen.dev/2023/08/11/music/2023-08-15-shay-nanggg/</id>
+    <link href="https://thiennguyen.dev/2023/08/11/music/2023-08-15-shay-nanggg/"/>
+    <published>2023-08-11T00:00:00.000Z</published>
+    <summary>Amee, Obito, Hứa Kim Tuyền</summary>
+    <title>Shay Nắnggg</title>
+    <updated>2026-11-02T05:23:52.588Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Music" scheme="https://thiennguyen.dev/categories/music/"/>
+    <id>https://thiennguyen.dev/2023/08/11/music/2023-08-15-gac-lai-au-lo/</id>
+    <link href="https://thiennguyen.dev/2023/08/11/music/2023-08-15-gac-lai-au-lo/"/>
+    <published>2023-08-11T00:00:00.000Z</published>
+    <summary>Da LAB ft. Miu  Lê</summary>
+    <title>Gác Lại Âu Lo</title>
+    <updated>2026-11-02T05:23:52.588Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2022/12/29/nhat-ky/2022-12-29-2022-year-in-review/</id>
+    <link href="https://thiennguyen.dev/2022/12/29/nhat-ky/2022-12-29-2022-year-in-review/"/>
+    <published>2022-12-29T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="“Ri-viu”-nam-2022"><a href="#“Ri-viu”-nam-2022" class="headerlink" title="“Rì viu” năm 2022"></a>“Rì viu” năm 2022</h2><p>Ai mà chẳng biết một năm có 365 ngày, năm nhuần thì nhiều hơn một ngày…<br>Ừ thì mới nghe có vẻ dài ghê đó mà chỉ cần chớp mắt là còn vài ngày nữa là bước sang năm mới 2023 rồi. Ngẫm nghĩ lại thì nhanh cũng phải thôi vì ngày nào cũng trông cuối tháng lương về. Cứ mười hai lần  “lương về” như vậy thì chẳng phải đã hết một năm sao?!  </p>
+<p>Bây giờ khoảng độ nửa đêm ngày 29/12, tôi chỉ còn nghe tiếng xe tải chạy ầm ầm ngoài đường xen lẫn vào tiếng gõ bàn phím lách cách của tôi. Những âm thanh này làm tôi có cảm giác thời gian đang trôi chậm lại dường như muốn níu kéo điều gì như cảm xúc của tôi lúc này. </p>]]>
+    </summary>
+    <title>Những ngày cuối năm</title>
+    <updated>2026-11-02T05:23:52.589Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2021/04/25/nhat-ky/2021-04-25-team-building-vung-tau-city/</id>
+    <link href="https://thiennguyen.dev/2021/04/25/nhat-ky/2021-04-25-team-building-vung-tau-city/"/>
+    <published>2021-04-25T00:00:00.000Z</published>
+    <summary>Chuyến team building cùng team HAS HPT tại TP Vũng Tàu (BR-VT)</summary>
+    <title>Team building Vũng Tàu 2021</title>
+    <updated>2026-11-02T05:23:52.589Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2021/01/03/nhat-ky/2021-01-03-nguoi-thay-nam-xua/</id>
+    <link href="https://thiennguyen.dev/2021/01/03/nhat-ky/2021-01-03-nguoi-thay-nam-xua/"/>
+    <published>2021-01-03T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Sáng chủ nhật vừa rồi, tôi một mình phóng con xe máy từ quê lên thành phố. Xe chạy ngang nhà thầy. Thầy đứng bên kia đường, trước sân nhà. Chắc thầy đang đi dạo và ngắm cây cảnh. Vì có việc bận cần phải đi gấp tôi không thể nán lại để trò chuyện với thầy.</p>]]>
+    </summary>
+    <title>Người thầy năm xưa</title>
+    <updated>2026-11-02T05:23:52.589Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Thien Nguyen</name>
+    </author>
+    <category term="Journal" scheme="https://thiennguyen.dev/categories/journal/"/>
+    <id>https://thiennguyen.dev/2020/11/05/nhat-ky/2020-05-11-le-tot-nghiep-hcmus-2020/</id>
+    <link href="https://thiennguyen.dev/2020/11/05/nhat-ky/2020-05-11-le-tot-nghiep-hcmus-2020/"/>
+    <published>2020-11-05T00:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Đó là một ngày đẹp trời…1</p>]]>
+    </summary>
+    <title>Lễ tốt nghiệp</title>
+    <updated>2026-11-02T05:23:52.588Z</updated>
+  </entry>
+</feed>

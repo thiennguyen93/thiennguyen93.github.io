@@ -1,0 +1,155 @@
+/* MUSIC PLAYER: Custom album rounded like a CD
+.aplayer:not(.aplayer-fixed) .aplayer-pic {
+    border-radius:  50%;
+    margin: 5px;
+}
+
+.aplayer:not(.aplayer-fixed) .aplayer.aplayer-withlrc .aplayer-pic {
+    height: 80px;
+    width: 80px;
+} */
+
+.img-reset-brightness {
+  filter: brightness(1) !important;
+  -webkit-filter: brightness(1) !important;
+}
+
+body:not(.light) .only-in-light-mode {
+  display: none;
+}
+body:not(.night) .only-in-night-mode {
+  display: none;
+}
+
+/* in-view effect for cover-photo, only in dark-mode */
+body:not(.light) .in-view-effect.cover-photo:not(.in-view) {
+  filter: brightness(0.55) grayscale(0.5);
+  -webkit-filter: brightness(0.55) grayscale(0.5);
+}
+
+body:not(.light) .in-view.cover-photo {
+  filter: brightness(0.8) grayscale(0);
+  -webkit-filter: brightness(0.8) grayscale(0);
+}
+
+/* MISSING BULMA */
+.is-flex-wrap-wrap {
+	flex-wrap: wrap;
+}
+
+/* FIXED MISSING TRANSITION ON IMAGE HOVER IN LIGHT MODE */
+body:not(.night) img, body:not(.night) video, body:not(.night) iframe, body:not(.night) .waifu, body:not(.night) .donate {
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out
+}
+
+/* 
+.loader {
+  width: 48px;
+  height: 48px;
+  border: 5px solid #FFF;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+  }
+
+  @keyframes rotation {
+  0% {
+      transform: rotate(0deg);
+  }
+  100% {
+      transform: rotate(360deg);
+  }
+  }  */
+
+  img.lazy {
+    opacity: 0;
+  }
+  img:not(.initial) {
+    transition: opacity 1s;
+  }
+  img.initial,
+  img.loaded,
+  img.error {
+    opacity: 1;
+  }
+  img:not([src]) {
+    visibility: hidden;
+  }
+
+
+/* CSS for cmdK shortcut span */
+.searchbox-cmd-k-shortcut {
+  display: inline-block;
+  padding: .78em 0em
+}
+.cmdk-label {
+  background-color: #65666b30;
+  --tw-border-opacity: 1;
+  border-color: rgb(85 85 85 / var(--tw-border-opacity));
+  border-width: .5px;
+  border-radius: 0.250rem;
+  white-space: nowrap;
+  display: inline-block;
+  border: 0px solid #e5e7eb;
+  box-sizing: border-box;
+}
+
+/* Verified account badge for profile widget */
+.verified-account-badge {
+  display: inline-block;
+  line-height: 80%;
+}
+.verified-account-badge img {
+  width: 18px;
+}
+
+
+.avatar.has-border {
+  border: 3px solid rgba(255,255,255,0.3);
+}
+
+.is-borderless {
+  border: none;
+}
+
+article h2, article h3 {
+  color: #ef476f !important
+}
+
+/* Fixed issue: in dark mode fixed player at the end of page show a shadow on lyrics and hard to read */
+body:not(.light) .aplayer.aplayer-fixed .aplayer-lrc {
+  text-shadow: none;
+}
+
+/* Make comment session more readable */
+.card-content.thiennguyen-comment {
+  backdrop-filter: blur(20px);
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+/* Ẩn nút clear trong trình duyệt WebKit (Chrome, Safari) */
+/* Text input search của algolia */
+/* clears the 'X' in searchbar from Internet Explorer */
+input[type="search"].ais-SearchBox-input::-ms-clear {
+  display: none;
+  width: 0;
+  height: 0;
+}
+input[type="search"].ais-SearchBox-input::-ms-reveal {
+  display: none;
+  width: 0;
+  height: 0;
+}
+/* clears the 'X' in searchbar from Chrome */
+input[type="search"].ais-SearchBox-input::-webkit-search-decoration,
+input[type="search"].ais-SearchBox-input::-webkit-search-cancel-button,
+input[type="search"].ais-SearchBox-input::-webkit-search-results-button,
+input[type="search"].ais-SearchBox-input::-webkit-search-results-decoration {
+  display: none;
+}

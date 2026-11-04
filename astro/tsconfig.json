@@ -1,0 +1,7 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  // Includes theme/ (private submodule), so astro check covers the theme too
+  "include": [".astro/types.d.ts", "**/*"],
+  // public/ links to the Hexo site's assets (old jQuery plugins and the like); not our code
+  "exclude": ["dist", "public", "node_modules", "theme/node_modules"]
+}

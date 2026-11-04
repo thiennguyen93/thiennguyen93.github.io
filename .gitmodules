@@ -2,3 +2,7 @@
 	path = themes/icarus
 	url = ../hexo-theme-icarus-thiennguyen.git
 	branch = main
+[submodule "astro/theme"]
+	path = astro/theme
+	url = ../astro-theme-icarus-thiennguyen.git
+	branch = main
